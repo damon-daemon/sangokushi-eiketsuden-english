@@ -32,7 +32,9 @@ CITY_TABLES = 4                         # one table per world map (0x80022364 pi
 NPCS = (0x800ad164, 256, 9, 8)          # town NPC kinds (speaker labels "Old Man", "Merchant"): LZ table, name 8 B + kind byte
 FIRST = {'officers': 0, 'items': COUNT, 'strategies': COUNT + ITEMS[1], 'cities': COUNT + ITEMS[1] + STRATEGIES[1]}
 FIRST['npcs'] = FIRST['cities'] + CITIES[1] * CITY_TABLES
-TOTAL = FIRST['npcs'] + NPCS[1]
+BUILDINGS = (0x800adae8, 4, 14, 11, 4, 7)  # town-map labels: 4 LZ tables of 11-byte records (kind, room, x, y, name 7 B; kind ff = unused), rows by name bytes
+FIRST['buildings'] = FIRST['npcs'] + NPCS[1]
+TOTAL = FIRST['buildings'] + BUILDINGS[2]
 TOKEN = 0xf0                      # lead bytes 0xf0-0xf2: above every code of the font table (0xebe7)
 MAX_PX = 98
 PUTS1, PUTS2 = 0x80023680, 0x80023a24
@@ -112,6 +114,17 @@ def npcs(exe, base):
     return lz_table(exe, base, 'npcs', NPCS)
 
 
+def buildings(exe, base, k):
+    ptr, _, _, stride, name, field = BUILDINGS
+    d = bytearray(arc.unpack(exe, struct.unpack_from('<I', exe, ptr + 4 * k - base)[0] - base)[0])
+    ids = {bytes.fromhex(r['sjis']): r['id'] for r in json.load(open(os.path.join(TL_NAMES, 'buildings.json'), encoding='utf-8'))}
+    for o in range(0, len(d), stride):
+        if d[o] != 0xff:
+            t = token(FIRST['buildings'] + ids[bytes(d[o + name:o + name + field]).split(b'\0')[0]]) + b'\0'
+            d[o + name:o + name + len(t)] = t
+    return arc.pack_runs(bytes(d))
+
+
 def blob():
     """-> (bytes, widths offset): u16 offset[TOTAL] from the blob start, u8 px[TOTAL], strings"""
     en = all_names()
@@ -173,7 +186,7 @@ SITES = [(0x8002374c, 0x0c00e6da, 't1'), (0x80023b08, 0x0c00e76a, 't2')]
 def check():
     errs = []
     for kind, n in (('officers', COUNT), ('items', ITEMS[1]), ('strategies', STRATEGIES[1]),
-                    ('cities', CITIES[1] * CITY_TABLES), ('npcs', NPCS[1])):
+                    ('cities', CITIES[1] * CITY_TABLES), ('npcs', NPCS[1]), ('buildings', BUILDINGS[2])):
         en = rows(kind)
         if kind != 'cities':            # the city tables have unused filler entries
             errs += ['%s %d: no row' % (kind, i) for i in range(n) if i not in en]

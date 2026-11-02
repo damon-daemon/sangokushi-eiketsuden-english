@@ -20,7 +20,7 @@ Xiahou Dun, you defend Xiangyang.
 Yes, sir! Leave it to me!
 
 @4
-Cao Cao returned to Xuchang to rebuild his strength, and Cao Ren and Xiahou Dun were left to guard Jing Province.\n\nWith Cao Cao gone, Liu Bei and Sun Quan now begin to fight over Jing Province...
+Cao Cao returned to Xuchang to rebuild his strength, and Cao Ren and Xiahou Dun were left to guard Jing Province.\n\nWith Cao Cao gone, Liu Bei and Sun Quan began to fight over Jing Province...
 
 @5
 Wu Palace
@@ -329,7 +329,7 @@ Lord Liu Bei, Wu cannot accept this turn of events.
 Meaning?
 
 @74.2
-Naturally. It was our army that drove Cao Cao's forces away at Chibi. Surely all of that was done to win Jing Province.
+Naturally. It was our army that drove Cao Cao's forces away at Chibi. Surely we did all that to win Jing Province.
 
 @74.3
 Lord Lu Su, that view is mistaken.
@@ -431,7 +431,7 @@ Take Ma Su along\nDo not take him
 Yes, a fine young man. I look forward to working with you both.
 
 @91.1
-It is an honor beyond my worth.
+I am honored beyond my worth.
 
 @92
 Ma Su joined as a retainer!
@@ -683,7 +683,7 @@ M-me... retreat?! Impossible!!
 Wu Zu has been beaten?! Damn... Attack! Don't let them leave alive!!
 
 @154.0
-Lord Liu Bei, until now I acted on Jin Xuan's orders, but that was a mistake. Wuling exists for you, Lord Liu Bei. Please wait a little longer. I will go and remove that vermin.
+Lord Liu Bei, until now I acted on Jin Xuan's orders, but that was a mistake. Wuling belongs to you, Lord Liu Bei. Please wait a little longer. I will go and remove that vermin.
 
 @155.0
 G-Gong Zhi! What are you doing?! ...Aaargh!!
@@ -935,7 +935,7 @@ Han Xuan was killed by Wei Yan. Liu Bei's army took Changsha.
 Liu Bei's army took Changsha.
 
 @216.0
-Hm! This old man is no ordinary man... You there! Tell me your name!
+Hm! This old man is no ordinary warrior... You there! Tell me your name!
 
 @216.1
 Ho ho. You are not startled to see me. My name is Huang Zhong.

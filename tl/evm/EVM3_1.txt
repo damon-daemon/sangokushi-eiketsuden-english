@@ -47,7 +47,7 @@ I have a plan. When Lu Su speaks of Jing Province, just weep.
 Weep? Do I not need to answer him?
 
 @13.4
-Correct. I will handle the rest.
+Yes. Leave the rest to me.
 
 @14.0
 Remember, just weep.
@@ -650,7 +650,7 @@ I will be fine. Now that Zhou Yu is dead, there is nothing to fear. If you lend 
 But...
 
 @139.4
-This must be done. We cannot yet fight Wu all-out. Zhou Yu bore us clear hostility, but Lu Su, who will probably succeed him, holds no ill will toward us. We must use this to keep relations with Wu alive. For that, I must go to Wu.
+This must be done. We cannot yet fight Wu all-out. Zhou Yu was openly hostile to us, but Lu Su, who will probably succeed him, holds no ill will toward us. We must use this to keep relations with Wu alive. For that, I must go to Wu.
 
 @139.6
 Also, I would like to use the occasion to look for talent in Wu.
@@ -701,7 +701,7 @@ Me? I am Jiang Wan. And who are you?
 I am Liu Bei.
 
 @146.3
-Oh, you are Lord Liu Bei! Forgive me, I did not realize. So that is who you are... Lord Liu Bei, it is forward of me, but will you not make me your retainer? I believe I can be of some use.
+Oh, you are Lord Liu Bei! Forgive me, I did not realize. So that is who you are... Lord Liu Bei, it is presumptuous of me, but will you take me on as a retainer? I believe I can be of some use.
 
 @147.0
 Well? Please make me your retainer.
@@ -881,7 +881,7 @@ Ah, the trials. That is true. I haven't done one since I came here.
 Big Brother had faith in you and made you magistrate! What have you been doing all this time?!
 
 @190.1
-Trials in a backwater like this, I will finish them in no time. Wait a moment.
+Trials in a backwater like this? I will finish them in no time. Wait a moment.
 
 @191.0
 Magistrate! Please wait!
@@ -959,7 +959,7 @@ I never imagined he was so capable.
 Lord Liu Bei, what do you think?
 
 @204.1
-I have never seen a sage like you until today. Forgive my earlier rudeness.
+I have never met a sage like you before today. Forgive my earlier rudeness.
 
 @204.2
 Not at all... Oh yes, please take this letter.
@@ -986,7 +986,7 @@ My lord, why are you in a place like this? ...Oh, is that not Pang Tong? Why are
 Well, Lord Liu Bei gave me the post of magistrate here.
 
 @208.0
-Magistrate here? If you were magistrate here you would be playing around whenever you had time. My lord, why of all people did you make Pang Tong magistrate here? I warned you in my letter.
+Magistrate here? You, Pang Tong, would only idle in a post like this. My lord, why of all people did you make Pang Tong magistrate here? I warned you in my letter.
 
 @208.1
 I only just received that letter. Had I known, I would not have treated him so.

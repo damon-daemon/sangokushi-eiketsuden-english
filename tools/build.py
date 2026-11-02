@@ -124,6 +124,14 @@ def patch_exe(exe):
         struct.pack_into('<I', exe, ptr - EXE_BASE, at)
         at += len(code)
         at += -at % 4
+    # town-map labels: in the space of the original blobs that were moved above (the pool is full)
+    free = [[0x800acb10, 0x800ad14e], [0x800ad640, 0x800adae8], [0x800ac1c0, 0x800ac538]]      # cities + npcs, buildings, retreat lines
+    for k in range(names.BUILDINGS[1]):
+        code = names.buildings(exe, EXE_BASE, k)
+        room = next(r for r in free if r[1] - r[0] >= len(code))
+        put(exe, room[0], code)
+        struct.pack_into('<I', exe, names.BUILDINGS[0] + 4 * k - EXE_BASE, room[0])
+        room[0] += len(code)
     vcode, vpatch = vwf.code(at, nat + name_px, nat)
     put(exe, at, vcode)
     assert at + len(vcode) <= POOL_END

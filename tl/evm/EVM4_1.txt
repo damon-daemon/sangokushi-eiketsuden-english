@@ -11,7 +11,7 @@ The fall of Wan Castle was a heavy blow to Wei. Cao Pi gathered troops at Xuchan
 Prepare to march! We go to Xuchang! We will meet Liu Bei's army at Xuchang!
 
 @4
-The greatest reason Wan Castle fell was that Shu and Wu had advanced at the same time.\n\nWu's attack on Hefei pinned down Zhang Liao and the others there, so Wan Castle could not gather enough strength.
+Wan Castle fell chiefly because Shu and Wu advanced at the same time.\n\nWu's attack on Hefei pinned down Zhang Liao and the others there, so Wan Castle could not gather enough strength.
 
 @5.0
 Lord Cao Pi is in danger! Stop Liu Bei's army at Luoyang!
@@ -107,7 +107,7 @@ Annihilate "Hao Zhao"
 So Shu has finally come. But I will not give up Chencang! Come and try me!
 
 @22.0
-Chencang is a stronghold, but we must not take our time! Listen well, we strike fast!
+Chencang is a stronghold, but we have no time to waste! Listen well, we strike fast!
 
 @23.0
 Chencang is a stronghold, but we have no time. We strike fast!
@@ -140,7 +140,7 @@ I cannot follow the Wei army after all! I, Jiang Wei, will join the Shu army fro
 Jiang Wei joined us!
 
 @31.0
-You are Qiang, are you not? Why do you side with Wei and block our path?
+You are Qiang tribesmen, are you not? Why do you side with Wei and block our path?
 
 @31.1
 Ah, Lord Ma Chao! We heard you had been killed by Wei, but you are safe!
@@ -158,7 +158,7 @@ The Qiang tribesmen joined us!
 Ma Chao leveled up!
 
 @34.0
-You are Qiang, are you not? Why do you side with Wei and try to block our path?
+You are Qiang tribesmen, are you not? Why do you side with Wei and try to block our path?
 
 @34.1
 Can it be... Lord Ma Chao! You are safe!
@@ -176,7 +176,7 @@ The Qiang tribesmen joined us!
 Ma Chao leveled up!
 
 @37.0
-You are Qiang, are you not? Why do you side with Wei and block our way?
+You are Qiang tribesmen, are you not? Why do you side with Wei and block our way?
 
 @37.1
 Lord Ma Chao! You are safe! We thought Wei had killed you...
@@ -332,13 +332,13 @@ Good! All troops, prepare to march! Our goal is Xuchang!
 Now is the time to avenge Jing Province!
 
 @75.1
-We've finally made it this far... Big Brother! We'll go get ready ahead!
+We've finally made it this far... Big Brother! We'll go ahead and get ready!
 
 @77.0
 At last, the decisive battle with Wei. My lord, please prepare to march.
 
 @78.0
-Brother, at last the decisive battle with Wei. The wish of us brothers will soon come true, only a little longer.
+Brother, at last the decisive battle with Wei. Our wish as brothers will soon come true. Only a little longer.
 
 @79.0
 Big Brother, I'm ready! Our dream is almost within reach!
@@ -359,10 +359,10 @@ Come, let us march quickly.
 At last, the decisive battle with Wei.
 
 @86.0
-Then let us stop at Luoyang, where the separate force is, and organize our units afterward.
+Then let us join the separate force at Luoyang and reorganize there.
 
 @87.0
-Well done on your great task, separate force. I know you are all tired, but success is within our grasp. We march on Xuchang just as we are!
+Well done, separate force. I know you are all tired, but success is within our grasp. We march on Xuchang just as we are!
 
 @88.0
 Then let us head for Xuchang!
@@ -440,7 +440,7 @@ All troops, head for Xuchang!
 Drive off Sima Yi
 
 @107.0
-Shu army, don't get arrogant! I, Sima Yi, will make you fully realize the strength of Wei!
+Shu army, don't get arrogant! I, Sima Yi, will show you the full strength of Wei!
 
 @107.1
 My lord, the enemy commander Sima Yi is an opponent not to be taken lightly. Please be most careful.
@@ -512,7 +512,7 @@ It seems the Wei army intends to hole up in the castle. What shall we do?
 Good! All troops, charge Xuchang Castle!
 
 @119.0
-My lord, please take me along. Let me show you the last strength of this old frame.
+My lord, please take me along. Let me show you what these old bones have left.
 
 @119.1
 Huang Zhong, I will go with you too. My lord, leave it to us.
@@ -575,7 +575,7 @@ If you think it was a mistake, will you not surrender to us?
 What...?
 
 @123.4
-At Xiapi, I was surrounded by Cao Cao's army and had resolved to die. You told me then, did you not, that dying is easy but solves nothing, and that it was a shallow thought?
+At Xiapi, I was surrounded by Cao Cao's army and had resolved to die. You told me then that dying is easy but solves nothing, and that the idea was shallow.
 
 @123.6
 Moved by those words, I swallowed my shame and surrendered to Cao Cao. Now it is my turn to say them to you.
@@ -677,7 +677,7 @@ Sima Yi retreated. Liu Bei's army captured Xuchang.
 My lord, we have done it!
 
 @136.1
-Yes! ... Wait, Huang Zhong, Yan Yan! What of Huang Zhong? And Yan Yan?
+Yes! ... Wait, where are Huang Zhong and Yan Yan?
 
 @136.2
 They are still alive, but...
@@ -698,7 +698,7 @@ If you think it was a mistake, will you not surrender to us?
 What...?
 
 @137.4
-At Xiapi, I was surrounded by Cao Cao's army and had resolved to die. You told me then, did you not, that dying is easy but solves nothing, and that it was a shallow thought?
+At Xiapi, I was surrounded by Cao Cao's army and had resolved to die. You told me then that dying is easy but solves nothing, and that the idea was shallow.
 
 @137.6
 Moved by those words, I swallowed my shame and surrendered to Cao Cao. Now it is my turn to say them to you.
@@ -728,7 +728,7 @@ Guan Yu leveled up!
 Liu Bei, remember this!
 
 @142.0
-Wh-what! I never imagined the Shu army would be this strong... No help for it. Retreat to Ye!
+Wh-what! I never imagined the Shu army would be this strong... We have no choice. Retreat to Ye!
 
 @143
 Sima Yi retreated. Liu Bei's army captured Xuchang.

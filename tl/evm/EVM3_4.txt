@@ -26,7 +26,7 @@ Even if we die, Lord Guan Yu must escape. If you reach the western fort...
 Cao Cao's army will pursue us soon. Father, we must hurry through this forest.
 
 @6.3
-Then let us begin our journey to death!
+Then we ride to our deaths!
 
 @6.4
 Yes... everyone, do not die! Let us live and get out of here!
@@ -140,7 +140,7 @@ Hey, Big Brother! You think so too, don't you!
 Say you think so! ...Damn it! Wu! How dare you... How dare you do this to Guan Yu...!
 
 @28.3
-Zhang Fei... I feel the same. But please, calm yourself for now. I beg you...
+Zhang Fei... I feel the same. So please, calm yourself for now. I beg you...
 
 @28.4
 ...Damn! Wu, remember this! We will repay this debt, without fail!
@@ -185,7 +185,7 @@ Cao Pi deposed Emperor Xian and took the throne himself! He styles himself Emper
 What!! What became of the Emperor!
 
 @35.5
-...He was driven from the capital and lives quietly, far from human settlements.
+...He was driven from the capital and lives in seclusion, far from any town.
 
 @36.0
 How can this be... The restoration of the Han, the work of my life, undone by Cao Pi...
@@ -245,7 +245,7 @@ Replying to Zhuge Jin about the alliance
 If we fight Wu, only Wei will rejoice, and we will be left with trouble later. Let us forget the grudge over Jing Province and Guan Yu and ally with Wu.
 
 @48.0
-Are you kidding! How can we forget what they did to Guan Yu! Big Brother, you won't make any alliance, right?
+Like hell! How can we forget what they did to Guan Yu! Big Brother, you won't make any alliance, right?
 
 @49.0
 We should make the alliance. Attacking Wu is your private feeling, my lord, and men do not follow private feelings.
@@ -287,7 +287,7 @@ What! Lord Liu Bei, please reconsider...
 Yes, if we fight Wu now, only Cao Pi of Wei will rejoice. Please...
 
 @57.1
-Silence, Kongming! Do you know how it feels to have Guan Yu killed!
+Silence, Kongming! Do you know what it is to lose Guan Yu like this!
 
 @57.3
 Go back to Wu at once! Shu will challenge Wu to a final battle! Were you not Kongming's brother, I would not let you leave alive!
@@ -464,7 +464,7 @@ What of Sun Huan?
 Yes, he is safe.
 
 @90.3
-I see. Then it is well. Well done.
+I see. Good. Well done.
 
 @90.4
 Yes, sir. Excuse me.
@@ -509,7 +509,7 @@ Lord Liu Bei, it is Zhuge Jin.
 Replying to Zhuge Jin about the alliance
 
 @96.0
-Father, it is somehow uncomfortable here...
+Father, I feel uneasy here...
 
 @97.0
 Big Brother, the answer is decided anyway, right?
@@ -578,7 +578,7 @@ Then I will go report to my lord at once.
 My lord, you made a hard decision. It must have been painful.
 
 @118.1
-...If I only grieve for Guan Yu's death, we cannot keep our oath. First we strike Cao Pi and restore the Han.
+...If I do nothing but grieve for Guan Yu, we cannot keep our oath. First we strike Cao Pi and restore the Han.
 
 @119.0
 My lord, you made a hard decision. It must have been painful.
@@ -818,7 +818,7 @@ In the year 223, his ambition only half fulfilled, Liu Bei fell.
 What, Cao Pi is attacking? Argh, at a time like this... ...There is no help for it. Send an envoy to Shu. This time we make an alliance with Shu. The rest, hurry back to Wu!
 
 @157.0
-That was a close call. Lu Xun, he is not to be underestimated.
+That was a close call. Lu Xun is not to be underestimated.
 
 @157.1
 Now, my lord, let us return to Chengdu. Then, as Lord Kongming advises, perhaps make the alliance.

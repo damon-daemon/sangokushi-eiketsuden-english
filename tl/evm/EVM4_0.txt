@@ -68,7 +68,7 @@ I can't forget the wrong done to Guan Yu... But our goal is restoring the Han. I
 My lord! Let us strike Wei as soon as possible.
 
 @14.0
-At last, the decisive battle with Wei. Look forward to what I can do, my lord.
+At last, the decisive battle with Wei. Watch what I can do, my lord.
 
 @15.0
 I, Yan Yan, will not lose to Lord Huang Zhong or to any other general.
@@ -86,7 +86,7 @@ Now that we have allied with Wu, the best plan is to attack from Xiangyang joint
 But Shu has fewer troops than Wei. Isn't it dangerous to split them in two?
 
 @17.3
-I am aware of that. The commander of the separate force must be an elite officer. Whether to send one, I leave to your judgment. Please consider it.
+I am aware of that. The commander of the separate force must be an elite officer. Whether to send one is for you to decide.
 
 @18
 Think over whether to send a separate force to Guanzhong
@@ -179,7 +179,7 @@ Ye Palace
 Shu and Wu's alliance soon came to Wei's attention.
 
 @35.0
-Your Majesty, Shu and Wu have formed an alliance. They will surely attack. We must take some measure.
+Your Majesty, Shu and Wu have formed an alliance. They will surely attack. We must take measures.
 
 @35.1
 Yes. Then we shall send reinforcements to Xiangyang. ...Xiahou Dun.
@@ -278,7 +278,7 @@ Yes. Show him in.
 Wu... When I heard Guan Yu had been defeated by Wu, I never imagined I would join hands with Sun Quan to attack Wei together.
 
 @53.1
-Your wise decision, my lord, brought about this present alliance. ...My lord, Lord Sun Quan has arrived.
+Your wise decision, my lord, made this alliance possible. ...My lord, Lord Sun Quan has arrived.
 
 @54.0
 Lord Sun Quan, welcome.
@@ -308,7 +308,7 @@ My lord, please attend to the guest.
 I have come leading an army to destroy Wei. Allow me to introduce our commander, Lu Xun. Lu Xun, come forward.
 
 @61.0
-I am Lu Xun. I look forward to your acquaintance.
+I am Lu Xun. I look forward to working with you.
 
 @61.1
 Lord Sun Quan, Lord Lu Xun, let us strike Wei together and restore the nation.
@@ -338,7 +338,7 @@ It would be good to have Lord Sun Quan send a separate force to divide the enemy
 Yes...where should we ask the separate force to attack?
 
 @67.2
-Zhang Liao is at Hefei, north of Wu. If Hefei is attacked, Zhang Liao will be unable to send reinforcements. Whether to ask for a separate force, I leave to your judgment. Please consider it.
+Zhang Liao is at Hefei, north of Wu. If Hefei is attacked, Zhang Liao will be unable to send reinforcements. Whether to ask for a separate force is for you to decide.
 
 @68
 Think over whether to ask Sun Quan for a separate force
@@ -425,7 +425,7 @@ It seems the commander is Cao Ren. Let us take Xiangyang and bring Jing Province
 All of you! Do not fall behind the Shu army! Show the realm the might of Wu!
 
 @93.0
-Oh, reinforcements have come! Everyone, reinforcements have arrived! Push them back in one go!
+Oh, reinforcements! Everyone, reinforcements have arrived! Push them back in one go!
 
 @93.1
 Hmm... For reinforcements to appear here...
@@ -497,7 +497,7 @@ Hey...Big Brother, Guan Yu really is dead, isn't he...? But I still feel like he
 Congratulations on retaking Xiangyang.
 
 @114.0
-Pleased to meet you. I am Gan Ning, a retainer of Wu. I look forward to your acquaintance.
+Pleased to meet you. I am Gan Ning, a retainer of Wu. I look forward to working with you.
 
 @115.0
 To reach Luoyang we must go through either Xinye or Nanxiang, and then pass Wan Castle too.
@@ -599,7 +599,7 @@ Oh, reinforcements! Everyone, reinforcements have come! Crush them right now!
 What? The granary was taken!? Then we cannot hold this place! ...Argh! Fall back to Wan Castle!
 
 @141.0
-I see that must be Yu Jin! I, Zhang Fei, demand single combat with you!
+That must be Yu Jin! I, Zhang Fei, demand single combat!
 
 @141.1
 Gah! Zhang Fei!! W-waaah!
@@ -629,7 +629,7 @@ You got 1500 gold!
 Drive off Xu Huang\nCapture the two forts
 
 @149.0
-So you came, Liu Bei! You shall not pass here! Taste my flood tactic!
+So you came, Liu Bei! You shall not pass here! Taste my flood attack!
 
 @149.1
 This is...! My lord! This place is dangerous!
@@ -734,19 +734,19 @@ I see. Then please tell Lord Sun Quan I give him my thanks.
 Thank you. From the Wu army, we shall leave these men with you.
 
 @170.0
-Ling Tong, Xu Sheng, Ding Feng and I will stay here and fight together with you. We beg your favor.
+Ling Tong, Xu Sheng, Ding Feng and I will stay here and fight together with you. We are at your service.
 
 @171
 Gan Ning, Ling Tong and the others joined!
 
 @172.0
-Xu Sheng, Ding Feng and I will stay here and fight with Lord Liu Bei. We beg your favor.
+Xu Sheng, Ding Feng and I will stay here and fight with Lord Liu Bei. We are at your service.
 
 @173
 Ling Tong, Xu Sheng and Ding Feng joined!
 
 @174.0
-Ding Feng and I will stay here and fight with Lord Liu Bei. We beg your favor.
+Ding Feng and I will stay here and fight with Lord Liu Bei. We are at your service.
 
 @175
 Xu Sheng and Ding Feng joined!
@@ -854,7 +854,7 @@ Tch, he ran. Is there no one who can match Zhang Fei!
 Zhang Fei leveled up!
 
 @205.0
-Grr...! There is no help for it. Retreat! Retreat!
+Grr...! We have no choice. Retreat! Retreat!
 
 @206
 Zhang Liao's army retreated
@@ -881,7 +881,7 @@ Good! Lower the bridge!
 The bridge was lowered!
 
 @214.0
-What, the bridge was lowered!? That Yu Jin, he's useless! Damn, in any case, repel them!
+What, the bridge was lowered!? Yu Jin is useless! Damn, just repel them!
 
 @215.0
 Xu Huang! Your luck has run out too!
@@ -899,7 +899,7 @@ Damn it...!
 Zhang Fei leveled up!
 
 @218.0
-They came inside the castle. Heh heh... They move just as I expected. Why do you think I lowered only one bridge? They can hardly move there. Now! Strike the enemy all at once!!
+They came inside the castle. Heh heh... They are moving just as I expected. Why do you think I lowered only one bridge? They can hardly maneuver there. Now! Strike the enemy all at once!!
 
 @219.0
 Damn! Liu Bei's army! To think they came this far!

@@ -5,7 +5,7 @@ Ch. 2: The Sleeping Dragon
 Chapter 2: The Sleeping Dragon Emerges
 
 @2
-Just as the Cao Cao of today was no longer the Cao Cao of old, the Liu Bei of today was no longer the Liu Bei of old. The man who struck fear into ever-victorious Cao Cao: Xu Shu. When Cao Cao heard of his defeat, he carved this name deep into his heart.
+Just as the Cao Cao of today was no longer the Cao Cao of old, the Liu Bei of today was no longer the Liu Bei of old. Xu Shu had struck fear into ever-victorious Cao Cao. On hearing of his defeat, Cao Cao carved that name deep into his heart.
 
 @5.0
 Brother, you have come. Just in time. Xu Shu has something to tell you.
@@ -173,7 +173,7 @@ Please be sure to meet the Sleeping Dragon.
 I wonder if he is in today. I am curious what sort of man Kongming is.
 
 @48.0
-Hmph. Today I'm going to rip off Kongming's disguise.
+Hmph. Today I'm going to tear off Kongming's mask.
 
 @49.0
 Oh, Lord Liu Bei. Welcome.
@@ -290,7 +290,7 @@ No. Master Shuijing and Xu Shu urged me so strongly.
 They are fine men. I am a mere student. To discuss the fate of the realm is beyond me.
 
 @67.3
-To have the talent to save this age of chaos and hide in the mountains so young... What a waste. Lend me your strength, I beg you.
+Such talent to save this chaotic age, hidden in the mountains so young... What a waste. Lend me your strength, I beg you.
 
 @67.4
 ...Lord Liu Bei, then I will teach you how you may stand against Cao Cao.
@@ -320,7 +320,7 @@ Ask\nListen\nPersuade\nWeep
 I am only answering your sincerity. There is no other reason.
 
 @76.0
-Cao Cao has Heaven's timing and the unity of men, and commands a million troops. Now is not the time to fight him. Wu, too, is a state that has prospered under three generations of the Sun family. As you are now, you cannot beat them.
+Cao Cao has Heaven's favor and the unity of men, and commands a million troops. Now is not the time to fight him. Wu, too, is a state that has prospered under three generations of the Sun family. As you are now, you cannot beat them.
 
 @76.1
 Jing Province has fertile land and good roads. It is truly a land heaven itself gave you. Further, Yi Province, to the west of Jing, is rich in resources and is itself a natural fortress. Take root in Jing and Yi, and stand against Cao Cao in the north and Sun Quan in the east.
@@ -341,7 +341,7 @@ Ask\nListen\nPersuade\nWeep
 But Jing Province is ruled by Lord Liu Biao and Yi Province by Lord Liu Zhang, both of my own clan. I cannot attack them.
 
 @80.1
-No. Liu Biao is sickly and will not last long. You need only succeed him. And Liu Zhang is notorious for misrule. Driving him out would rather save the people.
+No. Liu Biao is sickly and will not last long. You need only succeed him. And Liu Zhang is notorious for misrule. Driving him out would actually save the people.
 
 @81.0
 Divide the realm in three and stand against Cao Cao and Sun Quan: the Plan of Three Divisions of the Realm.
@@ -365,7 +365,7 @@ I am better suited to living quietly here.
 No, I have nothing more to tell you.
 
 @88.0
-If a man of your caliber buries his talent here, the people suffering in this war will never be rewarded. With my meager strength, I cannot save them. Hngh...
+If a man like you buries his talent here, the people suffering in this war will never find relief. I am too weak to save them. Hngh...
 
 @88.1
 ... Very well. As long as you hold to your ambition, Lord Liu Bei, I will go with you.

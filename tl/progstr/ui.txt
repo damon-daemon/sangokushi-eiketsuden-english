@@ -518,7 +518,7 @@ PROG:800c9f20	Chencang
 PROG:800c9f28	Xuchang 2
 PROG:800c9f30	Xuchang 1
 PROG:800c9f48	Xinye 2
-PROG:800c9f50	Nansi
+PROG:800c9f50	Nanxiang
 PROG:800c9f58	Mai
 PROG:800c9f5c	Yiling
 PROG:800c9f64	Xiling
@@ -624,8 +624,8 @@ PROG:800ca334	Info
 PROG:800ca33c	System
 PROG:800ca344	Item
 PROG:800ca34c	Map
-PROG:800ca3ac	Sea
-PROG:800ca3b0	Vir
+PROG:800ca3ac	Nil
+PROG:800ca3b0	XP
 PROG:80010404	Weapon: Ldr +3\nSupply Units
 PROG:8001041c	Weapon: Ldr +2\nSupply Units
 PROG:80010434	Weapon: Ldr +2  Mov +1\nSupply Units

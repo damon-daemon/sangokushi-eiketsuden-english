@@ -5,7 +5,7 @@ Ch. 2: Lying Low at Xinye
 Chapter 2: Lying Low at Xinye
 
 @2
-War is not won by arms alone.\n\nYuan Shao, who overwhelmed all others with sheer numbers, was crushed by Cao Cao at Guandu.\n\nYuan Shao always eyed even his closest loyal retainers with suspicion, while Cao Cao accepted even Yuan Shao's generals and took them into his own army.\n\nLiu Bei, drifting into Jing Province, would repeat these words again and again in this land: war is not won by arms alone.
+War is not won by arms alone.\n\nYuan Shao, who overwhelmed all others with sheer numbers, was crushed by Cao Cao at Guandu.\n\nYuan Shao always eyed even his closest loyal retainers with suspicion, while Cao Cao accepted even Yuan Shao's generals and took them into his own army.\n\nLiu Bei, drifting into Jing Province, would repeat these words again and again: war is not won by arms alone.
 
 @3
 Xiangyang Council Hall
@@ -44,7 +44,7 @@ Liu Bei, please look after my sons. Now then... would you guard Xinye Castle for
 Xinye Castle...?
 
 @13.2
-It is not a large castle. It lies north of Jing Province. I would like you to stay there and watch Cao Cao's movements.
+It is not a large castle. It lies in the north of Jing Province. I would like you to stay there and watch Cao Cao's movements.
 
 @13.3
 Very well. Thank you for everything.
@@ -311,7 +311,7 @@ Lord Liu Bei looks quite cheerful.
 How is Xinye?
 
 @85.0
-What! You have already put down the Jiangxia bandits! They gave me so much trouble. Strangely strong for bandits, they wore out my army. As expected of you, Liu Bei.
+What! You have already put down the Jiangxia bandits! They gave me so much trouble. They were strangely strong for bandits and wore out my army. As expected of you, Liu Bei.
 
 @85.1
 Not at all. It is the least I can do to repay you for lending me Xinye.
@@ -338,7 +338,7 @@ Yes. You have not been in Jing Province long, Liu Bei. Listen well.
 Jing Province was surrounded by enemies on three sides: Cao Cao to the north, Yi Province to the west, and third, the state of Wu to the east. The "Sun" banner Liu Bei had seen was the war flag of Wu, ruled by Sun Quan.\n\nThe strife between Jing and Wu had gone on since the days of Sun Quan's father, with no end in sight.
 
 @87.0
-That is how it is.
+That is how things stand.
 
 @87.1
 I see. So those bandits were Sun Quan's doing.
@@ -362,7 +362,7 @@ Thank you for putting down the revolt in Jiangxia.
 As expected of Lord Liu Bei.
 
 @93.0
-To face those bandits and return safe. Well done.
+You faced those bandits and came back safe. Well done.
 
 @94.0
 Brother, our spies report that Cao Cao has finally taken all of Yuan Shao's lands.
@@ -419,7 +419,7 @@ If I can ever be of use to you, please call on me at any time.
 Is Lord Liu Qi going to Jiangxia because of the question of who will be heir, he or Lord Liu Cong?
 
 @110.0
-Jiangxia is practically something I pacified myself.
+Jiangxia is practically my own conquest.
 
 @111.0
 Lord Liu Qi has a bright face for the first time in a long while. Perhaps his worries are gone.
@@ -449,7 +449,7 @@ I thought so. I heard rumors of you and came all this way. My name is Sima Hui. 
 So you are Master Shuijing. But what rumors do you mean?
 
 @116.4
-Everyone has been praising you warmly. And your battle at Jiangxia was splendid.
+Everyone speaks warmly of you. And your battle at Jiangxia was splendid.
 
 @116.5
 No, it was thanks to those who support me.
@@ -680,7 +680,7 @@ Xu Shu joined as a retainer!
 Well, they're gone. Hey, Guan Yu, isn't Big Brother acting strange lately?
 
 @150.1
-True, he has become awfully eager for people. But I suppose he has his reasons.
+True, he has become awfully eager to recruit people. But I suppose he has his reasons.
 
 @150.2
 What about the fight with Cao Cao? What's gotten into Big Brother?
@@ -911,7 +911,7 @@ This time I'll show them what I've got.
 Not satisfied with the whole north, he turns his spear on our Jing Province.
 
 @194.0
-Please look forward to it.
+You will not be disappointed.
 
 @195.0
 Let us defend Xinye.
@@ -956,7 +956,7 @@ Against an attack from the front it is a formation of steel, but it will collaps
 Hmm, you saw all that at a glance...
 
 @204.5
-In any case, to break the enemy formation, it must be from the rear. Now, let us go.
+To break this formation, we must hit it from the rear. Now, let us go.
 
 @205.0
 Where's their commander?
@@ -1046,5 +1046,5 @@ Xu Shu, quite impressive for a first battle.
 He fights differently from us.
 
 @224.2
-Not at all. If you had attacked as I said, it would not have taken this much trouble. The rule is to win without labor. Battles are not decided by strength alone. Please do not forget that.
+Not at all. If you had attacked as I said, it would not have taken this much trouble. The rule is to win without wasted effort. Battles are not decided by strength alone. Please do not forget that.
 

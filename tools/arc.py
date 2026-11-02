@@ -124,3 +124,52 @@ def pack(data):
     if len(data) % 8 == 0:
         out.append(0)
     return bytes(out)
+
+
+def pack_runs(data):
+    """literals plus runs of one byte (a match at distance 0, 3-255 bytes): for tables that are mostly padding"""
+    tokens, i = [], 0
+    while i < len(data):
+        n = 1
+        while i + n < len(data) and data[i + n] == data[i] and n < 255:
+            n += 1
+        if i and data[i - 1] == data[i] and n >= 3:
+            tokens.append(n)
+            i += n
+        else:
+            tokens.append(data[i:i + 1])
+            i += 1
+    tokens.append(None)
+    # the match codes as one bit string: k zeros + the length - 1 in k + 1 bits (k = 7: its top bit implied), then the distance code
+    code = ''
+    for t in tokens:
+        if isinstance(t, int):
+            k = (t - 1).bit_length() - 1
+            code += '0' * k + format(t - 1, 'b')[k == 7:] + '000000'
+    code += format(0x01fc, '016b') + '0' * 32
+    # bytes in the order the decoder fetches them: a word of the bit string whenever its window needs one
+    out, word, have = bytearray(), 0, 0
+
+    def take(n):
+        nonlocal word, have
+        if have < n:
+            n -= have
+            out.extend(int(code[word:word + 16], 2).to_bytes(2, 'little'))
+            word += 16
+            have = 16 - n
+        else:
+            have -= n
+    take(16)
+    for g in range(0, len(tokens), 8):
+        group = tokens[g:g + 8]
+        out.append(sum(0x80 >> j for j, t in enumerate(group) if isinstance(t, bytes)))
+        for t in group:
+            if isinstance(t, bytes):
+                out += t
+            elif t is not None:
+                k = (t - 1).bit_length() - 1
+                if k:
+                    take(min(2 * k, 13))
+                take(7)
+    assert unpack(bytes(out))[0] == data
+    return bytes(out)

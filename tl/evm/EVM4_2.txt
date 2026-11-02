@@ -86,7 +86,7 @@ Then, my lord, I shall go too.
 Pang Tong, without you we could not have reached this day. I, Liu Bei, thank you deeply.
 
 @21.1
-No, no, no thanks needed. I have enjoyed myself quite a bit as well. Now, I go on ahead.
+No need to thank me. I have enjoyed myself quite a bit as well. Now, I go on ahead.
 
 @22.0
 Now, my lord, let us go.
@@ -329,7 +329,7 @@ Yes. If I were gone, the balance of the three kingdoms would collapse. I had alr
 What! Then the strife between Shu and Wu was all your calculation?
 
 @63.1
-Exactly! With me out of the picture, Wu would fight Shu without worry! Shu and Wu would wound each other, one perishing and the other left wounded. Conquering what remained would be easy.
+Exactly! With me out of the picture, Wu would fight Shu without worry! Shu and Wu would wound each other, one perishing and the other left crippled. Conquering what remained would be easy.
 
 @63.2
 And then Wei would unify the realm. That was my plan. ...But my calculations went wrong. I never imagined that Shu and Wu would form an alliance. Liu Bei, I did not think you could forgive Wu.
@@ -341,10 +341,10 @@ Furthermore, entrusting this country to the likes of Cao Pi was a mistake. That 
 ...
 
 @63.6
-But it is not over yet! I will defeat you! Unite Wei and Shu! And unify the realm! Liu Bei, do not stand in my way!
+But it is not over yet! I will defeat you! Join Shu to Wei! And unify the realm! Liu Bei, do not stand in my way!
 
 @63.7
-... Cao Cao, it is that very thinking of yours that created this age of war and is the source of the people's suffering. Dong Zhuo, Lu Bu, Yuan Shao, Yuan Shu... all of them thought only of themselves. ... And Cao Cao! You are the same kind!
+... Cao Cao, that very thinking of yours created this age of war and is the source of the people's suffering. Dong Zhuo, Lu Bu, Yuan Shao, Yuan Shu... all of them thought only of themselves. ... And Cao Cao! You are the same kind!
 
 @63.8
 What! Do you say I am the same as a wretch like Dong Zhuo?
@@ -383,7 +383,7 @@ Say nothing. Now, raise your weapon!
 ... Zhang Liao...
 
 @68.1
-... Do not look so sad. I feel refreshed now. To die for the lord I believed in, what a wonderful thing. I have dreamed of this all along, though I never thought it would come true.
+... Do not look so sad. My heart is clear now. To die for the lord I believed in: what a wonderful thing. I have dreamed of this all along, though I never thought it would come true.
 
 @68.2
 But I... Zhang Liao, I... never imagined it would come to this...
@@ -392,7 +392,7 @@ But I... Zhang Liao, I... never imagined it would come to this...
 ... Guan Yu. If you had not helped me at Xiapi, I could never have known this feeling. I thank... you. Than... k... you...
 
 @68.4
-Zhang Liao... Why... Why must I suffer such sorrow! Waaaah!!
+Zhang Liao... Why... Why must I suffer such sorrow! Aaaargh!!
 
 @69
 Guan Yu leveled up!
@@ -446,7 +446,7 @@ Ha ha ha! Burn, burn!
 Tch! More fire!
 
 @80.1
-Never mind the castle! If we only defeat them, the realm is Lord Cao Cao's! Liu Bei! Kongming! For Lord Cao Cao, I will defeat you without fail!!
+Never mind the castle! If we defeat them, the realm is Lord Cao Cao's! Liu Bei! Kongming! For Lord Cao Cao, I will defeat you without fail!!
 
 @80.2
 Just so. Sima Yi, this is the last battle. We cannot lose here!

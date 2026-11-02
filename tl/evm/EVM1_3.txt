@@ -521,7 +521,7 @@ Liu Bei, what shall we do?
 He deserves no sympathy.
 
 @132.0
-He's a man who climbed up by cutting down from behind the very people who helped him.
+He climbed up by stabbing his own benefactors in the back.
 
 @133.0
 If Lu Bu is left alive, he will bring disaster later.
@@ -602,7 +602,7 @@ This man is one of deep honor. He may lack tact in speech, but it would be a was
 ...Heh, fear not, it was a jest. Do you think I would fail to see that? Zhang Liao, you are free to do as you please.
 
 @146.4
-What, you set me free...? ...Is this a true general's stature? Lord Cao Cao, I wished to serve one like you. Make me your retainer.
+What, you set me free...? ...Is this the stature of a true general? Lord Cao Cao, I wished to serve one like you. Make me your retainer.
 
 @146.5
 You wish to serve me? Zhang Liao, I am fortunate to have a man like you under me.

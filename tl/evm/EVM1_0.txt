@@ -47,7 +47,7 @@ That cannot be. Each is plotting and preparing for what comes next.
 No, I mean they're both worn out from the long fight.
 
 @7.4
-Hold on, you two. Still, you cannot tell how the world is moving by sitting still.
+Hold on, you two. You cannot tell how the world is moving by sitting still.
 
 @7.5
 Brother, why not go out and see what is happening?
@@ -269,7 +269,7 @@ What! Has Yuan Shao come as far as Xindu Castle?
 Yes. Afterward we heard of your reinforcements, Lord Liu Bei, and came to rely on you.
 
 @50.7
-It is too bitter to let Yuan Shao have his way. Please take us both into your army.
+It is too galling to let Yuan Shao have his way. Please take us both into your army.
 
 @50.8
 We will not be satisfied until we have struck back at Yuan Shao. Please, we beg you!
@@ -317,7 +317,7 @@ March to aid Gongsun Zan
 Brother, hurry up. I'm itching to go.
 
 @56.0
-Before marching, you can prepare in two ways: saving your record and buying items.
+Before marching, you can prepare in two ways: saving your game and buying items.
 
 @57.0
 I look forward to working with you.
@@ -398,7 +398,7 @@ Xindu Council Hall
 Lord Liu Bei, thank you for saving Xindu.
 
 @73.1
-No thanks are needed. Still, I am glad we came through Xindu.
+No thanks are needed. It was lucky we came through Xindu.
 
 @73.2
 ...?
@@ -491,7 +491,7 @@ What? Another one? Very well, I will take you on. You will end up like Yan Gang 
 We shall see about that.
 
 @90.0
-I still have much to learn. I struggled a little against an opponent like this.
+I still have much to learn. And such trouble with a foe like this!
 
 @91
 Guan Yu leveled up!
@@ -716,7 +716,7 @@ I am Zhao Yun.
 I served Yuan Shao until now, but I realized he fights only for his own interests, so I decided to return home.
 
 @131.3
-How foolish of Yuan Shao... Tell me, would you put your strength to use under me?
+How foolish of Yuan Shao... Tell me, will you lend me your strength?
 
 @132.0
 If you will have me, I will serve you.

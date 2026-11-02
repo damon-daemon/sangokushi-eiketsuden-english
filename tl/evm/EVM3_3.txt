@@ -203,7 +203,7 @@ Oh? You would face Zhang He? How amusing. Come on!
 Shut up! Lei Tong will crush you!
 
 @43.0
-...There is no help for it. Retreat...
+...Nothing more can be done. Retreat...
 
 @44.0
 Hmph, he ran. The Shu army is no better than that.
@@ -239,7 +239,7 @@ Oh? You would face Zhang He? How amusing. Come on!
 Shut up! Lei Tong will crush you!
 
 @52.0
-...There is no help for it. Retreat...
+...Nothing more can be done. Retreat...
 
 @53.0
 Ha. The Shu army is no better than that.
@@ -470,7 +470,7 @@ Rescue Xiahou Yuan! Drive Liu Bei's army out of Dingjun!
 Ah, Xu Huang! Good! The whole army, charge at Liu Bei's army! We will catch them in a pincer!
 
 @118.0
-Xu Huang holds a grudge against me, so I wish to defect to Liu Bei's army. I beg your favor.
+Xu Huang holds a grudge against me, so I wish to defect to Liu Bei's army. I am at your service.
 
 @119
 Wang Ping defected to Liu Bei's army!
@@ -620,7 +620,7 @@ Drive off Xu Huang
 If we do not hold here, Hanzhong will be taken! Men, defend Tiandang at all costs!
 
 @169.0
-Xu Huang holds a grudge against me, so I wish to defect to Liu Bei's army. I beg your favor.
+Xu Huang holds a grudge against me, so I wish to defect to Liu Bei's army. I am at your service.
 
 @170
 Wang Ping defected to Liu Bei's army!
@@ -806,7 +806,7 @@ Yes. I surrendered then, and now I am one of Cao Cao's army.
 What...! Why! You know Cao Cao's evil deeds too!
 
 @219.7
-...Zhang Lu came to doubt me, and I had nowhere to run. Lord Cao welcomed me warmly and even gave me troops. ...If I do not repay that kindness, my sense of honor would be in doubt.
+...Zhang Lu came to doubt me, and I had nowhere to run. Lord Cao welcomed me warmly and even gave me troops. ...If I do not repay that kindness, I could not call myself a man of honor.
 
 @219.8
 What are you saying! You can still start over. Come with me and meet Lord Liu Bei!
@@ -845,7 +845,7 @@ Grr, that Liu Bei! I will not let him come any closer to Yangping Pass! Men, fol
 My lord, I hear this Sima Yi who just moved out is a very sharp man. Please be careful.
 
 @224.0
-That Liu Bei, once again... There is no help for it. Fall back! Retreat to Chang'an!!
+That Liu Bei, once again... We have no choice. Fall back! Retreat to Chang'an!!
 
 @225
 Cao Cao abandoned Hanzhong. Liu Bei took Hanzhong.
@@ -896,7 +896,7 @@ But then neither I nor any of your retainers will be satisfied.
 Not satisfied...?
 
 @237.4
-We retainers have served you hoping you would grow this great. If you refuse by your own values alone, our service has no meaning.
+We retainers have served you hoping you would grow this great. If you refuse for your principles alone, our service is for nothing.
 
 @237.6
 Besides, I hear Cao Cao has styled himself King of Wei. You must show the realm that you are the one to stand against Cao Cao. For that too, you must become King of Hanzhong.
@@ -938,7 +938,7 @@ Yes, I will take the title King of Hanzhong. You all agree, then?
 Who'd object? Right, everyone?
 
 @246.3
-Indeed. King of Hanzhong, I am very happy that you decided.
+Indeed. My king, I am glad you have decided.
 
 @246.4
 Long live the King of Hanzhong!

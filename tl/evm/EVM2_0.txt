@@ -242,7 +242,7 @@ You dare show your face!
 What do you intend to do about this?
 
 @58.0
-Liu Bei! After all the hospitality you received, you are an outrageous wretch.
+Liu Bei! After all our hospitality, you outrageous wretch!
 
 @59.0
 At last you show your true colors.
@@ -266,7 +266,7 @@ Aargh!
 What? A scheme of Cao Cao?
 
 @66.1
-Yes. Cao Cao learned that I was in your camp, and surely had Guan Yu cut down Yan Liang and Wen Chou on purpose. It is Cao Cao's plot to have you, Yuan Shao, kill me while he lifts no hand himself. Please dispel your doubts.
+Yes. Cao Cao learned that I was in your camp, and surely had Guan Yu cut down Yan Liang and Wen Chou on purpose. Cao Cao means for you, Yuan Shao, to kill me while he lifts no hand himself. Please dispel your doubts.
 
 @66.2
 Hmm... Cao Cao is indeed a sharp-witted man. Liu Bei, I am sorry. I nearly fell for Cao Cao's trick.
@@ -350,7 +350,7 @@ So Guan Yu and Zhang Fei were alive after all. Thank heavens.
 In that case, there is no need to linger in a place like this.
 
 @85.0
-My lord, now that we know where Guan Yu and Zhang Fei are, there is no reason to stay here. Pretend to head for Runan, Yuan Shao's land, and go to the old castle where Zhang Fei is. Why not go and ask Yuan Shao's leave?
+My lord, now that we know where Guan Yu and Zhang Fei are, there is no reason to stay here. Let us pretend to head for Runan, in Yuan Shao's lands, and go to the old castle where Zhang Fei is. Why not go and ask Yuan Shao's leave?
 
 @85.1
 Yes, let us do so.
@@ -428,10 +428,10 @@ Suspicious...
 He is plotting something again.
 
 @103.0
-He volunteers to take on Cao Cao! Our lord must find him dependable.
+He volunteers to take on Cao Cao! Our lord must think him dependable.
 
 @104.0
-Liu Bei says some clever things.
+Liu Bei has a clever tongue.
 
 @105.0
 Cao Cao is not to be trifled with. Take great care.
@@ -464,7 +464,7 @@ Let us depart.
 Does our lord mean to let Liu Bei escape so easily?
 
 @114.1
-Wait. Cao Cao is the problem now. Next to the fight with Cao Cao, Liu Bei is nothing much.
+Wait. Cao Cao is the problem now. Next to Cao Cao, Liu Bei is nothing.
 
 @114.2
 First strike Cao Cao, and if Liu Bei betrays us then, kill him.
@@ -518,7 +518,7 @@ If that is your wish, I accept. Let's go!
 To think a man of such caliber serves someone like Yuan Shao... Why?
 
 @124.0
-Hm! Enemy reinforcements! Are still more coming?
+Hm! Enemy reinforcements! Are more coming?
 
 @126.0
 Guo Tu, sorry to keep you waiting.
@@ -617,7 +617,7 @@ My lord, it seems we have been completely surrounded.
 Hmm... Hm!?
 
 @144.2
-Men, the Cao Cao army is here again! Let's stir them up, even if it's only us!
+Men, the Cao Cao army is here again! Let's give them hell, even if it's only us!
 
 @144.3
 That voice...! Yet why are we met with a welcome like this?
@@ -710,7 +710,7 @@ My lord, please hear my brother.
 My lord, terrible news! The Cao Cao army is heading this way. They have already reached Yingchuan.
 
 @164.1
-Hmm. Right, we go to intercept them at Yingchuan. Everyone, prepare to march!
+Hmm. Right, we will intercept them at Yingchuan. Everyone, prepare to march!
 
 @166.0
 I can fight for you again, my lord. Nothing could make me happier.
@@ -764,7 +764,7 @@ I had an agreement with Cao Cao: that when I learned my brother lived, I could l
 After all he did for you, what a thing to say! Unforgivable! Let's go, Guan Yu! I'll cut off your head!
 
 @178.0
-Agreement or not, I have killed this many of his men. I now owe Cao Cao a debt.
+Agreement or no, I have killed so many of his men. I am in Cao Cao's debt.
 
 @180
 Guan Yu slew Cai Yang. The Liu Bei army was victorious.
@@ -842,7 +842,7 @@ Yes. Why not rely on Liu Biao and settle in Jing Province?
 The capital of Jing Province is a castle called Xiangyang. My lord, let us rely on Liu Biao and head for Xiangyang.
 
 @193.6
-What a lazy thing to say! Striking Cao Cao comes first, doesn't it? Liu Pi of Runan is Cao Cao's enemy. Let's go to Runan and fight him.
+Quit dawdling! Striking Cao Cao comes first, doesn't it? Liu Pi of Runan is Cao Cao's enemy. Let's go to Runan and fight him.
 
 @193.7
 Hmm. Which way should we go?
@@ -1040,13 +1040,13 @@ My lord, forgive my delay. I have settled matters with Liu Biao. He says you may
 Cao Ren retreats\nLiu Bei reaches the southwest fort
 
 @250.0
-Good, we leave the battlefield. We head for Xiangyang.
+Good, we leave the battlefield. On to Xiangyang.
 
 @250.1
 What, Liu Bei escaped into Liu Biao's territory!?
 
 @251.0
-Hmm... It cannot be helped. We pull back for now.
+Hmm... So be it. We pull back for now.
 
 @252.0
 Good. Let us head for Xiangyang while we can.
@@ -1088,7 +1088,7 @@ Liu Pi joined as a retainer!
 No. You would be better suited to living freely, away from the cramped confines of an army.
 
 @258.1
-...I see. If that is what you say, Liu Bei, so I shall do.
+...I see. If that is your wish, Liu Bei, so be it.
 
 @258.2
 Liu Pi, thank you for all you have done. Please take care of yourself.

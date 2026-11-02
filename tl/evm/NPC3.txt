@@ -239,7 +239,7 @@ They sell "Aged Wine" at the shop. Why not try it once?
 Winning on might alone only works for now. If you don't work out how to fight, you won't get far.
 
 @80
-I'd like to try "Aged Wine" too. No, huh?
+I'd like to try "Aged Wine" too. Maybe not, huh?
 
 @81
 Have you ever paid attention to terrain effects? Piling up such things leads to victory.

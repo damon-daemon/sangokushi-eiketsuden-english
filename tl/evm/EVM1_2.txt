@@ -17,7 +17,7 @@ Brother, it seems Cao Cao has returned to Chenliu and driven Lu Bu away.
 Hmph, that traitor Lu Bu. Heaven's judgment.
 
 @4.2
-Still, a man with no land and a life of wandering must have troops who suffer.
+Still, a man wandering without land must have troops who suffer.
 
 @5.0
 My lord, I have seen how things stand in the city.
@@ -368,7 +368,7 @@ We have lost a great man.
 For Lord Tao Qian's sake too, we must defend Xuzhou. Right, Brother?
 
 @98.0
-Xuzhou is surrounded by enemies on all sides, and is easy land to attack.
+Xuzhou is surrounded by enemies on all sides, and easy to attack.
 
 @99.0
 M-my lord, Lu Bu has arrived.
@@ -515,7 +515,7 @@ Hm, show him in.
 Yes, sir.
 
 @131.0
-Brother, you are before the envoy.
+Brother, you stand before the envoy.
 
 @132.0
 That Lu Bu... Next time I see him, he's dead.
@@ -761,7 +761,7 @@ Retreat! I do not want to fight that man...
 Damn Lu Bu! Brother, Guan Yu, let's go back to Xuzhou right now and take Lu Bu down!
 
 @181.1
-No, fighting Lu Bu on top of this is a disadvantage for our weary army.\n\nBrother, let us rely on Cao Cao and go to Xuchang.
+No, fighting Lu Bu now would disadvantage our weary army.\n\nBrother, let us rely on Cao Cao and go to Xuchang.
 
 @181.2
 Yes, that seems the only way. Let us go to Xuchang.
@@ -791,7 +791,7 @@ I hear Lu Bu betrayed you.
 Not even Lu Bu or Yuan Shu can attack this place.
 
 @190.0
-I hear Lu Bu betrayed you. I pity you for losing Xuzhou too. What of your usual brothers?
+I hear Lu Bu betrayed you. I pity you for losing Xuzhou too. Where are those brothers of yours?
 
 @190.1
 Guan Yu and Zhang Fei wait outside the city for Lord Cao Cao's answer. We have no place to live and have come swallowing our shame. Please, I ask your help.

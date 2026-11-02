@@ -131,7 +131,7 @@ Then let's meet the enemy at Xinye!
 Will you lend me your sword?
 
 @38.0
-Thank you. Then.
+Thank you. Now then.
 
 @39.0
 We will meet the enemy at Bowang. All generals, obey my orders.
@@ -161,7 +161,7 @@ You two will... ... ...
 Understood.
 
 @44.0
-Now, my lord, those two will do a job elsewhere. The rest of us will fight.
+Now, my lord, those two have another task elsewhere. The rest of us will fight.
 
 @46
 Xiahou Dun retreats
@@ -218,7 +218,7 @@ Heh heh... They came out on their own. All forces, charge!!
 Lord Xiahou Dun, Liu Bei's army has Kongming. It is dangerous to go out carelessly.
 
 @53.2
-Why so timid! A battle that can be won will not be won that way. Never mind, go!!
+Why so timid! Fight like that and we lose a battle we could win. Never mind, go!!
 
 @54.0
 Now! Liu Feng, Guan Ping, light the fires!
@@ -233,7 +233,7 @@ Dealt a heavy blow to the enemy!
 All right, strike the enemy all at once!
 
 @58.0
-That Kongming, he did it. All forces, go!
+Kongming did it! All forces, go!
 
 @58.1
 Oh! As expected, Kongming.
@@ -365,7 +365,7 @@ Heh heh. I've come, Xiahou Dun. You seem to be having trouble.
 Hmph, not at all! Don't meddle.
 
 @78.0
-What! The provisions have run out? Damn, we took too long. Ugh, it can't be helped, retreat!
+What! The provisions have run out? Damn, we took too long. Ugh, no choice, retreat!
 
 @79.0
 What? The enemy is after our provisions! Ugh, we can't go back now. All forces, full assault! Take Xinye before they take our provisions!
@@ -374,7 +374,7 @@ What? The enemy is after our provisions! Ugh, we can't go back now. All forces, 
 All the enemy's provisions are secured. Report to my lord.
 
 @80.1
-Our provisions are being targeted? Grr... Who is it? ...Hmm, Kongming? Ugh, it can't be helped, retreat!
+Our provisions are being targeted? Grr... Who is it? ...Hmm, Kongming? Ugh, no choice, retreat!
 
 @81
 Liu Bei's army drove off Xiahou Dun
@@ -494,7 +494,7 @@ Brother, the strategist told me that Cao Cao's army would attack any moment, so 
 This fellow was acting suspiciously.
 
 @98.0
-An envoy of Jing Province? Where would he have business going?
+An envoy of Jing Province? Where's he off to?
 
 @99.0
 This man, who calls himself Song Zhong, was brought in by Guan Yu.
@@ -509,7 +509,7 @@ Please hear what he has to say.
 What could have happened?
 
 @103.0
-He is quaking because he has something to feel guilty about.
+He quakes because he has a guilty conscience.
 
 @104.0
 P-please spare me.
@@ -674,7 +674,7 @@ Don't let Liu Bei escape! Make sure you finish him!
 Kongming, it seems Cao Cao's army has caught up with us.
 
 @138.1
-It cannot be helped. Let us fight. Please organize the units.
+We have no choice. Let us fight. Please organize the units.
 
 @139
 Cai Mao is crushed
@@ -734,7 +734,7 @@ Don't let Liu Bei escape! Make sure you finish him!
 Kongming, it seems Cao Cao's army has caught up with us.
 
 @151.1
-It cannot be helped. Let us fight. Please organize the units.
+We have no choice. Let us fight. Please organize the units.
 
 @152
 Cao Cao retreats\nLead the people to the village in the southeast
@@ -797,7 +797,7 @@ Is there no one to face this Zhao Yun?
 Zhao Yun... so that's him!
 
 @163.0
-Hm, this sword...? What a gleam. I look forward to how it cuts.
+Hm, this sword...? What a gleam. Let us see how it cuts.
 
 @164.0
 Even while escorting the people, Liu Bei's army is as strong as ever.
@@ -824,7 +824,7 @@ Good, we have reached the bridge. Cao's army has no boats. Now, we cross the Yan
 Liu Bei's army shook off Cao Cao's pursuit
 
 @171.0
-Grr... They still have this much strength left? It cannot be helped. We give up the pursuit.
+Grr... They still have this much strength left? So be it. We give up the pursuit.
 
 @172
 Liu Bei's army shook off Cao Cao's pursuit
@@ -896,7 +896,7 @@ And you are?
 I am called Kongming.
 
 @189.0
-Oh, so you are Kongming! Your name has reached even the state of Wu. Say, Kongming, your elder brother is in our state, so would you not come to Wu?
+Oh, so you are Kongming! Your name has reached even the state of Wu. Say, Kongming, your brother serves in Wu. Will you not come?
 
 @189.1
 That is just what I wish. I would be glad to go.

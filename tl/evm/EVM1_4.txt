@@ -17,7 +17,7 @@ Liu Bei's Residence, Xuchang
 Talk with Guan Yu and the others about what comes next
 
 @6.0
-With Lu Bu gone, I thought the Emperor's enemies were gone... But Cao Cao's conduct toward the Emperor, I cannot forgive.
+With Lu Bu gone, I thought the Emperor's enemies were gone... But I cannot forgive Cao Cao's conduct toward the Emperor.
 
 @7.0
 Yaaawn... You two sure get up early. Hm? Big Brother, someone's here.
@@ -113,7 +113,7 @@ Liu Bei, quickly, greet His Majesty.
 Liu Bei, I, Dong Cheng, have long looked forward to meeting you.
 
 @37.0
-You are before the Emperor. Show proper respect.
+You stand before the Emperor. Show proper respect.
 
 @38.0
 Ah, so you are Liu Bei. You and Cao Cao did well to put down the rebel Lu Bu. You have Our thanks. ...? Come to think of it, you too are a Liu.
@@ -344,7 +344,7 @@ Myself\nCao Cao\nYuan Shao\nYuan Shu\nGongsun Zan\nI don't know
 Heh heh... Yes. One day you will be called a hero, Liu Bei. That is why I cannot let my guard down. When will you bare your fangs...
 
 @88.0
-Ha ha ha, so you think so? I think so too. Is that so, you think so? ...But in truth, I think the same of you, Liu Bei. Yes, you are a hero like me!
+Ha ha ha, you think so? So do I. ...But in truth, I see the same in you, Liu Bei. You are a hero like me!
 
 @88.1
 W-what are you saying so suddenly? I am no such...
@@ -428,7 +428,7 @@ Big Brother, what did you talk about at Cao Cao's? I was worried.
 Brother, please do not go to Cao Cao's so carelessly. ...Hm? Someone else is coming.
 
 @109.0
-Imperial Uncle Liu, pardon me. Do you not remember me? I am Dong Cheng. I attended the Emperor's side earlier.
+Imperial Uncle Liu, pardon me. Do you not remember me? I am Dong Cheng. I was at the Emperor's side earlier.
 
 @110.0
 Dong Cheng, if I recall. What could he want?
@@ -443,7 +443,7 @@ Forgive the sudden visit. Imperial Uncle, I hear His Majesty just gave you a jad
 Show it\nDo not show it
 
 @114.0
-Ah, truly a jade belt. In fact, I too received a jade belt from His Majesty, as you see. And this belt, in truth...
+Ah, truly a jade belt. In fact, I too received a jade belt from His Majesty, you see. And this belt, in truth...
 
 @115
 Dong Cheng cut the jade belt open with his sword. A scrap of paper fell out from inside.
@@ -458,7 +458,7 @@ Yes, it is His Majesty's own blood. How pitiable.
 Now that you mention it, His Majesty did seem deeply troubled.
 
 @116.3
-Cao Cao's words and deeds of late are more than we can bear. To answer this belt, I intend to strike down Cao Cao. Imperial Uncle, I beg you, lend us your strength.
+Cao Cao's words and deeds of late are more than we can bear. In answer to this belt, I mean to strike down Cao Cao. Imperial Uncle, I beg you, lend us your strength.
 
 @116.4
 Dong Cheng, I too am His Majesty's subject. I will follow His Majesty's will.
@@ -530,7 +530,7 @@ In truth, Gongsun Zan has been destroyed by Yuan Shao.
 What! Gongsun Zan!
 
 @129.5
-Hearing this, Yuan Shao's brother Yuan Shu is said to have set out for Ye, where Yuan Shao is. If Yuan Shao and Yuan Shu join forces, it will be somewhat troublesome.
+Hearing this, Yuan Shao's brother Yuan Shu is said to have set out for Ye, where Yuan Shao is. If Yuan Shao and Yuan Shu join forces, it will be a real problem.
 
 @129.6
 ...! (I see. I will make use of this news.)
@@ -578,7 +578,7 @@ I owe Gongsun Zan a debt. I would at least like to visit his grave at Beiping, w
 Beiping is Yuan Shao's land now. It would be like going to your death. Give it up.
 
 @137.0
-Go and take Yuan Shu's head in splendid fashion.
+Go and take Yuan Shu's head in style.
 
 @138.0
 Liu Bei, now then, what business brings you here?
@@ -674,7 +674,7 @@ Brother, we have been waiting. We are ready. Let us hurry.
 Then let us go at once, before Cao Cao catches on.
 
 @158
-Meanwhile, Yuan Shu, relying on his brother Yuan Shao, was heading for Ji Province. The false emperor, abandoned by his people, was leaving his land. His procession, clad in counterfeit glory, never broke, and the cries of the people were said to sound without cease.
+Meanwhile, Yuan Shu, relying on his brother Yuan Shao, was heading for Ji Province. The false emperor, abandoned by his people, was leaving his land. His procession, clad in false glory, stretched on unbroken, and the people's cries, it is said, never ceased.
 
 @159.0
 Hey, walk faster! We'll be caught! Hurry!

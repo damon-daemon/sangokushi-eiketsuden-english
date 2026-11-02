@@ -71,7 +71,7 @@ On the way home I thought of you, Lord Liu Bei, and stopped here. I want you to 
 What... Such a thing, so suddenly...
 
 @15.8
-No, I beg you. I will go home now and recommend you to Zhang Lu as his opponent. You need only march into Yi Province in answer to that, and seize it then.
+No, I beg you. I will go home now and recommend you to Liu Zhang as Zhang Lu's opponent. You need only march into Yi Province in answer to that, and seize it then.
 
 @15.9
 But to take a country from Lord Liu Zhang, of my own clan...
@@ -659,7 +659,7 @@ Yes. But Zhang Fei, who is this gentleman?
 This is Lord Yan Yan. He guided us along the way.
 
 @145.0
-Be that as it may, we are relieved that Lord Zhang Fei has come.
+At any rate, we are relieved that Lord Zhang Fei has come.
 
 @146.0
 Lord Yan Yan, is it? By the look of him, he is about my age.
@@ -707,7 +707,7 @@ By the way, Lord Liu Bei, among Yi Province's generals there are others besides 
 Understood. Lord Yan Yan, please help us in this.
 
 @156.2
-Yes. Use this old frame without holding back.
+Yes. Use these old bones without holding back.
 
 @157
 Preparing to march on Luo Castle
@@ -719,7 +719,7 @@ Big Brother, now that I'm here, it'll be fine.
 Reinforcements have come. Let us march anew.
 
 @160.0
-Use this old frame without holding back.
+Use these old bones without holding back.
 
 @161.0
 Then, my lord, shall we march?
@@ -803,7 +803,7 @@ Liu Bei's army has finally come this far! Men, fight for the honor of Shu!
 Hang in there, we have arrived!
 
 @176.2
-...What meaning does this fight have...
+...What is the point of this fight...
 
 @178.0
 Huh?! That is... the enemy?!
@@ -815,7 +815,7 @@ Liu Bei's army has finally come this far! Men, fight for the honor of Shu!
 Hang in there, we have arrived!
 
 @180.2
-...What meaning does this fight have...
+...What is the point of this fight...
 
 @181.0
 What? Part of the enemy is approaching the castle by the mountain road?
@@ -830,7 +830,7 @@ Liu Bei's army has finally come this far! Men, fight for the honor of Shu!
 Hang in there, we have arrived!
 
 @182.2
-...What meaning does this fight have...
+...What is the point of this fight...
 
 @184.0
 Lord Wu Yi, Lord Yan Yan has come over to us too. There is no need to shed blood for nothing. Will you join us?
@@ -1277,7 +1277,7 @@ Yes. Then let us head for Chengdu.
 Then let us go.
 
 @292.0
-I see... Then look forward to my deeds on the battlefield.
+I see... Then watch what I do on the battlefield.
 
 @293.0
 Liu Zhang is holed up in Chengdu. Let us prepare to march.
@@ -1298,7 +1298,7 @@ My lord, the other generals are already standing by to march. Please make your p
 Preparing to march on Chengdu
 
 @297.0
-Look forward to my deeds on the battlefield.
+Watch what I do on the battlefield.
 
 @298.0
 Ma Chao and I look forward to working with you.

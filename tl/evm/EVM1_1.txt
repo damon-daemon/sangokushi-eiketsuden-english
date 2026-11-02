@@ -41,7 +41,7 @@ Sir!
 Lead an army to Xuzhou at once and take the vanguard! I will follow as far as Xiaopei!
 
 @8.1
-Sir, it is an honor beyond my worth. I will march to Xuzhou at once and bring back Tao Qian's head!
+Sir, I am unworthy of such an honor. I will march to Xuzhou at once and bring back Tao Qian's head!
 
 @9.0
 Off to Xuzhou at once! We fight to avenge our lord's father!
@@ -65,7 +65,7 @@ Seems like important business. You'd better hear him out soon.
 Brother, please speak with Lord Mi Zhu first.
 
 @16.0
-Lord Liu Bei, we meet at last. I am Mi Zhu, a retainer of Tao Qian.
+Lord Liu Bei, it is a pleasure to meet you. I am Mi Zhu, a retainer of Tao Qian.
 
 @16.1
 I met Lord Tao Qian during the campaign against Dong Zhuo. But what brings you here?
@@ -110,7 +110,7 @@ Confer with Guan Yu and Zhang Fei
 Brother, even if we send aid, Cao Cao's army is too strong for us. What do we do?
 
 @21.0
-Brother, even if we send aid, our army today has not the strength to stand against Cao Cao.
+Brother, even if we send aid, our army today lacks the strength to stand against Cao Cao.
 
 @21.1
 Hm. Then let us borrow troops from Lord Gongsun Zan.
@@ -461,7 +461,7 @@ Ah, Mi Zhu. You did well to persuade Lord Liu Bei. Lord Liu Bei, it has been a w
 I am glad we arrived in time.
 
 @90.3
-I offer my thanks, as you see.
+Please accept my thanks.
 
 @91
 Discuss next steps with Tao Qian and the others
@@ -479,7 +479,7 @@ Thank you. You are the only ones who came to our aid.
 If Lord Liu Bei had not come, we would all have been slaughtered.
 
 @96.0
-Still, we may have won the first battle, but the enemy has a great army. At this rate...
+We may have won the first battle, but the enemy has a great army. At this rate...
 
 @97.0
 Cao Cao's army will be back soon. What should we do?
@@ -572,13 +572,13 @@ Ugh... Cao Cao's army is formidable...
 Lord Cao Cao, terrible news! Lu Bu has attacked Chenliu!
 
 @116.1
-What?! Lu Bu, that cunning dog... Hmm, it cannot be helped. All units, retreat! Tao Qian, Liu Bei, I leave you your lives for now!
+What?! Lu Bu, that cunning dog... Hmm, so be it. All units, retreat! Tao Qian, Liu Bei, you live for now!
 
 @117
 Cao Cao's army retreated
 
 @118.0
-Damn... I underestimated them... ...What?! Lu Bu is attacking Chenliu?! ...Hmm, it cannot be helped. All units, retreat! Tao Qian, Liu Bei, I leave you your lives for now!
+Damn... I underestimated them... ...What?! Lu Bu is attacking Chenliu?! ...Hmm, so be it. All units, retreat! Tao Qian, Liu Bei, you live for now!
 
 @119
 Cao Cao's army retreated
@@ -641,7 +641,7 @@ Thank you. Xuzhou is saved.
 Lord Liu Bei, thank you.
 
 @134.0
-That we can be here like this is thanks to Lord Liu Bei.
+We owe our lives to Lord Liu Bei.
 
 @135.0
 I am glad Xuzhou was saved.
@@ -668,7 +668,7 @@ I want it used by someone who will give it true meaning. Please accept it.
 Lord Liu Bei, in truth... I have a favor to ask.
 
 @139.1
-If it is within my power, please tell me anything.
+If it is within my power, you need only ask.
 
 @139.2
 Thank you. I would like you to take over the governing of Xiaopei.

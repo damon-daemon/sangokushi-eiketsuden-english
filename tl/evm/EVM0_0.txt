@@ -233,7 +233,7 @@ Liu Bei? Never heard of him. Why would such a man come here? Are they mocking me
 The coalition must be really desperate.
 
 @54.4
-Hmph, whoever it is, no matter. I will offer them up in blood again! All troops, go out and meet them!
+Hmph, whoever it is, no matter. I will make them bleed again! All troops, go out and meet them!
 
 @54.5
 Let's finish Hua Xiong quickly and give Yuan Shu, who looked down on us, a real shock.
@@ -356,10 +356,10 @@ Zhang Fei leveled up!
 All troops, retreat!
 
 @73.0
-Hmph! For a rabble of an army, they are quite good. But still, an insect has the death it deserves. Taste my attack!
+Hmph! For a rabble of an army, they are quite good. But insects die the death insects deserve. Taste my attack!
 
 @74.0
-Damn it! It can't be helped. All troops, retreat!
+Damn it! We have no choice. All troops, retreat!
 
 @74.1
 We did it! We have beaten Lu Bu's army!
