@@ -1,0 +1,945 @@
+@0
+Ch. 4: Retaking Jing Province
+
+@1
+Chapter 4: Retaking Jing Province
+
+@2
+To overthrow Cao Pi of Wei, Liu Bei allied with Wu. Shu, bent on restoring the Han, and Wu, seeking further territory: two states with different aims had joined hands. In the Chengdu Council Hall, Shu's senior retainers began to plot the downfall of Wei.
+
+@3
+Chengdu Council Hall
+
+@4.0
+My lord, Guan Yu's son Guan Xing and Zhang Fei's son Zhang Bao have come.
+
+@4.1
+What! Show them in at once.
+
+@4.2
+Yes, my lord. Guan Xing, Zhang Bao, step forward.
+
+@5.0
+I am Zhang Bao, son of Zhang Fei. Like my father, I wish to serve you from now on, my lord.
+
+@5.1
+I am Guan Xing, son of Guan Yu. Like Zhang Bao, I ask for your favor.
+
+@5.2
+You both have your fathers' strength. Do your best from now on.
+
+@5.3
+Yes, sir. With your leave, we will go.
+
+@6
+Zhang Bao and Guan Xing joined as retainers!
+
+@7.0
+Um, Father, I have come of age now, but will I have to go to war from here on?
+
+@7.1
+...If I put you in the formation, of course you will fight. Are you saying you dislike that?
+
+@7.2
+N-no! I didn't mean anything by it... ...Yes, I understand. Then, I'll take my leave... ... Sigh... This is such a burden...
+
+@8
+Liu Shan joined as a retainer...
+
+@9.0
+Kongming, will he be all right like that?
+
+@9.1
+...He probably does not yet grasp how harsh war is. But more importantly, my lord, there is something I wish to discuss.
+
+@10.0
+Now that we have made the alliance with Wu, our only enemy is Wei.
+
+@10.1
+Yes... We must crush Wei and restore the Han dynasty.
+
+@11
+Discuss the future
+
+@12.0
+I can't forget the wrong done to Guan Yu... But our goal is restoring the Han. I'm sure Guan Yu wants that too...
+
+@13.0
+My lord! Let us strike Wei as soon as possible.
+
+@14.0
+At last, the decisive battle with Wei. Look forward to what I can do, my lord.
+
+@15.0
+I, Yan Yan, will not lose to Lord Huang Zhong or to any other general.
+
+@16.0
+There are two roads to Wei's Luoyang: through Xiangyang in Jing Province, and through Chang'an in Guanzhong. Wei's elite guard both Jing Province and Guanzhong.
+
+@17.0
+I see. Kongming, how do you think we should attack?
+
+@17.1
+Now that we have allied with Wu, the best plan is to attack from Xiangyang jointly with Wu. But that alone would leave Hanzhong thinly held. So we should send a separate force to Guanzhong to pin down Wei's army there.
+
+@17.2
+But Shu has fewer troops than Wei. Isn't it dangerous to split them in two?
+
+@17.3
+I am aware of that. The commander of the separate force must be an elite officer. Whether to send one, I leave to your judgment. Please consider it.
+
+@18
+Think over whether to send a separate force to Guanzhong
+
+@19.0
+Sending troops to Guanzhong is fine, but then...we'd have to spare about ten of us. What do we do? Do we even have that many men?
+
+@20.0
+Indeed, I think we do need to split the enemy's attack.
+
+@21.0
+I wish only to follow you, my lord, and fight at your side.
+
+@22.0
+Guanzhong is the region north of Hanzhong. There are cities there like Chencang and Chang'an.
+
+@23.0
+My lord, have you decided?
+
+@24
+Send a separate force\nDo not send a separate force
+
+@25.0
+I think Pang Tong would make a good commander for the separate force.
+
+@25.1
+Yes. Then let us summon Pang Tong.
+
+@26.0
+You summoned me?
+
+@27.0
+Pang Tong, I entrust the separate force to you.
+
+@27.1
+So we are to march on Guanzhong.
+
+@27.2
+As sharp as ever. Exactly.
+
+@27.3
+Understood. I will head for Yangping Pass at once.
+
+@27.4
+Good. Then take Zhao Yun and the others with you.
+
+@27.5
+Yes, my lord. I will take my leave.
+
+@28.0
+I think Zhao Yun would make a good commander for the separate force.
+
+@28.1
+Yes. Then let us summon Zhao Yun.
+
+@29.0
+You summoned me?
+
+@30.0
+Zhao Yun, I entrust the separate force to you.
+
+@30.1
+So we are to march on Guanzhong?
+
+@30.2
+As sharp as ever. Exactly.
+
+@30.3
+Understood. I will head for Yangping Pass at once.
+
+@30.4
+Good. Then take Ma Chao and the others with you.
+
+@30.5
+Yes, my lord. I will take my leave.
+
+@31.0
+Understood. Then let us break through Jing Province with the whole army.
+
+@32.0
+Then I shall go and ask Wu for a joint army.
+
+@32.1
+Yes. I'm counting on you.
+
+@33
+Ye Palace
+
+@34
+Shu and Wu's alliance soon came to Wei's attention.
+
+@35.0
+Your Majesty, Shu and Wu have formed an alliance. They will surely attack. We must take some measure.
+
+@35.1
+Yes. Then we shall send reinforcements to Xiangyang. ...Xiahou Dun.
+
+@36.0
+Go to Xiangyang as reinforcements at once. Join forces with Cao Ren there and throw back the rebel army!
+
+@36.1
+Understood. I will go at once!
+
+@37.0
+And Cao Hong, Jia Xu.
+
+@38.0
+Cao Hong, go to Guanzhong and tell Cao Zhen this: if the enemy attacks, meet them; if not, go to Xiangyang as reinforcements.
+
+@38.2
+Jia Xu, go to Hefei and tell Zhang Liao the same.
+
+@38.3
+Understood.
+
+@40
+Xiahou Dun, on Cao Pi's orders, arrived at Xiangyang, which Cao Ren held
+
+@41.0
+By Your Majesty's order, I have come as reinforcements.
+
+@41.1
+Glad you came. We alone could not hold this place.
+
+@41.2
+Let us prepare against the enemy at once.
+
+@41.3
+Then, Xiahou Dun, hold Wan Castle for us.
+
+@41.4
+So I am the last bastion. Understood.
+
+@41.5
+Xu Huang will hold Nanxiang, and Yu Jin Xinye.
+
+@41.7
+Understood.
+
+@42
+Chengdu Council Hall
+
+@43.0
+My lord, I have just returned from Wu.
+
+@44
+Discuss the future
+
+@45.0
+First, please hear Ma Liang's report.
+
+@46.0
+Wu, huh...
+
+@47.0
+My lord, we need no help from Wu. I alone will be enough.
+
+@48.0
+Did the talks with Wu go well?
+
+@49.0
+Ma Liang, how did it go with the joint army?
+
+@49.1
+Yes. Lord Sun Quan has agreed to send a joint army.
+
+@49.2
+Ah, that is good news.
+
+@49.3
+Lord Sun Quan will go to Jiangling.
+
+@49.4
+Yes. Then we shall go to Jiangling too.
+
+@50
+Go to Jiangling
+
+@51
+Jiangling Council Hall
+
+@52.0
+My lord, Lord Sun Quan has arrived at Jiangling.
+
+@52.1
+Yes. Show him in.
+
+@53.0
+Wu... When I heard Guan Yu had been defeated by Wu, I never imagined I would join hands with Sun Quan to attack Wei together.
+
+@53.1
+Your wise decision, my lord, brought about this present alliance. ...My lord, Lord Sun Quan has arrived.
+
+@54.0
+Lord Sun Quan, welcome.
+
+@54.1
+Lord Liu Bei, I am glad to meet you.
+
+@55
+Talk about the future with Sun Quan and the others
+
+@56.0
+First, please speak with Lord Sun Quan.
+
+@57.0
+Zhang Fei...I know it must be painful, but hold back.
+
+@57.1
+Yeah... I know... I know...
+
+@58.0
+My lord, first please speak with Lord Sun Quan.
+
+@59.0
+My lord, please attend to the guest.
+
+@60.0
+I have come leading an army to destroy Wei. Allow me to introduce our commander, Lu Xun. Lu Xun, come forward.
+
+@61.0
+I am Lu Xun. I look forward to your acquaintance.
+
+@61.1
+Lord Sun Quan, Lord Lu Xun, let us strike Wei together and restore the nation.
+
+@61.2
+Yes. Once Cao Pi falls, this strife will surely end.
+
+@62.0
+We too will do our utmost to strike Wei.
+
+@63.0
+Let us strike Wei together.
+
+@64.0
+Fighting alongside Wu... I'd never have imagined it a while ago...
+
+@65.0
+Let us strike Wei together.
+
+@66.0
+Let us strike Wei together.
+
+@67.0
+It would be good to have Lord Sun Quan send a separate force to divide the enemy's strength.
+
+@67.1
+Yes...where should we ask the separate force to attack?
+
+@67.2
+Zhang Liao is at Hefei, north of Wu. If Hefei is attacked, Zhang Liao will be unable to send reinforcements. Whether to ask for a separate force, I leave to your judgment. Please consider it.
+
+@68
+Think over whether to ask Sun Quan for a separate force
+
+@69.0
+We too will do our utmost to strike Wei.
+
+@70.0
+Let us strike Wei together.
+
+@71.0
+Fighting alongside Wu... I'd never have imagined it a while ago...
+
+@72.0
+Let us strike Wei together.
+
+@73.0
+Let us strike Wei together.
+
+@74.0
+My lord, have you decided?
+
+@75
+Ask them to attack Hefei\nDo not ask
+
+@76.0
+Lord Sun Quan, might the Wu army send out a separate force?
+
+@76.1
+A separate force?
+
+@76.2
+I would like you to attack Hefei, north of Wu.
+
+@76.3
+To pin the enemy down, I see. Understood. We will march on Hefei.
+
+@77.0
+Then I will return home and begin preparing for the Hefei campaign.
+
+@78.0
+In that case, my army will provide war funds. Please accept them.
+
+@79
+You got 2000 gold in war funds!
+
+@80.0
+If anything comes up, tell Lu Xun. Now, if you will excuse me.
+
+@81.0
+Now then, let us prepare to march too.
+
+@82
+Prepare to march
+
+@83.0
+Fighting alongside Wu... I'd never have imagined it a while ago...
+
+@84.0
+Let us strike Wei together.
+
+@85.0
+Let us strike Wei together.
+
+@86.0
+Let us strike Wei together.
+
+@87.0
+Shall we march?
+
+@89.0
+First, let us head for the nearest city, Xiangyang.
+
+@90
+Annihilate "Cao Ren"
+
+@91.0
+Shu's army has finally come to attack! Hold them back at all costs! Understood!
+
+@91.1
+It seems the commander is Cao Ren. Let us take Xiangyang and bring Jing Province back into our hands!
+
+@91.2
+All of you! Do not fall behind the Shu army! Show the realm the might of Wu!
+
+@93.0
+Oh, reinforcements have come! Everyone, reinforcements have arrived! Push them back in one go!
+
+@93.1
+Hmm... For reinforcements to appear here...
+
+@94.0
+We cannot let Wei run wild in Jing Province any longer!
+
+@95
+This Hex victory is for debugging. If you reach this in normal play, it is a bug.
+
+@96.0
+Now then, let us enter Xiangyang.
+
+@97
+Discuss the future in Xiangyang
+
+@98.0
+It has been a long time, Cao Ren!
+
+@98.1
+Hm, who is it? ...Y-you! You're alive!?
+
+@98.2
+Did you think I would die so easily!? Now I avenge Jing Province!
+
+@99
+A mysterious general slew Cao Ren!
+
+@100.0
+What...infighting? Very well, we attack all at once!
+
+@101.0
+Gr-grr... That Liu Bei! Aaargh!!
+
+@101.1
+Good! We have slain Cao Ren!
+
+@102
+Cao Ren was slain. Liu Bei's army took Xiangyang.
+
+@103.0
+...I have no face to show my Brother... Forgive me...
+
+@104
+The mysterious general retreated
+
+@105.0
+Hm! What was that...? No, surely not...
+
+@106
+You got 1500 gold!
+
+@107.0
+Now then, let us enter Xiangyang.
+
+@108
+Discuss the future in Xiangyang
+
+@110.0
+My lord, congratulations. At last we have retaken Xiangyang.
+
+@111.0
+Cao Ren is slain, but Wan Castle still lies before Luoyang. Enemies will surely be waiting on the road as well.
+
+@112.0
+Hey...Big Brother, Guan Yu really is dead, isn't he...? But I still feel like he's alive somewhere.
+
+@113.0
+Congratulations on retaking Xiangyang.
+
+@114.0
+Pleased to meet you. I am Gan Ning, a retainer of Wu. I look forward to your acquaintance.
+
+@115.0
+To reach Luoyang we must go through either Xinye or Nanxiang, and then pass Wan Castle too.
+
+@115.1
+Yes...if we do not take both Xinye and Nanxiang, we may be caught in a pincer at Wan Castle.
+
+@115.2
+Which is why the best plan is to have Lord Lu Xun act separately and attack Xinye and Nanxiang at the same time.
+
+@116.0
+We should have Lord Lu Xun act separately and attack Xinye and Nanxiang at the same time.
+
+@117.0
+We can't keep brooding over Guan Yu forever. Come on, on to the next battle.
+
+@118.0
+With this momentum, let us go to the next battlefield.
+
+@119.0
+We of Wu also intend to help Shu crush Wei's ambitions.
+
+@120.0
+I was listening. Which should I take, Xinye or Nanxiang? Tell me when you have decided.
+
+@121
+Decide whether Lu Xun attacks Xinye or Nanxiang
+
+@122.0
+I hear Xinye is held by Yu Jin, and Nanxiang by Xu Huang.
+
+@123.0
+Decide quickly, Big Brother. I'll fight for Guan Yu's share too.
+
+@124.0
+Either is fine with me. I simply follow you, my lord.
+
+@125.0
+If we can hold both Xinye and Nanxiang, only Wan Castle will remain.
+
+@126.0
+Have you decided?
+
+@127
+Send Lu Xun to Nanxiang\nSend Lu Xun to Xinye
+
+@128.0
+Understood. Then I will go to Nanxiang.
+
+@129.0
+Understood. Then I will go to Xinye.
+
+@130.0
+Let us march too. When you are ready, give me the order.
+
+@130.1
+Then we shall make preparations ahead of time.
+
+@131
+Prepare to march
+
+@132.0
+Are you ready?
+
+@134.0
+Then, Lord Liu Bei, we head for Nanxiang.
+
+@134.1
+Yes. I leave it to you.
+
+@134.2
+Let us march on Xinye too.
+
+@135.0
+Then, Lord Liu Bei, we advance on Xinye.
+
+@135.1
+Yes. I leave it to you.
+
+@135.2
+Let us march on Nanxiang too.
+
+@136
+Drive off Yu Jin\nSeize the granary
+
+@137.0
+Do not let Liu Bei's army through! Not one of them is to reach Wei!
+
+@137.1
+Yu Jin guards Xinye. Take it, and use it as a foothold toward Wan Castle.
+
+@139.0
+Do not let Liu Bei's army through! Push them back to Jiangling!
+
+@139.1
+Oh, reinforcements! Everyone, reinforcements have come! Crush them right now!
+
+@140.0
+What? The granary was taken!? Then we cannot hold this place! ...Argh! Fall back to Wan Castle!
+
+@141.0
+I see that must be Yu Jin! I, Zhang Fei, demand single combat with you!
+
+@141.1
+Gah! Zhang Fei!! W-waaah!
+
+@141.2
+This is for Guan Yu! Prepare to die!
+
+@142.0
+Retreat! Fall back! Fall back to Wan Castle!
+
+@143
+Zhang Fei leveled up!
+
+@144.0
+D-damn! Retreat! Fall back to Wan Castle!
+
+@145
+Yu Jin retreated. Liu Bei's army took Xinye.
+
+@146.0
+Well done! Take Wan Castle, and Luoyang is right before us!
+
+@147
+You got 1500 gold!
+
+@148
+Drive off Xu Huang\nCapture the two forts
+
+@149.0
+So you came, Liu Bei! You shall not pass here! Taste my flood tactic!
+
+@149.1
+This is...! My lord! This place is dangerous!
+
+@149.2
+What do you mean?
+
+@149.3
+This ground was once a riverbed! They must have dammed the water at the fort upstream! If the dike is broken, our army will be swallowed by the torrent!
+
+@149.4
+But Lu Xun is fighting at Xinye. If we retreat, he will be left isolated there.
+
+@149.5
+Then let us take the fort from the enemy's hands. There is no other way.
+
+@149.6
+Understood. All forces, seize the fort quickly!
+
+@150.0
+I am Zhang Bao, son of Zhang Fei! You there, commander! Fight me one-on-one!
+
+@150.1
+Ha! Just because you are Zhang Fei's son, do you think Xiahou Shang will be cowed?
+
+@150.2
+What! I'll teach you a lesson!
+
+@151.0
+Xiahou Shang, you have fallen to Zhang Bao!
+
+@152
+Zhang Bao leveled up!
+
+@153
+You got 2000 gold!
+
+@154
+The north fort was captured!
+
+@155.0
+We did it! We took the fort! There is no more danger of a flood attack. Crush Xu Huang all at once!
+
+@155.1
+What! The fort was captured!? My scheme brought to nothing... No choice, fall back to Wan Castle!
+
+@156
+The south fort was captured!
+
+@157.0
+Good! We took the fort! Now there is no fear of the flood attack. Attack Xu Huang all at once!
+
+@157.1
+What! The fort was captured!? My scheme brought to nothing... No choice, fall back to Wan Castle!
+
+@158.0
+Good, now! Break the dike! Drown Liu Bei's army!
+
+@159
+HP reduced!
+
+@160.0
+We were too late...
+
+@160.1
+Ha ha ha! Serves you right, Liu Bei! The whole army, all-out attack on Liu Bei's army!
+
+@161
+Drive off Xu Huang
+
+@162
+Victory Condition Changed
+
+@163.0
+D-damn! Retreat! Fall back to Wan Castle!
+
+@164
+Xu Huang retreated. Liu Bei's army took Nanxiang.
+
+@165.0
+Well done! Take Wan Castle, and Luoyang is right ahead!
+
+@166
+You got 1500 gold!
+
+@167
+Xinye Camp
+
+@168
+This is Liu Bei's camp at Xinye. Liu Bei's army deployed at Xinye to attack Wan Castle and decided to plan its next steps.
+
+@169.0
+Lord Lu Xun, thank you for your efforts.
+
+@169.1
+This was nothing. The strength of Shu's army is truly remarkable. ...More to the point, Lord Liu Bei, my lord has ordered me to return home. I am sorry, but...
+
+@169.2
+I see. Then please tell Lord Sun Quan I give him my thanks.
+
+@169.3
+Thank you. From the Wu army, we shall leave these men with you.
+
+@170.0
+Ling Tong, Xu Sheng, Ding Feng and I will stay here and fight together with you. We beg your favor.
+
+@171
+Gan Ning, Ling Tong and the others joined!
+
+@172.0
+Xu Sheng, Ding Feng and I will stay here and fight with Lord Liu Bei. We beg your favor.
+
+@173
+Ling Tong, Xu Sheng and Ding Feng joined!
+
+@174.0
+Ding Feng and I will stay here and fight with Lord Liu Bei. We beg your favor.
+
+@175
+Xu Sheng and Ding Feng joined!
+
+@176.0
+Ah, this is reassuring. Lord Lu Xun, I thank you.
+
+@176.1
+Then, if you will excuse me.
+
+@177.0
+(Liu Bei, and Kongming... Too formidable to make enemies of. I must make my lord understand.)
+
+@178.0
+Now, riding this momentum, let us attack Wan Castle. Please prepare to march.
+
+@179
+Prepare to march
+
+@180.0
+Come on, Big Brother, let's go.
+
+@181.0
+Behold what Huang Zhong can do.
+
+@182.0
+Please do not forget me, my lord.
+
+@183.0
+My lord, please prepare to march.
+
+@184.0
+Lord Liu Bei, I look forward to working with you.
+
+@185.0
+Lord Liu Bei, I look forward to working with you.
+
+@186.0
+Lord Liu Bei, I look forward to working with you.
+
+@187.0
+Lord Liu Bei, I look forward to working with you.
+
+@190.0
+Now then, let us go to Wan Castle.
+
+@191.0
+Our army goes to Hefei to tie Zhang Liao down! The whole army, march!
+
+@192.0
+Grr! Now I can't go reinforce Xiahou Dun! Damn!
+
+@193.0
+We will stay here and watch Shu and Wei fight. We have kept our promise to Liu Bei. If the two destroy each other, nothing could be better.
+
+@194.0
+The enemy is not coming to attack Hefei! Good! The whole army now goes to reinforce Xiahou Dun! Hurry!
+
+@195
+Drive off Zhang Liao
+
+@196.0
+Good, it seems we made it in time. The whole army, strike Liu Bei's flank! Charge!!
+
+@196.1
+My lord, we've been hit! Zhang Liao's army from Hefei is ambushing us!
+
+@196.2
+Grr... All forces, meet Zhang Liao head on! Throw him back!
+
+@197
+Reinforcements appeared for Zhang Liao's army!
+
+@198.0
+Zhang Liao! Hang in there! Yue Jin has arrived!
+
+@198.1
+Ah, Yue Jin has come! Rejoice! Reinforcements are here!
+
+@199
+Reinforcements appeared for Zhang Liao's army!
+
+@200.0
+Sorry I'm late, Zhang Liao!
+
+@200.1
+Ah, Li Dian! Good of you to come! Now, all-out attack!
+
+@201.0
+It's been a while, Zhang Liao!
+
+@201.1
+Zhang Fei...Good! I, Zhang Liao, call you out to single combat.
+
+@201.2
+Just what I wanted! Here I come, Zhang Liao!
+
+@202.0
+The whole army, retreat! Zhang Fei, we shall meet again!
+
+@203.0
+Tch, he ran. Is there no one who can match Zhang Fei!
+
+@204
+Zhang Fei leveled up!
+
+@205.0
+Grr...! There is no help for it. Retreat! Retreat!
+
+@206
+Zhang Liao's army retreated
+
+@207
+You got 1500 gold!
+
+@208.0
+We held them off somehow. Good, once the whole army is reorganized, we attack Wan Castle at once!
+
+@210
+Drive off Xiahou Dun
+
+@211.0
+That Liu Bei, getting full of himself! Xiahou Dun will show them the true strength of Wei's army!
+
+@211.1
+My lord, if we take Wan Castle, Luoyang lies before us. Now, let us go!
+
+@212.0
+Good! Lower the bridge!
+
+@213
+The bridge was lowered!
+
+@214.0
+What, the bridge was lowered!? That Yu Jin, he's useless! Damn, in any case, repel them!
+
+@215.0
+Xu Huang! Your luck has run out too!
+
+@215.1
+What!
+
+@215.2
+Zhang Fei will take that head of yours!
+
+@216.0
+Damn it...!
+
+@217
+Zhang Fei leveled up!
+
+@218.0
+They came inside the castle. Heh heh... They move just as I expected. Why do you think I lowered only one bridge? They can hardly move there. Now! Strike the enemy all at once!!
+
+@219.0
+Damn! Liu Bei's army! To think they came this far!
+
+@220.0
+Hearing of my brother's peril, Guan Yu has rushed here! If you value your lives, clear the way!
+
+@220.1
+Ah...! My eyes did not deceive me after all! Guan Yu...you lived!
+
+@220.2
+Guan Yu...it's Guan Yu, isn't it... You're alive...
+
+@220.3
+Guan Yu will cut down Xiahou Dun!
+
+@221.0
+Y-you're Guan Yu! You're alive!
+
+@221.1
+I cannot die in peace until Wei is defeated! I have come back from hell!
+
+@221.2
+Then I will send you back to hell once more!
+
+@221.3
+Never!
+
+@222.0
+Huff, huff... Farewell, Xiahou Dun...
+
+@223
+Guan Yu leveled up!
+
+@224.0
+Y-you...but, even if Xiahou Dun dies, Wei will never fall! Prepare yourselves...Guh...!!
+
+@225
+You got 1500 gold!
+
+@226
+Liu Bei's army took Wan Castle. Luoyang was now before them. And the dream of Liu Bei and his brothers, the restoration of the Han...
+

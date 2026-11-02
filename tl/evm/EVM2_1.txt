@@ -1,0 +1,1050 @@
+@0
+Ch. 2: Lying Low at Xinye
+
+@1
+Chapter 2: Lying Low at Xinye
+
+@2
+War is not won by arms alone.\n\nYuan Shao, who overwhelmed all others with sheer numbers, was crushed by Cao Cao at Guandu.\n\nYuan Shao always eyed even his closest loyal retainers with suspicion, while Cao Cao accepted even Yuan Shao's generals and took them into his own army.\n\nLiu Bei, drifting into Jing Province, would repeat these words again and again in this land: war is not won by arms alone.
+
+@3
+Xiangyang Council Hall
+
+@4.0
+Ah, Liu Bei! Welcome to Jing Province.
+
+@5
+Meet Liu Biao
+
+@6.0
+It is only proper that you greet our lord first.
+
+@7.0
+Lord Liu Bei, it is a pleasure to meet you at last. I am Kuai Yue. I hope we shall be well acquainted.
+
+@8.0
+Having come this far, even Cao Cao cannot touch you. Rest easy and live in peace here. ...Oh, yes. You must meet my sons too. Kuai Yue, bring Liu Qi and Liu Cong here.
+
+@9.0
+Liu Bei, these are my sons, Liu Qi and Liu Cong.
+
+@10.0
+Lord Liu Qi is the son of Lord Liu Biao's first wife. Lord Liu Cong is the son of his present wife, my sister.
+
+@11.0
+How do you do. I am Liu Qi. Your name is Liu as well, my lord. My father and you are like brothers, so you are my uncle. Uncle, I look forward to your guidance.
+
+@12.0
+Pleased to meet you. I am Liu Cong. I hope we will get along.
+
+@13.0
+Liu Bei, please look after my sons. Now then... would you guard Xinye Castle for me?
+
+@13.1
+Xinye Castle...?
+
+@13.2
+It is not a large castle. It lies north of Jing Province. I would like you to stay there and watch Cao Cao's movements.
+
+@13.3
+Very well. Thank you for everything.
+
+@14
+Go to Xinye Castle
+
+@15.0
+Xinye lies north of Xiangyang. I am counting on you.
+
+@16.0
+I hear Liu Bei has done nothing but flee from Cao Cao. I worry about Xinye.
+
+@17.0
+I look forward to your continued guidance.
+
+@19
+Xinye Council Hall
+
+@20.0
+Brother, this is our new castle. We have finally been able to settle.
+
+@21
+Look around the city
+
+@22.0
+Having a castle does bring peace of mind.
+
+@23.0
+Big Brother, we've finally settled down.
+
+@24.0
+So our new life begins here.
+
+@25.0
+My lord, we have only just come to this land. We must learn the state of the town in detail.
+
+@26.0
+...Hm? Is that not Lord Liu Bei?
+
+@27.0
+You are Lord Liu Bei. I heard you were in the castle and have been looking for you. I am Yi Ji, sent by Lord Liu Biao. Leave matters here to me. I look forward to working with you.
+
+@27.1
+I see. The pleasure is mine.
+
+@28
+Yi Ji joined as a retainer!
+
+@29.0
+Lord Liu Bei, a man called Master Shuijing lives here. Please be sure to meet him.
+
+@29.1
+Master Shuijing?
+
+@29.2
+Master Shuijing is close with many wise men. I am sure you would gain much from him.
+
+@29.3
+I see. Thank you for going to the trouble, Yi Ji.
+
+@29.4
+However, I do not know where he is.
+
+@29.5
+Understood. I will look for him in time.
+
+@30.0
+Then I shall go to the council hall. Let us meet again later.
+
+@31.0
+Master Shuijing? He lives in Xiangyang, but he is often not at home.
+
+@32.0
+They say Yuan Shao is dead. Even a state that big couldn't beat Cao Cao.
+
+@33.0
+They say Lord Liu Biao's present wife wants her own son, Lord Liu Cong, to be the heir. But the eldest is Lord Liu Qi.
+
+@34.0
+You are Lord Liu Bei. I am Liu Feng. So you were in Xinye after all. I heard of your fame and came here. Please take me as your retainer.
+
+@34.1
+Very well. I look forward to working with you.
+
+@35
+Liu Feng joined as a retainer!
+
+@36.0
+Then I will go to the council hall.
+
+@37.0
+Master Shuijing? He lives in Xiangyang, but he is often not at home.
+
+@38.0
+They say Yuan Shao is dead. Even a state that big couldn't beat Cao Cao.
+
+@39.0
+They say Lord Liu Biao's present wife wants her own son, Lord Liu Cong, to be the heir. But the eldest is Lord Liu Qi.
+
+@40
+Talk with Guan Yu and the others
+
+@41.0
+I hear these men have become Brother's new retainers.
+
+@42.0
+Suddenly we have a lot more officers.
+
+@43.0
+Officers must be trained too. Numbers alone are useless on the battlefield.
+
+@44.0
+I think having many allies is a good thing.
+
+@45.0
+Lord Liu Bei, I look forward to serving you.
+
+@46.0
+Lord Liu Biao seems troubled lately. Probably it is the revolt in Jiangxia.
+
+@46.1
+The revolt in Jiangxia?
+
+@46.2
+Yes. Jiangxia is a town in the east of Jing Province. Bandits have appeared and are said to be ravaging it.
+
+@47.0
+Bandits? I'll finish them off all by myself.
+
+@48.0
+Officers must be trained too. Numbers alone are useless on the battlefield.
+
+@49.0
+I think having many allies is a good thing.
+
+@50.0
+Jiangxia is in the far east of Jing Province.
+
+@51.0
+Bandits have appeared in Jiangxia lately.
+
+@52.0
+Brother, let us ease Lord Liu Biao's worries.
+
+@52.1
+Yes. He has done so much for us, so we must repay him a little.
+
+@52.2
+All right! If that's settled, let's march out quick!
+
+@52.3
+Zhang Fei, you should not be so eager.
+
+@53.0
+You will ease Lord Liu Biao's worries? Thank you.
+
+@54
+Prepare to subdue the Jiangxia bandits
+
+@55.0
+Bandits, right? They're no match for me.
+
+@56.0
+So the enemy is bandits. I will not forgive such men.
+
+@57.0
+My lord, prepare to march.
+
+@58.0
+I will surely meet your expectations. Watch me.
+
+@59.0
+You will ease Lord Liu Biao's worries? Thank you.
+
+@60.0
+Brother, are you ready?
+
+@61.0
+This time we are putting down bandits.
+
+@63.0
+Lord Liu Bei, you have never been to Jiangxia. I will guide you.
+
+@64
+Zhang Wu is crushed
+
+@65.0
+So Liu Biao's army has deigned to show up. Hah, they're nothing but looks. I can't stand them. Hey, men! I'm tired of playing with these fools. Don't hold back today!
+
+@66.0
+You bandit there. Stop now, or you'll be going to the next world.
+
+@66.1
+Look at that arrogant one. Perfect, we'll take his head as today's prize.
+
+@66.2
+Look at your opponent before you pick a fight.
+
+@68.0
+Where is the bandit chief...? Ah, that one.
+
+@68.1
+Heh heh, there you are. "Ah, that one," huh? I absolutely hate your type. I'll kill you!
+
+@68.2
+I will not forgive anyone who recklessly terrorizes the people!
+
+@69.0
+...Hm, that bandit was riding quite a fine horse. I shall become its new master.
+
+@70
+Liu Bei's army defeated the Jiangxia bandits
+
+@72.0
+Liu Biao's army is this strong...?
+
+@73
+Liu Bei's army defeated the Jiangxia bandits
+
+@74.0
+Zhou Yu, whose army is that? I have never seen such men in Liu Biao's forces.
+
+@74.1
+Judging by his appearance, could he be the one called Liu Bei?
+
+@74.2
+Liu Bei? They say he once fought Cao Cao to a standstill. No wonder the bandits were no match for him.
+
+@74.3
+I meant to use those bandits to make Jiangxia ours... But with him there, we cannot lay hands on Jiangxia carelessly.
+
+@74.4
+Right. For now, back to Wu to rework our plans. We will make Jing Province ours.
+
+@74.6
+Wait for me, Liu Biao, enemy of my late father! I will have your head.
+
+@75.0
+Whose army was that? They don't seem to be bandits. Hm... that banner... "Sun"...?
+
+@76
+Obtained 800 gold!
+
+@77.0
+Brother, go report the pacification to Lord Liu Biao. We will go ahead to Xinye and wait for you.
+
+@78.0
+Good. Then I will go to Xiangyang.
+
+@79
+Go report to Liu Biao in Xiangyang
+
+@80.0
+Oh, Liu Bei. What brings you here?
+
+@81.0
+Surely he has not come to bring us some new trouble.
+
+@83.0
+Lord Liu Bei looks quite cheerful.
+
+@84.0
+How is Xinye?
+
+@85.0
+What! You have already put down the Jiangxia bandits! They gave me so much trouble. Strangely strong for bandits, they wore out my army. As expected of you, Liu Bei.
+
+@85.1
+Not at all. It is the least I can do to repay you for lending me Xinye.
+
+@85.2
+There is something I would like to ask.
+
+@85.3
+What is it?
+
+@85.4
+When we withdrew, we saw a unit that was not the bandits'. Its banner read "Sun."
+
+@85.5
+"Sun," you say? I see... So that is it.
+
+@85.6
+Do you know something about this?
+
+@85.7
+Yes. You have not been in Jing Province long, Liu Bei. Listen well.
+
+@86
+Jing Province was surrounded by enemies on three sides: Cao Cao to the north, Yi Province to the west, and third, the state of Wu to the east. The "Sun" banner Liu Bei had seen was the war flag of Wu, ruled by Sun Quan.\n\nThe strife between Jing and Wu had gone on since the days of Sun Quan's father, with no end in sight.
+
+@87.0
+That is how it is.
+
+@87.1
+I see. So those bandits were Sun Quan's doing.
+
+@87.2
+Yes. For a while nothing had happened... But no, this is my own land's affair. You need only watch Cao Cao. Go back to Xinye and rest.
+
+@88
+Return to Xinye
+
+@89.0
+Go back to Xinye and rest.
+
+@90.0
+I-impressive, I admit. If I had gone in myself, it would have been settled long ago.
+
+@91.0
+Thank you for putting down the revolt in Jiangxia.
+
+@92.0
+As expected of Lord Liu Bei.
+
+@93.0
+To face those bandits and return safe. Well done.
+
+@94.0
+Brother, our spies report that Cao Cao has finally taken all of Yuan Shao's lands.
+
+@94.1
+So he has gone that far...
+
+@96.0
+Brother, our spies report that Cao Cao has finally taken all of Yuan Shao's lands.
+
+@97.0
+Just as I thought. Mere bandits are no match for me.
+
+@98.0
+The bandits in Jiangxia gave Lord Liu Biao so much trouble... Lord Liu Bei's army is strong.
+
+@99.0
+Even Yuan Shao's strength could not stop Cao Cao.
+
+@100.0
+Now only Lord Liu Biao can stand against Cao Cao.
+
+@101.0
+Oh? My lord, it seems we have a visitor.
+
+@102.0
+Brother, if you need me, I will hear you later.
+
+@103.0
+Why am I so strong, I wonder?
+
+@104.0
+My lord, first see Lord Liu Qi.
+
+@105.0
+It is Lord Liu Qi. I wonder what is the matter.
+
+@106.0
+My lord, first see Lord Liu Qi.
+
+@107.0
+My lord, first see Lord Liu Qi.
+
+@108.0
+Uncle, I am to go to Jiangxia. This is farewell for now.
+
+@108.1
+How kind of you to come all this way to tell me.
+
+@108.2
+If I can ever be of use to you, please call on me at any time.
+
+@109.0
+Is Lord Liu Qi going to Jiangxia because of the question of who will be heir, he or Lord Liu Cong?
+
+@110.0
+Jiangxia is practically something I pacified myself.
+
+@111.0
+Lord Liu Qi has a bright face for the first time in a long while. Perhaps his worries are gone.
+
+@112.0
+Lord Liu Bei, I saw Master Shuijing in the city a moment ago. Please go meet him.
+
+@113
+Look for Master Shuijing in Xinye
+
+@114.0
+Who in the world is this Master Shuijing that Yi Ji keeps mentioning?
+
+@115.0
+They say there are still remarkable people in Xinye.
+
+@116.0
+Oh, you are Liu Bei, are you not?
+
+@116.1
+Yes, I am. And you?
+
+@116.2
+I thought so. I heard rumors of you and came all this way. My name is Sima Hui. People call me Shuijing.
+
+@116.3
+So you are Master Shuijing. But what rumors do you mean?
+
+@116.4
+Everyone has been praising you warmly. And your battle at Jiangxia was splendid.
+
+@116.5
+No, it was thanks to those who support me.
+
+@116.6
+True, Guan Yu, Zhang Fei and Zhao Yun are all mighty heroes, yet something important still seems to be missing.
+
+@116.7
+No, I do not think that is so.
+
+@116.8
+Then why do you remain in such a small castle? Surely you hold a loftier ambition.
+
+@116.10
+Just so. If you win either the Sleeping Dragon or the Young Phoenix, your wish may come true.
+
+@116.11
+The Sleeping Dragon and the Young Phoenix? Who are they?
+
+@116.12
+The Sleeping Dragon is a man named Zhuge Liang, styled Kongming. The Young Phoenix is named Pang Tong, styled Shiyuan.
+
+@116.13
+Zhuge Liang... Kongming... Pang Tong... So they are the Dragon and the Phoenix.
+
+@116.14
+Yes. Kongming lives in the countryside of Longzhong, west of Xiangyang. If you are willing, meet him.
+
+@116.15
+Longzhong. Understood. I will surely go.
+
+@116.16
+Yes, you should. It was good to talk with you. Now, I will take my leave.
+
+@117
+Go to the council hall and tell Guan Yu and Zhang Fei about Zhuge Liang
+
+@118.0
+Guan Yu, Zhang Fei, we are going to a place called Longzhong.
+
+@118.1
+What's this all of a sudden? Why the rush?
+
+@118.2
+What business do we have in Longzhong?
+
+@118.3
+I just met the Master Shuijing that Yi Ji spoke of.
+
+@118.4
+Oh, you met Master Shuijing?
+
+@118.5
+According to Master Shuijing, a man named Zhuge Liang, styled Kongming, lives in Longzhong.
+
+@118.6
+Who's this Zhuge Liang fellow?
+
+@118.7
+From the way Master Shuijing spoke, he must be quite a man.
+
+@118.8
+And you intend to go there, Brother.
+
+@118.9
+Guan Yu, you look displeased.
+
+@118.10
+I'm not too keen on it either.
+
+@118.11
+Don't say that. We are going.
+
+@119
+Visit Zhuge Liang in Longzhong
+
+@120.0
+Safe travels. We will mind the castle.
+
+@121.0
+Safe travels. If Master Shuijing praises him so, he must be quite a man. Oh? Longzhong? It is a small village southwest of Xiangyang.
+
+@122.0
+Safe travels.
+
+@123.0
+Take care.
+
+@124
+Kongming's Cottage
+
+@125.0
+Is this the house where this Kongming lives?
+
+@125.1
+Would a great man really be living in a place like this?
+
+@126.0
+Let us ask the boy.
+
+@127.0
+Does such a man really exist?
+
+@128.0
+Who are you?
+
+@128.1
+Imperial Uncle Liu Bei, General of the Left of the Han, Marquis of Yicheng Pavilion, Governor of Yu Province, has come. Would you announce us to the master?
+
+@128.2
+W-wait a minute! That name is too hard. I can't remember it.
+
+@128.3
+Then tell him Liu Bei of Xinye has come.
+
+@128.4
+The master has gone out.
+
+@128.5
+Out? When will he return?
+
+@128.6
+I don't really know. Sometimes he comes right back, and sometimes he doesn't come home for ages.
+
+@129.0
+We came all this way and he's out? Big Brother, let's go home.
+
+@130.0
+I will tell the master that Liu Bei of Xinye came.
+
+@131.0
+Then, Brother, let us return to Xinye.
+
+@132
+Return to the Xinye council hall
+
+@133.0
+The master hasn't come back yet.
+
+@134
+Xinye Council Hall
+
+@135
+Look around Xinye
+
+@136.0
+That was a wasted trip. But it need not be Kongming. Surely someone else will do.
+
+@136.1
+Let's find someone nearby. There are more people here than in some out-of-the-way place like Longzhong.
+
+@137.0
+Xinye is a lively place. With this many people, there must be someone Brother needs.
+
+@138.0
+Big Brother, aren't we enough for you?
+
+@139
+Xinye Meeting Hall
+
+@140.0
+Well, Big Brother? See anyone promising?
+
+@141.0
+No, that is...
+
+@141.1
+The world today...
+
+@142.0
+Is in chaos upon chaos...
+
+@143.0
+Waiting for one to set it right...
+
+@144.0
+I have the talent, it is true...
+
+@145.0
+But there is no one to put it to use...
+
+@146.0
+What's with that guy, singing loudly in a place like this?
+
+@146.1
+Still, there is something moving in that song... Could he be the Sleeping Dragon or Young Phoenix Master Shuijing spoke of?
+
+@146.2
+What are you saying? He looks like a layabout.
+
+@146.3
+No, I am sure of it! I will speak to him.
+
+@147.0
+Sir, if I may.
+
+@148.0
+Yes, what is it?
+
+@148.1
+Pardon my rudeness, but what is your name?
+
+@148.2
+My name is Xu Shu.
+
+@148.3
+Ah, so I was mistaken. Forgive me.
+
+@148.4
+And you are?
+
+@148.6
+What! I did not know. Please forgive my rudeness. I heard about you from Master Shuijing and made a show of myself so you would notice me. I thought that way I could meet you.
+
+@148.7
+A friend of Master Shuijing's? Would you become my retainer?
+
+@148.8
+Of course. That was my intention. I look forward to serving you.
+
+@148.9
+Thank you. Then let us go to the council hall at once.
+
+@149
+Xu Shu joined as a retainer!
+
+@150.0
+Well, they're gone. Hey, Guan Yu, isn't Big Brother acting strange lately?
+
+@150.1
+True, he has become awfully eager for people. But I suppose he has his reasons.
+
+@150.2
+What about the fight with Cao Cao? What's gotten into Big Brother?
+
+@150.3
+Talking here gets us nowhere. Let us go to the council hall too.
+
+@150.4
+Yeah, yeah.
+
+@152
+By this time Cao Cao had taken all of Yuan Shao's lands, and the entire north of the continent belonged to him. His next targets were Sun Quan's Wu, and Jing Province, where Liu Bei was.
+
+@153.0
+After Yuan Shao comes Jing Province. Cao Ren, go and test how strong Liu Bei's army is. We march after that.
+
+@153.1
+Understood. But there is no need for such caution. If we attack all at once, it will be settled.
+
+@153.2
+Do not be careless. He may not look it, but that man has given me trouble many times.
+
+@153.3
+Yes, sir. I will march at once.
+
+@154
+Xinye Council Hall
+
+@155.0
+My lord, is this man Kongming?
+
+@155.1
+No, he is Xu Shu, an acquaintance of Master Shuijing.
+
+@156.0
+Do you know Kongming?
+
+@156.1
+No, I only heard of him from Master Shuijing. If we can win Kongming over, our ambition will surely be fulfilled.
+
+@156.2
+I see. I have known Kongming a long time.
+
+@156.3
+What! That is fortunate. Xu Shu, would you introduce Kongming to us?
+
+@156.4
+No, he is not a man to be moved by a word from me. It is best that you meet him yourself, my lord.
+
+@156.5
+I see...
+
+@156.6
+But if Kongming joins our army, Cao Cao is nothing to fear.
+
+@156.7
+How do you compare with him?
+
+@156.8
+I am not fit to stand beside him.
+
+@156.9
+That's too grand a claim. Sounds fishy to me.
+
+@156.10
+I have some confidence in myself, but Kongming sees far further than I do.
+
+@156.11
+I see. Guan Yu, Zhang Fei, we are going to see him once more.
+
+@156.12
+What! Again?
+
+@156.13
+He may have returned by now. And after hearing Xu Shu, I must meet him.
+
+@156.14
+Let us set out. Zhang Fei, come.
+
+@156.15
+Yeah, yeah.
+
+@157
+Visit Zhuge Liang in Longzhong again
+
+@158.0
+You are leaving again. We will not see you for a while.
+
+@159.0
+Please be sure to bring Kongming back.
+
+@160.0
+If Master Shuijing says so, it cannot be wrong.
+
+@161.0
+Safe travels.
+
+@162.0
+I will train the troops in case of emergency.
+
+@163
+Kongming's Cottage
+
+@164.0
+I wonder if he is in this time.
+
+@165.0
+Ah, I should have stayed in Xinye training troops... Oh, Big Brother, don't make such a scary face.
+
+@166.0
+He is so absorbed in his reading that he does not notice us. This must be the man.
+
+@167.0
+Oh, it's Liu Bei of Xinye. Wait a moment. It looks like he's in today.
+
+@168.0
+Master, Lord Liu Bei of Xinye has come.
+
+@169.0
+Hm...? What, Lord Liu Bei!
+
+@170.0
+Lord Liu Bei, welcome.
+
+@171.0
+Is this Kongming? He does not look like anyone special.
+
+@172.0
+What? This is Kongming? Xu Shu seems wiser than this guy.
+
+@173.0
+Huh? He doesn't seem to be the master.
+
+@174.0
+Are you looking for my brother?
+
+@174.1
+Your brother? Then you are not the Sleeping Dragon?
+
+@174.2
+I am his younger brother, Zhuge Jun. We are three brothers. The eldest, Zhuge Jin, serves Wu. I am the youngest, Kongming the second.
+
+@174.3
+Then is the Sleeping Dragon here?
+
+@174.4
+He has not come back yet. Once my brother goes out, there is no telling when he will return. I am sorry you came all this way.
+
+@174.5
+I see. So I missed him again.
+
+@175.0
+Another wasted trip. It cannot be helped. Let us go home.
+
+@176.0
+Big Brother, let's hurry home. This quiet, plain stuff just wears me out.
+
+@177.0
+Be careful going home.
+
+@178.0
+Could you pass him this letter?
+
+@178.1
+Certainly. I will give it to my brother without fail. I will call on you later.
+
+@178.2
+No, I will come to him. Please just hand him the letter. Now, excuse me.
+
+@179
+Return to Xinye
+
+@180.0
+Where in the world has my brother gone?
+
+@181.0
+The master still hasn't come back. I wonder where he is.
+
+@182.0
+Oh, all of you gathered here. What is it?
+
+@183.0
+My lord, Cao Cao's army is heading for Xinye.
+
+@183.1
+What! Cao Cao's army!
+
+@183.2
+I hear the enemy commander is Cao Ren.
+
+@183.3
+Damn Cao Cao. Yuan Shao's lands weren't enough for him?
+
+@183.4
+My lord, prepare to march.
+
+@184
+Prepare to sortie against Cao Cao's army
+
+@185.0
+Cao Ren is the commander of Cao Cao's army. He is closing in on Nanyang.
+
+@186.0
+It won't be like last time.
+
+@187.0
+Even if Cao Cao attacks with every soldier he has, as long as Zhao Yun is here, no one will lay a finger on you, my lord.
+
+@188.0
+I will inform Lord Liu Biao as well.
+
+@189.0
+This is not the Cao Cao of before. He has taken Yuan Shao's realm and grown even stronger.
+
+@190.0
+While you were away, I trained the troops, and it paid... Huh? Aren't they the same as before?
+
+@191.0
+Let me show you what I can do in this battle. Please be sure to take me along.
+
+@191.1
+Very well. Give it your all.
+
+@192.0
+This time I'll show them what I've got.
+
+@193.0
+Not satisfied with the whole north, he turns his spear on our Jing Province.
+
+@194.0
+Please look forward to it.
+
+@195.0
+Let us defend Xinye.
+
+@196.0
+Can Cao Cao not be stopped...?
+
+@197.0
+We still must see to our equipment.
+
+@198.0
+Shall we march?
+
+@200.0
+Then let us head for Nanyang.
+
+@201.0
+The enemy is at Nanyang.
+
+@202
+Cao Ren retreats
+
+@203.0
+Heh heh... So you came. I was waiting. Lu Kuang, you lead the vanguard.
+
+@203.2
+The rest of the units, do not move! Draw them in close first, then strike at once from the front!
+
+@204.0
+Good, the enemy commander is Cao Ren. We attack with everything before Cao Cao appears!
+
+@204.1
+My lord, wait. That formation cannot be broken from the front. We should attack from the rearmost palisade.
+
+@204.2
+From the rearmost?
+
+@204.3
+Against an attack from the front it is a formation of steel, but it will collapse entirely under a flank attack.
+
+@204.4
+Hmm, you saw all that at a glance...
+
+@204.5
+In any case, to break the enemy formation, it must be from the rear. Now, let us go.
+
+@205.0
+Where's their commander?
+
+@205.1
+That face must be Zhang Fei. Heh... He hasn't noticed yet.
+
+@206.0
+Hyah!
+
+@206.1
+What! An ambush? Coward!
+
+@207.0
+On the battlefield, the one who survives is the winner. Say all the fine words you like, once you're dead it's over!
+
+@207.1
+Heh, I'll throw those words right back at you!
+
+@209.0
+Where is their commander?
+
+@209.1
+Is that Zhao Yun? His head will make a fine gift. All right, Lu Kuang will be your opponent!
+
+@209.2
+Here I come. Are you ready?
+
+@211
+Hex Victory cannot be used here because of the event data structure. If you reach this point in normal play, it is a bug.
+
+@212.0
+Heh heh heh. So you came, Liu Bei. All forces, full assault!
+
+@213
+The enemy has gone on the offensive!
+
+@214.0
+What! They came in from the rear? Damn it! To think they would come that way!
+
+@214.1
+My lord, the enemy is in disarray. Now, scatter them at once.
+
+@215
+The enemy command is thrown into disorder!
+
+@216.0
+There you are, Cao's army!
+
+@216.1
+That must be Zhang Fei. Let me test that strength I've heard so much about!
+
+@216.2
+This time I won't let you have your way!
+
+@218.0
+You there, commander. I will be your opponent.
+
+@218.1
+That must be Zhao Yun. Good! Zhao Yun, Lu Kuang will fight you!
+
+@218.2
+Here I come. Are you ready?
+
+@220.0
+Damn... Just as Lord Cao Cao said, this Liu Bei is not to be underestimated...
+
+@221
+Cao Ren retreated. The Liu Bei army defeated Cao Ren's army.
+
+@222
+Obtained 800 gold!
+
+@223.0
+Xu Shu, that was splendid.
+
+@223.1
+When it goes that easily, it's almost a letdown.
+
+@223.2
+Battles are not decided by strength alone. Now, my lord, let us return to Xinye.
+
+@224.0
+Xu Shu, quite impressive for a first battle.
+
+@224.1
+He fights differently from us.
+
+@224.2
+Not at all. If you had attacked as I said, it would not have taken this much trouble. The rule is to win without labor. Battles are not decided by strength alone. Please do not forget that.
+

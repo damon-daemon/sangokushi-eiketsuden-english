@@ -1,0 +1,954 @@
+@0
+Ch. 3: Battle for Hanzhong
+
+@1
+Chapter 3: Battle for Hanzhong
+
+@2
+With Yi Province (Shu) in Liu Bei's hands, Cao Cao moved at once to counter him. The target was Hanzhong.\n\nCao Cao meant to take Hanzhong before Liu Bei could, and use it as a foothold to attack him. And so he set his plan in motion.
+
+@3
+Ye Palace
+
+@4.0
+Your Majesty, give us the order to march.
+
+@4.1
+...I cannot approve of this campaign...
+
+@4.2
+Hm? Did you say something?
+
+@4.4
+Liu Bei is a rebel who threatens Xuchang, and myself, Your Majesty's loyal servant. Why do you so stubbornly refuse to strike him down?
+
+@4.5
+The Imperial Uncle would never defy Us! He is no rebel! The true rebel is...
+
+@4.6
+Your Majesty, you are still of use to me. For the power of the name "Emperor." But... let me ask you this. When a child tires of a toy, do you know what becomes of it?
+
+@4.8
+Your Majesty, I would rather you not tire me too soon.
+
+@4.9
+...Do as you see fit.
+
+@4.10
+Yes, Your Majesty.
+
+@5.0
+Then, in His Majesty's stead, I order the whole army to march! Cao Hong!
+
+@6.0
+You will take supreme command on the Hanzhong front and lead the entire army. Strike down the rebel Liu Bei!
+
+@6.1
+Yes, sir! Leave it to me!
+
+@7.0
+Imperial Uncle...forgive Us...
+
+@8.0
+Good. We will hold a war council at Hanzhong!
+
+@9
+Hanzhong Council Hall
+
+@10.0
+Now, I will assign each of you a post. First, Xiahou Yuan.
+
+@11.0
+You will defend Dingjun. It lies on the border with Shu and is vital ground.
+
+@11.1
+Understood. I will go at once.
+
+@12.0
+Next, Xiahou De.
+
+@13.0
+You go to Tiandang. Like Dingjun, it is a vital point on the border.
+
+@13.1
+Understood!
+
+@14.0
+The rest will remain in reserve. We will watch Liu Bei's movements and commit our forces when the time is right.
+
+@15.0
+Do you intend to watch the battle from here, Commander?
+
+@15.1
+I do.
+
+@15.2
+Then we will miss our chance to win. We should strike all at once.
+
+@15.3
+No. We must not underestimate Liu Bei's army. We will see how the enemy moves.
+
+@15.4
+...Then lend me an army. I will lead the vanguard and attack Liu Bei's forces.
+
+@15.5
+What? That is out of the question. For one thing, it would break discipline. Watch your tongue.
+
+@15.6
+You say that, Commander, but are you not really afraid of Liu Bei?
+
+@15.7
+What did you say! Zhang He! Hold your tongue! Very well. If you insist, I will lend you troops. But if you fail, you will pay with your life!
+
+@15.8
+Yes, sir. Then await Liu Bei's head. I shall be off.
+
+@16.0
+Good, we head for Dingjun!
+
+@16.1
+We go to Tiandang! Follow me!
+
+@17.0
+I have known Liu Bei since I served Yuan Shao! He is nothing to fear! We march on Wakou Pass! At Wakou Pass we will wipe out the enemy!
+
+@18
+Chengdu Palace
+
+@20.0
+My lord, have you heard? Word has come that Cao Cao has seized Hanzhong.
+
+@20.1
+Yes. He took Hanzhong because he has his eye on Shu.
+
+@20.2
+Indeed, this is Cao Cao's way. Already he moves... My lord, a messenger has arrived.
+
+@21.0
+My lord, I have a report.
+
+@22.0
+What is it? Has Cao Cao attacked?
+
+@23.0
+My lord, please hear the report first.
+
+@24.0
+I fought Cao Cao once and was defeated. I wish to settle that score, and my father's, in this battle.
+
+@25.0
+This will be my first real battle against Cao Cao's army. I look forward to it.
+
+@26.0
+Having taken Yi Province, our army's spirits are high. Now we can stand against Cao Cao.
+
+@27.0
+My lord, please hear the report first.
+
+@28.0
+I have a report. Cao Cao's man Zhang He has advanced to Wakou Pass.
+
+@28.1
+Hm, that was quick.
+
+@28.2
+Zhang He? Big Brother, take me along. I'll beat him to a pulp.
+
+@28.3
+Then I take my leave.
+
+@29
+Preparing to march on Wakou Pass
+
+@30.0
+Big Brother, leave it to me.
+
+@31.0
+Please take me along as well.
+
+@32.0
+My lord, let me settle my score with Cao Cao.
+
+@33.0
+I want to test for myself just how strong Cao Cao's army is.
+
+@34.0
+Well then, shall we go and meet Cao Cao's army?
+
+@37.0
+Then let us march to Wakou Pass.
+
+@38.0
+Wakou Pass lies east of Jiameng Pass. Let us go at once.
+
+@39
+Drive off Zhang He
+
+@40.0
+So you came, Liu Bei! I knew you would go for Hanzhong sooner or later. So I got here first! Men! There is Liu Bei! Charge!
+
+@40.1
+Strange... The enemy seems few... Hm? I see, so that is it...
+
+@41
+An enemy ambush appeared!
+
+@42.0
+Wei dogs! Do you want Shu too?!
+
+@42.1
+Oh? You would face Zhang He? How amusing. Come on!
+
+@42.2
+Shut up! Lei Tong will crush you!
+
+@43.0
+...There is no help for it. Retreat...
+
+@44.0
+Hmph, he ran. The Shu army is no better than that.
+
+@45
+Lei Tong retreated!
+
+@46.0
+Liu Bei, you are a rat in a sack. Meekly let me take your head. All right! My unit advances too!!
+
+@47.0
+D-damn! That Liu Bei... Argh! We will drive them back at Wakou Pass! Fall back!
+
+@48.0
+My lord, the enemy has fallen back to Wakou Pass. Let us pursue at once.
+
+@49
+Drive off Zhang He
+
+@50.0
+I was careless before, but this time it will be different. Reinforcements will come soon. Now, Liu Bei, come at me!
+
+@50.1
+My lord, that above is Wakou Pass. Let us drive Zhang He out of it.
+
+@51.0
+Wei dogs! Do you want Shu too?!
+
+@51.1
+Oh? You would face Zhang He? How amusing. Come on!
+
+@51.2
+Shut up! Lei Tong will crush you!
+
+@52.0
+...There is no help for it. Retreat...
+
+@53.0
+Ha. The Shu army is no better than that.
+
+@54
+Lei Tong retreated!
+
+@55.0
+Ah, reinforcements? ...What? None are coming! Why! ...I see, the Commander is holding a grudge over earlier... Damn! We cannot win like this!
+
+@56.0
+I never thought Liu Bei's army would be this strong... Argh! Retreat! Fall back!
+
+@57
+Zhang He's army retreated
+
+@58
+You got 1300 gold!
+
+@59.0
+I do not think Cao Cao will simply back down. He will take some action soon.
+
+@60.0
+What! Zhang He was driven back! Grr... Report to Lord Cao Cao! And Xu Huang, go at once to Tiandang and give Xiahou De the order to attack Jiameng Pass! Then stay and defend Tiandang yourself!
+
+@60.1
+Yes, sir. At once.
+
+@61.0
+Lord Xiahou De, by order of Cao Hong, you are to attack Jiameng Pass.
+
+@61.1
+Understood! The whole army moves on Jiameng Pass at once!
+
+@62
+Wakou Pass Camp
+
+@63.0
+Lord Liu Bei! A message has just come from Jiameng Pass asking for reinforcements.
+
+@63.1
+Speak of the devil.
+
+@63.2
+Again? They never learn.
+
+@63.3
+My lord, let us march at once.
+
+@64.0
+My lord, we could send reinforcements to Jiameng Pass, or strike straight at Dingjun. Please choose one. Xiahou De holds Jiameng Pass, and Xiahou Yuan holds Dingjun.
+
+@65
+Choosing between reinforcing Jiameng Pass and advancing on Dingjun
+
+@66.0
+Xiahou De is at Jiameng Pass, and Xiahou Yuan is at Dingjun.
+
+@67.0
+Come on, Big Brother! Let's go fight.
+
+@68.0
+I hear Dingjun is a steep mountain. If we attack it, we will need a force suited to the terrain.
+
+@69.0
+When I attacked Jiameng Pass before, it struck me as hard to take.
+
+@70.0
+Xiahou De or Xiahou Yuan, I will bring you either one's head.
+
+@71.0
+I hear Xiahou De has set up many lines of camps before Jiameng Pass. Many treasure chests were also seen.
+
+@72.0
+Have you decided which to attack?
+
+@73
+Go to Jiameng Pass\nGo to Dingjun
+
+@74.0
+Understood. Then we go to Jiameng Pass.
+
+@75.0
+Understood. Then we go to Dingjun.
+
+@76.0
+What? Liu Bei's army went to Dingjun? Very well, we go to the aid of Lord Xiahou Yuan at once!
+
+@77.0
+What! Liu Bei's army did not come to Jiameng Pass but went to Dingjun! Grr, Hanzhong is in danger like this. The whole army, stop the attack at once! Back to Tiandang, and prepare for the enemy advance!
+
+@79
+Defeat Xiahou De
+
+@80.0
+Reinforcements? Hmph. I'll scatter them as many times as it takes.
+
+@80.1
+My lord, beware the forests to left and right. It seems Xiahou De has hidden troops there.
+
+@81
+An enemy ambush appeared!
+
+@82.0
+Kongming was right. Stay calm, everyone! Take them down one unit at a time!
+
+@83
+An enemy ambush appeared!
+
+@84.0
+There are still more! Xiahou De is quite capable.
+
+@85
+An enemy ambush appeared!
+
+@86.0
+More still!? Just how many are hiding out there!
+
+@87.0
+Xiahou De, I, Yan Yan, challenge you to single combat!
+
+@87.1
+You old fool! You ravage my land! I'll beat you into the ground!!
+
+@87.2
+Here I come!!
+
+@88.0
+Enemy general Xiahou De! Yan Yan has slain him!!
+
+@89
+Yan Yan leveled up!
+
+@90
+Yan Yan has slain Xiahou De. Cao Cao's army retreated.
+
+@91
+Liu Bei's army defeated Cao Cao's army under Xiahou De.
+
+@92
+You got 1300 gold!
+
+@93
+Jiameng Pass Camp
+
+@94.0
+My lord, having beaten the enemy, our army's spirits are high.
+
+@94.1
+Yes. Let us push straight on to Hanzhong.
+
+@94.2
+Yes. There are three routes to Hanzhong: Dingjun, Tiandang, and the Han River.
+
+@95.0
+First, let us take either Dingjun or Tiandang. I hear Xiahou Yuan guards Dingjun, and Xu Huang guards Tiandang.
+
+@96
+Choosing between Dingjun and Tiandang
+
+@97.0
+Xu Huang is at Tiandang, and Xiahou Yuan is at Dingjun.
+
+@98.0
+Big Brother, which way do we go?
+
+@99.0
+Both Dingjun and Tiandang are steep mountains. To take mountain country, we need a suitable force.
+
+@100.0
+I fought Xu Huang once. He was a very skilled opponent.
+
+@101.0
+Come, my lord. Let us go to the battlefield.
+
+@102.0
+Have you decided which to attack?
+
+@103
+Go to Dingjun\nGo to Tiandang
+
+@104.0
+Understood. Then we go to Dingjun.
+
+@105.0
+The Shu army went to Dingjun! We go to help Xiahou Yuan!
+
+@106.0
+Understood. Then we go to Tiandang.
+
+@107.0
+The Shu army went to Tiandang! We go to reinforce Xu Huang!
+
+@108.0
+Now, my lord, please form your units.
+
+@109
+Defeat Xiahou Yuan
+
+@110.0
+We must not let Liu Bei take Hanzhong. We must stop Liu Bei's army here at all costs!
+
+@111.0
+I see Xiahou Yuan there! I, Huang Zhong, challenge you to single combat!!
+
+@111.1
+You country bumpkins are getting full of yourselves! I won't stand for it!
+
+@111.2
+Ha ha ha, though I am old, Huang Zhong will not lose to the likes of you!
+
+@112.0
+Enemy general Xiahou Yuan! Huang Zhong has slain him!!
+
+@113
+Huang Zhong leveled up!
+
+@114
+Huang Zhong has slain Xiahou Yuan. Liu Bei's army took Dingjun.
+
+@115.0
+Hm! Could that be...!?
+
+@117.0
+Rescue Xiahou Yuan! Drive Liu Bei's army out of Dingjun!
+
+@117.2
+Ah, Xu Huang! Good! The whole army, charge at Liu Bei's army! We will catch them in a pincer!
+
+@118.0
+Xu Huang holds a grudge against me, so I wish to defect to Liu Bei's army. I beg your favor.
+
+@119
+Wang Ping defected to Liu Bei's army!
+
+@121
+Liu Bei's army took Dingjun.
+
+@123
+You got 1300 gold!
+
+@124.0
+Now, if we break through the Han River, Hanzhong lies before us. But...
+
+@125.0
+That Liu Bei! Ravaging Hanzhong while I am away! I won't allow it!
+
+@125.1
+Father, let me help.
+
+@125.2
+Ah, Cao Zhang. Then wait at Hanzhong and join the fight if the enemy reaches the Han River. I will watch the enemy from Yangping Pass.
+
+@126
+Dingjun Camp
+
+@127.0
+Now let us march on either Tiandang or the Han River. Cao Hong is at the Han River, and Xiahou De is at Tiandang.
+
+@128
+Choosing between Tiandang and the Han River
+
+@129.0
+Then we march on the Han River. Cao Hong is at the Han River.
+
+@130
+Preparing to advance on the Han River
+
+@131.0
+Cao Hong is at the Han River, and Xiahou De is at Tiandang.
+
+@132.0
+Cao Hong is at the Han River.
+
+@133.0
+Big Brother, let's march quickly!
+
+@134.0
+I hear the Han River is a plain with a great river running through it. We should assemble mobile units.
+
+@135.0
+Tiandang is a steep mountain. We should form units suited to mountain country.
+
+@136.0
+I have met Cao Hong several times. He has a short temper.
+
+@137.0
+My lord, let us march quickly.
+
+@139.0
+Then let us head for the Han River.
+
+@140.0
+What! Liu Bei's army has reached the Han River! Good, I go at once!
+
+@141.0
+Then please choose which to attack.
+
+@142
+Go to Tiandang\nGo to the Han River
+
+@143.0
+Understood. Then we go to Tiandang.
+
+@144.0
+Understood. Then we go to the Han River.
+
+@145.0
+What, Liu Bei's army has reached the Han River! Good, we will meet them!
+
+@147
+Defeat Xiahou De
+
+@148.0
+If Tiandang falls, our army's food may run out! Hold this place at all costs!
+
+@148.1
+The enemy is thin here! Break through them all at once!!
+
+@149.0
+Xiahou De, I, Yan Yan, challenge you to single combat!
+
+@149.1
+You old fool, ravaging my land! I'll beat you into the ground!!
+
+@149.2
+Here I come!!
+
+@150.0
+Enemy general Xiahou De! Yan Yan has slain him!!
+
+@151
+Yan Yan leveled up!
+
+@152
+Yan Yan has slain Xiahou De. Cao Cao's army retreated.
+
+@153
+Liu Bei's army defeated Cao Cao's army under Xiahou De.
+
+@154
+You got 1300 gold!
+
+@155
+Tiandang Camp
+
+@156.0
+My lord, only the Han River remains between us and Hanzhong. Let us march on the Han River.
+
+@157
+Preparing to advance on the Han River
+
+@158.0
+Cao Hong is at the Han River.
+
+@159.0
+Big Brother, let's march quickly!
+
+@160.0
+I hear the Han River is a plain with a great river running through it. We should assemble mobile units.
+
+@161.0
+I have met Cao Hong several times. He has a short temper.
+
+@162.0
+Come, my lord, let us hurry.
+
+@164.0
+Then let us march.
+
+@165.0
+What? Liu Bei's army has reached the Han River? Good, I go at once!
+
+@167
+Drive off Xu Huang
+
+@168.0
+If we do not hold here, Hanzhong will be taken! Men, defend Tiandang at all costs!
+
+@169.0
+Xu Huang holds a grudge against me, so I wish to defect to Liu Bei's army. I beg your favor.
+
+@170
+Wang Ping defected to Liu Bei's army!
+
+@172.0
+Hm! Could that be...!?
+
+@174.0
+Rescue Xu Huang! Drive Liu Bei's army out of Tiandang!
+
+@174.1
+I was careless before, but not this time! Liu Bei, prepare yourself!
+
+@174.2
+Ah! Xiahou Yuan! Good, now is our chance!! The whole army, charge at Liu Bei's army!!
+
+@175.0
+I see Xiahou Yuan there! I, Huang Zhong, want your head!!
+
+@175.1
+You country bumpkins! Barging into my territory! I won't stand for it!
+
+@175.2
+Ha ha ha! Though I am old, Huang Zhong will not lose to the likes of you!
+
+@176.0
+Enemy general Xiahou Yuan! Huang Zhong has slain him!!
+
+@177
+Huang Zhong leveled up!
+
+@178
+Liu Bei's army took Tiandang.
+
+@179
+You got 1300 gold!
+
+@180.0
+Now only the Han River remains between us and Hanzhong. But...
+
+@181.0
+That Liu Bei! Ravaging Hanzhong while I am away! I won't allow it!
+
+@181.1
+Father, let me help.
+
+@181.2
+Ah, Cao Zhang. Then wait at Hanzhong, and if the enemy comes to the Han River, go and reinforce it. I will watch the enemy's movements from Yangping Pass.
+
+@182
+Tiandang Camp
+
+@183.0
+As I thought, Cao Cao has come out. Then, my lord, let us charge the Han River! Cao Hong guards the Han River.
+
+@184
+Preparing to advance on the Han River
+
+@185.0
+Cao Hong is at the Han River.
+
+@186.0
+Big Brother, let's march quickly!
+
+@187.0
+I hear the Han River is a plain with a great river running through it. We should assemble mobile units.
+
+@188.0
+I have met Cao Hong several times. He has a short temper.
+
+@189.0
+Come, my lord, let us hurry.
+
+@191.0
+Then let us march.
+
+@192.0
+What? Liu Bei's army has reached the Han River? Good, I go to the Han River at once! We will meet them!
+
+@193
+Drive off Cao Hong
+
+@194.0
+We must stop Liu Bei's army here! Otherwise Hanzhong will be taken! Men! Hold this ground to the death!
+
+@195.0
+I am Wu Lan, a general of Shu! You there, commander! I challenge you to single combat!
+
+@195.1
+Oh? Can you beat me?
+
+@195.2
+No more talk! Here I come!
+
+@196.0
+...Argh. I have no choice but to withdraw...
+
+@197
+Wu Lan retreated!
+
+@198
+You got 1000 gold!
+
+@199.0
+Liu Bei is indeed quite capable... Hm!?
+
+@201.0
+I will not let you have your way any longer! Shu army, taste my spear!
+
+@201.1
+Ah, Lord Cao Zhang has come! Heh heh... Come, Liu Bei! We will strike you down!
+
+@202
+Liu Bei's army defeated Cao Cao's army under Cao Hong.
+
+@203
+You got 1300 gold!
+
+@204.0
+Grr... Liu Bei... Then we will meet them here at Yangping Pass!
+
+@205
+Han River Camp
+
+@206.0
+My lord, it seems Cao Cao will not come out of Yangping Pass. Let us go to him.
+
+@207
+Preparing to advance on Yangping Pass
+
+@208.0
+Yangping Pass is called a natural fortress and is very hard to attack. Let us go with our elite units.
+
+@209.0
+Come on, Big Brother! If we take Yangping Pass, Hanzhong is ours!
+
+@210.0
+Cao Cao's army will come at us with a formation like never before. We must be careful.
+
+@211.0
+I wish to take Cao Cao's head with my own hands! My lord, please give me the chance to fight!
+
+@212.0
+My lord, will there be a place for me to shine? I look forward to it.
+
+@215.0
+Then let us defeat Cao Cao at Yangping Pass!
+
+@216
+Drive off Cao Cao
+
+@217.0
+So you came, Liu Bei! Rebel against the Emperor! Cao Cao will deliver Heaven's punishment!!
+
+@217.1
+Silence, Cao Cao! It is you who defile the Emperor and seek to take his place! Traitor! Now, here, I will crush your ambition!
+
+@218.0
+Pang De! Think again!
+
+@218.1
+...I have nothing more to say to you. Now then...
+
+@219.0
+Pang De! Is that you, Pang De? You are alive.
+
+@219.1
+...! Lord Ma Chao...
+
+@219.2
+Why are you in Cao Cao's army?
+
+@219.3
+After you left Zhang Lu for Liu Bei, Cao... Lord Cao invaded Hanzhong...
+
+@219.4
+Lord Cao? Don't tell me, you...
+
+@219.5
+Yes. I surrendered then, and now I am one of Cao Cao's army.
+
+@219.6
+What...! Why! You know Cao Cao's evil deeds too!
+
+@219.7
+...Zhang Lu came to doubt me, and I had nowhere to run. Lord Cao welcomed me warmly and even gave me troops. ...If I do not repay that kindness, my sense of honor would be in doubt.
+
+@219.8
+What are you saying! You can still start over. Come with me and meet Lord Liu Bei!
+
+@219.9
+...Lord Ma Chao, I once served you, but now we are enemies. If you insist, I will fight.
+
+@219.10
+You stubborn fool!
+
+@220.0
+Pang De! Think again!
+
+@220.1
+I have nothing more to say to you. ...Now then.
+
+@220.2
+Pang De... Damn it, why!!
+
+@221
+Ma Chao leveled up!
+
+@222.0
+Listen, we must live up to the faith Cao Cao showed in giving us the vanguard! Let's go!!
+
+@222.2
+Do not fall behind Zhang He! We follow!
+
+@222.3
+It seems the battle has begun at last. We advance and prepare for the enemy!
+
+@223.0
+Grr, that Liu Bei! I will not let him come any closer to Yangping Pass! Men, follow me!!
+
+@223.1
+My lord, I hear this Sima Yi who just moved out is a very sharp man. Please be careful.
+
+@224.0
+That Liu Bei, once again... There is no help for it. Fall back! Retreat to Chang'an!!
+
+@225
+Cao Cao abandoned Hanzhong. Liu Bei took Hanzhong.
+
+@226
+You got 1300 gold!
+
+@227.0
+Liu Bei, I will never forget this grudge, nor the grudge of Chibi!
+
+@228.0
+My lord, we have finally taken Hanzhong. Congratulations. Now, let us enter the city!
+
+@229
+Hanzhong Council Hall
+
+@230.0
+My lord, the Plan of Three Divisions of the Realm has now come true. All of it is thanks to your strength.
+
+@231
+Discussing the future
+
+@232.0
+So the picture of the three kingdoms, Wei, Wu and Shu, is now complete.
+
+@233.0
+Big Brother, congratulations. I'm so happy... ...Hey, Big Brother... sob, sob...
+
+@234.0
+I have never been so happy since I came to serve you, my lord.
+
+@235.0
+My lord, congratulations. With Cao Cao driven from Hanzhong, I feel my father's grudge is avenged.
+
+@236.0
+My lord, thank you so much for letting this old man enjoy such good fortune.
+
+@237.0
+My lord, this is the time for you to become King of Hanzhong.
+
+@237.1
+What? King of Hanzhong? ...No. I am a servant of the Emperor. I cannot take a king's title.
+
+@237.2
+But then neither I nor any of your retainers will be satisfied.
+
+@237.3
+Not satisfied...?
+
+@237.4
+We retainers have served you hoping you would grow this great. If you refuse by your own values alone, our service has no meaning.
+
+@237.6
+Besides, I hear Cao Cao has styled himself King of Wei. You must show the realm that you are the one to stand against Cao Cao. For that too, you must become King of Hanzhong.
+
+@237.8
+My lord, King of Hanzhong is a king's rank, not the throne. It does not stain the Emperor's majesty. ...Please consider it. When you have decided, tell me.
+
+@238
+Deciding whether to become King of Hanzhong
+
+@239.0
+Well, my lord, King of Hanzhong is not so grand a thing, is it?
+
+@240.0
+Big Brother, you as King of Hanzhong... Guan Yu in Jing Province will surely be glad too. Big Brother, please become King of Hanzhong.
+
+@241.0
+All your retainers wish for you to become King of Hanzhong. My lord, please decide.
+
+@242.0
+Let us refuse to recognize Cao Cao's so-called rank of King of Wei, and fight him as the King of Hanzhong.
+
+@243.0
+My lord, please become King of Hanzhong. Let this old man dream too.
+
+@244.0
+My lord, will you become King of Hanzhong?
+
+@245.0
+My lord, please decide. You no longer belong to yourself alone, but to all of us.
+
+@246.0
+Ah! You have decided!
+
+@246.1
+Yes, I will take the title King of Hanzhong. You all agree, then?
+
+@246.2
+Who'd object? Right, everyone?
+
+@246.3
+Indeed. King of Hanzhong, I am very happy that you decided.
+
+@246.4
+Long live the King of Hanzhong!
+
+@246.5
+Congratulations. My late father too would celebrate.
+
+@247.0
+All of us will serve you with still greater loyalty.
+
+@248
+...But there was also one who would not allow Liu Bei to become King of Hanzhong.
+

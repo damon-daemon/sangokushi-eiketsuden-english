@@ -1,0 +1,1101 @@
+@0
+Ch. 2: Battle of Guandu
+
+@1
+Chapter 2: Battle of Guandu
+
+@2
+Ji Province, the land of Yuan Shao and his mighty armies.\n\nWhen Liu Bei fled to this great power, Yuan Shao resolved to settle accounts with Cao Cao, long a thorn in his side.
+
+@3
+Liu Bei's Residence, Ye
+
+@4
+Liu Bei, Sun Qian and Mi Zhu were living in Ye by Yuan Shao's arrangement. But the whereabouts of Guan Yu and Zhang Fei were still unknown.
+
+@5.0
+My lord, we have been waiting for you.
+
+@6
+Talk over the future with Sun Qian and the others
+
+@7.0
+My lord, do not worry so. Guan Yu and Zhang Fei are surely alive somewhere.
+
+@8.0
+My lord, an urgent messenger has come from Yuan Shao. He says you are to come to Baima Castle at once.
+
+@8.1
+But Guan Yu and Zhang Fei have still not been found, and I am in no state for...
+
+@8.2
+I understand how you feel, but...
+
+@9.0
+My lord, if it weighs on you so, I will go and look for Guan Yu and Zhang Fei.
+
+@9.1
+Ah, please do. Take care on the road.
+
+@9.2
+I will go at once.
+
+@10
+Go to Baima Castle and meet Yuan Shao
+
+@11.0
+But what could Yuan Shao want, summoning you so suddenly? In any case, my lord, off to Baima at once.
+
+@12
+Baima Council Hall
+
+@13.0
+Liu Bei? Hmph, you dare show yourself here.
+
+@14.0
+Yan Liang, one of the finest generals in our army, was killed by Guan Yu.
+
+@15.0
+You traitor! You took our lord's favor, and all along you were in league with Cao Cao?
+
+@16.0
+Damn you, how dare you kill my brother!
+
+@17.0
+You traitor!
+
+@18.0
+You traitor!
+
+@19.0
+You traitor!
+
+@20.0
+Hmph. You dare show your face here.
+
+@20.1
+What? What is this about?
+
+@20.2
+Stop feigning ignorance. We know it was Guan Yu who killed Yan Liang of our army.
+
+@20.3
+Wait, please. Was it truly Guan Yu?
+
+@20.4
+The enemy general was said to be a man with a long beard. That is Guan Yu exactly! So you were in league with Cao Cao! It was Guan Yu who killed Yan Liang, was it not?
+
+@21
+Yes, it was Guan Yu\nNo, it was not Guan Yu
+
+@22.0
+Hmph, you admit it. Then pay for the crime with your death!
+
+@23.0
+B-but, Yuan Shao, I swear I have not been in league with Cao Cao. There must be some reason for this...
+
+@23.1
+No more talk! Someone, cut off this man's head at once!
+
+@24.0
+Gah... Wh-why... Is this where I end...
+
+@26.0
+What? It was not Guan Yu?
+
+@26.1
+No. For one thing, I do not even know whether Guan Yu is alive or dead. Are there not long-bearded generals everywhere?
+
+@26.2
+Hmm... Now that you say so, perhaps. Liu Bei, forgive my hot temper.
+
+@26.3
+No, think nothing of it.
+
+@26.4
+I am sorry to have called you from so far. Go back to Ye and rest at ease.
+
+@27
+Return to your residence in Ye
+
+@28.0
+Go back to Ye and rest at ease.
+
+@29.0
+I will not be fooled. Yan Liang would never fall so easily to a nameless general.
+
+@30.0
+So there are other generals who could defeat Yan Liang...
+
+@31.0
+Tch... I will surely avenge my brother.
+
+@32.0
+No, I was wrong to doubt you. Liu Bei, my apologies.
+
+@33.0
+Something troubles me.
+
+@34.0
+Hmm. Yan Liang's spirit will not rest like this.
+
+@35.0
+My lord, rejoice! Jian Yong and Mi Fang, who were missing, have just returned.
+
+@36
+Talk over the future with Sun Qian and the others
+
+@37.0
+My lord, rejoice! Jian Yong and Mi Fang, who were missing, have just returned.
+
+@38.0
+My lord, it has been a long time. We somehow survived, and came back following rumors of you.
+
+@39.0
+My lord, we meet at last. By the way, is Guan Yu here?
+
+@39.1
+No, I have had no word of him since then.
+
+@39.2
+I see... Actually, on the road I saw someone who looked like Guan Yu among Cao Cao's army. I could hardly believe it... Could that general in Cao Cao's army be the real Guan Yu?
+
+@39.3
+Hmm. If so, what Yuan Shao just said may not be a lie.
+
+@39.4
+Huh? What do you mean?
+
+@39.5
+Well, I was nearly killed by Yuan Shao just now. They say a general who looks like Guan Yu killed Yan Liang.
+
+@39.6
+I see. And you escaped punishment? How fortunate.
+
+@39.7
+Yes, I managed to smooth it over for the moment... But what does it all mean?
+
+@40.0
+Given the story of Yan Liang's death, is that general not Guan Yu after all?
+
+@41.0
+Well, I could not see him clearly, so I cannot say for certain.
+
+@42.0
+Hm? My lord, it looks like a messenger.
+
+@43.0
+Is it from Yuan Shao again?
+
+@44.0
+My lord, first hear the messenger.
+
+@45.0
+My lord, please hear the messenger.
+
+@46.0
+I come on Yuan Shao's orders. In the Battle of Baima, Wen Chou was killed by the enemy army. Our lord has returned, and says Liu Bei is to come to the Council Hall in Ye at once. That is all. Excuse me.
+
+@47.0
+Wen Chou after Yan Liang... Wen Chou was a warrior above Yan Liang. Who could defeat such a general...
+
+@47.1
+None but Guan Yu.
+
+@47.2
+My lord, Yuan Shao's business is probably the same as before, the general who resembles Guan Yu. And that general must be Guan Yu.
+
+@47.3
+Probably so.
+
+@47.4
+But if you admit he is Guan Yu, you will not escape unharmed, my lord.
+
+@47.5
+In any case, I will go and see Yuan Shao once more.
+
+@48
+Go to the Council Hall to see Yuan Shao
+
+@49.0
+My lord, take great care.
+
+@50.0
+But why is Guan Yu siding with Cao Cao?
+
+@51.0
+We will wait here for your return, my lord.
+
+@53.0
+There you are, Liu Bei! Last time you neatly deceived me!
+
+@54.0
+This time you cannot talk your way out. I saw it with my own eyes.
+
+@55.0
+Now Wen Chou too. Our army has lost great strength.
+
+@56.0
+You dare show your face!
+
+@57.0
+What do you intend to do about this?
+
+@58.0
+Liu Bei! After all the hospitality you received, you are an outrageous wretch.
+
+@59.0
+At last you show your true colors.
+
+@60.0
+Liu Bei, so you were allied with Cao Cao after all! You even had Wen Chou killed! Now confess! The bearded general is Guan Yu, is he not!
+
+@61
+Run for it, quick\nIt is Cao Cao's scheme\nNo, it was not Guan Yu
+
+@62.0
+Don't let him escape! Do not let that man leave alive!
+
+@63.0
+Traitor! Die!
+
+@64.0
+Aargh!
+
+@66.0
+What? A scheme of Cao Cao?
+
+@66.1
+Yes. Cao Cao learned that I was in your camp, and surely had Guan Yu cut down Yan Liang and Wen Chou on purpose. It is Cao Cao's plot to have you, Yuan Shao, kill me while he lifts no hand himself. Please dispel your doubts.
+
+@66.2
+Hmm... Cao Cao is indeed a sharp-witted man. Liu Bei, I am sorry. I nearly fell for Cao Cao's trick.
+
+@66.3
+My lord! Do not be taken in by Liu Bei's glib talk!
+
+@66.4
+Exactly. We cannot believe the words of such a man.
+
+@66.5
+Silence! You two nearly made me kill Liu Bei. Insolent fools! Both of you, withdraw!
+
+@66.6
+My lord...
+
+@67
+Talk over the future with Sun Qian and the others at the residence
+
+@68.0
+Do you think the same trick works twice! This time Ju Shou was watching up close. Someone throw him in prison.
+
+@69.0
+P-please wait, Yuan Shao.
+
+@70.0
+How disgraceful, Liu Bei!
+
+@70.1
+You owe your life to our lord, and yet what are you plotting! Now come along!
+
+@71
+Liu Bei's life vanished. His dream of saving the realm from chaos ended here...
+
+@72.0
+Liu Bei, I am sorry to have doubted you again and again. Go home and rest.
+
+@73.0
+Cao Cao goes to elaborate lengths.
+
+@74.0
+I see, Cao Cao's scheme... Is it true?
+
+@75.0
+Well, we'll let it go.
+
+@76.0
+...Why should we trust anything you say!
+
+@77.0
+Ah, my lord! I am relieved you are safe. Mi Zhu has returned.
+
+@78.0
+My lord, Mi Zhu has returned. Please hear his report.
+
+@79.0
+My lord, Mi Zhu has returned. I am glad you came through safely too.
+
+@80.0
+My lord, my brother has returned. I wonder whether Guan Yu and Zhang Fei have been found?
+
+@81.0
+My lord, I have just returned. As you may know, Guan Yu was with Cao Cao. I managed to get word of you to him, so by now he is surely on his way here.
+
+@81.1
+Oh! Is that so!
+
+@81.2
+As for Zhang Fei, I learned he is in the old castle to the south with some bandits, but I could not meet him.
+
+@81.3
+I see. So Zhang Fei is safe too!
+
+@82.0
+Would Cao Cao let Guan Yu go so easily? Perhaps we should go and meet him ourselves...
+
+@83.0
+So Guan Yu and Zhang Fei were alive after all. Thank heavens.
+
+@84.0
+In that case, there is no need to linger in a place like this.
+
+@85.0
+My lord, now that we know where Guan Yu and Zhang Fei are, there is no reason to stay here. Pretend to head for Runan, Yuan Shao's land, and go to the old castle where Zhang Fei is. Why not go and ask Yuan Shao's leave?
+
+@85.1
+Yes, let us do so.
+
+@86
+Ask Yuan Shao for leave to depart
+
+@87.0
+Then we will wait here.
+
+@88.0
+We are preparing to depart.
+
+@89.0
+So Guan Yu and Zhang Fei were alive after all. Thank heavens.
+
+@90.0
+There is no need to linger in a place like this.
+
+@91.0
+Oh, Liu Bei, what brings you here?
+
+@92.0
+Why does our lord keep such a man alive?
+
+@93.0
+Here to bewitch our lord again?
+
+@94.0
+Liu Bei, what brings you here?
+
+@95.0
+What is your business this time?
+
+@96.0
+We meet again.
+
+@98.0
+Liu Bei, what brings you here?
+
+@98.1
+In fact, I have a plan to gain the upper hand in this war against Cao Cao.
+
+@98.2
+What! And what plan is that?
+
+@98.3
+A head-on fight would cost many troops. So send part of the army to Runan and strike Cao Cao's rear.
+
+@98.4
+I see. If that succeeds, Cao Cao's army will be cut off from its line of retreat.
+
+@98.5
+I would like to be the one to carry it out.
+
+@98.6
+You, Liu Bei? Why would you take on such a troublesome duty of your own accord?
+
+@98.7
+To clear away the groundless suspicions, and to repay Yuan Shao even a little for his daily kindness.
+
+@98.8
+I see. I trust you, Liu Bei, but some of my men doubt you. Very well. Please do so.
+
+@99
+Prepare to go to the old castle
+
+@100.0
+Then I leave it to you.
+
+@101.0
+Suspicious...
+
+@102.0
+He is plotting something again.
+
+@103.0
+He volunteers to take on Cao Cao! Our lord must find him dependable.
+
+@104.0
+Liu Bei says some clever things.
+
+@105.0
+Cao Cao is not to be trifled with. Take great care.
+
+@106.0
+Don't speak to me so familiarly.
+
+@107.0
+My lord, welcome back.
+
+@108.0
+We can depart at any time. Please make your preparations as well, my lord.
+
+@109.0
+Let us join up with Guan Yu and Zhang Fei as soon as we can.
+
+@110.0
+Let us set out for the old castle. By the way, my lord, is the army's equipment in order?
+
+@111.0
+Shall we depart?
+
+@112.0
+Then please form your units in preparation for the enemy.
+
+@113.0
+Let us depart.
+
+@114.0
+Does our lord mean to let Liu Bei escape so easily?
+
+@114.1
+Wait. Cao Cao is the problem now. Next to the fight with Cao Cao, Liu Bei is nothing much.
+
+@114.2
+First strike Cao Cao, and if Liu Bei betrays us then, kill him.
+
+@114.3
+... Then I will go after Liu Bei on my own. I cannot trust that man!
+
+@115.0
+Then let us go to the old castle where Zhang Fei is. It lies south of here.
+
+@115.1
+Yes. I long to see Zhang Fei.
+
+@116.0
+After Liu Bei! Don't let him escape!
+
+@117
+Guo Tu's pursuing army catches up!
+
+@118
+Guo Tu retreats\nLiu Bei reaches the southwest fort
+
+@119.0
+Hmph, I see through whatever Liu Bei is thinking. Liu Bei, don't think you can get away.
+
+@119.1
+My lord, that is Guo Tu's army. It seems we have been found out.
+
+@119.2
+Having come this far, we cannot let ourselves be caught. My lord, let us flee to the southwest fort for now. If we can reach it, even Guo Tu cannot touch us.
+
+@120.0
+Hm, is that not Lord Liu Bei! ...It seems he is being pursued. I can't stand by! I must hurry.
+
+@121.0
+That is Zhang He there!
+
+@121.1
+And you are Zhao Yun! Gongsun Zan is dead. You should surrender to Yuan Shao too.
+
+@121.2
+Yuan Shao is a man I gave up on long ago. You will soon learn for yourself what kind of man he is.
+
+@121.3
+Spare me your boasting, you cur! I'll send you to Gongsun Zan!
+
+@121.4
+If that is your wish, I accept. Let's go!
+
+@122.0
+To think a man of such caliber serves someone like Yuan Shao... Why?
+
+@124.0
+Hm! Enemy reinforcements! Are still more coming?
+
+@126.0
+Guo Tu, sorry to keep you waiting.
+
+@126.1
+Ah! Zhang He! Well timed! Liu Bei, your fate is sealed now.
+
+@127.0
+Grr, to let Liu Bei slip away here!
+
+@128
+The Liu Bei army shook off Guo Tu's pursuit.
+
+@129.0
+Grr, to let Liu Bei slip away here!
+
+@130
+The Liu Bei army was victorious.
+
+@131
+Obtained 700 gold!
+
+@132
+Yan Province Camp
+
+@133.0
+Lord Liu Bei, it has been a long time.
+
+@133.1
+Yes, I am glad to see you again. But, Zhao Yun, how did you come to be here?
+
+@133.2
+After Gongsun Zan's death, I lived with no lord to serve. Recently I heard Zhang Fei was at the old castle, and rushed here. I thought that if I went to Zhang Fei, I might meet you as well.
+
+@133.3
+I see.
+
+@133.4
+By the way, what became of Guan Yu, my lord?
+
+@133.5
+Yes, that is...
+
+@133.6
+...I see.
+
+@133.7
+Well, both of them are alive. We will surely meet them. Now, to the old castle.
+
+@133.8
+Lord Liu Bei, at last I have been able to meet you. From now on I will follow you anywhere.
+
+@134
+Zhao Yun joined as a retainer!
+
+@135
+Head for the old castle
+
+@136.0
+Lord Liu Bei, I look forward to serving you from now on.
+
+@137.0
+More pursuers may well appear. Let us hurry.
+
+@138.0
+Now that we have met Zhao Yun again, let us go to the old castle at once.
+
+@139.0
+My lord, let us head for the old castle.
+
+@140.0
+Come, let us hurry to the old castle.
+
+@141.0
+Then let us go and see Zhang Fei.
+
+@141.1
+Yes. The old castle is just south of here.
+
+@142.0
+Wh-what is that?
+
+@142.1
+Good heavens! Bandits!
+
+@142.2
+At a time like this... My lord, at any rate, let us form up.
+
+@143
+Contact with ???
+
+@144.0
+My lord, it seems we have been completely surrounded.
+
+@144.1
+Hmm... Hm!?
+
+@144.2
+Men, the Cao Cao army is here again! Let's stir them up, even if it's only us!
+
+@144.3
+That voice...! Yet why are we met with a welcome like this?
+
+@144.4
+They must take us for enemies. We must go and meet them.
+
+@144.5
+But if we go on, a battle cannot be avoided.
+
+@144.6
+...Perhaps so. In any case, we go straight to their commander.
+
+@145.0
+Hm? Seems like I've seen... ...Aaah!!
+
+@145.1
+Hey, men! This army is on our side! Stop fighting right now!
+
+@146.0
+Damn! They're strong! Who's their commander? Hm? He looks familiar.
+
+@146.1
+Zhang Fei! I longed to see you! But after all this time, what a rough welcome!
+
+@146.2
+B-Big Brother!? Is that you? Ahh, finally found you! But why are you here... Oops! Hey, men, this army is on our side! Stop fighting right now!
+
+@147
+Obtained 700 gold!
+
+@148.0
+Sorry. I jumped to conclusions again.
+
+@148.1
+Well, it is over. More to the point, what have you been doing all this time?
+
+@148.2
+I figured I'd take this castle, lead the bandits, and stand up to Cao Cao. I never thought you'd come here, Big Brother... Sorry, Big Brother.
+
+@148.3
+Don't look so troubled. It's not like you, Zhang Fei.
+
+@148.4
+Aw, I'm ashamed. Anyway, I'm glad we met. From now on I'm sticking with you, Big Brother.
+
+@149
+Zhang Fei rejoined!
+
+@150.0
+Come on, Big Brother. It's a ratty castle, but come on in.
+
+@151
+Talk over the future at the old castle
+
+@152
+Old Castle Council Hall
+
+@153.0
+Big Brother, what about Guan Yu? Huh... Oh, so that's how it is. Then let's get going quick.
+
+@154.0
+I would like to meet Guan Yu as soon as possible.
+
+@155.0
+I wonder how Guan Yu is doing.
+
+@156.0
+At any rate, now that we have come this far, we need not worry about Yuan Shao's pursuers.
+
+@157.0
+Let us make ready the army here and go to meet Guan Yu... Oh? Mi Zhu has come.
+
+@158.0
+My lord! Grave news!
+
+@159.0
+That Mi Zhu is in a big hurry. What could it be?
+
+@161.0
+Has something gone wrong...?
+
+@162.0
+Let us hear what Mi Zhu has to say.
+
+@163.0
+My lord, please hear my brother.
+
+@164.0
+My lord, terrible news! The Cao Cao army is heading this way. They have already reached Yingchuan.
+
+@164.1
+Hmm. Right, we go to intercept them at Yingchuan. Everyone, prepare to march!
+
+@166.0
+I can fight for you again, my lord. Nothing could make me happier.
+
+@167.0
+To think the Cao Cao army has come this far.
+
+@168.0
+With Guan Yu still not here... But it cannot be helped.
+
+@169.0
+My lord, let us fight.
+
+@170.0
+My lord, let us fight.
+
+@171.0
+Shall we go, Big Brother? It's been a while.
+
+@172.0
+Now that's what I like!
+
+@173.0
+You've got Zhang Fei with you, Big Brother! Cao Cao, if you think you can run away, forget it!
+
+@174.0
+Yingchuan lies south of the old castle. Let us head there.
+
+@175
+Cai Yang is crushed
+
+@176.0
+So that is the Liu Bei army. Fools who defy Lord Cao Cao! I, Cai Yang, will teach them a lesson.
+
+@176.1
+Big Brother, Cao Cao doesn't seem to be here.
+
+@176.2
+Yes. But Zhang Fei, don't let your guard down.
+
+@176.3
+I-I know that!
+
+@177.0
+Hm, that is Guan Yu! Guan Yu! You forgot Lord Cao Cao's kindness and fled to Liu Bei!
+
+@177.1
+I had an agreement with Cao Cao: that when I learned my brother lived, I could leave whenever I pleased. Or are you saying Cao Cao cannot keep his word?
+
+@177.2
+After all he did for you, what a thing to say! Unforgivable! Let's go, Guan Yu! I'll cut off your head!
+
+@178.0
+Agreement or not, I have killed this many of his men. I now owe Cao Cao a debt.
+
+@180
+Guan Yu slew Cai Yang. The Liu Bei army was victorious.
+
+@181.0
+Hm!? Who are those men?
+
+@182.0
+Father, there is some fighting over there.
+
+@182.1
+Whose army is it?
+
+@182.2
+Hm? That is... That is! Brother! And Zhang Fei!! Oh... No, this is no time to be moved. Guan Yu has arrived! Guan Ping, Zhou Cang, let's go!
+
+@182.4
+Yeaah!
+
+@183
+Guan Yu appears!
+
+@184.0
+Y-you...! Lord Cao Cao will surely avenge me... Gaaah!
+
+@185
+The Liu Bei army won the battle.
+
+@186
+Obtained 700 gold!
+
+@187
+Yingchuan Camp
+
+@188.0
+...Brother, it has been so long. I, Guan Yu, had no choice but to submit to Cao Cao, and I protected your family. But my heart was always with you... I am overjoyed. I dreamed of the day we would meet again like this.
+
+@188.1
+Yes, Guan Yu. I am just glad you are safe. That you are... safe...
+
+@188.2
+...Guan Yu, who are those two?
+
+@188.3
+Oh, yes. In my eagerness I forgot to say. Brother, let me introduce them. This young man is Guan Ping, whom fate made my adopted son.
+
+@189.0
+I am Guan Ping. I look forward to serving you.
+
+@189.1
+The other, also by chance, became my follower. His name is Zhou Cang. He was a bandit, but I took him into service on the road.
+
+@190.0
+I'm Zhou Cang. I've quit banditry and turned over a new leaf.
+
+@191
+Guan Yu rejoined!
+
+@192
+Guan Ping and Zhou Cang joined as retainers!
+
+@193.0
+Happily, we are all together. Where shall we go?
+
+@193.1
+South of here lies a region called Jing Province. Liu Biao governs it.
+
+@193.2
+Liu Biao? He should be a relative of mine, I believe.
+
+@193.3
+Yes. Why not rely on Liu Biao and settle in Jing Province?
+
+@193.5
+The capital of Jing Province is a castle called Xiangyang. My lord, let us rely on Liu Biao and head for Xiangyang.
+
+@193.6
+What a lazy thing to say! Striking Cao Cao comes first, doesn't it? Liu Pi of Runan is Cao Cao's enemy. Let's go to Runan and fight him.
+
+@193.7
+Hmm. Which way should we go?
+
+@194
+Decide whether to fight or go to Xiangyang
+
+@195.0
+Let's go to Runan and fight Cao Cao.
+
+@196.0
+I will follow you anywhere.
+
+@197.0
+My lord, I look forward to serving you.
+
+@198.0
+Meeting Guan Yu changed my heart. Use me as you see fit.
+
+@199.0
+For now, let us go to Liu Biao at Xiangyang.
+
+@200.0
+My lord, where shall we go?
+
+@201.0
+Let us fight Cao Cao. On to Runan!
+
+@202.0
+Let us wait a little and see how things go.
+
+@203.0
+Have you decided?
+
+@204
+Flee to Xiangyang\nFight Cao Cao at Runan
+
+@205.0
+So you are heading for Xiangyang. Then I will go as envoy. Please follow later, my lord.
+
+@206.0
+Liu Biao says he will gladly welcome us. And he gave me this money for our military needs.
+
+@207
+Obtained 2000 gold!
+
+@208.0
+He thinks of everything. Let us go meet Liu Biao.
+
+@209.0
+Right now, only you can beat Cao Cao, Big Brother. Come on, let's march on Runan!
+
+@210
+Runan Council Hall
+
+@211.0
+Ah, Liu Bei. Welcome. I am Liu Pi.
+
+@212
+Talk with Liu Pi about what comes next
+
+@213.0
+Forgive our sudden visit.
+
+@213.1
+No, no, think nothing of it. When I heard you had come, my army's morale rose. Please stay as long as you like.
+
+@214.0
+Excuse me. My lord, a word, please.
+
+@215.0
+Do not mind me. Speak with your men.
+
+@216.0
+My lord, I will go to Liu Biao at Xiangyang. I will settle matters there, so that we can rely on Liu Biao in an emergency.
+
+@216.1
+I see. Then Sun Qian, I leave Liu Biao to you.
+
+@217
+Take a walk in the castle
+
+@218.0
+Now, take your ease in the castle.
+
+@219.0
+Ah, my lord, there you are.
+
+@220
+Go to the Council Hall and talk about what comes next
+
+@221.0
+My lord, according to spies, Cao Cao won a great victory over Yuan Shao.
+
+@221.1
+What! Yuan Shao lost! Despite such a gap in strength... Hmm... Cao Cao indeed.
+
+@221.2
+He is truly a frightening man, Cao Cao...
+
+@222.0
+He is truly a frightening man, Cao Cao...
+
+@223.0
+Ah, Liu Bei. Terrible news.
+
+@224.0
+Ah, Brother, terrible news. Please hear it from Liu Pi.
+
+@225.0
+Big Brother, terrible news. Hear it from Liu Pi.
+
+@226.0
+My lord, terrible news. Please hear the details from Liu Pi.
+
+@227.0
+Things are getting hectic again.
+
+@228.0
+This is Runan, right? Going from one journey to the next, I sometimes lose track of where we are.
+
+@229.0
+To be honest, I thought it would be better to go to Liu Biao at Xiangyang.
+
+@230.0
+Liu Bei, Cao Cao is said to be coming this way, riding the momentum of his victory over Yuan Shao.
+
+@230.1
+What! Cao Cao is coming here!
+
+@230.2
+Yes. According to spies, Cao Cao himself has not come. The commander seems to be Cao Ren.
+
+@230.3
+Hmm... A battle so soon. We must prepare to march.
+
+@232.0
+You march? I will help.
+
+@233.0
+I never thought Yuan Shao would lose so easily.
+
+@234.0
+The battlefield again.
+
+@235.0
+Cao Cao's momentum is beyond measure. Whether we alone can win or not...
+
+@236.0
+If they are coming to us, that saves time. Let us meet the enemy here in Runan.
+
+@237.0
+Even as we stand here, the enemy is slowly surrounding this castle...
+
+@239.0
+This is the Cao Cao army that defeated Yuan Shao's great host. Form your units carefully.
+
+@241.0
+Liu Bei in Runan, how convenient. I'll finish him off together with Liu Pi. March on Runan, follow me!
+
+@242
+Cao Ren retreats
+
+@243.0
+Liu Bei still means to run? I won't allow it. I, Cao Ren, will finish you off.
+
+@243.1
+Enemies on every side.
+
+@243.2
+The enemy is all Cao Cao's elite. If it gets dangerous, Liu Bei, flee without hesitation.
+
+@243.3
+Never! I will fight to the end as well.
+
+@243.4
+No, Liu Bei. You must not die in a place like this. I will stay to the end. Please, survive.
+
+@244.0
+Hm... that is no ordinary presence. There! You! No one else is a match for you. Face me!
+
+@244.1
+What? Such a warrior in Liu Bei's army? You are... Zhao Yun, aren't you. I know of you. It was worth coming all the way to Runan. Gladly!
+
+@244.2
+Come!
+
+@246
+Sun Qian appears!
+
+@247.0
+My lord, forgive my delay. I have settled matters with Liu Biao. He says you may come whenever you like. Now flee to the southwest fort. It lies on the border between Cao Cao and Liu Biao, and the enemy cannot go beyond it.
+
+@248
+Cao Ren retreats\nLiu Bei reaches the southwest fort
+
+@250.0
+Good, we leave the battlefield. We head for Xiangyang.
+
+@250.1
+What, Liu Bei escaped into Liu Biao's territory!?
+
+@251.0
+Hmm... It cannot be helped. We pull back for now.
+
+@252.0
+Good. Let us head for Xiangyang while we can.
+
+@253
+Obtained 700 gold!
+
+@254.0
+That was close. Let us leave this place quickly. Xiangyang lies to the south.
+
+@254.1
+Then... Hm? Who is that?
+
+@254.2
+Liu Bei!
+
+@254.3
+Ah, Liu Pi! I am glad you are safe!
+
+@254.4
+Yes! Liu Bei, I can never go back to Runan. I want you to take me with you.
+
+@254.5
+What happened?
+
+@254.6
+Until now I did as Yuan Shao said, but I have had enough. Liu Bei, take me with you!
+
+@255
+Take Liu Pi along\nDo not take Liu Pi
+
+@256.0
+Of course. Let us go to Xiangyang together.
+
+@257
+Liu Pi joined as a retainer!
+
+@258.0
+No. You would be better suited to living freely, away from the cramped confines of an army.
+
+@258.1
+...I see. If that is what you say, Liu Bei, so I shall do.
+
+@258.2
+Liu Pi, thank you for all you have done. Please take care of yourself.
+
+@259.0
+Then let us head for Xiangyang.
+
+@260
+And so Liu Bei fled to Xiangyang, where Liu Biao ruled.
+

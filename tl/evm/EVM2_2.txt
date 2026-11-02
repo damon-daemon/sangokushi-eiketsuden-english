@@ -1,0 +1,396 @@
+@0
+Ch. 2: The Sleeping Dragon
+
+@1
+Chapter 2: The Sleeping Dragon Emerges
+
+@2
+Just as the Cao Cao of today was no longer the Cao Cao of old, the Liu Bei of today was no longer the Liu Bei of old. The man who struck fear into ever-victorious Cao Cao: Xu Shu. When Cao Cao heard of his defeat, he carved this name deep into his heart.
+
+@5.0
+Brother, you have come. Just in time. Xu Shu has something to tell you.
+
+@6.0
+Xu Shu has something he wishes to tell you in private.
+
+@7.0
+Come on, Xu Shu. Tell Big Brother what you told us.
+
+@8.0
+Xu Shu seems deeply troubled.
+
+@9.0
+He is not himself today.
+
+@10.0
+What could have happened?
+
+@11.0
+Xu Shu says he has something to tell you, my lord.
+
+@12.0
+My mother has been captured by Cao Cao. A letter that reached me says so.
+
+@12.1
+What!
+
+@12.2
+My mother must be lonely. I want to go to her at once. Please forgive me.
+
+@12.3
+Xu Shu, no bond is greater than that between parent and child. Go to your mother at once. We may meet again.
+
+@12.4
+My lord! ...Hngh... Thank you!
+
+@13.0
+Xu Shu, farewell and be well.
+
+@14.0
+Xu Shu, take good care of your mother.
+
+@15.0
+It was a short time, but a pleasant one.
+
+@16.0
+What a pity.
+
+@17.0
+Just when a friend of Master Shuijing joined us. What a shame.
+
+@18.0
+Hmm, what a pity.
+
+@19.0
+My lord, thank you. Hngh... Farewell.
+
+@20.0
+It is fate. Let us accept it.
+
+@21.0
+We have lost a valuable man.
+
+@22.0
+What a pity.
+
+@23.0
+Just when a friend of Master Shuijing joined us. What a shame.
+
+@24.0
+Hmm.
+
+@26.0
+Hm? Isn't that Xu Shu's voice?
+
+@27.0
+Why has Xu Shu come back?
+
+@28.0
+What is it? What happened?
+
+@29.0
+Xu Shu, what is the matter?
+
+@30.0
+Perhaps Xu Shu wanted to see us once more before parting.
+
+@31.0
+Don't tell me Cao Cao has done something again...
+
+@32.0
+He came back after all. Good, good.
+
+@33.0
+I-I was so flustered that I forgot what I should have told you, my lord.
+
+@33.1
+What is it?
+
+@33.2
+Please be sure to make Kongming your retainer. He will be far more useful to you than I.
+
+@33.3
+Understood. I will not waste your concern for us. I will persuade Kongming without fail.
+
+@33.4
+Yes. Then, my lord, take care!
+
+@34.0
+All right. If Xu Shu says so much, Guan Yu, Zhang Fei, we head for Longzhong.
+
+@34.1
+What! Again?
+
+@34.2
+Hm? Zhang Fei, you look displeased.
+
+@34.3
+Well, this is the third time.
+
+@35.0
+For the lord of a castle to go twice is already a great deal. Why does he not appear?
+
+@36.0
+I simply follow you, my lord. If you think Kongming is needed, do as you see fit.
+
+@37.0
+If he surpasses even Xu Shu, he must be remarkable. But is it really true?
+
+@38.0
+If he is such a man, I hope he will lend us his strength.
+
+@39.0
+Now that Xu Shu is gone, our army does need someone to take his place.
+
+@40.0
+Big Brother, it's ridiculous to call a country bumpkin like Kongming a sage. You don't need to go yourself. I'll go catch him and bring him back.
+
+@40.1
+How rude of you to say that! No, you are not coming. Guan Yu and I will go, just the two of us.
+
+@40.2
+Don't leave just me behind, Big Brother.
+
+@40.3
+Then you may come, but do not behave rudely in front of the master.
+
+@40.4
+Yeah, yeah, I got it.
+
+@41
+Visit Zhuge Liang in Longzhong yet again
+
+@42.0
+This makes the third trip to Longzhong.
+
+@43.0
+We await good news.
+
+@44.0
+Please be sure to meet the Sleeping Dragon.
+
+@47.0
+I wonder if he is in today. I am curious what sort of man Kongming is.
+
+@48.0
+Hmph. Today I'm going to rip off Kongming's disguise.
+
+@49.0
+Oh, Lord Liu Bei. Welcome.
+
+@49.1
+Is Master Kongming in?
+
+@49.2
+Yes. He's taking a nap right now. I'll go wake him.
+
+@49.3
+No, leave him be. We will wait here.
+
+@50.0
+Sleeping, is he? How rude. I'll drag him out of bed.
+
+@50.1
+Stop, Zhang Fei. You are the rude one.
+
+@50.2
+Tch, fine. I'll behave.
+
+@51.0
+Are you sure I shouldn't call him?
+
+@51.1
+Yes, do not worry about it.
+
+@51.2
+Okay.
+
+@52.0
+You two wait outside. I will wait here.
+
+@52.1
+Understood. Hey, Zhang Fei, outside.
+
+@52.2
+Yeah, yeah.
+
+@53.0
+Um, Lord Liu Bei, I haven't done the cleaning yet. Is it all right if I go?
+
+@53.1
+Yes. Don't mind me. Go ahead and clean.
+
+@53.2
+Okay. Sorry.
+
+@54.0
+Hm. He does not look likely to wake soon. I will wait patiently.
+
+@55.0
+That guy's still pretending to sleep?
+
+@56.0
+I can't stand it. I'll burn the house down and wake him up no matter what!
+
+@57.0
+Zhang Fei, stop!
+
+@58.0
+You are too short-tempered. Wait quietly. Come, Zhang Fei, leave it to Brother.
+
+@58.1
+O-okay. I just have to keep quiet, right? But I'm no good at this dull stuff.
+
+@59.0
+Oh, Lord Liu Bei.
+
+@60.0
+Lord Liu Bei, I just finished cleaning.
+
+@61.0
+Heeey.
+
+@61.1
+Oh, the master is calling. Wait a moment.
+
+@62.0
+Who is there? Has some vulgar visitor come?
+
+@62.1
+That's Liu Bei of Xinye.
+
+@62.2
+What? Why didn't you wake me at once?
+
+@62.3
+Because Lord Liu Bei said not to wake you.
+
+@62.4
+...I see.
+
+@63.0
+Lord Liu Bei, please forgive my terrible rudeness.
+
+@64
+Ask\nListen\nPersuade\nWeep
+
+@65.0
+Yes, what shall we discuss?
+
+@66.0
+I hear you have come all this way many times. I must repay you somehow.
+
+@67.0
+I read your letter. Your concern for the people moved me deeply. But I am still young and not of such caliber. I could never be of use to you.
+
+@67.1
+No. Master Shuijing and Xu Shu urged me so strongly.
+
+@67.2
+They are fine men. I am a mere student. To discuss the fate of the realm is beyond me.
+
+@67.3
+To have the talent to save this age of chaos and hide in the mountains so young... What a waste. Lend me your strength, I beg you.
+
+@67.4
+...Lord Liu Bei, then I will teach you how you may stand against Cao Cao.
+
+@68.0
+Lord Liu Bei, why do you weep? Please lift your head.
+
+@69
+Ask\nListen\nPersuade\nWeep
+
+@70.0
+A way to stand against Cao Cao? You say even I can stand against him?
+
+@70.1
+Yes. This is my thanks for the three visits you made to me.
+
+@71.0
+Now, listen well.
+
+@73.0
+Lord Liu Bei, why do you weep? Please lift your head.
+
+@74
+Ask\nListen\nPersuade\nWeep
+
+@75.0
+I am only answering your sincerity. There is no other reason.
+
+@76.0
+Cao Cao has Heaven's timing and the unity of men, and commands a million troops. Now is not the time to fight him. Wu, too, is a state that has prospered under three generations of the Sun family. As you are now, you cannot beat them.
+
+@76.1
+Jing Province has fertile land and good roads. It is truly a land heaven itself gave you. Further, Yi Province, to the west of Jing, is rich in resources and is itself a natural fortress. Take root in Jing and Yi, and stand against Cao Cao in the north and Sun Quan in the east.
+
+@76.2
+Dividing the continent into three...
+
+@76.3
+Yes. This is the Plan of Three Divisions of the Realm, by which you may stand against Cao Cao and Sun Quan.
+
+@78.0
+Lord Liu Bei, why do you weep? Please lift your head.
+
+@79
+Ask\nListen\nPersuade\nWeep
+
+@80.0
+But Jing Province is ruled by Lord Liu Biao and Yi Province by Lord Liu Zhang, both of my own clan. I cannot attack them.
+
+@80.1
+No. Liu Biao is sickly and will not last long. You need only succeed him. And Liu Zhang is notorious for misrule. Driving him out would rather save the people.
+
+@81.0
+Divide the realm in three and stand against Cao Cao and Sun Quan: the Plan of Three Divisions of the Realm.
+
+@82.0
+Master Sleeping Dragon, I beg you, lend me your strength.
+
+@82.1
+No. This place suits me. I must decline.
+
+@83.0
+Lord Liu Bei, why do you weep? Please lift your head.
+
+@84
+Ask\nListen\nPersuade\nWeep
+
+@85.0
+I am better suited to living quietly here.
+
+@86.0
+No, I have nothing more to tell you.
+
+@88.0
+If a man of your caliber buries his talent here, the people suffering in this war will never be rewarded. With my meager strength, I cannot save them. Hngh...
+
+@88.1
+... Very well. As long as you hold to your ambition, Lord Liu Bei, I will go with you.
+
+@89.0
+Oh! You will lend me your strength? Thank you!
+
+@90
+Kongming joined as a retainer!
+
+@91.0
+Brother, I'm home.
+
+@92.0
+I will serve Lord Liu Bei for a while. Watch over these fields.
+
+@92.1
+Understood.
+
+@93.0
+Kongming... Good thing he lent you his strength, Big Brother.
+
+@94.0
+Then let us return to Xinye.
+
+@95
+Thus the Dragon finally awakens
+

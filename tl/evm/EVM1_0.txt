@@ -1,0 +1,828 @@
+@0
+Ch. 1: Battle of Jieqiao
+
+@1
+Chapter 1: Battle of Jieqiao
+
+@2
+After the anti-Dong Zhuo coalition disbanded, Yuan Shao was the first to move. He took Ji Province by stratagem, made Ye his base, and built a great power. To march farther north, Yuan Shao massed a huge force at Jieqiao, on the border with Beiping.
+
+@3.0
+Behold, men! Beiping is calling us! Defeat Gongsun Zan and the north of the continent is ours! We attack Beiping in two prongs. Zhang He, advance from Julu. Qu Yi, advance from Qinghe. The realm is as good as mine!
+
+@3.1
+I will head for Julu at once.
+
+@3.2
+I will march for Qinghe.
+
+@4.0
+Yuan Shao is attacking?!
+
+@4.1
+Yes, sir! From the border at Jieqiao, they come in two prongs, toward Qinghe and Julu.
+
+@4.2
+Yuan Shao, have you lost your mind, forgetting that we once fought together for the emperor? Not content with Ji Province, you want Beiping too? Fool! I will send you back in defeat. Yan Gang, meet them at Qinghe. I will go to Julu. Both of us will make for Jieqiao and catch Yuan Shao in a pincer.
+
+@4.3
+Yes, sir.
+
+@5
+The two armies faced each other at Qinghe and Julu, each watching the other. Several months of stalemate passed. Meanwhile, in Pingyuan...
+
+@6
+Pingyuan Council Hall
+
+@7.0
+Brother, the standoff between Gongsun Zan's army and Yuan Shao's has dragged on for quite a while now.
+
+@7.1
+Maybe neither side wants to fight anymore.
+
+@7.2
+That cannot be. Each is plotting and preparing for what comes next.
+
+@7.3
+No, I mean they're both worn out from the long fight.
+
+@7.4
+Hold on, you two. Still, you cannot tell how the world is moving by sitting still.
+
+@7.5
+Brother, why not go out and see what is happening?
+
+@7.6
+Yeah, Brother. We two will mind the place, so go on out.
+
+@8
+Gather information
+
+@9.0
+Brother, people gather at taverns and meeting halls. You should pay them a visit.
+
+@10.0
+If anything happens, I'll come get you.
+
+@11.0
+Brother, a guest has arrived.
+
+@12.0
+Brother, please speak with him.
+
+@13.0
+I'm no good at this. Brother, you should do the talking.
+
+@14.0
+I am Jian Yong. I heard of your exploits, Lord Liu Bei, and have come. Please take me in as your retainer.
+
+@15
+Jian Yong joined as a retainer!
+
+@16.0
+Lord Liu Bei, pardon the intrusion. I am an envoy from Lord Gongsun Zan.
+
+@17
+Hear the envoy
+
+@18.0
+Please hear the envoy out.
+
+@19.0
+Hear him out.
+
+@20.0
+I wonder what has happened.
+
+@21.0
+Envoy, what has become of Lord Gongsun Zan?
+
+@21.1
+Yes, sir. Yuan Shao's army has invaded Beiping, so Lord Gongsun Zan took the field himself. He is at Jieqiao, while Gongsun Yue's and Yan Gang's armies are fighting at Julu and Qinghe. All of them are struggling. Lord Liu Bei, please lend us your strength.
+
+@21.2
+Yes. Envoy, tell Lord Gongsun Zan that we will come to his aid at once.
+
+@21.3
+Oh! Thank you!
+
+@21.4
+My lord, to reach Jieqiao we must pass through either Guangchuan or Xindu Castle.
+
+@21.5
+I see. Guangchuan... or Xindu Castle. Which should we take?
+
+@21.6
+Xindu Castle is the longer way, but considering supplies, it is safer.
+
+@21.7
+What are you saying? We're in danger if we don't hurry! Brother, let's take the shortcut.
+
+@21.8
+My lord, be most careful in battle. When you are fully prepared, speak to me.
+
+@21.9
+Lord Gongsun Zan's base, Beiping, lies northeast of Pingyuan.
+
+@22
+March to aid Gongsun Zan
+
+@23.0
+Are you ready?
+
+@24.0
+Then let us march.
+
+@25.0
+Let's go, quick!
+
+@26.0
+To get to Jieqiao from here, we must pass through either Guangchuan or Xindu Castle.
+
+@27.0
+Lord Liu Bei, please hurry as much as you can.
+
+@28.0
+Brother, which way will you take, Guangchuan or Xindu Castle?
+
+@29
+Take Xindu Castle\nTake Guangchuan
+
+@30.0
+Then we go through Guangchuan. Please form your units.
+
+@31.0
+Pang Ji, head for Guangchuan. Strike Gongsun Zan from behind.
+
+@31.1
+Yes, sir.
+
+@31.2
+Men, we are circling behind Gongsun Zan. To Guangchuan!
+
+@32.0
+What! Yuan Shao's army is behind us? Damn! Then we advance and hit their main camp at Jieqiao first!
+
+@33.0
+Let us march for Guangchuan.
+
+@34.0
+Then we go through Xindu Castle. Please form your units.
+
+@35.0
+Chunyu Qiong, head for Xindu Castle. Strike Gongsun Zan from behind.
+
+@35.1
+Yes, sir.
+
+@35.2
+Men, we head for Xindu Castle to attack Gongsun Zan's rear! Follow me!
+
+@36.0
+What! Yuan Shao's army is behind us? Damn! Then we advance and attack Yuan Shao's main camp at Jieqiao!
+
+@37.0
+Let us march for Xindu Castle.
+
+@38
+Destroy Pang Ji
+
+@39
+Guangchuan Battlefield
+
+@40.0
+That is... Brother, it seems to be Yuan Shao's army.
+
+@40.1
+Yuan Shao's army? They should be fighting Lord Gongsun Zan's army. Why are they here...
+
+@40.2
+If Yuan Shao's army has come this far, Gongsun Zan's army must be in trouble.
+
+@40.3
+Hm, what is that? Could it be Liu Bei's army from Pingyuan? I see, they mean to reinforce Gongsun Zan. Listen, we strike before the enemy joins up. Gongsun Zan can wait. Deal with Liu Bei's army first. All troops, meet them!
+
+@40.4
+Brother, Yuan Shao's army has shown up.
+
+@41.0
+I take it you are the commander. Let us fight!
+
+@41.1
+Tch. Fine, come on!
+
+@42.0
+What is your name?
+
+@42.1
+My name is Guan Yu!
+
+@42.2
+Guan Yu...? ...What! Guan Yu? The Guan Yu I have heard rumors of...
+
+@42.3
+Oh, you know my name. Then you must know something of my strength. Here I come!
+
+@43
+Guan Yu leveled up!
+
+@44.0
+...I will give up Guangchuan. All troops, fall back!
+
+@45.0
+Curse it, Liu Bei's army is stronger than I thought. ...I will give up Guangchuan. All troops, fall back!
+
+@46
+Pang Ji retreated. Liu Bei's army defeated Yuan Shao's army.
+
+@47
+You got 200 gold!
+
+@48
+Guangchuan Camp
+
+@49.0
+Yes, but for Yuan Shao's army to have come this far, the war does not seem to be going well.
+
+@49.1
+So it seems. ...Hm? My lord, someone is coming.
+
+@50.0
+Lord Liu Bei, forgive our sudden visit. We are officers of Xindu Castle. I am Han Ying, and...
+
+@50.1
+Guo Shi. Pleased to meet you.
+
+@50.2
+Why have you officers of Xindu Castle come to our camp?
+
+@50.3
+Yuan Shao's army attacked our castle, Xindu...
+
+@50.4
+Chunyu Qiong, one of Yuan Shao's men, overran it.
+
+@50.5
+What! Has Yuan Shao come as far as Xindu Castle?
+
+@50.6
+Yes. Afterward we heard of your reinforcements, Lord Liu Bei, and came to rely on you.
+
+@50.7
+It is too bitter to let Yuan Shao have his way. Please take us both into your army.
+
+@50.8
+We will not be satisfied until we have struck back at Yuan Shao. Please, we beg you!
+
+@50.9
+...Brother, let's take them in. They were driven from their castle. They've got nowhere to go.
+
+@50.10
+If you two join us, our army will be stronger. I gladly accept.
+
+@50.11
+Oh! Thank you!
+
+@50.12
+Now we can avenge Xindu Castle.
+
+@51
+Han Ying and Guo Shi joined as retainers!
+
+@52.0
+Now that we have more allies, let us hurry.
+
+@52.1
+Jian Yong, is Jieqiao close?
+
+@52.2
+No. From here there are two more roads. One goes by Qinghe, the other by Julu.
+
+@52.3
+But if Yuan Shao's army has come this far, there will be enemies there too.
+
+@52.4
+Who cares? I'll crush them!
+
+@52.5
+Let us prepare to march at once. I will call the shopkeeper.
+
+@53.0
+Thanks for your patronage. If you want anything, just speak to me.
+
+@54
+March to aid Gongsun Zan
+
+@55.0
+Brother, hurry up. I'm itching to go.
+
+@56.0
+Before marching, you can prepare in two ways: saving your record and buying items.
+
+@57.0
+I look forward to working with you.
+
+@58.0
+I will do my best.
+
+@59.0
+Are you ready?
+
+@60.0
+Then let us set out.
+
+@61.0
+Brother, which way are you going, Qinghe or Julu? Decide quickly!
+
+@62
+Chunyu Qiong retreats\nLiu Bei reaches the castle gate
+
+@63.0
+I cannot hold out any longer... Who would have thought Yuan Shao's army would come here...
+
+@63.1
+Good! Xindu Castle will fall any moment now!
+
+@63.2
+Brother, Xindu Castle is under attack by Yuan Shao's army.
+
+@63.3
+Yuan Shao's army has come this far? What happened to Lord Gongsun Zan?
+
+@63.4
+Hm, whose army is that? ...Is that not Liu Bei's army from Pingyuan? Why is Liu Bei's army here? ...Never mind. I will take Liu Bei's head right here. All troops, turn around and face Liu Bei's army!
+
+@63.5
+Brother, let us save Xindu Castle! If we hold Xindu Castle, Yuan Shao's army will run out of strength.
+
+@64.0
+That must be their commander. Hey, you! I'm Zhang Fei! You there, fight me one on one!
+
+@64.1
+So you are Zhang Fei? Just what I wanted.
+
+@64.2
+Here I come!
+
+@65
+Zhang Fei leveled up!
+
+@66
+You got 200 gold!
+
+@67.0
+Damn! So close to finishing it... All troops, fall back!
+
+@68
+Chunyu Qiong retreated. Liu Bei's army defeated Yuan Shao's army.
+
+@69
+You got 200 gold!
+
+@70.0
+Brother, Yuan Shao's army has retreated.
+
+@70.1
+Yes, but for Yuan Shao's army to have come this far, the war does not seem to be going well.
+
+@70.2
+So it seems. For now, let us enter Xindu Castle.
+
+@71
+Enter Xindu Castle
+
+@72
+Xindu Council Hall
+
+@73.0
+Lord Liu Bei, thank you for saving Xindu.
+
+@73.1
+No thanks are needed. Still, I am glad we came through Xindu.
+
+@73.2
+...?
+
+@73.3
+We were on our way to Jieqiao to reinforce Gongsun Zan's army. Anyway, I am glad Xindu Castle is safe.
+
+@73.4
+I see. Then I will go with you. I want to repay this kindness.
+
+@74
+Fan Gong joined Liu Bei's army!
+
+@75.0
+Brother, then let us head for Jieqiao. When you are ready, speak to me.
+
+@76
+March to relieve Gongsun Zan
+
+@77.0
+Are you ready?
+
+@78.0
+My lord, is the army's equipment in perfect order?
+
+@79.0
+Brother, if we don't march soon, we might not make it in time.
+
+@80.0
+I will go with the reinforcements too.
+
+@81.0
+Brother, let us hurry to the rescue.
+
+@81.1
+Jian Yong, is Jieqiao close from here?
+
+@81.2
+No. To reach Jieqiao we must pass through either Qinghe or Julu.
+
+@81.3
+But Yuan Shao already has this many troops here. The road ahead will be harder still.
+
+@81.4
+I'll deal with it. So, Brother, which way, Qinghe or Julu?
+
+@82
+Take Julu\nTake Qinghe
+
+@83.0
+Understood. Then we go to Julu.
+
+@84.0
+Understood. Then we go to Qinghe.
+
+@85.0
+Enemies. Please form your units.
+
+@86
+Destroy Qu Yi
+
+@87.0
+Qu Yi! I, Yan Gang, demand a duel!
+
+@87.1
+You have nerve. But what bad luck to face Qu Yi!
+
+@87.2
+Shut up! Here I come!
+
+@88.0
+I have taken Yan Gang's head!
+
+@88.1
+Brother, we are a step too late. Lord Yan Gang and the Beiping army at Qinghe are no more.
+
+@88.2
+We were too late... All right. Now we fight to avenge them!
+
+@88.3
+Hm? Is that not Liu Bei's army? I see, you mean to reinforce Gongsun Zan? Not if I can help it!
+
+@89.0
+You there, commander! Fight me one on one!
+
+@89.1
+What? Another one? Very well, I will take you on. You will end up like Yan Gang just now.
+
+@89.2
+We shall see about that.
+
+@90.0
+I still have much to learn. I struggled a little against an opponent like this.
+
+@91
+Guan Yu leveled up!
+
+@92
+Guan Yu slew Qu Yi. Liu Bei's army broke through Qinghe.
+
+@93.0
+Hm! What is that?!
+
+@94
+Enemy reinforcements appeared
+
+@95.0
+Curse that Liu Bei... To think I let him through here.
+
+@96
+Liu Bei's army broke through Qinghe
+
+@97
+You got 200 gold!
+
+@98
+You got 300 gold!
+
+@99.0
+What! Qu Yi at Qinghe was defeated by Gongsun Zan's army? It can't be helped. Back to Jieqiao.
+
+@99.1
+Running away, are you! Damn... If only we had struck Zhang He here, Jieqiao would have been easy.
+
+@100.0
+Now, beyond this lies Jieqiao, where Yuan Shao's main army is.
+
+@100.1
+Brother, let us hurry to Jieqiao.
+
+@101
+Go to Gongsun Zan's rescue at Jieqiao
+
+@102.0
+It looks like enemies. Please form your units.
+
+@103
+Zhang He retreats\nLiu Bei reaches the west fort
+
+@104.0
+Lord Zhang He, let us scatter the Beiping army and join Lord Yuan Shao at Jieqiao.
+
+@104.1
+Yes, but I hear Liu Bei, Gongsun Zan's ally, is leading an army toward Julu. We must stop Liu Bei from joining Gongsun Zan at all costs.
+
+@105.0
+Lord Gongsun Yue!
+
+@105.1
+Oh, Lord Liu Bei! You saved us! Everyone, reinforcements have come!
+
+@105.2
+So you came, Liu Bei. But I, Zhang He, will not let you through to Jieqiao.
+
+@105.3
+Guan Yu! Zhang Fei! I, Yan Liang, will be your opponent!
+
+@105.4
+Brother, rather than lose troops here, let us break through the enemy line and join the main camp at Jieqiao as soon as we can. If we reach the west fort, the enemy cannot touch us.
+
+@106.0
+Oh! Looks like a tough one. I'll take him down.
+
+@106.1
+So you're here, Zhang Fei! You are a worthy opponent. Here I come!
+
+@106.2
+Yaaah!
+
+@107
+Zhang Fei leveled up!
+
+@108.0
+Hm! What is that?!
+
+@109
+Enemy reinforcements appeared!
+
+@110.0
+What! They come from that side too?!
+
+@111.0
+I was once a retainer of Han Fu of Ji Province. I am Guan Chun! I side with Liu Bei's army!
+
+@111.1
+And I am Geng Wu! I cannot forgive Yuan Shao for taking Ji Province from my lord!
+
+@111.2
+That is... Whose unit is that?
+
+@111.3
+That is... I believe Guan Chun and Geng Wu. They were retainers of Han Fu, whose Ji Province Yuan Shao took.
+
+@111.4
+I see. So they seek revenge.
+
+@111.5
+Whatever, they're not enemies, right? Then they're allies!
+
+@112
+Geng Wu and Guan Chun appeared as reinforcements!
+
+@113.0
+...Damn. Losing to Liu Bei... Retreat.
+
+@113.1
+All right! Our army has won!
+
+@114
+Zhang He retreated. Liu Bei's army defeated Yuan Shao's army.
+
+@115
+You got 200 gold!
+
+@116.0
+Do not let Liu Bei break through here! All troops, aim for Liu Bei!!
+
+@116.1
+Brother, the fort is very close. Let us break through somehow.
+
+@117.0
+Damn. We let Liu Bei through.
+
+@117.1
+All right! We broke through Julu!
+
+@118
+Liu Bei's army broke through Julu
+
+@119.0
+What! Zhang He at Julu was defeated by Gongsun Zan's army? It can't be helped. Back to Jieqiao.
+
+@119.1
+Running away, are you! Damn... If only we had struck Qu Yi here, Jieqiao would have been easy.
+
+@120.0
+Lord Liu Bei, I am Guan Chun, once a retainer of Han Fu.
+
+@120.1
+I am Geng Wu.
+
+@120.2
+Yes.
+
+@120.3
+Our lord, Han Fu, lost Ji Province to Yuan Shao and lives quietly in the countryside. We have yet to repay our grudge against Yuan Shao. Please let us fight as well.
+
+@120.4
+Understood. Let us go to Jieqiao together.
+
+@120.5
+Yes, sir! Lord Liu Bei, thank you.
+
+@121
+Guan Chun and Geng Wu joined as retainers!
+
+@122.0
+Now, beyond this lies Jieqiao, where Yuan Shao's main army is.
+
+@122.1
+Brother, let's hurry to Jieqiao.
+
+@123
+Go to Gongsun Zan's rescue at Jieqiao
+
+@124.0
+Brother, this is Jieqiao. At last we face Yuan Shao.
+
+@125
+Yuan Shao retreats\nLiu Bei seizes the supply depot
+
+@126.0
+The enemy is hanging by a thread. Wen Chou! Finish off Gongsun Zan!
+
+@126.1
+I am Wen Chou. Gongsun Zan! Your life ends here.
+
+@126.2
+Damn. Where are the reinforcements?
+
+@126.3
+My lord, leave this to me.
+
+@126.4
+Tch. Out of my way, small fry!
+
+@126.5
+Here I come, Wen Chou!
+
+@127.0
+Ha ha ha! With skill like that, you cannot beat me.
+
+@128.0
+You won't escape, Gongsun Zan! Die!
+
+@128.1
+So this is the end...
+
+@129.0
+Hold it!
+
+@129.1
+Who goes there?!
+
+@130.0
+Tch. So close...
+
+@131.0
+Whew, I am in your debt. My thanks. What is your name?
+
+@131.1
+I am Zhao Yun.
+
+@131.2
+I served Yuan Shao until now, but I realized he fights only for his own interests, so I decided to return home.
+
+@131.3
+How foolish of Yuan Shao... Tell me, would you put your strength to use under me?
+
+@132.0
+If you will have me, I will serve you.
+
+@132.1
+Hm? Lord Gongsun Zan, whose army is that?
+
+@132.2
+Oh, it is Liu Bei's army from Pingyuan! Everyone, Lord Liu Bei has come!
+
+@132.3
+Phew, Brother. Looks like we made it in time.
+
+@132.4
+Lord Gongsun Zan! I, Liu Bei, have just rushed here from Pingyuan!
+
+@132.5
+Brother, the enemy has a great army. If we strike the supply depot behind them, they will not last long.
+
+@132.6
+My lord, Liu Bei's army has appeared.
+
+@132.7
+What! That Liu Bei's army?
+
+@132.8
+My lord, what do you fear? We must not miss this chance.
+
+@132.9
+...True. All right, crush them all together!
+
+@133.0
+Yuan Shao's army has Wen Chou. I was careless earlier, but this time will be different.
+
+@133.1
+Ho, that's more like it. Let me play with you.
+
+@134.0
+Ooh! ...Lost earlier, and lost again now...
+
+@135
+Zhang Fei leveled up!
+
+@136.0
+Lord Yuan Shao, the enemy is few in number but approaching us.
+
+@136.1
+Hm. Do not underestimate them... All right, all troops, begin the advance!
+
+@137.0
+Lord Yuan Shao, the enemy is few in number but approaching us.
+
+@137.1
+Hm. Do not underestimate them... All right, all troops, begin the advance!
+
+@138.0
+Lord Yuan Shao, the supply depot is under attack!
+
+@138.1
+What! That Liu Bei, what an insolent trick! Turn back at once!
+
+@139.0
+Lord Yuan Shao, the supply depot is under attack!
+
+@139.1
+What! That Liu Bei, what an insolent trick! Turn back at once!
+
+@140.0
+We did it! We seized Yuan Shao's supply depot!
+
+@140.1
+Your huge army has turned against you, Yuan Shao!
+
+@140.2
+Brother, we did it!
+
+@140.3
+This battle is ours!
+
+@141.0
+Damn that Liu Bei...! I had my hand on Gongsun Zan's head... Gongsun Zan! One day I will repay this grudge and make the northern continent mine! All troops, fall back!
+
+@142
+Gongsun Zan's army won the Battle of Jieqiao
+
+@143
+You got 400 gold!
+
+@144.0
+Gongsun Zan, remember this!
+
+@145.0
+Lord Liu Bei, thank you for coming. You have saved my life.
+
+@145.1
+Not at all. I am just glad you are safe.
+
+@145.2
+Oh yes, there is one more benefactor who saved me. Let me introduce him to you, Lord Liu Bei. This is Lord Zhao Yun.
+
+@145.3
+I am Liu Bei, style name Xuande.
+
+@145.4
+I am Zhao Yun, style name Zilong. So you are Liu Bei. I have heard much about you.
+
+@145.5
+Come now, in any case our army has won! Let us drink to it!
+

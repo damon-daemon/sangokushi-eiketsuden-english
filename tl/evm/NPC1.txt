@@ -1,0 +1,393 @@
+@0
+Yuan Shao is attacking, you say? Is it safe here?
+
+@1
+Fire doesn't catch easily in the rain. My dad told me.
+
+@2
+Lord Liu Bei is a Swords unit right now, isn't he? But if he gains experience and grows strong, he can become a different kind of unit.
+
+@3
+Visit the meeting halls and taverns and you will hear different stories.
+
+@4
+Mind your units' HP. You never know when they will be struck down on the battlefield.
+
+@5
+Using items that suit you is very important. Use them well and you will grow even stronger.
+
+@6
+South of here lies the castle of Beihai. They say a man called Kong Rong governs it.
+
+@7
+There is a shopkeeper here too, but Beiping sells better goods.
+
+@8
+War with Yuan Shao? You must be joking. Fight a country that big?
+
+@9
+I recall there is a general named Fan Gong in Xindu. I think he led a Martial Artists unit.
+
+@10
+They say using items can change a unit's attribute.
+
+@11
+There are treasuries and granaries on the battlefield. Go there and you may find something good.
+
+@12
+This area is famous for horses. Have you seen the famous steed called Red Hare yet?
+
+@13
+Do you know where they sell "Bomb"? I've been looking for it.
+
+@14
+Hey, give it back! That's mine!
+
+@15
+If you want it, come and get it!
+
+@16
+Those children are good friends. Well, peace is a fine thing.
+
+@17
+Have you got used to using items? The trick is to use the right item for the situation.
+
+@18
+Even among Sword-class weapons, the Axe lowers Leadership, but it raises War a lot for its price.
+
+@19
+The higher a general's Leadership, the better his defense, they say.
+
+@20
+Watch the terrain on the battlefield. They say units in forests are harder to hit.
+
+@21
+They say Zhang He and Yan Liang are at Julu. Both are the best fighters in Yuan Shao's army.
+
+@22
+On the battlefield, you must read the enemy's moves. Get careless and approach, and they will attack.
+
+@23
+They say the treasuries on the battlefield hold rare items. I'd love to handle such things myself.
+
+@24
+Don't forget to change your class to match your level.
+
+@25
+This is the room of the lord of this castle.
+
+@26
+Sorry, I'm still cleaning. Please don't walk around too much.
+
+@28
+I like walking in the mountains. But there are bandits in the mountains...
+
+@29
+Another war? Sigh, my fields...
+
+@30
+Battle makes a person grow. Duels especially.
+
+@31
+Infantry beat archers, archers beat cavalry, and cavalry beat infantry, they say.
+
+@32
+They say HP recovers when you stay in a village or a fort.
+
+@33
+This is the town of Beiping.
+
+@34
+They call it Swords because the soldiers use short weapons like swords.
+
+@35
+For healing wounds, medicine is best. If you feel in danger, use it right away.
+
+@36
+Yuan Shao has many fine subordinates. Can Gongsun Zan beat Yuan Shao?
+
+@37
+Fighting isn't everything. Winning without fighting is also the art of war.
+
+@38
+Oh dear, I've gotten drunk.
+
+@39
+There are tribesmen to the north, so nobody goes there. They say they can control water at will.
+
+@40
+Some items can be used by some people and not others, so be careful who you give them to.
+
+@41
+Take care of your weapons. If you sell them, some can never be had again.
+
+@42
+This is Lord Gongsun Zan's residence.
+
+@43
+Well, back to work.
+
+@44
+Cao Cao has many fine subordinates. Xiahou Dun, Xiahou Yuan, Cao Ren...
+
+@45
+Thanks to our lord, we have been spared from war until now. But this time, perhaps...
+
+@46
+Be careful not to retreat your units needlessly.
+
+@47
+My body has stopped moving lately. Getting old.
+
+@48
+How nice for you folks, never growing old, always keeping the same faces.
+
+@49
+In battle, they say you choose which units to send in to suit the terrain.
+
+@50
+Lord Tao Qian governs three cities: this Xuzhou, Xiaopei to the southwest, and Xiapi to the south.
+
+@51
+We bandits can walk anywhere. Though swimming is not our strong suit.
+
+@52
+Carry a weapon and your abilities go up. Good weapons are expensive, though.
+
+@53
+They sell "Salve" here. It's very good stuff.
+
+@54
+Cao Cao's followers are all remarkable people. You'd best be careful.
+
+@55
+Is Cao Cao a bad man? Or a good one? He must be quite something, anyway.
+
+@56
+"Salve" restores HP. Unlike Beans, it can heal several units.
+
+@57
+Strategy values depend on Int. Without Int, you soon cannot use strategies.
+
+@58
+I heard Cao Cao has attacked Xuzhou.
+
+@59
+Lord Kong Rong is said to be a descendant of Confucius. What? You don't know Confucius? ... Pardon me, then.
+
+@60
+This country is vast. There are other regions too, Jing Province, Yi Province, Wu... many of them.
+
+@61
+When bandits attacked this castle, I didn't know what to do.
+
+@62
+This town has become unsafe to walk in lately. Bandits seem to be roaming around.
+
+@63
+Hey mister, you look strong! When I grow up I'm going to fight too!
+
+@64
+They say they sell "Bomb" in this town. A "Bomb" can be used regardless of weather or terrain.
+
+@65
+Oh, you are Lord Liu Bei? Thank you for coming with reinforcements.
+
+@66
+W-we have nothing to do with that Guan Hai. We just came here for a drink.
+
+@67
+Because we're bandits, nobody comes near us. Even though there are good bandits like me.
+
+@68
+The "Yitian Sword" and the "Qinggang Sword" are both famous swords. I hear Cao Cao has them.
+
+@69
+Weapons aren't the only items that raise abilities. Things like "Manuals" are useful too.
+
+@70
+What level are you? If you're 20 or more, you should visit the shopkeeper too.
+
+@71
+With bandits around, business is ruined. Maybe I'll go to another town.
+
+@72
+I forget where, but I once heard that a bandit chief was a woman.
+
+@73
+Even if bandits come, I'm fine. No one can resist this beauty. Hohoho!
+
+@74
+Lu Bu's "Fangtian Halberd" is said to be an amazing weapon. I'd like to see it once.
+
+@75
+Bandits are scary!
+
+@76
+Hey, are bandits bad guys? There's something dangerous about them that I like. I'd like to meet one, just once.
+
+@77
+There are no "Beans" in Xiaopei. How are we supposed to heal the wounded?
+
+@78
+Hey! Who are you? Never seen your face. Are you drinking too?
+
+@79
+There are lots of bandits around Xiaopei. It's too dangerous even to walk outside.
+
+@80
+They say there's a unit that can handle wild beasts. They must be very strong.
+
+@81
+I'm researching "Wine" right now. I feel I can make an even better "Wine".
+
+@82
+They sell items that raise your class here. But you can't use them if your level is low.
+
+@83
+The "Long Spear Manual" is for Swords, the "Heavy Cavalry Seal" is for Light Cavalry, and the "Repeating Crossbow" is for Archers.
+
+@84
+There's a general called Ji Ling in Yuan Shu's army, and his weapon is said to be amazing. I wonder what kind of weapon it is.
+
+@85
+Yuan Shao's town is just as big. If Cao Cao and Yuan Shao fought, which one would win?
+
+@86
+They say Yuan Shu has declared himself emperor. Is being emperor really that great?
+
+@87
+Oh, a handsome man. Just my type.
+
+@88
+Are you using items in battle? Don't be lazy about it; take your time and fight.
+
+@89
+Are all your units properly strong? If they're lopsided, you'll be in trouble someday.
+
+@90
+Did you know? There are items that can change your units.
+
+@91
+There are all kinds of weapons, right? I'd like one for myself.
+
+@92
+A famous steed really is good. It can move farther than a person.
+
+@93
+Maybe I'll open a shop too...
+
+@94
+Have you ever seen "Red Hare"? ... Wow, lucky you. Show me sometime.
+
+@95
+A bright red horse... I'm sure it's a really cute horse.
+
+@96
+There are few archers, so raise them with care.
+
+@97
+I wonder if they have "Herbal Medicine".
+
+@98
+"Fine Wine" is much more effective than "Wine".
+
+@99
+A "Horse" is good. It raises your movement, after all. "Red Hare", for example.
+
+@100
+For recovery items there are "Beans", "Wheat", and "Rice". They sold "Wheat" in Xiapi.
+
+@101
+I hate war. I want a world without war to come soon.
+
+@102
+Nothing but "Fine Wine" for me. Once you drink it, you can't drink cheap stuff.
+
+@103
+They say the people suffer in Yuan Shu's land. Compared to that, this is a fine place.
+
+@104
+May I help you?
+
+@105
+Lord Cao Cao's residence is on the opposite side of the council hall.
+
+@106
+This is Lord Cao Cao's residence.
+
+@107
+Busy, busy.
+
+@108
+A weapon does nothing unless you equip it.
+
+@109
+Yuan Shao's subordinates are every bit as good as Cao Cao's. They have Yan Liang and Wen Chou.
+
+@110
+This area is called Ji Province. Did you know?
+
+@111
+Even Cao Cao won't attack here, surely.
+
+@112
+We mountain bandits become Brigands when our class goes up. They say there's an even higher class.
+
+@113
+This is a good town. If only there were no wars, I'd have no complaints.
+
+@114
+Lord Yuan Shao intends to settle matters with Cao Cao. Can he beat Cao Cao?
+
+@115
+Is there anything good? Oh, it looks like they have "Wheat".
+
+@116
+Oh, a customer.
+
+@117
+Ever used a mountain ruse? Depending on the terrain, it's really strong.
+
+@118
+If it were wasteland, bandits could use it...
+
+@119
+I came from Beiping. Beiping was in ruins.
+
+@120
+They say Lord Yuan Shao is quick to distrust people. It must be hard for his subordinates.
+
+@121
+They say the capital is in a terrible state. Everyone was killed.
+
+@122
+I think Lord Yuan Shao is in the council hall.
+
+@123
+What do you think? A nice town, isn't it?
+
+@124
+Are you using your Supply Unit properly? It's slow, but it's an important unit that can resupply.
+
+@125
+The drawbridge can never be lowered from the outside, so after curfew you can't enter the castle.
+
+@126
+I hate it when war comes. We won't be able to go outside again.
+
+@127
+Go north from here and you'll reach Xuzhou. What? You already know?
+
+@128
+This castle is surrounded by a moat, so you can only enter through the drawbridge.
+
+@129
+I heard Martial Artists are good at fire plans.
+
+@130
+Are you watching your HP? Remember that HP differs by unit.
+
+@131
+South of Xiapi there's a region called Wu. They say it's quite a big country too.
+

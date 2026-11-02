@@ -1,0 +1,309 @@
+@0
+I hear Liu Biao, our lord, is often ill.
+
+@1
+Cai Mao is the older brother of Lord Liu Biao's wife. Rumor has it he secretly eyes the governorship of Jing Province.
+
+@2
+War still rages in northern China. That is why so many people have fled from the north to Jing Province.
+
+@3
+Xinye is the northernmost land of Jing Province, the closest to Cao Cao's territory.
+
+@4
+It isn't only Cao Cao. Sun Quan of Wu also has his eye on taking Jing Province.
+
+@5
+Some items that restore HP in battle are used up, but others keep restoring it as long as you carry them.
+
+@6
+I come from Wu, east of Jing Province. It is the land Sun Quan governs.
+
+@7
+I want to grow up fast and become a student of Master Shuijing!
+
+@8
+Is Lord Liu Bei's big? ...Hee hee, what's big? His ambition, silly!
+
+@9
+The shopkeeper in this castle sells items that can raise a unit's class.
+
+@10
+The village west of Xiangyang is Longzhong.
+
+@11
+You can't go south of Xiangyang for now, but there are regions like Wuling, Lingling, Guiyang, and Changsha.
+
+@12
+Infantry beat archers, archers beat cavalry, and cavalry beat infantry, they say.
+
+@13
+Jing Province is a treasure house of talent. Some will become your followers.
+
+@14
+They say there is a famous sword in the treasury of this castle. On the battlefield, of course.
+
+@15
+Do you know Master Shuijing? He is a famous scholar in these parts.
+
+@16
+Lord Liu Bei, did you know that water plans are especially effective in the rain?
+
+@17
+I'm not drunk at all, I tell ya~
+
+@18
+They say the higher a general's Int, the less he suffers from strategies.
+
+@19
+Some people join you on the battlefield. Don't just fight, winning people over matters too.
+
+@20
+I hear Xiahou En received the "Qinggang Sword" from Cao Cao.
+
+@21
+The shopkeeper in Jiangxia has "Sorcery Potion", which restores strategy points.
+
+@22
+Before long this land may belong to Cao Cao too.
+
+@23
+Did you know Beast Tamers have high attack but lower defense than Swords?
+
+@24
+The arms dealer here sells more kinds of goods than others.
+
+@25
+They say Wu has a great strategist called Zhou Yu.
+
+@26
+Wu to the east means to seize Jiangxia and use it as a foothold to conquer Jing Province.
+
+@27
+Welcome to Jiangxia. This castle is the easternmost in Jing Province.
+
+@28
+This is "Jiangxia", you know, not "River Summer".
+
+@29
+West of Jing Province is Yi Province. It is also called the land of Shu.
+
+@30
+Wine is good for the body in moderation. Hic.
+
+@31
+The great river that flows near this castle is the Yangtze.
+
+@32
+I came from Ye in the north. Jiangxia is warm and nice.
+
+@33
+Go east through Wu and you reach the sea. Beyond that sea, they say, is a country called Wa...
+
+@34
+You can only carry up to 60,000 gold. Better not save up too much.
+
+@35
+Don't all the shopkeepers look alike? Are they brothers?
+
+@36
+Weapons and Manuals are not sold at the shop.
+
+@37
+May I help you?
+
+@38
+I'm cleaning the room right now. Please wait a moment.
+
+@39
+Lord Liu Bei, we welcome you.
+
+@40
+Runan is governed by Lord Liu Pi.
+
+@41
+It's very reassuring to have Lord Liu Bei in this land.
+
+@42
+South of Runan is Jing Province, northeast is Xuzhou, southeast is Wu.
+
+@43
+Lord Liu Bei, crush that Cao Cao for us!
+
+@44
+Barkeep, we need more wine.
+
+@45
+You hear all kinds of talk over a drink. I can't stop going to the tavern.
+
+@46
+I'm looking for the "Qingnang Book". They say it's an item that turns you into a Supply Unit.
+
+@47
+If war comes, the fields will be ruined again...
+
+@48
+Many people must resist Cao Cao like Lord Liu Pi. Win them over and fight together.
+
+@49
+They say there is an item in a treasury on the battlefield near here that turns you into a Band.
+
+@50
+The shopkeeper here has many kinds of goods.
+
+@51
+The river that flows south of this castle is the Yellow River.
+
+@52
+Pingyuan, where Lord Liu Bei was, is far to the east of Baima, isn't it?
+
+@53
+Have you ever met a Sorcerer? They say they can use almost every strategy.
+
+@54
+Waaah, waaah, Mommy~
+
+@55
+That child is so noisy. Honestly, children.
+
+@56
+This is Baima, Yuan Shao's military base against Cao Cao.
+
+@57
+It's somehow hectic in the castle.
+
+@58
+Cao Cao's army has many fierce and wise generals. Though Yuan Shao's army outnumbers them, we must not be careless.
+
+@59
+I can't get through this without a drink.
+
+@60
+Cao Cao's army has set up camp south of this castle, across the Yellow River.
+
+@61
+The shopkeeper buys items back at three quarters of the selling price.
+
+@62
+Did you come to see me? Or are you looking for items?
+
+@63
+I'm buying a souvenir for my grandchild.
+
+@64
+Heaven forbid, heaven forbid.
+
+@65
+I hear Lord Cao Cao has a remarkable strategist. Is that true?
+
+@66
+I wonder what our lord intends to do from now on.
+
+@67
+Being beautiful is a sin all by itself.
+
+@68
+Even a doctor can cure some and not others.
+
+@69
+Lord Cao Cao is a great man, but they say he is a frightening one.
+
+@70
+I've never held anything but farm tools since the day I was born.
+
+@71
+I dunno, mister.
+
+@72
+You can do business at any time.
+
+@73
+Buy good things cheap and have them bought dear. That is my way of doing business.
+
+@74
+Yay, it's a general! A big general!
+
+@75
+I'm lost...
+
+@76
+I can't make sense of the way the world is going.
+
+@77
+They don't have much here that I want.
+
+@78
+Even a shopkeeper doesn't always have everything.
+
+@79
+Hey, you! What do you live for! Huh?
+
+@80
+I'm not drunk at all, I tell ya~
+
+@81
+Hey there, young man. If you don't mind an old man, why not drink with me?
+
+@82
+Is it strange for me to be drinking?
+
+@83
+I just want to forget it all.
+
+@84
+May I help you?
+
+@85
+Sweeping, sweeping, la la la... Oh, excuse me.
+
+@86
+Please tell me whatever you need.
+
+@87
+Please wait a moment.
+
+@88
+Lord Liu Bei, you're the Emperor's uncle, aren't you? Then please save the Emperor from Cao Cao!
+
+@89
+On my way here I met a big man at the old castle to the south. He's looking for his sworn brother.
+
+@90
+Anyone who opposes Cao Cao, who holds the Emperor, becomes a traitor. Sadly, even Lord Liu Bei...
+
+@91
+They say Lord Liu Bei is like a big brother to Lord Guan Yu and Lord Zhang Fei. Not the other kind of brother, right?
+
+@92
+I'm a bandit from the old castle. The new boss, the one with the tiger beard, is reliable!
+
+@93
+Huh? Did you say something?
+
+@94
+A soldier of Yuan Shao's army said he saw Lord Guan Yu in Cao Cao's army.
+
+@95
+I want to get my hands on the legendary two swords.
+
+@96
+I'm the shopkeeper's daughter.
+
+@97
+They say a guy named Liu Pi in Runan, north of Jing Province, has rebelled against Cao Cao.
+
+@98
+They say fire plans are especially effective in forests. Did you know?
+
+@99
+They say there is a book in this world that makes you a Sorcerer if you read it. I'm looking for it.
+
+@100
+I can't get into my work. At times like this, wine is the best.
+
+@101
+It seems noisy in the castle.
+
+@102
+I'm tidying the room right now. Do you need something?
+

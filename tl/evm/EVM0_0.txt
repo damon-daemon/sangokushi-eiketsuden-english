@@ -1,0 +1,471 @@
+@0
+Prologue: Dong Zhuo Coalition
+
+@1
+Prologue: The Anti-Dong Zhuo Coalition
+
+@2
+The twilight of the Later Han. The once glorious Han dynasty had lost its power, and the land was swept by endless rebellion and unrest.
+
+@3
+In this age of chaos, Dong Zhuo rose with overwhelming military might. He manipulated the court at will and wielded power as he pleased.
+
+@4
+Fight Dong Zhuo's army under Hua Xiong at Sishui Pass
+
+@5
+Luoyang Palace
+
+@6.0
+Your Majesty, do not trouble yourself. Leave all affairs of state to me.
+
+@7.0
+...
+
+@7.1
+Now, if you will excuse me.
+
+@8.0
+Hmph, some emperor! Without me, the Han court would have fallen long ago. But no matter. The true ruler now is Dong Zhuo. Emperor or not, no one can defy me.
+
+@9.0
+Your Majesty, it would be wise not to cross Lord Dong Zhuo, for your own sake.
+
+@10.0
+Curse you, Dong Zhuo! But I have no way to defy a man who commands a great army... Is there no one left in this land who will strike down Dong Zhuo and serve the Han?
+
+@11.0
+Your Majesty, I understand your heart. If only we had not failed you...
+
+@12
+Chenliu Camp
+
+@13
+Dong Zhuo's arrogance enraged the lords who were loyal to the emperor. Cao Cao, known for his talent since youth, was no exception. He sent a call to arms across the land: "Strike down Dong Zhuo!" Now the lords who shared his purpose had all gathered at Chenliu.
+
+@14.0
+Lord Yuan Shao, Lord Yuan Shu, thank you for answering this call to arms.
+
+@14.1
+Yes, Dong Zhuo's conduct of late is outrageous. We must destroy the traitor and restore the Han as it was.
+
+@14.2
+Now that the Yuan clan is here, Dong Zhuo will not have his way. I will show you the strength of my troops!
+
+@15.0
+Ah, Lord Tao Qian and Lord Kong Rong. Welcome.
+
+@15.1
+We are servants of the Han and cannot forgive Dong Zhuo. We hurried here from Xuzhou to join the coalition.
+
+@15.2
+I have come from Beihai. My army will join the coalition as well.
+
+@16.0
+Lord Gongsun Zan, you have come too. Thank you for the long journey.
+
+@16.1
+Not at all. More importantly, there is someone I want you to meet, Lord Cao Cao. Lord Liu Bei, come in.
+
+@17.0
+I am Liu Bei. I heard you would strike down Dong Zhuo and came with Lord Gongsun Zan.
+
+@18
+This man is the hero of our story. His name is Liu Bei, style name Xuande. He was a kind and ordinary young man, until one day he learned that he was a descendant of the emperors. Bound by the fate of his blood, he resolved to save the suffering people.
+
+@19
+Liu Bei has two sworn brothers. One is named Guan Yu, style name Yunchang. The other is named Zhang Fei, style name Yide. Both are heroes without equal.
+
+@20
+The three, brought together by fate, sealed a bond as sworn brothers. Out of affection, Guan Yu called Liu Bei "Brother," and Zhang Fei called him "Big Brother."
+
+@21.0
+Oh, so you are Lord Liu Bei. We have met before.
+
+@21.1
+Yes. It was during the Yellow Turban Rebellion.
+
+@22.0
+Your fighting that day amazed me. I look forward to working with you, Lord Liu Bei.
+
+@22.1
+And I with you. I am at your service.
+
+@22.2
+(Liu Bei...? Hm. I have never heard that name.)
+
+@23
+Among the assembled lords, Yuan Shao was chosen as supreme commander, and at last the anti-Dong Zhuo coalition was formed.
+
+@24
+Luoyang Palace
+
+@25
+Dong Zhuo was not careless either. His subordinate Hua Xiong and his adopted son Lu Bu, two formidable warriors, stood ready at his side.
+
+@26.0
+Hua Xiong, I leave the defense of Sishui Pass to you.
+
+@26.1
+Yes, sir.
+
+@27.0
+Father, why do you order only Hua Xiong to the front? Have you forgotten Lu Bu?
+
+@28.0
+Who could forget you? The one I rely on most is you, Lu Bu. I leave the defense of Hulao Pass to you.
+
+@28.1
+Yes, sir. Thank you. Then I shall be on my way.
+
+@29.0
+I can win this war alone. Lu Bu can take a nice long nap.
+
+@30.0
+Let us see how far this rabble of an army can get against Hua Xiong.
+
+@31
+Chenliu Camp
+
+@32
+The coalition's vanguard was defeated by the fierce general Hua Xiong. Hard pressed, the coalition could think of no next move.
+
+@33.0
+Report! Dong Zhuo's army, led by Hua Xiong, is attacking us.
+
+@33.1
+Understood. We will send reinforcements at once. You may go.
+
+@33.2
+Yes, sir.
+
+@34.0
+I said so, but who should I send...?
+
+@34.1
+Is there no lord among us who will stand against Hua Xiong?
+
+@34.2
+I am ashamed to say my army is no match for him.
+
+@34.3
+I would send troops myself, but sadly I am unwell. Yes, truly unfortunate.
+
+@34.4
+...No one, then?
+
+@35.0
+My brothers and I will go.
+
+@36.0
+Hm? Lord Liu Bei, who are the men standing beside you?
+
+@37.0
+They are Liu Bei's sworn brothers, Guan Yu and Zhang Fei.
+
+@37.1
+Oh? And what is Lord Liu Bei's rank? I have never heard the name. A man who leads our army must surely have suitable standing.
+
+@37.2
+He is an official of Pingyuan.
+
+@38.0
+What! Just a minor official? A petty clerk like that cannot carry out so great a task!
+
+@39.0
+Now, Lord Yuan Shu, if he says so, he must be quite confident. Let us leave it to him.
+
+@39.1
+Hmph. Do as you please!
+
+@40.0
+Then prepare to march at once. Spend the war funds freely. Hey, call the shopkeeper.
+
+@41
+You got 500 gold!
+
+@42.0
+Lord Liu Bei, that is the shopkeeper. He sells items useful on the battlefield. Also, before you march, try talking to the others. You may hear useful things.
+
+@43.0
+Hua Xiong is a mighty warrior. Fight carefully.
+
+@44.0
+On the battlefield, you earn gold according to the level of the enemies you defeat. If you want better equipment, defeat as many enemies as you can.
+
+@45.0
+Hmph, what can a mere foot soldier do? Give it up while you still can.
+
+@46.0
+Your unit is infantry, and Hua Xiong's is cavalry. There are many kinds of units. Infantry beat archers, archers beat cavalry, and cavalry beat infantry. So Lord Guan Yu and Lord Zhang Fei, who are cavalry, must beware of archers.
+
+@47.0
+Do not forget to equip your weapons. Just carrying them is of no use. I will join this battle too. I should be of some help.
+
+@48.0
+My army will join as well. Let us strike the enemy together.
+
+@49.0
+Brother, let's march! Tell Guan Yu when you're ready.
+
+@50.0
+Are you ready?
+
+@51.0
+Then let us march!
+
+@52.0
+The enemy is at Sishui Pass. Let us go at once.
+
+@53
+Destroy Hua Xiong
+
+@54.0
+Those coalition fools must want to die. Whose army is it?
+
+@54.1
+Sir, it seems a man named Liu Bei is their commander.
+
+@54.2
+Liu Bei? Never heard of him. Why would such a man come here? Are they mocking me?
+
+@54.3
+The coalition must be really desperate.
+
+@54.4
+Hmph, whoever it is, no matter. I will offer them up in blood again! All troops, go out and meet them!
+
+@54.5
+Let's finish Hua Xiong quickly and give Yuan Shu, who looked down on us, a real shock.
+
+@54.6
+Brother, leave this to me. I will surely take Hua Xiong's head.
+
+@55.0
+I take it you are Hua Xiong. Fight me!
+
+@55.1
+You have nerve to challenge me.
+
+@55.2
+Hua Xiong, Guan Yu will not forgive the crimes of Dong Zhuo's army!
+
+@55.3
+Hmph, quite spirited. But you look like a common soldier. You are ten years too early to fight me!
+
+@55.4
+You will regret in the next world that you took me for a common soldier.
+
+@56
+Guan Yu leveled up!
+
+@57.0
+Oh, Brother, looks like Guan Yu beat Hua Xiong.
+
+@57.1
+Yes, our army has won!
+
+@58
+Liu Bei's army defeated Hua Xiong's army and took Sishui Pass.
+
+@59.0
+Our army has won!
+
+@60
+Liu Bei's army defeated Hua Xiong's army and occupied Sishui Pass.
+
+@61
+You got 100 gold!
+
+@62.0
+The enemy seems to have fled to Hulao Pass ahead. Brother, what shall we do?
+
+@62.1
+We pursue, of course. Brother, I'm going ahead!
+
+@62.2
+Hey, Zhang Fei! Don't act on your own!
+
+@62.3
+Chase them down! Follow me!
+
+@63.0
+Ah... He's gone. He is as hasty as ever.
+
+@64.0
+Don't say that. Besides, the morale of our army is high.
+
+@65.0
+We should press on and attack Hulao Pass now.
+
+@66.0
+It can't be helped. All right, follow Zhang Fei. Advance to Hulao Pass!
+
+@67
+Lu Bu Retreats
+
+@68.0
+What? The coalition has appeared? Defeating Hua Xiong is no small feat. But their luck ends here.
+
+@68.1
+General Lu Bu, let us teach them the strength of our army.
+
+@68.2
+Good, all troops, sortie! Coalition, see our strength with your own eyes!
+
+@68.3
+The enemy seems to be led by Lu Bu.
+
+@68.4
+Lu Bu... As an enemy, there can be no one more fearsome.
+
+@68.5
+Lu Bu rides the famous horse Red Hare, clad in flame red. They say it easily runs a thousand li a day.
+
+@68.6
+Bah, he's a man who killed his master and turned to Dong Zhuo. I'll cut him down!
+
+@69.0
+I take it you are Lu Bu. Lu Bu! Fight me, fight me!
+
+@69.1
+Oh ho, so there was still someone who would come at me. What is your name?
+
+@69.2
+I am Liu Bei's sworn brother, Zhang Fei! Lu Bu, I'll kill you! Prepare yourself!
+
+@69.3
+Ha ha ha! You have nerve for a common soldier. I, Lu Bu, will take you on. Come!
+
+@69.4
+Don't mock me! I'll make you regret it!
+
+@70.0
+Zhang Fei, are you all right?
+
+@70.1
+Yeah. But he got away.
+
+@70.2
+So that is Red Hare... No wonder. With a horse like that, we could never catch him.
+
+@71
+Zhang Fei leveled up!
+
+@72.0
+All troops, retreat!
+
+@73.0
+Hmph! For a rabble of an army, they are quite good. But still, an insect has the death it deserves. Taste my attack!
+
+@74.0
+Damn it! It can't be helped. All troops, retreat!
+
+@74.1
+We did it! We have beaten Lu Bu's army!
+
+@75
+Lu Bu's army retreated. Liu Bei's army occupied Hulao Pass.
+
+@76
+You got 100 gold!
+
+@77
+Luoyang Palace
+
+@78
+Having lost Sishui Pass and Hulao Pass, Dong Zhuo was forced into a bitter decision. It marked the setting of the sun over Luoyang.
+
+@79.0
+Rebels who defy Your Majesty are advancing on Luoyang. Let us leave here while we can.
+
+@80.0
+What! Luoyang has flourished as the capital since ancient times. You tell me to abandon it?
+
+@80.1
+It seems Your Majesty did not hear me. Shall I say it once more?
+
+@80.2
+Ugh... ...I understand. I will do as you say.
+
+@80.3
+Thank you for heeding me. Now, please hurry.
+
+@81.0
+Oh yes, Li Ru.
+
+@81.1
+Yes, sir.
+
+@81.2
+There is no reason to hand this city's treasures over to the rebels. Confiscate everything of value. It has come to this, and we have no more use for this place. Set Luoyang on fire!
+
+@81.3
+Yes, sir.
+
+@82.0
+Emperors of old, forgive my failure to defend this land. Will the Han end in my reign?
+
+@82.1
+Your Majesty...
+
+@83
+Thus Dong Zhuo moved the Han capital from Luoyang to Chang'an. Because of Dong Zhuo's tyranny, the Han dynasty was nearing its end.
+
+@84
+Hulao Pass Camp
+
+@85
+Cao Cao and the anti-Dong Zhuo coalition were drunk on victory. Then word came that Dong Zhuo had fled, taking the emperor.
+
+@86.0
+I hear Dong Zhuo fled to Chang'an, west of Luoyang. Now is the time to pursue him.
+
+@86.1
+No, our troops are tired from battle after battle. We should rest here for now.
+
+@86.2
+But if we miss this chance, we will never win!
+
+@87.0
+If you insist that much, go on your own.
+
+@87.1
+True, the troops are tired.
+
+@87.2
+... We rose up to strike down a traitor. Yet now we do not even chase Dong Zhuo, and we disappoint the people.
+
+@87.3
+There are no comrades for me here. I am going home. Farewell.
+
+@88.0
+Comrades, indeed! He is not even of a noble family, yet he puts on airs.
+
+@88.1
+Still, Cao Cao, the heart of the army, is gone, and the troops are tired. Very well. This coalition is disbanded today.
+
+@89.0
+Lord Liu Bei, if the chance comes, let us meet again.
+
+@90.0
+Lord Liu Bei will surely accomplish great things someday. ...Ha ha, an old man's idle talk. Please pay it no mind. Now, farewell.
+
+@91.0
+Then we shall withdraw too.
+
+@91.1
+Yes, let us.
+
+@92.0
+Well then, Lord Liu Bei, farewell. If anything happens, come to me at any time.
+
+@92.1
+Yes. Farewell.
+
+@92.2
+Yes.
+
+@93
+And so the anti-Dong Zhuo coalition disbanded. With the rise of Dong Zhuo, the Han began to walk the road to ruin. An age of chaos, when those who aim for the realm come and go. Cao Cao, Yuan Shao... And what of Liu Bei's fate?
+

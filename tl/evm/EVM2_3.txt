@@ -1,0 +1,948 @@
+@0
+Ch. 2: Cao Cao Marches South
+
+@1
+Chapter 2: Cao Cao's Southern Campaign
+
+@2
+Xuchang Palace
+
+@3.0
+Xu Shu, have you heard the name Kongming?
+
+@3.1
+Yes. Kongming is called the Sleeping Dragon. Once awakened, his power is truly a dragon's. If I am one, Kongming is a hundred. No, more.
+
+@3.2
+They say that man has joined Liu Bei. You are the man who toyed with Cao Ren. If you say so much, he must be quite a man.
+
+@4.0
+My lord, what are you saying? This Kongming, I will take his head and show it to you.
+
+@4.1
+Hm... In any case, Liu Bei cannot be left alone. We must deal with him now...
+
+@4.2
+That must not be!
+
+@5.0
+Your Majesty, what are you saying? Liu Bei is raising his blade against this realm, where you reside.
+
+@5.2
+Indeed. We cannot leave alone one who defies Your Majesty. Now, Your Majesty, give us the order to march.
+
+@5.4
+Your Majesty seems unwell. Please rest easy. I will take command in your stead.
+
+@6.0
+Now, Xiahou Dun. In His Majesty's stead, I order you: destroy Liu Bei's army!
+
+@6.1
+Yes, sir! At once.
+
+@8.0
+Liu Bei, I will put an end to your fight. All forces, follow me!
+
+@9
+Thus, with Xiahou Dun as vanguard, Cao Cao's full-scale southern campaign began.
+
+@11.0
+The man who was scouting Cao Cao's army has returned. Let us hear his report.
+
+@12
+Talk with Zhuge Liang and the others
+
+@13.0
+What has Cao Cao done now?
+
+@14.0
+Cao Cao's been a nuisance lately. Is he attacking again?
+
+@15.0
+The troops can march at any time.
+
+@16.0
+My lord, first let us hear the report.
+
+@17.0
+I wonder if Cao Cao learned his lesson from the last defeat.
+
+@18.0
+We will beat not only Cao Ren but Cao Cao himself.
+
+@19.0
+My lord, Cao Cao's army has moved. The commander is Xiahou Dun, with Yu Jin and Li Dian as well.
+
+@20.0
+So they have come.
+
+@21.0
+Oh no, oh no, what a disaster. Why not let Master Kongming do something about it, then?
+
+@22.0
+My lord, we must devise a plan at once.
+
+@23.0
+Cao Cao's army is led by Xiahou Dun, with Yu Jin, Li Dian and others under him.
+
+@24.0
+My lord, what will you do?
+
+@25.0
+Cao Cao's army is large. What shall we do?
+
+@26.0
+Even if Cao Cao's army comes, there is nothing to fear. Only...
+
+@26.1
+Only? Is there some problem?
+
+@26.2
+As things stand, Guan Yu and Zhang Fei will not obey my orders. So, my lord, I have a request. Please lend me your sword.
+
+@28.0
+Let us prepare for the enemy and strengthen the castle's defenses.
+
+@29.0
+We must prepare for the enemy quickly.
+
+@30.0
+Cao Cao's army is led by Xiahou Dun, with Yu Jin, Li Dian and others under him.
+
+@31.0
+Would it not be better to stay in Xinye?
+
+@32.0
+Are the preparations done?
+
+@33.0
+Cao Cao's army is huge, after all. If we hold out in the castle, their provisions will run out.
+
+@34.0
+Hey, Big Brother, let's fortify the castle. What do you say?
+
+@35.0
+All right, that's more like it. Then let's organize the units.
+
+@36.0
+Then let's meet the enemy at Xinye!
+
+@37.0
+Will you lend me your sword?
+
+@38.0
+Thank you. Then.
+
+@39.0
+We will meet the enemy at Bowang. All generals, obey my orders.
+
+@40.0
+I'm not taking orders from the likes of you.
+
+@40.1
+Silence! I hold my lord's sword here. Whoever defies orders will be cut down!
+
+@40.2
+Like you could cut me down!
+
+@41.0
+Zhang Fei, that is Brother's sword. Defying him now is the same as defying Brother. We can judge after we see how the battle goes.
+
+@41.1
+O-okay. Hmph! Then let's go already.
+
+@42.0
+Now, Guan Ping, Liu Feng.
+
+@43.0
+You two will... ... ...
+
+@43.2
+Understood.
+
+@44.0
+Now, my lord, those two will do a job elsewhere. The rest of us will fight.
+
+@46
+Xiahou Dun retreats
+
+@47.0
+Zhao Yun, lure Xiahou Dun here. He is hot-blooded. If you ride before his eyes, he will surely come out after you. Draw the enemy to the village in the center. Hurry, before he notices the plan.
+
+@47.2
+My lord, please do not act until Xiahou Dun falls into the trap. Troops are hidden in the surrounding woods. Guan Yu and Zhou Cang are in the hills south of the village, and Zhang Fei and Jian Yong in the hills north of it.
+
+@47.3
+Understood.
+
+@47.4
+Now, if Zhao Yun does his part, the plan will succeed.
+
+@48.0
+You there, I see you are a commander of some renown! If you have confidence in your skill, face the blade of Guan Yu!
+
+@48.1
+G-Guan Yu! Very well.
+
+@48.2
+Come!
+
+@50.0
+Lord Xiahou Dun! The enemy had prepared a fire attack.
+
+@50.2
+But rest assured. We struck by surprise the moment we found it and stopped it.
+
+@50.3
+Well done. Now is the time! All forces, charge!
+
+@51.0
+What, they saw through the fire attack?! Hmm...
+
+@51.1
+How could this be...
+
+@51.2
+It cannot be helped now. Let us fight the enemy head-on.
+
+@52.0
+This looks like a hard fight.
+
+@52.1
+Told you so. That's why I said not to trust Kongming.
+
+@53.0
+Heh heh... They came out on their own. All forces, charge!!
+
+@53.1
+Lord Xiahou Dun, Liu Bei's army has Kongming. It is dangerous to go out carelessly.
+
+@53.2
+Why so timid! A battle that can be won will not be won that way. Never mind, go!!
+
+@54.0
+Now! Liu Feng, Guan Ping, light the fires!
+
+@55.0
+Ooooh!! W-what, a fire attack! Damn it!
+
+@56
+Dealt a heavy blow to the enemy!
+
+@57.0
+All right, strike the enemy all at once!
+
+@58.0
+That Kongming, he did it. All forces, go!
+
+@58.1
+Oh! As expected, Kongming.
+
+@58.2
+No, this is nothing. More importantly, now is the time to strike the enemy.
+
+@59.0
+Hmph. To Liu Bei of all people... Retreat!
+
+@60
+Liu Bei's army drove off Xiahou Dun
+
+@61
+Obtained 900 gold!
+
+@62.0
+Hey, hey. They won without us, Big Brother.
+
+@62.1
+Yes. This Kongming is quite capable.
+
+@62.2
+Yeah. I was sure he'd just get in the way.
+
+@62.3
+Zhang Fei, is something the matter?
+
+@62.4
+H-huh? You were there? N-no, nothing.
+
+@62.5
+I see... More importantly, my lord, after Xiahou Dun, Cao Cao will surely come. Be on guard.
+
+@63.0
+You there, I see you are a commander of some renown! If you have confidence in your skill, face my blade!
+
+@63.1
+G-Guan Yu! Very well.
+
+@63.2
+Come!
+
+@65.0
+Damn! At this rate we'll just be killed for nothing. We'll go to them. Attack the moment you find the enemy!
+
+@66.0
+Hmph. To Liu Bei of all people... Retreat!
+
+@67
+Liu Bei's army drove off Xiahou Dun
+
+@68
+Obtained 900 gold!
+
+@69.0
+We did it! Come at us all at once, Cao's army!
+
+@69.1
+Still, that Kongming. The fire attack did not work, but his scheming was quite skillful.
+
+@69.2
+...Yeah. If it had worked, it would have been something.
+
+@69.3
+I am ashamed...
+
+@69.4
+Ha ha ha! Don't worry about it! But I was sure Kongming would just be a burden.
+
+@69.5
+Zhang Fei, is something the matter?
+
+@69.6
+H-huh? You were there? N-no, nothing.
+
+@69.7
+I see... More importantly, my lord, after Xiahou Dun, Cao Cao will surely come. Be on guard.
+
+@70.0
+We did it! Come at us all at once, Cao's army!
+
+@70.1
+Yes, but this Kongming is quite capable.
+
+@70.2
+...Yeah. I was sure Kongming would just be a burden.
+
+@70.3
+Zhang Fei, is something the matter?
+
+@70.4
+H-huh? You were there? N-no, nothing.
+
+@70.5
+I see... More importantly, my lord, after Xiahou Dun, Cao Cao will surely come. Be on guard.
+
+@71
+Xiahou Dun retreats\nZhuge Liang seizes the supply depot
+
+@72.0
+Ha ha ha! Liu Bei means to fight in the city? He should have just run. Fine. Either way, you cannot escape this Xiahou Dun.
+
+@72.1
+Lord Xiahou Dun, our army is large, yet our provisions are nearly gone. We should devise a plan...
+
+@72.2
+Li Dian, have you lost your nerve? What plan does it take to capture a city like this? You wait here!
+
+@72.3
+Hey, Kongming. I just can't trust you. If you're really that great, go seize Cao's provisions and end this war quick.
+
+@73.0
+Big Brother's been all Kongming, Kongming lately. Hey, you there, commander, fight me!
+
+@73.1
+Who's that loud voice? Never mind. If he comes at me, I'll just cut him down.
+
+@73.2
+I can handle Cao's army all by myself!
+
+@75.0
+Hm, so you came.
+
+@77.0
+Heh heh. I've come, Xiahou Dun. You seem to be having trouble.
+
+@77.1
+Hmph, not at all! Don't meddle.
+
+@78.0
+What! The provisions have run out? Damn, we took too long. Ugh, it can't be helped, retreat!
+
+@79.0
+What? The enemy is after our provisions! Ugh, we can't go back now. All forces, full assault! Take Xinye before they take our provisions!
+
+@80.0
+All the enemy's provisions are secured. Report to my lord.
+
+@80.1
+Our provisions are being targeted? Grr... Who is it? ...Hmm, Kongming? Ugh, it can't be helped, retreat!
+
+@81
+Liu Bei's army drove off Xiahou Dun
+
+@82
+Obtained 900 gold!
+
+@83.0
+Hey, hey, that Kongming really went and took the enemy's provisions.
+
+@83.1
+Yes. This Kongming is quite capable.
+
+@83.2
+...Yeah. I was sure Kongming would just be a burden.
+
+@83.3
+Zhang Fei, is something the matter?
+
+@83.4
+H-huh? You were there? N-no, nothing.
+
+@83.5
+I see... More importantly, my lord, after Xiahou Dun, Cao Cao will surely come. Be on guard.
+
+@84.0
+We did it! Come at us all at once, Cao's army!
+
+@84.1
+Yes, but the way that Kongming fought was quite something.
+
+@84.2
+...Yeah. I was sure that Kongming would just be a burden.
+
+@84.3
+Zhang Fei, is something the matter?
+
+@84.4
+H-huh? You were there? N-no, nothing.
+
+@84.5
+I see... More importantly, my lord, after Xiahou Dun, Cao Cao will surely come. Be on guard.
+
+@85
+Xuchang Palace
+
+@86.0
+Despite my bold words, I was defeated. Please punish me.
+
+@87.0
+No, what is done is done. More importantly, Liu Bei is this strong... Very well, I will go out myself. First we destroy Liu Bei, then we strike Sun Quan! All forces, prepare to march!
+
+@88.0
+Lord Cao Cao, a man claiming to be an envoy from Jing Province has arrived.
+
+@88.1
+What? An envoy from Jing Province? Show him in.
+
+@89.0
+I am honored to meet you. I am Song Zhong, envoy of Jing Province...
+
+@89.1
+State your business quickly.
+
+@89.2
+Y-yes. Jing Province has not the slightest wish to fight Lord Cao Cao.
+
+@89.4
+Jing Province surrenders to Lord Cao Cao. Xiangyang Castle will be handed over.
+
+@89.5
+Heh... I see. Well, well, Envoy, you have worked hard. Tell them that Cao Cao gratefully accepts whatever is offered.
+
+@89.6
+Y-yes. Then, excuse me.
+
+@90.0
+My lord, Jing Province came into our hands more easily than expected.
+
+@90.1
+All that remains is to crush Liu Bei, who still resists. Then only Wu is left.
+
+@90.2
+Heh heh heh, good news before we march. Very well, all forces, march out!
+
+@91
+Talk with Zhuge Liang and the others
+
+@93.0
+Report! Lord Liu Biao has just passed away.
+
+@93.1
+What! Lord Liu Biao!
+
+@93.2
+And what was Lord Liu Biao's will?
+
+@93.3
+Yes. He named his second son, Liu Cong, as heir, not his eldest, Liu Qi.
+
+@93.4
+What? Absurd! Why not Lord Liu Qi?
+
+@93.5
+I only know that the will said so... Now, excuse me.
+
+@94.0
+Come on, move it!
+
+@95.0
+Y-yes. Please spare my life...
+
+@96.0
+Brother, the strategist told me that Cao Cao's army would attack any moment, so I went out on patrol. This fellow was acting suspiciously. Please question him.
+
+@97.0
+This fellow was acting suspiciously.
+
+@98.0
+An envoy of Jing Province? Where would he have business going?
+
+@99.0
+This man, who calls himself Song Zhong, was brought in by Guan Yu.
+
+@100.0
+An envoy of Jing Province... I can roughly guess the reason.
+
+@101.0
+Please hear what he has to say.
+
+@102.0
+What could have happened?
+
+@103.0
+He is quaking because he has something to feel guilty about.
+
+@104.0
+P-please spare me.
+
+@104.1
+Are you from Jing Province?
+
+@104.2
+Y-yes.
+
+@104.3
+To whom were you sent as envoy?
+
+@104.4
+T-to Cao Cao.
+
+@104.5
+Cao Cao? What business does Jing Province have with Cao Cao?
+
+@104.6
+Actually, Lord Liu Biao has died, and Lord Liu Cong has succeeded him.
+
+@104.7
+I only just learned that. But why not Lord Liu Qi? Is the eldest not the heir?
+
+@104.8
+The will said so, so Lord Cai Mao said it should be followed...
+
+@104.9
+Cai Mao? Suspicious. And then?
+
+@104.10
+Right after, word came that Cao Cao was attacking, and after everyone talked it over...
+
+@104.11
+The result? What came of it? S-surely not...
+
+@104.12
+We decided to... surrender to Cao Cao.
+
+@105.0
+We cannot dawdle. If we are careless, we will be caught between Cao Cao's and Cai Mao's armies.
+
+@106.0
+Big Brother, let's march on Xiangyang. Lord Liu Biao is gone, so no need to hold back.
+
+@107.0
+This is serious. If we do not act at once, it will be beyond repair...
+
+@108.0
+I-I was only asked to do it!
+
+@109.0
+My lord, what will you do?
+
+@110.0
+Looks like another war.
+
+@111.0
+Why did Lord Liu Cong succeed instead of Lord Liu Qi? Cai Mao must have had a hand in this.
+
+@112.0
+My lord, now we cannot afford to be leisurely. Take Xiangyang at once and stand against Cao Cao there.
+
+@112.1
+But... Lord Liu Biao did so much for us. To attack his son... Kongming, how about we escape from Xinye and go to Jiangxia, where Liu Qi is?
+
+@112.2
+Then Cao Cao's army will pursue us. Better to take Xiangyang... Hm? My lord, it seems an urgent messenger has come.
+
+@113.0
+My lord, I have a report!
+
+@114.0
+Brother, please hear the messenger.
+
+@115.0
+What is it this time?
+
+@116.0
+My lord, we must act quickly or... Ah, for now please hear the messenger.
+
+@117.0
+I-I have no grudge against Lord Liu Bei!
+
+@118.0
+We should head for Xiangyang.
+
+@119.0
+Busy day today.
+
+@120.0
+When will a peaceful world ever come?
+
+@121.0
+Lord Liu Bei, this must be Cai Mao's scheme. That Cai Mao, forgetting even Lord Liu Biao's kindness...
+
+@122.0
+Report! Cao Cao's army has reached Bowang!
+
+@122.1
+What, they are already that close?
+
+@123.0
+Wherever we go, let us hurry the preparations. Guan Yu, go ahead to Jiangxia with Yi Ji and ask Lord Liu Qi for reinforcements.
+
+@123.1
+Yes! I will head for Jiangxia at once.
+
+@123.2
+Guan Yu, let us hurry.
+
+@124.0
+The rest of you, begin preparing to march.
+
+@125.0
+Now, my lord, prepare to march as well. When you are ready, speak to me.
+
+@127.0
+Um, what will become of me?
+
+@129.0
+Let us march quickly, before Cao Cao catches up. ...Hm?
+
+@130.0
+Lord Liu Bei, please take us with you.
+
+@132.0
+If you stay with us, you will be dragged into the fighting.
+
+@132.1
+Yes, but we will follow you anyway. Please.
+
+@132.2
+...Very well. Call out to the others as well. Tell them that if they come with us, I will protect them.
+
+@132.3
+...!
+
+@132.4
+Oh! Thank you! I'll go tell everyone right away!
+
+@133.0
+My lord, we must now flee from Cao Cao's army. If we bring the people along, they will slow us down.
+
+@133.1
+Say no more, Kongming. They look up to me. I cannot abandon them.
+
+@133.2
+Understood... Then we will take the people along.
+
+@134.0
+Now, Xiangyang or Jiangxia, which way shall we go?
+
+@135
+Head for Xiangyang\nHead for Jiangxia
+
+@137.0
+Don't let Liu Bei escape! Make sure you finish him!
+
+@138.0
+Kongming, it seems Cao Cao's army has caught up with us.
+
+@138.1
+It cannot be helped. Let us fight. Please organize the units.
+
+@139
+Cai Mao is crushed
+
+@140.0
+Listen well. Do not come out of the castle. Just hold it to the last. Liu Bei will not last long anyway.
+
+@140.1
+My lord, we must settle this battle as soon as possible. If we cannot make it in time, we withdraw at once and head for Jiangxia.
+
+@141.0
+Why did you surrender to someone like Cao Cao? Is that what Lord Liu Biao wanted?
+
+@141.1
+It is no concern of yours. Defy Cao Cao and we cannot live.
+
+@141.2
+You bowed to Cao Cao in fear of his great army. Fools. Can you hope for a peaceful realm from Cao Cao?
+
+@141.3
+Silence! You villains eyeing Jing Province! Die!
+
+@141.4
+Talking is pointless. Here I come!
+
+@143.0
+My lord, the urgent messenger tells us Cao Cao's army is closing in on Xinye. If we stay here longer, we will be caught in a pincer. We should head for Jiangxia.
+
+@143.1
+Understood. All forces, head for Jiangxia!
+
+@144.0
+Liu Bei... you... Jing Province is not for... yo...
+
+@145
+Cai Mao was slain. The Liu Bei army defeated Cai Mao's army.
+
+@146
+Obtained 900 gold!
+
+@147.0
+My lord, Cai Mao is slain, but Xiangyang Castle is burned and useless. This castle cannot stop Cao Cao's army. Let us head for Jiangxia.
+
+@147.1
+Understood. All forces, head for Jiangxia!
+
+@148
+Liu Bei retreated and headed for Jiangxia
+
+@149.0
+Then let us go to Jiangxia.
+
+@150.0
+Don't let Liu Bei escape! Make sure you finish him!
+
+@151.0
+Kongming, it seems Cao Cao's army has caught up with us.
+
+@151.1
+It cannot be helped. Let us fight. Please organize the units.
+
+@152
+Cao Cao retreats\nLead the people to the village in the southeast
+
+@153.0
+Heh heh heh, Liu Bei. At last I have you cornered. All forces, full assault on Liu Bei's army!
+
+@153.1
+Hmm... As I feared, we could not shake off Cao Cao's army while taking the people with us.
+
+@153.2
+But these people came to me because they look up to me. I can never leave them behind.
+
+@153.3
+Then first let us get the people away. There is a village beyond the bridge. Send the people there.
+
+@154.0
+Still, taking the people along too. Does he think he can really get away?
+
+@154.1
+No, it means he is that beloved by the people. Just as I expected of him. But that softness will be his death. Very well! We advance too!
+
+@155.0
+Phew. We managed to bring the people to the village, at least. Is Cao Cao not pursuing any more?
+
+@155.1
+No, Cao Cao is not one to give up over this. Let us hurry to Jiangxia.
+
+@156.0
+Phew. We managed to bring the people to the village, at least. Is Cao Cao not pursuing any more?
+
+@156.1
+No, Cao Cao is not one to give up over this. Let us hurry to Jiangxia.
+
+@157.0
+Phew. We managed to bring the people to the village, at least. Is Cao Cao not pursuing any more?
+
+@157.1
+No, Cao Cao is not one to give up over this. Let us hurry to Jiangxia.
+
+@158.0
+Hmm... Not yet! Liu Bei must not escape! Regroup all forces!
+
+@158.1
+Has Cao Cao withdrawn?
+
+@158.2
+No, Cao Cao is not one to give up over this. Let us hurry to Jiangxia.
+
+@159
+Cao Cao retreats\nLead the people to the bridge in the northwest
+
+@160.0
+The Yangtze is just ahead. Anyway, let us take the people to that ferry. There should be boats there.
+
+@162.0
+Is there no one to face this Zhao Yun?
+
+@162.1
+Zhao Yun... so that's him!
+
+@163.0
+Hm, this sword...? What a gleam. I look forward to how it cuts.
+
+@164.0
+Even while escorting the people, Liu Bei's army is as strong as ever.
+
+@164.1
+Yes. Liu Bei always exceeds my expectations. How strong is he truly?
+
+@165.0
+Good, we have reached the bridge. Cao's army has no boats. Now, we cross the Yangtze and head for Jiangxia.
+
+@166
+Liu Bei's army shook off Cao Cao's pursuit
+
+@167.0
+Good, we have reached the bridge. Cao's army has no boats. Now, we cross the Yangtze and head for Jiangxia.
+
+@168
+Liu Bei's army shook off Cao Cao's pursuit
+
+@169.0
+Good, we have reached the bridge. Cao's army has no boats. Now, we cross the Yangtze and head for Jiangxia.
+
+@170
+Liu Bei's army shook off Cao Cao's pursuit
+
+@171.0
+Grr... They still have this much strength left? It cannot be helped. We give up the pursuit.
+
+@172
+Liu Bei's army shook off Cao Cao's pursuit
+
+@173
+Obtained 900 gold!
+
+@174
+Talk about the future in the council hall
+
+@175
+Jiangxia Council Hall
+
+@176.0
+Oh, Uncle! I am glad you are safe!
+
+@177.0
+Brother, I am glad you are safe. I am sorry I could not rush to your side.
+
+@178.0
+Lord Liu Bei, we have been waiting for you. Now that you are here, we can rest easy.
+
+@179.0
+First, let us greet Lord Liu Qi.
+
+@180.0
+You must have had a hard journey. Please rest your body well here.
+
+@180.1
+Lord Liu Qi, thank you.
+
+@180.2
+Considering all you have done for me, this is nothing... Hm? Who is it?
+
+@181.0
+Excuse me. A man claiming to be an envoy of Wu has just arrived.
+
+@181.1
+What? From Wu? What brings this about? Anyway, show him in.
+
+@182.0
+It is a pleasure to meet you. I am Lu Su of Wu.
+
+@183.0
+What business does an envoy of Wu have with us at a time like this?
+
+@184.0
+We have been at odds with Wu since long ago. Why now...
+
+@185.0
+For Wu to go out of its way to send an envoy to us, its enemy... What are they plotting?
+
+@186.0
+This must be an envoy Wu has sent to learn of Cao Cao's movements from you, my lord. I have a plan.
+
+@187.0
+I am Liu Bei.
+
+@187.1
+Lord Liu Bei, I am Lu Su of Wu. I hear you recently fought Cao Cao. I wish to ask you about that. How many troops did Cao Cao have?
+
+@188.0
+I shall answer that.
+
+@188.1
+And you are?
+
+@188.2
+I am called Kongming.
+
+@189.0
+Oh, so you are Kongming! Your name has reached even the state of Wu. Say, Kongming, your elder brother is in our state, so would you not come to Wu?
+
+@189.1
+That is just what I wish. I would be glad to go.
+
+@189.2
+T-thank you! Then please come at once. Excuse me.
+
+@190.0
+Wu must be in a panic now that Cao Cao has appeared.
+
+@191.0
+Kongming's life may be in danger.
+
+@192.0
+Does Kongming have some plan?
+
+@193.0
+Kongming, you said such things to Lu Su, but are you really going?
+
+@193.1
+Rest assured. In any case, only Sun Quan of Wu can stand against Cao Cao now. I will go to Wu and set Sun Quan against Cao Cao.
+
+@193.2
+But Wu has many schemers. If anything should happen to our strategist...
+
+@193.3
+Guan Yu, there is no need to worry. I will surely move Sun Quan. Now, excuse me.
+
+@194.0
+Is Kongming really going to be all right?
+
+@195.0
+I do not know. But if Sun Quan truly moves, we are saved. Let us stake our future on Kongming.
+
+@196
+Zhuge Kongming. With the arrival of this young strategist, history met another great turning point. Kongming persuaded Wu, where the faction for surrender had been dominant until then. And at last this great state moved to fight Cao Cao.
+
+@197
+Thus began the battle that would decide the contest between Cao Cao and Sun Quan of Wu. From the first naval clash, Cao Cao's army overwhelmed the enemy in numbers. So that his army, skilled in land battle, could fight to advantage, Cao Cao chained his ships together and met the battle in an immovable formation. But until the decisive moment, he never noticed that even this was a clever scheme of Zhou Yu of Wu...\n\nWith Cao Cao's navy robbed of movement, the Wu army set fire to it all at once. Cao Cao's army, which had filled the great river, turned to ash in a single night.
+
+@198.0
+Impossible! To be beaten this badly by Liu Bei!
+
+@199.0
+One more push and Cao Cao is finished. I have already sent troops ahead. This time Cao Cao cannot escape.
+
+@200
+By Kongming's plan, every escape route was cut off from Cao Cao. And at the end of the road where he finally arrived, Guan Yu lay in wait. But Guan Yu let Cao Cao slip away at the very last moment. Escaping death by a hair, Cao Cao fled into Jing Province. It was the worst defeat Cao Cao had ever suffered.\n\nPeople later called this epic battle the Battle of Chibi.
+

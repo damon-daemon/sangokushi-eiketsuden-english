@@ -1,0 +1,1008 @@
+@0
+Ch. 3: Dispute Over Jing
+
+@1
+Chapter 3: The Dispute Over Jing Province
+
+@2
+Soon after, Liu Qi died of illness... "When Liu Qi dies, Jing Province returns to Wu." On this promise, Wu demanded that Liu Bei return Jing Province. But Kongming persuaded Wu's envoy Lu Su, and Jing Province passed from Liu Qi to Liu Bei.
+
+@3
+Zhou Yu, who still had designs on Jing Province, urged Liu Bei to marry Sun Quan's sister. Using this as a pretext, he meant to lure Liu Bei to Wu and kill him. But thanks to Kongming and Zhao Yun, the scheme failed. Liu Bei took Sun Quan's sister as his wife.
+
+@4
+But Wu, and Zhou Yu, had not given up on Jing Province.
+
+@5
+Jiangling Council Hall
+
+@6.0
+My lord, you come at the right time. A civil officer has brought news.
+
+@8.0
+They say Lu Su has come again.
+
+@9.0
+Wu sure is persistent. They still haven't learned.
+
+@10.0
+Still, Zhou Yu's longing for Jing Province is quite something.
+
+@11.0
+Jing Province has rich soil and many people. No wonder Wu wants it.
+
+@12.0
+Lord Lu Su has come from Wu. What shall we do?
+
+@13.0
+My lord, they say Lu Su has come from Wu.
+
+@13.1
+It will be about Jing Province again. What are we to do this time?
+
+@13.2
+I have a plan. When Lu Su speaks of Jing Province, just weep.
+
+@13.3
+Weep? Do I not need to answer him?
+
+@13.4
+Correct. I will handle the rest.
+
+@14.0
+Remember, just weep.
+
+@15.0
+Does the Strategist have some plan?
+
+@16.0
+They just won't give up.
+
+@17.0
+Let us call in Lord Lu Su.
+
+@18.0
+Jing Province has rich soil and many people. No wonder Wu wants it.
+
+@19.0
+Show Lord Lu Su in.
+
+@20.0
+Lord Liu Bei, it has been a long time.
+
+@21.0
+First, my lord, speak to Lord Lu Su.
+
+@22.0
+Brother, talk to Lord Lu Su, not me.
+
+@23.0
+Big Brother, never mind me. Talk to Lord Lu Su.
+
+@24.0
+My lord, please receive Lord Lu Su.
+
+@25.0
+My lord, please receive Lord Lu Su.
+
+@26.0
+What brings you here today?
+
+@26.1
+I come on the orders of my lord Sun Quan to discuss Jing Province. ...It has been a long time since we lent you this province. As promised, would you not return it to us soon?
+
+@27
+Ignore him\nPlay dumb\nWeep
+
+@28.1
+Lord Liu Bei, silence is useless. Come, your answer!
+
+@29.0
+Well, what could you mean?
+
+@29.1
+Please do not evade me now. Come, Lord Liu Bei, your answer!
+
+@30.0
+Sob, sob...
+
+@30.1
+...? Lord Liu Bei, what is the matter?
+
+@31
+Ignore him\nPlay dumb\nWeep
+
+@32.1
+Lord Liu Bei, falling silent now is useless. Come, your answer!
+
+@33.0
+Well, what could you mean?
+
+@33.1
+Please do not evade me. Come, Lord Liu Bei, your answer!
+
+@34.0
+Sob, sob...
+
+@34.1
+L-Lord Liu Bei? Are you crying? Lord Liu Bei?
+
+@35
+Ignore him\nPlay dumb\nWeep
+
+@36.1
+...? What, you were only pretending to cry? You really are a liar.
+
+@37.0
+Sob, sob... Today's dinner was delicious.
+
+@37.1
+Lord Liu Bei! Enough of this!
+
+@38.0
+Sob, sob...
+
+@38.1
+...This is trouble. What am I to do?
+
+@39
+Ignore him\nPlay dumb\nWeep
+
+@40.1
+...? You were pretending to cry? What on earth are you up to?
+
+@41.0
+Sob, sob... Hmm. My tooth has hurt since this morning.
+
+@41.1
+Lord Liu Bei! Enough of this!
+
+@42.0
+Sob, sob...
+
+@42.1
+Lord Liu Bei, why are you crying? In any case, please look up.
+
+@43.0
+Allow me to explain why my lord weeps.
+
+@44.0
+The reason?
+
+@44.1
+My lord had thought that once he took neighboring Yi Province, he would return Jing Province to Wu. But Liu Zhang, who rules Yi Province, is of the same clan as my lord. Attacking his own kin pains my lord, and that is why he weeps like this.
+
+@45.0
+Sob, sob...
+
+@45.1
+...I see. Indeed... Then how about this plan?
+
+@45.2
+And that is?
+
+@45.3
+Lord Liu Bei would indeed find it hard to attack Liu Zhang. So Wu will take Liu Zhang's land, Yi Province, in your place. However, to reach Yi Province we must pass through Jiangling...
+
+@45.4
+That is no problem. If you will take Yi Province for us, of course you may pass.
+
+@45.5
+Thank you. I will report this to my lord at once. Lord Liu Bei, I take my leave.
+
+@46.0
+What is the Strategist thinking?
+
+@47.0
+Every time I wonder, how does the Strategist read people's minds so well?
+
+@48.0
+As expected of the Strategist.
+
+@49.0
+But can we trust Wu's talk of taking Yi Province for us?
+
+@50.0
+Is it true that Wu will take Yi Province for us?
+
+@50.1
+My lord, this is Zhou Yu's scheme.
+
+@50.2
+Zhou Yu's scheme?
+
+@50.3
+Yes. Zhou Yu will pretend to pass through here with our permission, but in truth he means to capture Jiangling.
+
+@50.4
+Knowing that, why did you give permission?
+
+@50.5
+Zhou Yu is a danger even to our march on Yi Province, and I want to settle things with him here. My lord, let us prepare to march. Once he hears Lu Su's report, Zhou Yu will surely move at once.
+
+@51
+Wu Palace
+
+@52.0
+I have returned.
+
+@53.0
+Yes. And how did it go?
+
+@53.1
+Liu Bei replied that he cannot return Jing Province until he has taken Yi Province.
+
+@53.2
+What? How dare Liu Bei mock us! Liu Qi is dead! The promise must be kept!
+
+@53.3
+Your anger is just. So I tried Commander Zhou Yu's plan.
+
+@53.4
+Yes. And what did Kongming say?
+
+@53.5
+Yes. Kongming said we may pass through Jiangling.
+
+@53.6
+What! Kongming said that?!
+
+@54.0
+Lu Su, did Kongming truly say we may pass through Jiangling?
+
+@54.1
+Yes. He said so, certainly.
+
+@54.2
+Good! At last I have deceived Kongming!
+
+@54.3
+Yes, as expected of Zhou Yu. Well done.
+
+@55.0
+Then I will act before Kongming notices.
+
+@55.1
+Yes. Zhou Yu, I count on you!
+
+@56.0
+Hurry! Give Kongming no time to think!
+
+@57
+Jiangling Council Hall
+
+@58
+But by then Kongming had already seen through all of Zhou Yu's scheme, and had gathered his generals in the Council Hall.
+
+@59.0
+My lord, everything is ready.
+
+@60.0
+At last, the decisive battle with Zhou Yu.
+
+@61.0
+I hope Wu's army will put up a fight.
+
+@62.0
+We must not hand Jing Province to Zhou Yu.
+
+@63.0
+I am old, but I will not lose to the young yet.
+
+@64.0
+In this battle, please use me.
+
+@65.0
+My lord, Zhou Yu must already be on the march. I sent Mi Zhu as a messenger. He should be back soon.
+
+@66.0
+My lord, Zhou Yu's army has reached Gongan. He asks that we come out to greet his force.
+
+@66.1
+Can't be helped. Let's go greet them.
+
+@66.2
+Then please prepare to march.
+
+@67.0
+At last, the decisive battle with Zhou Yu.
+
+@68.0
+Come on, let's greet them as they wish.
+
+@69.0
+Let us protect Jing Province with our own hands.
+
+@70.0
+Come, let us go.
+
+@71.0
+In this battle, please use me.
+
+@72.0
+My lord, Zhou Yu's army has reached Gongan. He asks that we come out to greet his force.
+
+@75.0
+My lord, then let us go greet Zhou Yu at Gongan!
+
+@76
+Drive off Zhou Yu\nCapture the four forts
+
+@77.0
+Heh heh, look, Liu Bei has come all the way to greet us. At last I have deceived Kongming.
+
+@77.1
+My lord, Zhou Yu will not attack from his side. In that gap, we take the forts on all four sides. Luckily there is a forest ahead of us. Use it as a wall and move secretly to the forts.
+
+@77.2
+That is fine, but then what?
+
+@77.3
+Zhou Yu believes his scheme has worked. So we show him that we saw through it. If his confidence in his plan is shattered, the shock will take the fight out of him.
+
+@77.4
+I see. We take the forts on all four sides.
+
+@77.5
+Yes. But this requires that our army's movements not be discovered. If Wu's army notices, it will have no effect. Do not go past the forest in the center.
+
+@78.0
+I am Guan Yu, style name Yunchang! Is there no one who will fight me?!
+
+@78.1
+Guan Yu! I, Lu Meng, will be your opponent!
+
+@78.2
+Oh, so Wu has some mettle too. Good, here I come!
+
+@79.0
+Rough, but quite good. We may meet again on the battlefield.
+
+@81
+Liu Bei's army took the northwest fort.
+
+@82.0
+Yes, it seems all the forts are taken. Now order every fort to raise a great shout.
+
+@83.0
+Whoa! What is that noise?
+
+@83.1
+Commander Zhou Yu! It seems we are surrounded. There are shouts from all four sides!
+
+@83.2
+What?! Damn! K-Kongming again! All my plans... Ngh... Gah...!!
+
+@83.3
+Commander! Are you all right?! ...Oh, blood... Commander! The old wound has opened in your excitement!
+
+@83.4
+I-it's nothing... Cough!!
+
+@83.5
+Commander, you cannot command in that state. Withdraw and think again!
+
+@83.6
+Ugh... Then Gan Ning, I leave the withdrawal to... Gaaah!!
+
+@83.7
+Retreat! All forces, pull back for now!!
+
+@84
+Zhou Yu's army retreated.
+
+@85
+Liu Bei's army took the northeast fort.
+
+@86.0
+Yes, it seems all the forts are taken. Now order every fort to raise a great shout.
+
+@87.0
+Whoa! What is that noise?
+
+@87.1
+Commander Zhou Yu! It seems we are surrounded. There are shouts from all four sides!
+
+@87.2
+What?! Damn! K-Kongming again! All my plans... Ngh... Gah...!!
+
+@87.3
+Commander! Are you all right?! ...Oh, blood... Commander! The old wound has opened in your excitement!
+
+@87.4
+I-it's nothing... Cough!!
+
+@87.5
+Commander, you cannot command in that state. Withdraw and think again!
+
+@87.6
+Ugh... Then Gan Ning, I leave the withdrawal to... Gaaah!!
+
+@87.7
+Retreat! All forces, pull back for now!!
+
+@88
+Zhou Yu's army retreated.
+
+@89
+Liu Bei's army took the southwest fort.
+
+@90.0
+Yes, it seems all the forts are taken. Now order every fort to raise a great shout.
+
+@91.0
+Whoa! What is that noise?
+
+@91.1
+Commander Zhou Yu! It seems we are surrounded. There are shouts from all four sides!
+
+@91.2
+What?! Damn! K-Kongming again! All my plans... Ngh... Gah...!!
+
+@91.3
+Commander! Are you all right?! ...Oh, blood... Commander! The old wound has opened in your excitement!
+
+@91.4
+I-it's nothing... Cough!!
+
+@91.5
+Commander, you cannot command in that state. Withdraw and think again!
+
+@91.6
+Ugh... Then Gan Ning, I leave the withdrawal to... Gaaah!!
+
+@91.7
+Retreat! All forces, pull back for now!!
+
+@92
+Zhou Yu's army retreated.
+
+@93
+Liu Bei's army took the southeast fort.
+
+@94.0
+Yes, it seems all the forts are taken. Now order every fort to raise a great shout.
+
+@95.0
+Whoa! What is that noise?
+
+@95.1
+Commander Zhou Yu! It seems we are surrounded. There are shouts from all four sides!
+
+@95.2
+What?! Damn! K-Kongming again! All my plans... Ngh... Gah...!!
+
+@95.3
+Commander! Are you all right?! ...Oh, blood... Commander! The old wound has opened in your excitement!
+
+@95.4
+I-it's nothing... Cough!!
+
+@95.5
+Commander, you cannot command in that state. Withdraw and think again!
+
+@95.6
+Ugh... Then Gan Ning, I leave the withdrawal to... Gaaah!!
+
+@95.7
+Retreat! All forces, pull back for now!!
+
+@96
+Zhou Yu's army retreated.
+
+@97.0
+Damn Kongming, damn Liu Bei... Ngh... Gah!!
+
+@97.1
+Commander! Are you all right?!
+
+@97.2
+How galling... Back to Wu... we return...
+
+@97.3
+Yes, sir! All forces, retreat at once!
+
+@98
+Zhou Yu's army retreated.
+
+@99.0
+Hm! Liu Bei's army has appeared! As expected, Kongming noticed. Then there is no help for it. All forces, charge Liu Bei's army... Huh?!
+
+@101.0
+Zhou Yu, forgive my delay.
+
+@101.1
+Lord Sun Yu, we are grateful for your aid.
+
+@101.2
+With me here, you can rest easy. Together we will crush Liu Bei and take back Jing Province!
+
+@102
+Zhou Yu's army went on the offensive!
+
+@103
+Drive off Zhou Yu
+
+@105.0
+My lord, reinforcements led by Sun Yu are heading this way. Once they arrive, Zhou Yu will go on the attack, and we would be badly outnumbered. Let us take the forts quickly.
+
+@106.0
+My lord, the enemy moves faster than expected, and there is little time before Sun Yu arrives. Will we make it in time...
+
+@107.0
+Sun Yu is almost here. My lord, hurry!!
+
+@109.0
+Zhou Yu, forgive my delay.
+
+@109.1
+Lord Sun Yu, thank you for your aid.
+
+@109.2
+With me here, you can rest easy. Together we will crush Liu Bei and take back Jing Province!
+
+@110
+Zhou Yu's army went on the offensive!
+
+@111
+Drive off Zhou Yu
+
+@113.0
+I am Guan Yu! Is there no one who will fight me?!
+
+@113.1
+Very well, Guan Yu! I, Lu Meng, will be your opponent!
+
+@113.2
+Oh, so Wu has some mettle too. Good, here I come!
+
+@114.0
+Rough, but quite good. We may meet again on the battlefield.
+
+@116.0
+Damn Kongming, damn Liu Bei... Ngh... Gah!!
+
+@116.1
+Commander! Are you all right?!
+
+@116.2
+How galling... Back to Wu... we return...
+
+@116.3
+Yes, sir! All forces, retreat at once!
+
+@117
+Zhou Yu's army retreated.
+
+@118
+You got 1200 gold!
+
+@119.0
+Now Zhou Yu will not try anything strange again. Let us return to Jiangling.
+
+@120.0
+My lord, Zhou Yu has been beaten. Congratulations.
+
+@121
+Discussing the future
+
+@122.0
+Brother, now Jing Province is completely yours.
+
+@123.0
+Jing Province is safe for the time being.
+
+@124.0
+Wu will have learned its lesson and probably won't attack for a while.
+
+@125.0
+Jing Province is safe for the time being.
+
+@126.0
+My lord, to finish off Zhou Yu I sent a letter. The result should be here soon... Ah, here it comes.
+
+@127.0
+My lord, I have a report.
+
+@128.0
+Brother, please hear the report.
+
+@129.0
+My lord, please hear the report first.
+
+@130.0
+What kind of letter did he send?
+
+@131.0
+They say Zhou Yu took an arrow in the shoulder fighting Cao Ren, and the wound had still not healed.
+
+@132.0
+Please hear the result.
+
+@133.0
+A report has just come from a spy. Zhou Yu is dead. They say the worsening of his battle wound, together with the excitement caused by the Strategist's letter, was the cause.
+
+@134.0
+Zhou Yu was a formidable foe, but with his wound unhealed it was too much for him.
+
+@135.0
+He was a fearsome enemy. But what will our relations with Wu be from now on?
+
+@136.0
+So Zhou Yu is dead. For now, at least, Wu probably won't attack for a while.
+
+@137.0
+They say Zhou Yu took an arrow in the shoulder fighting Cao Ren, and the wound had still not healed.
+
+@138.0
+They say Zhou Yu's wound worsened, and the excitement caused by the Strategist's letter was the cause of his death.
+
+@139.0
+I expected this. My lord, I wish to go to Wu to pay respects to Zhou Yu.
+
+@139.1
+But Kongming, Zhou Yu died from your letter, did he not? It is too dangerous.
+
+@139.2
+I will be fine. Now that Zhou Yu is dead, there is nothing to fear. If you lend me Zhao Yun, that is enough.
+
+@139.3
+But...
+
+@139.4
+This must be done. We cannot yet fight Wu all-out. Zhou Yu bore us clear hostility, but Lu Su, who will probably succeed him, holds no ill will toward us. We must use this to keep relations with Wu alive. For that, I must go to Wu.
+
+@139.6
+Also, I would like to use the occasion to look for talent in Wu.
+
+@139.7
+Look for talent?
+
+@139.8
+Yes. There must still be able men hidden in the world. I want to find them.
+
+@139.9
+...Very well. Kongming, take care.
+
+@139.10
+Yes. And my lord, please find good men too before I return. Now, Zhao Yun, let us go.
+
+@140.0
+Brother, as the Strategist says, I will go look for talent too.
+
+@140.1
+I will go with you.
+
+@140.2
+Yes. I count on you.
+
+@141
+Looking for talent in Jing Province
+
+@142.0
+Look for talent, huh... But Big Brother, do you have any idea where to find useful men?
+
+@143.0
+Big Brother, a man named Pang Tong has just come.
+
+@144
+Make Pang Tong a retainer
+
+@145.0
+I look forward to working with you. I will come to Jiangling before long.
+
+@146.0
+Pardon me, but your name?
+
+@146.1
+Me? I am Jiang Wan. And who are you?
+
+@146.2
+I am Liu Bei.
+
+@146.3
+Oh, you are Lord Liu Bei! Forgive me, I did not realize. So that is who you are... Lord Liu Bei, it is forward of me, but will you not make me your retainer? I believe I can be of some use.
+
+@147.0
+Well? Please make me your retainer.
+
+@148.0
+Oh, thank you! I look forward to working with you.
+
+@149
+Jiang Wan joined as a retainer!
+
+@150.0
+I see...
+
+@151.0
+Big Brother, a man named Pang Tong has just come.
+
+@152
+Make Pang Tong a retainer
+
+@153.0
+I look forward to working with you. I will come to Jiangling before long.
+
+@154.0
+Pardon me, but your name?
+
+@154.1
+Me? I am Fei Yi. And who are you?
+
+@154.3
+Oh, you are Lord Liu Bei! Forgive me, I did not realize. So that is who you are... Lord Liu Bei, it is forward of me, but will you not make me your retainer? I believe I can be of some use too...
+
+@155.0
+Well? Please make me your retainer.
+
+@156.0
+Oh, thank you! I look forward to working with you!
+
+@157
+Fei Yi joined as a retainer!
+
+@158.0
+I see... That is a pity...
+
+@159.0
+Big Brother, a man named Pang Tong has just come.
+
+@160
+Make Pang Tong a retainer
+
+@161.0
+He doesn't look like much. What did he come here for, anyway?
+
+@162.0
+My lord, first speak with the guest.
+
+@163.0
+Pleased to meet you. I am Pang Tong.
+
+@163.1
+Thank you for coming all this way. And what brings you here today?
+
+@163.2
+Well, I thought I might find some post, so I came here.
+
+@163.3
+(Pang Tong... He should be the other of the two, Sleeping Dragon and Young Phoenix...) (He does not look like much. Is this really the man Master Shuijing spoke of, the equal of Kongming...?)
+
+@164.0
+He answers like he doesn't care, too. Is this guy really that great?
+
+@165.0
+Well, if there is no post, I will go home.
+
+@165.1
+W-wait a moment, please.
+
+@166.0
+If I recall, the post of magistrate of Laiyang County is vacant.
+
+@167.0
+Big Brother, what will you do? Will you give him a post?
+
+@168.0
+Laiyang County is just a small village with very few people living there.
+
+@169.0
+The post of magistrate of Laiyang County is open. If that suits you, I would like to ask you to take it.
+
+@169.1
+Oh, is that so. Understood. Then I will go at once.
+
+@170
+Several days passed...
+
+@171.0
+My lord, I have a report. Complaints have come from the people that "the magistrate of Laiyang County does no work."
+
+@172.0
+My lord, I think it would be best to go and check this out.
+
+@173.0
+My lord, I have a report. Complaints have come from the people that "the magistrate of Laiyang County does no work."
+
+@174.0
+Big Brother, I knew that guy was rotten. I'll go teach him a lesson.
+
+@174.1
+If you go alone, there will probably be a commotion. I will go too.
+
+@174.2
+Then I'll go ahead to Laiyang County.
+
+@175.0
+Then let us go on an inspection too.
+
+@176.0
+Laiyang County lies to the northeast of here.
+
+@177
+Going to see Laiyang County
+
+@178
+Laiyang County Council Hall
+
+@179.0
+Lord Liu Bei, welcome to Laiyang County. I have been expecting you since I heard from Lord Zhang Fei.
+
+@180.0
+The official won't say a thing about Pang Tong.
+
+@181.0
+My lord, let us meet Pang Tong himself and hear it directly.
+
+@182.0
+Say, where is Pang Tong? There is no sign he has been working.
+
+@182.1
+Well, um...
+
+@182.2
+"Well, um..." tells me nothing.
+
+@182.3
+Er... it is very hard to say, but the magistrate has not done any work since he came here.
+
+@182.5
+Eek! N-no, I only stated the facts...
+
+@183.0
+What is all this noise? What is it? ...Ah, Lord Liu Bei.
+
+@184.0
+That guy!
+
+@185.0
+Big Brother, say something to him.
+
+@186.0
+What an outrageous man.
+
+@187.0
+It seems the official's story is true.
+
+@188.0
+I-I am sorry! It is all my fault!
+
+@189.0
+Lord Liu Bei, what brings you to a place like this?
+
+@189.1
+I heard you do no work, and came to see how things stood.
+
+@189.2
+Ah, the trials. That is true. I haven't done one since I came here.
+
+@190.0
+Big Brother had faith in you and made you magistrate! What have you been doing all this time?!
+
+@190.1
+Trials in a backwater like this, I will finish them in no time. Wait a moment.
+
+@191.0
+Magistrate! Please wait!
+
+@192.0
+Big Brother, let's just watch and see his true colors come out.
+
+@193.0
+We can punish him after we see the result.
+
+@194.0
+Now the trials begin.
+
+@194.1
+You there, merchant. They say you tricked this farmer and sold him a hoe for three times its price.
+
+@194.2
+That is not so. You must have misheard, or it is a lie.
+
+@195.0
+What are you saying?! I heard it from the house next door! I can bring witnesses if you like!
+
+@196.0
+What? Don't make false accusations!
+
+@196.1
+Quiet. Both of you, calm down.
+
+@197.0
+Then I'll ask just one thing. Farmer, have you used that hoe even once?
+
+@197.1
+No, I haven't.
+
+@197.2
+Then here is my verdict. Since the hoe has not been used, the farmer returns the hoe to the merchant, and the merchant returns the money to the farmer. Understood?
+
+@198.0
+What?! B-but that...
+
+@198.1
+Do you have anything more to say in your defense?
+
+@198.2
+N-no. Nothing...
+
+@198.3
+Then this trial is over. Both of you will obey the verdict. If you do not, the penalty is a hundred lashes. You may go.
+
+@198.4
+Yes, sir! Thank you!
+
+@198.5
+...Yes, sir.
+
+@199.0
+That's a clear verdict...
+
+@199.1
+And it makes sense. No one could complain about that.
+
+@200
+So the trials went on one after another, and by evening every trial that had piled up was over.
+
+@201.0
+He's something. I've never seen such a fine judge.
+
+@202.0
+I am amazed. Forgive me, but one cannot judge a man by his looks.
+
+@203.0
+I never imagined he was so capable.
+
+@204.0
+Lord Liu Bei, what do you think?
+
+@204.1
+I have never seen a sage like you until today. Forgive my earlier rudeness.
+
+@204.2
+Not at all... Oh yes, please take this letter.
+
+@204.3
+A letter...?
+
+@205
+"My lord, Pang Tong shows his full strength only in great affairs. Please do not misjudge his talent, and take Pang Tong into your service.\n- Zhuge Kongming"
+
+@206.0
+This is Kongming's letter!
+
+@206.1
+Yes. When Kongming came to Wu, I happened to have a chance to meet him, and he told me to show that letter to Lord Liu Bei.
+
+@206.2
+Why didn't you show it to me at first? Then...
+
+@207.0
+My lord, why are you in a place like this? ...Oh, is that not Pang Tong? Why are you here?
+
+@207.1
+Well, Lord Liu Bei gave me the post of magistrate here.
+
+@208.0
+Magistrate here? If you were magistrate here you would be playing around whenever you had time. My lord, why of all people did you make Pang Tong magistrate here? I warned you in my letter.
+
+@208.1
+I only just received that letter. Had I known, I would not have treated him so.
+
+@208.2
+I see. In any case, keeping Pang Tong in a place like this is a waste of a man.
+
+@208.3
+Yes. Pang Tong, I appoint you Deputy Strategist. Be my right hand.
+
+@208.4
+It is an honor beyond my worth. Then, my lord, shall we return to Jiangling?
+
+@209
+Pang Tong joined as a retainer!
+
+@210
+Master Shuijing, Sima Hui, had once told Liu Bei of the Sleeping Dragon (Zhuge Liang) and the Young Phoenix (Pang Tong). Now both stood with Liu Bei, and the time had come for him to spread his wings.
+

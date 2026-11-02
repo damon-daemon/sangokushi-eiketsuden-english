@@ -1,0 +1,1107 @@
+@0
+Ch. 3: Pacifying South Jing
+
+@1
+Chapter 3: Pacifying Southern Jing Province
+
+@3.0
+Grrr... Liu Bei! Sun Quan! I will never forget this grudge!
+
+@3.1
+My lord, what will you do now?
+
+@3.2
+I am returning to Xuchang. Cao Ren, I leave the defense of Jiangling to you. Hold the city to the death.
+
+@3.4
+Xiahou Dun, you defend Xiangyang.
+
+@3.5
+Yes, sir! Leave it to me!
+
+@4
+Cao Cao returned to Xuchang to rebuild his strength, and Cao Ren and Xiahou Dun were left to guard Jing Province.\n\nWith Cao Cao gone, Liu Bei and Sun Quan now begin to fight over Jing Province...
+
+@5
+Wu Palace
+
+@6.0
+Cao Cao's army is exhausted from its defeat at Chibi. Its strength and morale have fallen. It is no match for our army, riding high on victory.
+
+@6.1
+Yes. Now is the time to take Jing Province for ourselves! Zhou Yu! You will be commander-in-chief and attack Jiangling!
+
+@6.2
+Yes, sir! Leave it to me!
+
+@7
+Sun Quan finally moved to seize Jing Province. At Jiangling, a fierce battle began between Zhou Yu and Cao Ren.
+
+@9
+The news soon reached the Council Hall at Jiangxia. Jiangling lies at the heart of Jing Province, southwest of Jiangxia.
+
+@10.0
+Brother, have you heard? Zhou Yu is attacking Jiangling while Cao Cao is away.
+
+@11.0
+Still, after the beating Cao Cao took, he must have learned his lesson.
+
+@12.0
+At Chibi our army and Sun Quan's fought side by side. Will that alliance continue from here on?
+
+@13.0
+Uncle, I am sorry. I have not been feeling well lately...
+
+@14.0
+Lord Liu Qi has seemed unwell of late. I hope he will be all right.
+
+@15.0
+The Battle of Chibi must have weakened Cao Cao's power at least a little.
+
+@16.0
+Now that Cao Cao is gone, this seems the perfect chance to take Jing Province.
+
+@17.0
+My lord, Zhou Yu means to claim Jing Province for himself on the strength of his great victory at Chibi.
+
+@17.2
+Jing Province no longer belongs to Liu Biao. It is Cao Cao's. Our only way to survive is to take it and stand against Cao Cao and Sun Quan.
+
+@17.4
+With this city alone, either Cao Cao or Sun Quan will destroy us sooner or later. My lord, you must decide.
+
+@17.5
+Very well. Let us take Jing Province.
+
+@17.6
+Ah, you have chosen well. Then let us attack Jiangling at once. Prepare to march.
+
+@18.0
+Uncle, I am not feeling well, so I would like to sit out this campaign.
+
+@18.1
+I understand, Lord Liu Qi. Please rest well.
+
+@18.2
+I am sorry. Then, if you will excuse me.
+
+@19.0
+Lord Liu Qi has seemed unwell lately, has he not?
+
+@19.1
+Yes. I hope he will be all right...
+
+@19.2
+Do not worry. More importantly, my lord, please prepare to march.
+
+@20
+Preparing to march on Jiangling
+
+@21.0
+Brother, when you are ready, tell the Strategist, not me.
+
+@22.0
+Come on, Big Brother, let's hurry! If we dawdle, Zhou Yu will take Jiangling from us.
+
+@23.0
+Zhou Yu and Cao Ren are fighting outside the city now. Jiangling must be thinly guarded.
+
+@24.0
+Please take me to the battlefield too.
+
+@25.0
+I worry about Lord Liu Qi's illness.
+
+@26.0
+Now that Cao Cao is gone, this seems the perfect chance to take Jing Province.
+
+@27.0
+Shall we march?
+
+@29.0
+Every moment counts. Let us march at once.
+
+@30.0
+Then let us head for Jiangling.
+
+@31
+Defeat Chen Jiao
+
+@32.0
+What? Liu Bei's army?! Lord Cao Ren is fighting Zhou Yu... Damn it! We must hold out at all costs!
+
+@32.1
+My lord, with Cao Ren fighting Zhou Yu, the defense is thin. Now is our chance. Let us take the city as fast as we can.
+
+@33.0
+My lord, a report says Zhou Yu has beaten Cao Ren and is heading this way. Let us take Jiangling before Zhou Yu arrives.
+
+@34.0
+My lord, Zhou Yu must be almost here. Let us hurry.
+
+@35
+Zhou Yu's army appeared!
+
+@36.0
+Waaah!
+
+@37
+Chen Jiao was defeated. Liu Bei's army took Jiangling.
+
+@38
+Zhou Yu's army appeared!
+
+@39.0
+What is this?!
+
+@39.1
+Commander Zhou Yu, Jiangling has been taken by Liu Bei's army!
+
+@39.2
+What?! They took an empty city while we were fighting Cao Ren?! How despicable! I will not stand for it! I will crush them!
+
+@39.3
+Please wait, Commander. We are worn out from fighting Cao Ren and have no strength left to face Liu Bei. Let us fall back and think again.
+
+@39.4
+Grrr... You are right... It galls me, but you speak truly. ...Very well, we withdraw. But Liu Bei, Kongming, remember this!
+
+@40
+You got 1000 gold!
+
+@41.0
+Then we shall enter Jiangling.
+
+@42.0
+We were too late...
+
+@42.1
+W-what is this?!
+
+@42.2
+Commander Zhou Yu, Liu Bei's army is attacking Jiangling!
+
+@42.3
+What?! Seize an empty city while we fight Cao Ren?! I will not allow it! All forces, attack Liu Bei at once! Do not let them have Jiangling!!
+
+@43
+Drive off Zhou Yu
+
+@45.0
+We have claimed this land! Go home to Wu right now!
+
+@45.1
+What nonsense! Have you forgotten what we did at Chibi?! I will take your head myself!
+
+@45.2
+Fine! Come on!
+
+@47.0
+Damn it... Retreat...
+
+@48
+Chen Jiao retreated!
+
+@49.0
+Liu Bei, no, Kongming! I will show you my strength! Forward, all of you!!
+
+@50.0
+What now?! At a time like this! ...What?! The provisions?! Damn it, of all times... Very well, we withdraw. But Liu Bei, Kongming! Remember this!!
+
+@51.0
+What happened? Zhou Yu has retreated.
+
+@51.1
+Perhaps he ran out of provisions? He had probably already used up his supplies in the earlier fight with Cao Ren.
+
+@51.2
+I see... Then the victory is ours.
+
+@51.3
+Exactly, my lord. Congratulations.
+
+@52.0
+D-damn it! I will repay this debt! Liu Bei, Kongming, remember this!
+
+@53.0
+Even Zhou Yu was beaten by Liu Bei's army... ...Damn it! Retreat! Retreat!!
+
+@54
+Zhou Yu's army withdrew. Liu Bei's army took Jiangling.
+
+@55
+You got 1000 gold!
+
+@56.0
+Then we shall enter Jiangling.
+
+@57
+Discussing the future at Jiangling
+
+@58
+Wu Palace
+
+@59.0
+I am sorry. Liu Bei went after Jiangling, as good as empty, and though we tried to deal with it...
+
+@59.1
+Grrr, Liu Bei! Is this how he repays us for defeating Cao Cao's army at Chibi?!
+
+@59.2
+I will not forget this grudge. I, Zhou Yu, will surely make Liu... Gah!!
+
+@59.3
+Zhou Yu!
+
+@59.4
+Commander!
+
+@60.0
+Commander, you will aggravate your wound. Please, rest now.
+
+@60.1
+That's right, Zhou Yu. Just rest.
+
+@60.2
+I am sorry to have worried you...
+
+@60.3
+Come, Commander. This way.
+
+@61.0
+Damn you, Liu Bei! This time I will attack Jiangling myself! All forces, prepare to march!
+
+@62.0
+My lord, please wait!
+
+@62.1
+What is it, Lu Su?
+
+@62.2
+With Commander Zhou Yu defeated, our army's morale is low. Attacking now is not the best plan.
+
+@62.3
+...Then what would you have me do?
+
+@62.4
+Let me meet with Liu Bei once more. He has treated Wu most unreasonably, but if I explain this, even he should understand... In any case, please wait until I return.
+
+@62.5
+...Very well. Go to Liu Bei at once.
+
+@63
+Jiangling Council Hall
+
+@64
+Having taken Jiangling, Liu Bei's army went on to capture Xiangyang, defended by Xiahou Dun, and northern Jing Province became Liu Bei's land. Soon after, Lu Su of Wu came to Jiangling.
+
+@65.0
+Brother, Lord Lu Su has come from Wu.
+
+@66.0
+Lord Liu Bei, I am Lu Su.
+
+@67.0
+Lord Lu Su has come from Wu.
+
+@68.0
+An envoy from Wu, eh? Well, he probably came to complain.
+
+@69.0
+Jiangling is our land. We have no obligation to give back what we have once taken.
+
+@70.0
+If Wu wants this land, it should take it by force.
+
+@71.0
+Why should we hand Jing Province over to Wu? Lord Liu Biao would grieve.
+
+@72.0
+They say Wu has many schemers. They will surely try every trick to demand Jing Province back.
+
+@73.0
+Do not worry, my lord. I have a plan.
+
+@74.0
+Lord Liu Bei, Wu cannot accept this turn of events.
+
+@74.1
+Meaning?
+
+@74.2
+Naturally. It was our army that drove Cao Cao's forces away at Chibi. Surely all of that was done to win Jing Province.
+
+@74.3
+Lord Lu Su, that view is mistaken.
+
+@75.0
+Ah, Kongming. But I do not think our view is mistaken.
+
+@75.1
+No. This land is neither ours nor Wu's. It belongs to Lord Liu Qi.
+
+@75.2
+Ah...
+
+@75.3
+This land was Lord Liu Biao's to begin with. All we did was take it back from Cao Cao on Lord Liu Qi's behalf.
+
+@75.4
+B-but then what of the effort we gave at Chibi...
+
+@75.5
+Now, now... Lord Liu Qi is often ill, and should the worst happen... Then we will give this land to Wu. Until then, let us say we are merely borrowing it from Wu.
+
+@75.6
+...Understood. I will tell my lord so. Now, if you will excuse me.
+
+@76.0
+As expected of the Strategist. You persuaded Lu Su nicely.
+
+@77.0
+Hmph. We're not handing this land to Wu's lot.
+
+@78.0
+Jiangling is our land. We have no obligation to give back what we have once taken.
+
+@79.0
+If Wu wants this land, it should take it by force.
+
+@80.0
+Why should we give Jing Province to Wu? Lord Liu Biao would grieve.
+
+@81.0
+They say Wu has many schemers. They will surely try every trick to demand Jing Province back.
+
+@82.0
+My lord, there are still talented men in Jing Province. Let us bring them into our service.
+
+@82.1
+Whom do you mean, Kongming?
+
+@82.2
+His name is Ma Liang. His family lives in Jiangxia, and they are all said to be men of great ability.
+
+@82.3
+Ma Liang, is it? He lives in Jiangxia?
+
+@82.4
+Yes. With your great virtue, my lord, he is sure to join us. My lord, please go and see Ma Liang.
+
+@83
+Meeting Ma Liang in Jiangxia
+
+@84.0
+Ma Liang? Ah, the man with the white eyebrows. He should be at the meeting hall now.
+
+@85.0
+Huh? I am not Ma Liang. I am his younger brother, Ma Su... The man beside me is my older brother, Ma Liang.
+
+@86.1
+Me? I am Ma Liang.
+
+@86.2
+Ah, at last we meet. Forgive my rudeness. I am Liu Bei.
+
+@86.3
+Oh! You are Lord Liu Bei? Forgive me, I did not realize.
+
+@86.4
+Not at all. I heard of you and have come to ask for your help. What do you say? Will you not become my retainer?
+
+@86.5
+If Lord Liu Bei asks, I cannot refuse. I would be glad to join you.
+
+@87
+Ma Liang joined as a retainer!
+
+@88.0
+Also, I should have introduced him sooner. This man beside me is my younger brother, Ma Su, a most gifted young man.
+
+@89.0
+It is a pleasure to meet you. I am Ma Su.
+
+@89.1
+I am sure Ma Su will also be of use to you. What do you say?
+
+@90
+Take Ma Su along\nDo not take him
+
+@91.0
+Yes, a fine young man. I look forward to working with you both.
+
+@91.1
+It is an honor beyond my worth.
+
+@92
+Ma Su joined as a retainer!
+
+@93.0
+Now then, Lord Liu Bei... no, my lord, shall we go?
+
+@94.0
+No, he still looks young. When he has come of age, I will ask him again.
+
+@94.1
+I see... Then, Lord Liu Bei... no, my lord, shall we go?
+
+@95
+Returning to Jiangling
+
+@97
+Discussing the future
+
+@98.0
+How was Jiangxia?
+
+@99.0
+Ma Liang really does have white eyebrows, doesn't he? And he's not even old.
+
+@100.0
+Our numbers have grown again. A very good thing, I think.
+
+@101.0
+My lord, you won Ma Liang over. Well done.
+
+@102.0
+They say Lord Ma Liang knows this region well. He is sure to give us good advice.
+
+@103.0
+Lord Ma Liang is famous in this region. Because of his white eyebrows, an excellent man is called "White Brow." All the brothers are clever, and Ma Liang is said to be the best. I hear his brother Ma Su is also excellent.
+
+@105.0
+My lord, are you aware that Jing Province is not only Jiangling?
+
+@105.1
+Meaning?
+
+@105.2
+South of Jiangling lie the four commanderies of Lingling, Wuling, Guiyang and Changsha. You would do well to take them as your territory.
+
+@105.3
+Yes, I see... Then where should we attack first?
+
+@105.4
+Changsha has a fine general, Huang Zhong, and will not fall easily. So first attack Lingling, Wuling and Guiyang, and attack Changsha last.
+
+@106.0
+Then, as Lord Ma Liang says, let us take the three commanderies other than Changsha first, and Changsha afterward.
+
+@106.1
+Yes. How shall we attack the three?
+
+@106.2
+First, you, my lord, will march on one of Lingling, Wuling or Guiyang. Zhang Fei and Zhao Yun will each attack one of the other two, and we will leave Guan Yu to defend Jiangling.
+
+@106.3
+I see. So Guan Yu, Zhang Fei and Zhao Yun will act separately this time.
+
+@106.4
+Yes. Please choose which of Lingling, Wuling and Guiyang you will conquer yourself. Now, prepare.
+
+@107
+Preparing to march on southern Jing Province
+
+@108.0
+Brother, leave the defense of Jiangling to me.
+
+@109.0
+Big Brother, decide quickly. I'll take down whichever one you give me.
+
+@110.0
+My lord, choose whichever of the three commanderies you like. Lord Zhang Fei and I will split the rest.
+
+@111.0
+With your great prestige, my lord, conquering the four commanderies should be easy.
+
+@112.0
+Please use me in the next battle.
+
+@113.0
+Jin Xuan guards Wuling, Liu Du Lingling, and Zhao Fan Guiyang. Also, Wuling is mountainous, Lingling is heavily wooded, and Guiyang is flat land with a river running through it.
+
+@114.0
+I want to fight at your side too, my lord.
+
+@117.0
+Liu Bei's army is coming to attack Lingling? Hmm... What should I do...
+
+@118.0
+Liu Bei's army is just a band of fools who defy Lord Cao Cao! I will not give up Wuling!
+
+@119.0
+...I cannot betray Lord Cao Cao... But I do not think Guiyang's army can win, either.
+
+@120.0
+Changsha has Huang Zhong! As long as Huang Zhong is here, Liu Bei's army is nothing to fear!
+
+@121.0
+So these are the four commanderies of southern Jing Province.
+
+@121.1
+Yes. As I said, let us leave Changsha for last. Now, my lord, where shall we go?
+
+@122
+Attack Wuling\nAttack Lingling\nAttack Guiyang
+
+@123.0
+Understood. Then let us head for Wuling.
+
+@124.0
+Understood. Then let us head for Lingling.
+
+@125.0
+Understood. Then let us head for Guiyang.
+
+@127
+Defeat Liu Du\nEnemy surrenders
+
+@128.0
+We can't beat Liu Bei's army. Wouldn't it be best to surrender honorably here...
+
+@128.1
+Father, what are you saying?! I will take Liu Bei's head myself and show it to you!
+
+@128.2
+W-well... But...
+
+@128.3
+My lord, the enemy may have lost the will to fight. It may be wise to try persuading them.
+
+@129.0
+Cao Cao has already left Jing Province. Surrender at once and your life will be spared.
+
+@129.1
+Ha ha ha! If you want this land, take it by force. Or are you afraid of me?
+
+@129.2
+What?! Remember those words!
+
+@130.0
+Hmph. All talk.
+
+@131
+Guan Ping leveled up!
+
+@132.0
+Xing Daorong, it's about time for your turn.
+
+@132.1
+Hm?
+
+@134.0
+Men! Let's go! Get that Liu Bei!!
+
+@134.1
+Father! Well? What do you think of my plan?!
+
+@134.2
+...Y-yes... Splendid...
+
+@135.0
+Lord Liu Du, fighting on will not bring you victory. Please surrender.
+
+@135.1
+...Very well. I will give this territory to you.
+
+@136
+Liu Du surrendered. Liu Bei's army took Lingling.
+
+@137
+Liu Bei's army took Lingling.
+
+@138
+You got 1000 gold!
+
+@139.0
+I, Zhang Fei, have taken Wuling!
+
+@140.0
+I have taken Guiyang!
+
+@141.0
+My lord, it seems Zhang Fei has taken Wuling and Zhao Yun Guiyang. Now let us return to Jiangling and plan the attack on Changsha.
+
+@143
+Defeat Jin Xuan\nEnemy surrenders
+
+@144.0
+My lord, they say Liu Bei brings peace to the people. For the sake of this land, I think we should surrender.
+
+@144.1
+What are you saying?! Gong Zhi! You have been in league with Liu Bei, haven't you!
+
+@144.2
+What do you mean? I would never...
+
+@144.3
+Enough! Listen well! I will fight to the end!!
+
+@144.4
+My lord, some of the enemy may have lost the will to fight us. It may be wise to try persuading them.
+
+@145.0
+So that is the enemy chief. Good, I'll take his head and win the credit!
+
+@145.1
+Don't get ahead of yourself! Do you think you can beat me? Fine, I'll show you my skill!
+
+@145.2
+Fight me!!
+
+@146.0
+Yes! I got the enemy chief!
+
+@147
+Zhou Cang leveled up!
+
+@148
+Zhou Cang defeated Jin Xuan. Liu Bei's army took Wuling.
+
+@149.0
+Liu Bei's army! You shall not pass here!!
+
+@149.1
+We're moving out too! Everyone, charge!!
+
+@150.0
+Do you lot dare to defy me? Hmph! I'll make you regret it!!
+
+@150.1
+I must help Wu Zu! Good! Everyone, charge!!
+
+@151.0
+Damn... I failed... Wu Zu! I leave the rest to you!!
+
+@151.1
+Beaten by Liu Bei's army... Damn it, do not flinch! Attack!!
+
+@152.0
+M-me... retreat?! Impossible!!
+
+@152.1
+Wu Zu has been beaten?! Damn... Attack! Don't let them leave alive!!
+
+@154.0
+Lord Liu Bei, until now I acted on Jin Xuan's orders, but that was a mistake. Wuling exists for you, Lord Liu Bei. Please wait a little longer. I will go and remove that vermin.
+
+@155.0
+G-Gong Zhi! What are you doing?! ...Aaargh!!
+
+@156.0
+I, Gong Zhi, have slain Jin Xuan! From now on I serve Lord Liu Bei!
+
+@157
+Jin Xuan was killed by Gong Zhi. Liu Bei's army took Wuling.
+
+@158
+Liu Bei's army took Wuling.
+
+@159
+You got 1000 gold!
+
+@160.0
+Lord Liu Bei, from now on I wish to follow you. Please take me on as your retainer.
+
+@161
+Gong Zhi joined as a retainer!
+
+@162.0
+Yes! Lingling has fallen!
+
+@163.0
+Guiyang has fallen!
+
+@164.0
+My lord, Zhang Fei and Zhao Yun seem to have taken Lingling and Guiyang. Now let us return to Jiangling and plan the attack on Changsha.
+
+@166
+Defeat Zhao Fan\nEnemy surrenders
+
+@167.0
+We are no match for Liu Bei's army. We should surrender honorably here...
+
+@167.1
+My lord, what are you saying!
+
+@167.2
+Indeed! I will take Liu Bei's head and show it to you!
+
+@167.3
+W-well... But...
+
+@167.4
+My lord, the enemy may have lost the will to fight at the sight of us. It may be wise to try persuading them.
+
+@168.0
+Where is the enemy general! Come out!
+
+@168.1
+Liu Bei's army, don't get cocky! I, Bao Long, will beat you to a pulp!
+
+@168.2
+What! Try it if you can!!
+
+@169.0
+I have slain the enemy general!
+
+@170
+Liu Feng leveled up!
+
+@171.0
+Lord Zhao Fan, fighting on will not bring you victory. Please surrender.
+
+@171.1
+...Very well. I will give this territory to you.
+
+@172
+Zhao Fan surrendered. Liu Bei's army took Guiyang.
+
+@173
+Liu Bei's army took Guiyang.
+
+@174.0
+Hm? What is that?
+
+@175
+Tribesmen appeared!
+
+@176.0
+My lord! The reinforcements I arranged have arrived! Let us join forces with them and drive Liu Bei back!
+
+@176.1
+...Y-yes. Right...
+
+@177
+You got 1000 gold!
+
+@178.0
+Yes! Wuling has fallen!
+
+@179.0
+I, Zhao Yun, have taken Lingling!
+
+@180.0
+My lord, it seems Zhang Fei and Zhao Yun have both taken their enemy cities. Now let us return to Jiangling and plan the attack on Changsha.
+
+@181.0
+My lord, congratulations on winning three commanderies.
+
+@182
+Discussing Changsha
+
+@184.0
+Leave it to me. One or two cities are nothing.
+
+@185.0
+The new territory has settled down, and the people are all delighted with your benevolent rule, my lord.
+
+@186.0
+Three of the four commanderies are ours. Only Changsha remains.
+
+@187.0
+Congratulations on taking three commanderies.
+
+@188.0
+Take just one more, Changsha, and all of Jing Province will be ours.
+
+@189.0
+My lord, congratulations on taking three commanderies.
+
+@189.1
+Yes. Only Changsha remains.
+
+@189.2
+Yes. As I said before, it has a general named Huang Zhong.
+
+@189.3
+Is Huang Zhong such a formidable man?
+
+@189.4
+Yes. He is old, but they say there is no hero to compare with him.
+
+@189.5
+I see. We must be careful.
+
+@190.0
+Still, if we take it, all of Jing Province will be yours, my lord. For the future, Changsha is indispensable.
+
+@190.1
+Yes. That is certainly true.
+
+@190.2
+Then, my lord, please prepare to march.
+
+@191
+Preparing to march on Changsha
+
+@192.0
+Brother, leave this one to me. I will surely capture Huang Zhong alive and bring him to you.
+
+@193.0
+Big Brother, Guan Yu is sore about being left to mind the house last time. So take him along this time, will you?
+
+@194.0
+Let us march at once.
+
+@195.0
+Please be very careful of Huang Zhong.
+
+@196.0
+My lord, please give the order to march.
+
+@197.0
+Let us take Changsha and make Jing Province ours.
+
+@200.0
+Then let us march on Changsha.
+
+@201.0
+What? Three commanderies have fallen? That just means they were weak. I have Huang Zhong. Right, Huang Zhong?
+
+@201.1
+Leave it to me. I, Huang Zhong, will surely live up to your expectations.
+
+@202.0
+Good! Only Changsha remains! We march on it now!
+
+@203
+Defeat Han Xuan\nEnemy surrenders
+
+@204.0
+Huang Zhong, go and see what Liu Bei's army is made of. I will watch the battle from here.
+
+@204.2
+I owe Han Xuan a debt, so I cannot refuse to ride out. But to raise a blade against Lord Liu Bei... Why does Huang Zhong swear such loyalty to Han Xuan? He is a tyrant...
+
+@205.0
+Hm? What is that sound?
+
+@205.1
+What? The river is overflowing... a flood attack? Impossible! No one told me this!!
+
+@206
+Fell into the enemy's flood attack!
+
+@207
+HP was reduced!
+
+@208.0
+Damn you... Han Xuan... Gah...
+
+@209.0
+To catch even his own soldiers in it...
+
+@209.1
+Ha ha ha! Do you see now, Liu Bei?!
+
+@209.2
+Lord Han Xuan, what is this? To drag in your own men!
+
+@209.3
+Why, they were of use to me. They should be glad of it. Ha ha ha!
+
+@210.0
+As expected of Liu Bei's army. Strong...
+
+@210.1
+Damn! How did the enemy get this close to the city?! What is our army doing?! Attack! Attack harder!!
+
+@211.0
+Hm? What is that? ...Yes!! Lord Liu Bei!
+
+@211.1
+Oh? Who is that...
+
+@211.2
+Lord Liu Bei, I was once a subordinate of Liu Biao. My name is Wei Yan. I will explain in detail later. For now, I will go and remove the poison hiding in Changsha. Pardon me!
+
+@212.0
+W-what? Oh... Wei Yan! ...You! Have you betrayed me?!
+
+@212.1
+This is no betrayal. It is the anger of all the people for what you have done! Die!
+
+@212.2
+Aaargh!!
+
+@213.0
+My lord, it seems the enemy has surrendered.
+
+@214
+Han Xuan was killed by Wei Yan. Liu Bei's army took Changsha.
+
+@215
+Liu Bei's army took Changsha.
+
+@216.0
+Hm! This old man is no ordinary man... You there! Tell me your name!
+
+@216.1
+Ho ho. You are not startled to see me. My name is Huang Zhong.
+
+@216.2
+So you are Huang Zhong. Then I, Guan Yu, challenge you to single combat!
+
+@216.3
+Hmph, do not look down on me because I am old. I will not lose to the young yet! Here I come!
+
+@216.4
+Here I come!
+
+@217.0
+Hm...! His horse has broken a leg...
+
+@217.1
+Damn! Is this fate too... What are you waiting for?! Finish me off!
+
+@218.0
+...I will spare you here. Go and change horses.
+
+@218.1
+What...? ...I will not thank you. Guan Yu, was it? Next time I will not lose.
+
+@220.0
+Huang Zhong! You! You have been in league with the enemy!
+
+@220.1
+What do you mean? I would never...
+
+@220.2
+Silence! I watched your duel with Guan Yu. He did not kill you, he let you go! What is that if not proof of collusion?!
+
+@220.3
+No, that was...
+
+@220.4
+I'll hear no excuses! Someone, cut off his head at once!
+
+@221.0
+Han Xuan! To forget his past service and execute Lord Huang Zhong is no act of a proper lord! I will punish you in Heaven's stead!
+
+@221.1
+W-Wei Yan! Someone cut him down! ...H-hey, someone help me! ...Aaargh!!
+
+@222.0
+My lord, it seems the enemy has surrendered.
+
+@223
+Han Xuan was killed by Wei Yan. Liu Bei's army took Changsha.
+
+@224
+You got 1000 gold!
+
+@225.0
+Then we shall enter Changsha.
+
+@226
+Changsha Council Hall
+
+@227.0
+Lord Liu Bei, I am Wei Yan.
+
+@228
+Talking with Wei Yan
+
+@229.0
+My lord, what do you intend to do with this man?
+
+@230.0
+Lord Huang Zhong is old, yet a truly formidable warrior.
+
+@231.0
+If Guan Yu says so much, this Huang Zhong must be quite a man.
+
+@232.0
+The rest of Changsha's army has surrendered to Lord Liu Bei. From now on I too wish to serve you.
+
+@232.1
+My lord, please wait.
+
+@233.0
+What is it, Kongming?
+
+@233.1
+I cannot agree to making this man your retainer.
+
+@233.2
+Why?
+
+@233.3
+He once served Liu Biao.
+
+@233.4
+...That is true.
+
+@233.5
+When Liu Biao died he went to Han Xuan, and when Han Xuan looked doomed, to you. He betrays his lords with ease. There is no knowing when he will turn on you, my lord.
+
+@233.6
+But Kongming, if I turn away a man who wishes to surrender to me, no one will surrender to me again. I cannot do that.
+
+@233.7
+...Understood. Then I leave it to you, my lord.
+
+@234.0
+Wei Yan, I welcome you warmly. From now on, serve me well.
+
+@234.1
+...Yes, my lord!
+
+@235
+Wei Yan joined as a retainer!
+
+@236.0
+Yes... Come to think of it, I have not seen Lord Huang Zhong.
+
+@236.1
+Since Han Xuan died, Lord Huang Zhong has shut himself in his house in the city and will see no one.
+
+@237
+Meeting Huang Zhong at his Changsha residence
+
+@238.0
+If you intend to employ Wei Yan, my lord, I have nothing to say.
+
+@239.0
+Brother, please do meet Lord Huang Zhong. There are few men like him.
+
+@240.0
+If Guan Yu says so much, this Huang Zhong must be quite a man.
+
+@241.0
+Since Han Xuan died, Lord Huang Zhong has shut himself in his house in the city and will see no one.
+
+@242
+Huang Zhong's Residence, Changsha
+
+@243.0
+I don't know who you are, but I will see no one!
+
+@244.0
+Have you forgotten I said I would see no one...? Oh? You are not a servant.
+
+@244.1
+Pardon me. I am Liu Bei.
+
+@244.2
+What! Lord Liu Bei! Forgive my rudeness.
+
+@244.3
+Not at all... Lord Huang Zhong, I need as many heroes like you as I can find. For Jing Province, and for the restoration of the Han dynasty, will you not lend us your strength?
+
+@244.4
+...I am a man who could rightly have been executed, and yet you go this far for me... Very well. I, Huang Zhong, will serve you with all my life from now on.
+
+@245
+Huang Zhong joined as a retainer!
+
+@246.0
+Oh, thank you. Then let us go to Jiangling together.
+
+@246.1
+Yes, my lord!
+
+@247
+Thus all four commanderies were pacified by Liu Bei.
+

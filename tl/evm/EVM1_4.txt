@@ -1,0 +1,960 @@
+@0
+Ch. 1: Battle for Xuzhou
+
+@1
+Chapter 1: Battle for Xuzhou
+
+@2
+With Lu Bu slain, Cao Cao's enemies were gone.\n\nOne day, during a hunt with the Emperor, Cao Cao had seized the Emperor's own bow and brought down the prey himself.
+
+@3
+Now the man closest to heaven, Cao Cao began to disregard even the Emperor.\n\nThe court's loyal ministers grew hostile toward him.
+
+@4
+Liu Bei's Residence, Xuchang
+
+@5
+Talk with Guan Yu and the others about what comes next
+
+@6.0
+With Lu Bu gone, I thought the Emperor's enemies were gone... But Cao Cao's conduct toward the Emperor, I cannot forgive.
+
+@7.0
+Yaaawn... You two sure get up early. Hm? Big Brother, someone's here.
+
+@8.0
+Lord Liu Bei, pardon the intrusion.
+
+@9.0
+Is he a messenger from Cao Cao? What could he want?
+
+@10.0
+Nope, still sleepy. Don't ask me anything, Big Brother.
+
+@11.0
+Lord Liu Bei, Lord Cao Cao awaits you in the Council Hall. Please come at once.
+
+@12
+Meet Cao Cao in the Council Hall
+
+@14.0
+Ah, Liu Bei, I have been waiting for you.
+
+@15
+Speak with Cao Cao
+
+@16.0
+Good morning, Liu Bei. Are you rested?
+
+@17.0
+Better you speak to our lord than to me.
+
+@18.0
+Speak to our lord, not me.
+
+@19.0
+Speak to our lord, not me.
+
+@20.0
+Speak to our lord, not me.
+
+@21.0
+Speak to our lord, not me.
+
+@22.0
+Liu Bei, forgive me for calling so early. I want you to meet the Emperor today. You fought well against Lu Bu, and I wish to introduce you to him. You will come?
+
+@22.1
+Of course.
+
+@22.2
+Then let us go at once. Come to the palace. I will go ahead and tell the Emperor.
+
+@23
+Go to the palace to meet Emperor Xian
+
+@24.0
+Good luck.
+
+@25.0
+Be sure to show no disrespect before the Emperor.
+
+@26.0
+Is this your first time meeting the Emperor? Mind your manners.
+
+@27.0
+This is no time to be loafing here. The Emperor is waiting at the palace.
+
+@28.0
+The Emperor is waiting. Hurry to the palace.
+
+@29.0
+If you have something to say, I'll hear it later. Hurry to the palace.
+
+@30
+Xuchang Palace
+
+@31.0
+Your Majesty, I have brought Liu Bei.
+
+@32.0
+Ah, so you have. Liu Bei, come closer. No need to stand on ceremony.
+
+@33.0
+So this is Liu Bei. Pleased to meet you.
+
+@34.0
+I am Dong Cheng, a retainer of the Emperor. I hope we shall be well acquainted.
+
+@35.0
+Liu Bei, quickly, greet His Majesty.
+
+@36.0
+Liu Bei, I, Dong Cheng, have long looked forward to meeting you.
+
+@37.0
+You are before the Emperor. Show proper respect.
+
+@38.0
+Ah, so you are Liu Bei. You and Cao Cao did well to put down the rebel Lu Bu. You have Our thanks. ...? Come to think of it, you too are a Liu.
+
+@38.1
+Yes.
+
+@38.2
+Our own name is Liu Xie. Could there be some tie between us? Who was your ancestor?
+
+@38.3
+Yes. My mother told me that my ancestor was an emperor.
+
+@38.4
+What! Truly? Then someone, look into it.
+
+@38.5
+At once.
+
+@39.0
+So Liu Bei is of the imperial line. This is the first I have heard of it.
+
+@40.0
+If Liu Bei is of imperial blood, that is a joy to the Emperor as well.
+
+@41.0
+If We had kin like Liu Bei, nothing could be more reassuring.
+
+@42.0
+We have just checked. Liu Bei is Your Majesty's uncle.
+
+@42.1
+Is that so! Liu Bei, you are Our uncle. We are glad. Then, Liu Bei, We shall call you Imperial Uncle. Is that agreeable, Imperial Uncle?
+
+@42.2
+Such words are more than one like me deserves.
+
+@44.0
+Congratulations, Liu Bei. Now you have had an audience with His Majesty.
+
+@45.0
+Liu Bei... no, Imperial Uncle Liu. I am counting on you.
+
+@46.0
+Imperial Uncle Liu. What a fine ring that has.
+
+@47.0
+You may withdraw now. The war has only just ended. Go home and rest at your ease.
+
+@48.0
+Welcome back, Brother.
+
+@49.0
+I have just been to see His Majesty.
+
+@49.1
+Oh! Congratulations, Big Brother. So, what did you talk about?
+
+@49.2
+Well...
+
+@49.3
+Hm? Brother, a messenger seems to be here.
+
+@50.0
+Lord Liu Bei, I come from His Majesty.
+
+@51
+Go to the palace to meet Emperor Xian
+
+@52.0
+Brother, another messenger from His Majesty is here.
+
+@53.0
+Another one, Big Brother. I'm no good at this sort of thing.
+
+@54.0
+Imperial Uncle, His Majesty summons you. Please come to the palace again.
+
+@55.0
+Ah, Imperial Uncle. I have been waiting.
+
+@56.0
+Imperial Uncle, it must be hard, being summoned so many times.
+
+@57.0
+Lately His Majesty has been terribly tired. Is something troubling him...?
+
+@58.0
+Ah, Imperial Uncle. Straight to the point... Forgive me, but would the rest of you leave us?
+
+@59.0
+What may I do for you?
+
+@59.1
+... Imperial Uncle, I trust you, so I give you this jade belt. Take it home and examine it carefully.
+
+@59.2
+...? Y-yes. I will gladly accept it. With your leave, then.
+
+@61.0
+Imperial Uncle, you are the one I rely on most now. I am counting on you.
+
+@62.0
+Brother, welcome back.
+
+@63.0
+Brother, what did His Majesty want?
+
+@63.1
+Nothing. He only gave me this jade belt.
+
+@63.2
+Hmm, strange. Why summon you just to hand over a jade belt?
+
+@64
+Take a walk in Xuchang
+
+@65.0
+Big Brother, what did the Emperor say?
+
+@65.1
+Nothing. He only gave me this jade belt.
+
+@65.2
+Huh, what's that about? He could have just sent it with a messenger.
+
+@66
+Take a walk in Xuchang
+
+@67.0
+Brother, do not dwell on it. Look, the town is livelier than ever today.
+
+@68.0
+Big Brother, you should wear that jade belt when you walk around. It must be important, right?
+
+@69
+Go to Cao Cao's residence
+
+@70.0
+Lord Liu Bei, there you are.
+
+@71.0
+I serve Lord Cao Cao. Please come to his residence.
+
+@72
+Cao Cao's Residence, Xuchang
+
+@73.0
+Ah, Liu Bei. Good of you to come.
+
+@74.0
+I called you here for one reason only. I heard a certain rumor.
+
+@74.1
+A rumor?
+
+@74.2
+They say the Emperor gave you a jade belt. Might I see it?
+
+@74.3
+...Yes, here.
+
+@74.4
+Hmm... Liu Bei, what do you say? Would you let me have this jade belt?
+
+@75
+Give it\nRefuse
+
+@76.0
+...Very well. I will give it to you, Lord Cao Cao.
+
+@76.1
+No, no, I jest. It is a precious jade belt, a gift from His Majesty. ...But, Liu Bei, did you mean what you said? Would you truly give it to me?
+
+@77.0
+No, that belt... It carries His Majesty's feelings...
+
+@77.1
+Liu Bei, don't say that. Will you not give me that belt?
+
+@78
+Give it\nRefuse
+
+@79.0
+If you want it that badly, I will give you this jade belt.
+
+@79.1
+Oh, you will truly give it to me? Then I gratefully accept it.
+
+@80.0
+I am sorry... Though it is you who asks, Lord Cao Cao, this one thing I cannot...
+
+@80.1
+No, think nothing of it. I only wanted to see your troubled face.
+
+@81.0
+Well then, since you are here, how about a drink together? Let us drink in the garden.
+
+@82
+Garden
+
+@83.0
+Come, Liu Bei, this way.
+
+@83.1
+Yes, thank you.
+
+@84
+Though Liu Bei sensed danger in speaking with Cao Cao, he shared wine with him anyway. When the wine had flowed for a while...
+
+@85.0
+By the way, Liu Bei, whom would you name a hero of this age?
+
+@85.1
+A hero? This is rather sudden.
+
+@85.2
+The world is wide. It cannot be that there are no heroes in it. You must have seen many men, Liu Bei. Was there none among them you would call a hero? Or perhaps...
+
+@85.4
+Come, answer me. Who do you think is a hero, Liu Bei?
+
+@86
+Myself\nCao Cao\nYuan Shao\nYuan Shu\nGongsun Zan\nI don't know
+
+@87.0
+Heh heh... Yes. One day you will be called a hero, Liu Bei. That is why I cannot let my guard down. When will you bare your fangs...
+
+@88.0
+Ha ha ha, so you think so? I think so too. Is that so, you think so? ...But in truth, I think the same of you, Liu Bei. Yes, you are a hero like me!
+
+@88.1
+W-what are you saying so suddenly? I am no such...
+
+@88.2
+Would I spend this much time on a mere commoner? Liu Bei, I fear you.
+
+@89.0
+Yuan Shao? True, he comes from a great family, and his men are excellent. But he lacks resolve. He is not fit to be a ruler.
+
+@90.0
+Yuan Shu? That one thinks only of his own gain. A man of naked ambition. He will fall by my hand someday. You call Yuan Shu a hero?
+
+@91.0
+Gongsun Zan? You were once on good terms with Gongsun Zan, Liu Bei. Forgive me, but he knew too little of the ways of the world. He is not a man to survive an age of chaos.
+
+@92.0
+You say there are no heroes in the world today? I think otherwise. The heroes of this age... are you and I.
+
+@92.1
+Surely you jest...
+
+@92.2
+Ha ha ha, a jest, is it? But whether it is a jest or not, this age of chaos will surely show us.
+
+@94.0
+Well, I enjoyed today. Let us drink the night away again sometime.
+
+@94.1
+Then, with your leave.
+
+@95.0
+Well, I enjoyed today. Liu Bei, I will return this jade belt after all. It was given to you.
+
+@95.1
+Then, with your leave.
+
+@96.0
+Well, I enjoyed today. I will keep this jade belt for now.
+
+@96.1
+Then, with your leave.
+
+@97
+Return to your residence
+
+@98.0
+Go home and rest at ease.
+
+@99.0
+Brother, welcome back. Was it safe, going to Cao Cao's of all places?
+
+@101.0
+You must die, Liu Bei!! Prepare yourself!
+
+@102.0
+Brother, look out!
+
+@103.0
+Aaah! Big Brother!
+
+@104.0
+Aaargh!!
+
+@105.0
+A secret letter was found in the jade belt. A letter saying "Kill Cao Cao."
+
+@105.1
+That is why we simply struck first.
+
+@105.2
+Whoever turns against our lord will meet only death.
+
+@106
+Liu Bei's life vanished in an instant. His dream of saving the realm from chaos ended here...
+
+@107.0
+Big Brother, what did you talk about at Cao Cao's? I was worried.
+
+@108.0
+Brother, please do not go to Cao Cao's so carelessly. ...Hm? Someone else is coming.
+
+@109.0
+Imperial Uncle Liu, pardon me. Do you not remember me? I am Dong Cheng. I attended the Emperor's side earlier.
+
+@110.0
+Dong Cheng, if I recall. What could he want?
+
+@111.0
+Big Brother, you'd better see to your guest.
+
+@112.0
+Forgive the sudden visit. Imperial Uncle, I hear His Majesty just gave you a jade belt. May I see that belt?
+
+@113
+Show it\nDo not show it
+
+@114.0
+Ah, truly a jade belt. In fact, I too received a jade belt from His Majesty, as you see. And this belt, in truth...
+
+@115
+Dong Cheng cut the jade belt open with his sword. A scrap of paper fell out from inside.
+
+@116.0
+Oh? There is paper inside. What! It is written in blood: "Kill Cao Cao"...
+
+@116.1
+Yes, it is His Majesty's own blood. How pitiable.
+
+@116.2
+Now that you mention it, His Majesty did seem deeply troubled.
+
+@116.3
+Cao Cao's words and deeds of late are more than we can bear. To answer this belt, I intend to strike down Cao Cao. Imperial Uncle, I beg you, lend us your strength.
+
+@116.4
+Dong Cheng, I too am His Majesty's subject. I will follow His Majesty's will.
+
+@116.5
+Ah! Thank you. Then I will go and gather our other comrades.
+
+@117.0
+Now, please give it to me. You need not worry.
+
+@118.0
+Good thing you took that on! That's my Big Brother. I'm so glad.
+
+@119.0
+I am as glad as Zhang Fei. But for now we should leave Xuchang. As long as we are here, Cao Cao's eyes are always on us, and we cannot raise a rebellion.
+
+@119.1
+True, let us go to Xuzhou. But we need Cao Cao's permission. First I must go see Cao Cao.
+
+@120
+Ask Cao Cao for leave to depart
+
+@121.0
+If that's settled, let's hurry back to Xuzhou.
+
+@122.0
+Be careful not to be noticed. Cao Cao is a sharp-eyed man.
+
+@123.0
+Liu Bei, good timing. There is something I want you to hear.
+
+@123.1
+Me?
+
+@123.2
+(What could it be? Surely not that plan...)
+
+@123.3
+Hear it from Man Chong.
+
+@124.0
+Liu Bei, Man Chong will give you the details.
+
+@125.0
+Go and hear Man Chong out.
+
+@126.0
+Go and hear Man Chong out.
+
+@127.0
+Go and hear Man Chong out.
+
+@128.0
+Go and hear Man Chong out.
+
+@129.0
+Man Chong, what did you wish to tell me?
+
+@129.1
+Yes. I have sad news for you, Liu Bei.
+
+@129.2
+? (It isn't about that plan?)
+
+@129.3
+In truth, Gongsun Zan has been destroyed by Yuan Shao.
+
+@129.4
+What! Gongsun Zan!
+
+@129.5
+Hearing this, Yuan Shao's brother Yuan Shu is said to have set out for Ye, where Yuan Shao is. If Yuan Shao and Yuan Shu join forces, it will be somewhat troublesome.
+
+@129.6
+...! (I see. I will make use of this news.)
+
+@130.0
+Cao Cao, may I ask one thing?
+
+@130.1
+Hm? What is it?
+
+@131
+March against Yuan Shao\nMarch against Yuan Shu\nVisit Gongsun Zan's grave
+
+@132.0
+Let me avenge Gongsun Zan. Cao Cao, please grant me leave to march!
+
+@132.1
+I see... But you are no match for Yuan Shao now. Wait. When the time comes, I will ask for your strength as well.
+
+@133.0
+Let us strike Yuan Shu now, while he is on his way to Ye. Please grant me leave to march! If Yuan Shao and Yuan Shu join hands, we cannot stand against them.
+
+@133.1
+I see. Yes, very well. Permission granted.
+
+@133.2
+Then I will prepare to march at once.
+
+@134.0
+Liu Bei, Yuan Shu is on his way to Ye and has just reached Guangling.
+
+@134.1
+Guangling, understood. Then I take my leave.
+
+@134.2
+Yes. Do not take him lightly.
+
+@135
+March to Guangling to strike Yuan Shu
+
+@136.0
+I owe Gongsun Zan a debt. I would at least like to visit his grave at Beiping, where he lived.
+
+@136.1
+Beiping is Yuan Shao's land now. It would be like going to your death. Give it up.
+
+@137.0
+Go and take Yuan Shu's head in splendid fashion.
+
+@138.0
+Liu Bei, now then, what business brings you here?
+
+@139.0
+Well, a man like Yuan Shu is not worth my taking the field.
+
+@140.0
+Do not let your guard down. One never knows what may happen.
+
+@141.0
+Yuan Shu calls himself emperor, the insolent wretch. Please crush him.
+
+@142.0
+Yuan Shu is said to be in Guangling now.
+
+@143.0
+Guan Yu, Zhang Fei, we march.
+
+@143.1
+Huh? What's this all of a sudden?
+
+@143.2
+I hear Yuan Shu is in Guangling now. We are going to put him down. And we are leaving Cao Cao's side.
+
+@143.3
+I see. After defeating him we will not return to Xuchang, but go straight on to Xuzhou.
+
+@143.4
+All right! If I'd kept sitting around Xuchang, my body would've gone soft. Okay, a battle! My arms are itching! I'll go tell everyone else.
+
+@144.0
+Brother, before marching to Guangling, should you not see the Emperor?
+
+@144.1
+Yes, you are right. I will go to the palace.
+
+@144.2
+Then we will make ready to march in the meantime.
+
+@145
+Go to the palace and meet Emperor Xian
+
+@146.0
+Before going to Guangling, please see the Emperor. We will prepare to march.
+
+@147.0
+Ah, Imperial Uncle Liu, what brings you here?
+
+@148.0
+Ah, Imperial Uncle! Dong Cheng has just told Us everything! We are so happy...
+
+@149.0
+Your Majesty, your voice is too loud. Now, Liu Bei, what brings you here this time?
+
+@149.1
+Yes, in fact I am about to leave Xuchang to put down Yuan Shu.
+
+@149.2
+What! Then We shall not see the Imperial Uncle for some time! Oh, no...
+
+@150.0
+If Liu Bei leaves now, our oath...
+
+@150.1
+I have not forgotten the oath. But in Xuchang, Cao Cao's eyes are always on us. So I thought I would use this campaign as a chance to leave Xuchang and move freely.
+
+@150.2
+I see.
+
+@151.0
+Your Majesty, the truth is... ...
+
+@151.1
+What? Mm-hm, I see. So that is it! Worthy of the Imperial Uncle! Then take great care on the road.
+
+@151.2
+Thank you. Then, with your leave.
+
+@152
+March to Guangling to strike Yuan Shu
+
+@153.0
+Imperial Uncle, go and relax a while.
+
+@154.0
+Liu Bei, I am counting on you.
+
+@155.0
+Brother, we have been waiting. We are ready. Let us hurry.
+
+@157.0
+Then let us go at once, before Cao Cao catches on.
+
+@158
+Meanwhile, Yuan Shu, relying on his brother Yuan Shao, was heading for Ji Province. The false emperor, abandoned by his people, was leaving his land. His procession, clad in counterfeit glory, never broke, and the cries of the people were said to sound without cease.
+
+@159.0
+Hey, walk faster! We'll be caught! Hurry!
+
+@159.1
+Eek...! Spare my life...
+
+@159.2
+Kill anyone who slows us down. Crush everything that blocks my path!
+
+@160.0
+Brother, then let us head for Guangling.
+
+@160.1
+Guangling is a land east of Xuchang. My lord, let us go.
+
+@161
+Yuan Shu is crushed
+
+@162.0
+What, Liu Bei has appeared? ...Grr, the insolent wretch! Damn it, all forces, charge the Liu Bei army!
+
+@162.1
+Listen. Do not let that false emperor live. Charge the Yuan Shu army!
+
+@163.0
+You traitors to the realm! Doing whatever you please! I'll punish you myself, come on!
+
+@163.1
+Ha ha ha, you noisy one over there. I shall put you to sleep forever with my own hand.
+
+@164.0
+Hah, all talk... Hm! What a weapon! A man like Ji Ling doesn't deserve it.
+
+@165.0
+Wh-why... should I fall to a man like Liu Bei... Guh!
+
+@166
+Yuan Shu was slain. The Liu Bei army defeated the Yuan Shu army.
+
+@167
+Obtained 600 gold!
+
+@168.0
+That was easy. Yuan Shu was nothing.
+
+@168.1
+Then let us go to Xiapi Castle. At Xiapi we can hold out even if Cao Cao learns of this.
+
+@168.2
+Yes. Besides, I hear Cao Cao's confidant Che Zhou is in Xuzhou Castle now.
+
+@168.3
+Understood. Then we head for Xiapi and prepare for Cao Cao there.
+
+@169
+Plan our next steps in the Xiapi Castle Council Hall
+
+@171.0
+M-my lord! Terrible news!
+
+@173.0
+Brother, Mi Fang says he has something to tell you. Please hear him.
+
+@174.0
+We just won, and now what's he got to tell us?
+
+@175.0
+Please hear what Mi Fang has to say.
+
+@176.0
+My lord, first hear what Mi Fang has to say.
+
+@177.0
+Please hear my brother out.
+
+@178.0
+My lord! I hear Dong Cheng was executed by Cao Cao!
+
+@178.1
+What! Dong Cheng! How could this happen!
+
+@179
+The plot to assassinate Cao Cao that Dong Cheng and others had planned was discovered by Cao Cao and failed. All who took part were put to death, as many as 700 people.
+
+@180
+Xuchang Palace
+
+@181.0
+Your Majesty, you could not possibly have known of such a plot, could you?
+
+@181.1
+N-no... We knew nothing...
+
+@181.2
+Then all is well. Forgive my discourtesy toward Your Majesty.
+
+@181.3
+... (Dong Cheng, forgive Us...)
+
+@182.0
+But the one I cannot forgive is Liu Bei. He has forgotten the debt of my sheltering him when he fled from Huainan! All forces, prepare to march! I will march too!
+
+@182.2
+And tell Che Zhou in Xuzhou to strike Liu Bei at Xiapi.
+
+@184.0
+And so, it seems they learned that you took part as well, my lord, and Cao Cao ordered Che Zhou of Xuzhou to strike us.
+
+@185.0
+To think we would be discovered so soon.
+
+@186.0
+But even if Cao Cao comes, we should be fine here.
+
+@187.0
+My lord, what will you do?
+
+@188.0
+This is trouble. If Cao Cao comes with his entire army, we have no hope of winning.
+
+@189.0
+Cao Cao is said to be heading for Xuzhou with his whole army.
+
+@190.0
+Our army alone can never hold off the Cao Cao army.
+
+@190.1
+Hmm...
+
+@191.0
+My lord, Che Zhou in Xuzhou Castle has begun preparing to march on us.
+
+@191.1
+My lord, rather than sit still here, we should attack, take Xuzhou, and meet the Cao Cao army there. If we fight from three castles, Xiaopei, Xuzhou and Xiapi, Cao Cao's army will have to divide its forces.
+
+@191.2
+Now that's good. Then I'll go to Xiaopei.
+
+@192.0
+What an impatient fellow. He's already gone.
+
+@193.0
+Brother, then who will defend the other two castles?
+
+@194.0
+Hm, let me think... Guan Yu, I leave this castle to you.
+
+@194.1
+Leave it to me.
+
+@194.2
+The rest of us will sally out against Che Zhou in Xuzhou. Hurry!
+
+@197.0
+Then, Brother, take care.
+
+@197.1
+You too. Defend this castle well.
+
+@197.2
+Yes, with my life.
+
+@198.0
+Then let us sally out to Xuzhou.
+
+@199
+Che Zhou is crushed
+
+@200.0
+Listen, men, we are few, but Lord Cao Cao will surely come! Hold on somehow until then!
+
+@200.1
+My lord, if we linger here, Cao Cao may appear. Let us finish off Che Zhou quickly.
+
+@201.0
+Curse you, Liu Bei... Forgetting our lord's kindness... ...All forces... fall back!
+
+@202
+Che Zhou's army has withdrawn completely.
+
+@203.0
+The enemy seems to be gone. My lord, let us enter the castle.
+
+@204
+Liu Bei enters Xuzhou
+
+@206.0
+...Hm! What is that? That rumbling... Surely not!!
+
+@207
+Cao Cao appears!
+
+@208.0
+Heh heh heh, Liu Bei, you won't escape! Learn what becomes of one who tried to kill me!
+
+@208.1
+My lord! We are completely surrounded!
+
+@208.2
+M-my lord!! I hear Xiaopei has fallen!
+
+@208.3
+My lord! I hear Xiapi Castle is under attack by Cao Cao and surrounded!
+
+@208.4
+Grr... Cao Cao indeed. He acts fast!
+
+@208.5
+My lord, there is no help for it. Rely on Yuan Shao, go to Ye, and wait for your chance there. Flee to the village in the southwest. We will manage the rest somehow. Whatever happens, please escape from here.
+
+@209
+Cao Cao retreats\nLiu Bei reaches the southwest village
+
+@211.0
+I wonder what became of the others...
+
+@212
+Liu Bei has left the battlefield
+
+@213.0
+Damn you, Liu Bei... It's not over yet! Pull back for now and regroup!
+
+@213.1
+Phew... they seem to have pulled back. But this is Cao Cao. He will be back soon. For now, we head for Ye.
+
+@214
+Cao Cao retreated. The Liu Bei army defeated the Cao Cao army.
+
+@215
+Obtained 600 gold!
+
+@216.1
+Ah, Sun Qian! You are safe! What of the others?
+
+@216.2
+Well, I was frantic myself... Who knows where Jian Yong has gone...
+
+@216.3
+I see... What became of Guan Yu and Zhang Fei? I hope they are alive...
+
+@216.4
+Those two? They will surely be fine. For now, let us head for Ye.
+
+@217.0
+...Guan Yu, Zhang Fei... I hope they are alive... Hm? Who is that?
+
+@218.0
+Heeey!
+
+@219.0
+Ah, Mi Zhu! Are you all right? Mi Zhu, did you see the others?
+
+@219.1
+...No, I have only just made it here myself.
+
+@219.2
+I see... All right, pursuers may be coming. Let us go to Yuan Shao's at once.
+
+@219.3
+Yes.
+
+@220
+Meet Yuan Shao at Ye
+
+@221
+Ye Council Hall
+
+@222.0
+First speak with our lord.
+
+@223.0
+I hear you were chased here by Cao Cao. That must have been hard.
+
+@224.0
+Hmph, a whipped cur! You killed our lord's brother, yet you dare show your face here.
+
+@225.0
+Not even Cao Cao can pursue you this far. Ye is the greatest power in the land now.
+
+@226.0
+Liu Bei, well met. I hear Cao Cao has been chasing you. But you are safe now that you are here. I too have been concerned about Cao Cao's conduct of late. Let us strike Cao Cao together!
+

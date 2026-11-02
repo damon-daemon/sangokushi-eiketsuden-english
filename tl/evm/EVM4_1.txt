@@ -1,0 +1,768 @@
+@0
+Ch. 4: The Central Plains
+
+@1
+Chapter 4: Struggle for the Central Plains
+
+@2
+The fall of Wan Castle was a heavy blow to Wei. Cao Pi gathered troops at Xuchang to prepare for Shu's offensive.
+
+@3.0
+Prepare to march! We go to Xuchang! We will meet Liu Bei's army at Xuchang!
+
+@4
+The greatest reason Wan Castle fell was that Shu and Wu had advanced at the same time.\n\nWu's attack on Hefei pinned down Zhang Liao and the others there, so Wan Castle could not gather enough strength.
+
+@5.0
+Lord Cao Pi is in danger! Stop Liu Bei's army at Luoyang!
+
+@6
+Wan Castle Council Hall
+
+@7.0
+I lost Jing Province, and by rights I have no face to show you. But when I heard of your exploits, Brother, I could not stay away.
+
+@7.1
+What are you saying? I am content just that you are alive. Jing Province is won back too, so think nothing of it. Together, let us crush Wei!
+
+@7.2
+Brother...! Thank you...
+
+@8.0
+Guan Yu... I'm so happy... Come on, we drink today! Get the celebration cups ready!
+
+@9.0
+Ah... Zhang Fei. It has been a long time since we drank together. Let us drink our fill today!
+
+@9.1
+Yeah, that's what I like to hear! Then I'll be waiting, Big Brother!
+
+@10.0
+My lord, Wei must be in a panic over the loss of Wan Castle. Let us seize the moment and take it all at once.
+
+@10.1
+Quite right. But for now, let us wait for the separate force in Guanzhong. Winning against Wei without them will be difficult.
+
+@11.0
+I wonder if Pang Tong and the others are all right...
+
+@12.0
+I wonder if Zhao Yun and the others are all right...
+
+@14.0
+If only the separate force would get here soon...
+
+@15.0
+For now, we can only trust in them and wait.
+
+@16
+Yangping Pass Camp
+
+@17
+Meanwhile, at Yangping Pass in Hanzhong, Liu Bei's separate force had set up camp.
+
+@18.0
+It seems the main force is advancing smoothly on Luoyang.
+
+@18.1
+Strategist, we must not fall behind. We should join the main force as soon as possible.
+
+@18.2
+Exactly. We have done our part as a decoy. Is there any need to stay here?
+
+@18.3
+But we cannot ignore the Wei armies in Guanzhong and Chang'an. If left alone, they will surely strike the main force from behind.
+
+@18.4
+Then let us sortie at once.
+
+@18.5
+Yes. But do not waste time. Joining the main force is what matters most.
+
+@19.0
+The main force seems to be advancing smoothly on Luoyang. At this rate, the decisive battle will be at Xuchang.
+
+@19.1
+General Zhao Yun, we must not fall behind. Let us join the main force as soon as possible.
+
+@19.2
+That's right. We have done our part as a decoy. There is no need to stay here.
+
+@19.3
+But we cannot leave the Wei army in Guanzhong as it is. They would only strike the main force from behind.
+
+@19.4
+Then let us sortie.
+
+@19.5
+But do not waste time. Joining the main force is what matters most.
+
+@19.6
+Understood.
+
+@20
+Annihilate "Hao Zhao"
+
+@21.0
+So Shu has finally come. But I will not give up Chencang! Come and try me!
+
+@22.0
+Chencang is a stronghold, but we must not take our time! Listen well, we strike fast!
+
+@23.0
+Chencang is a stronghold, but we have no time. We strike fast!
+
+@24.0
+The Wei army are traitors. What will become of me, siding with them...
+
+@25.0
+That must be the enemy commander.
+
+@25.1
+Damn... To let Shu come this far... Then it is a fight to the end!
+
+@25.2
+Right! I, Wei Yan, will take his head!
+
+@26.0
+... That was close.
+
+@27
+Wei Yan leveled up!
+
+@28
+Hao Zhao was slain. Liu Bei's separate force captured Chencang.
+
+@29.0
+I cannot follow the Wei army after all! I, Jiang Wei, will join the Shu army from now on!
+
+@30
+Jiang Wei joined us!
+
+@31.0
+You are Qiang, are you not? Why do you side with Wei and block our path?
+
+@31.1
+Ah, Lord Ma Chao! We heard you had been killed by Wei, but you are safe!
+
+@31.2
+Of course. Do you think I would die so easily?
+
+@31.3
+We have no intention of defying Lord Ma Chao. From now on, we Qiang side with you.
+
+@32
+The Qiang tribesmen joined us!
+
+@33
+Ma Chao leveled up!
+
+@34.0
+You are Qiang, are you not? Why do you side with Wei and try to block our path?
+
+@34.1
+Can it be... Lord Ma Chao! You are safe!
+
+@34.2
+Of course. I, Ma Chao, will not fall so shamefully into enemy hands!
+
+@34.3
+We have no intention of defying Lord Ma Chao. From now on, we Qiang follow you.
+
+@35
+The Qiang tribesmen joined us!
+
+@36
+Ma Chao leveled up!
+
+@37.0
+You are Qiang, are you not? Why do you side with Wei and block our way?
+
+@37.1
+Lord Ma Chao! You are safe! We thought Wei had killed you...
+
+@37.2
+What are you saying? I, Ma Chao, do not die so easily!
+
+@37.3
+We would never defy Lord Ma Chao. From now on, we Qiang side with you.
+
+@38
+The Qiang tribesmen joined us!
+
+@39
+Ma Chao leveled up!
+
+@40.0
+Damn... We will not make it in time for the decisive battle! All troops, hurry!
+
+@41.0
+Tch... We will not make it in time for the decisive battle! All troops, hurry!
+
+@42.0
+Tch! To be held up in a place like this...
+
+@43.0
+Tch... Time is running out...!
+
+@44.0
+Damn... I could not stop Liu Bei's army. Is this the end for me too...
+
+@45
+Hao Zhao was slain. Liu Bei's separate force captured Chencang.
+
+@46
+You got 1600 gold!
+
+@47.0
+Good. On to Chang'an!
+
+@48.0
+Good! Straight on to Chang'an!
+
+@49
+Annihilate "Cao Zhen"
+
+@50.0
+We must stop them here at all costs! We cannot let the Shu army have its way any longer!
+
+@51.0
+Beyond Chang'an, Luoyang is right there! This is where we hold firm!
+
+@52.0
+Beyond Chang'an, Luoyang is right there! This is where we show our strength!
+
+@53.0
+Oh... Lord Liu Bei's army, once so small, has come this far... My eyes did not deceive me after all.
+
+@54
+Victory Condition Changed
+
+@55.0
+Tch! They got inside the city! ...Anyway, repel the enemy! We must prevent them from joining their main force at all costs!
+
+@56.0
+Wait! Do not attack! I, Xu Shu, now defect to the Shu army!
+
+@57
+Xu Shu joined us!
+
+@58.0
+That must be Zhang He!
+
+@58.1
+Zhao Yun. It's been a long time, but what do you want? Surely you haven't come to urge surrender. That would be a joke.
+
+@58.2
+... Zhang He, accept your fate and surrender. Wei will fall very soon.
+
+@58.3
+Don't make me laugh. I betrayed Yuan Shao and served Lord Cao Cao, but I have not the slightest thought of betraying him.
+
+@58.4
+...It can't be helped. Here I come!
+
+@59.0
+... Well fought, Zhang He.
+
+@60
+Zhao Yun leveled up!
+
+@61.0
+Damn... At this rate we will not make it in time for the decisive battle! All troops, hurry!
+
+@62.0
+Damn... We will not make it in time for the decisive battle! All troops, hurry!
+
+@63.0
+Tch! We will not make it in time for the decisive battle!
+
+@64.0
+Damn! We will not make it in time for the decisive battle!
+
+@65.0
+So this is the power of Shu...! Gah!
+
+@66
+Cao Zhen was slain. Liu Bei's separate force captured Chang'an.
+
+@67
+You got 1600 gold!
+
+@68.0
+Good. Now we march on to Luoyang!
+
+@69.0
+Good! Now we only need to march on Luoyang!
+
+@70
+Wan Castle Council Hall
+
+@71
+In the council hall of Wan Castle, Liu Bei and his generals were meeting to plan the attack on Wei.
+
+@72.0
+My lord! The Wei army in Guanzhong has moved to Luoyang.
+
+@72.1
+It seems the enemy intends to defend at Luoyang.
+
+@72.2
+We have come this far. Why hesitate? On to Luoyang!
+
+@73.0
+There is still no word from the separate force. They seem to be held up by the Wei army.
+
+@73.1
+If we wait for the separate force any longer, we only give the enemy time to strengthen their defenses.
+
+@73.2
+Yes. It is a pity, but it cannot be helped. Knowing them, they will surely come. We march on Xuchang, where Cao Pi is.
+
+@74.0
+My lord! A report has just come in that the separate force has arrived at Luoyang!
+
+@74.1
+Just as I expected of them. Let us join them at once and strike Xuchang in one stroke!
+
+@74.2
+Good! All troops, prepare to march! Our goal is Xuchang!
+
+@75.0
+Now is the time to avenge Jing Province!
+
+@75.1
+We've finally made it this far... Big Brother! We'll go get ready ahead!
+
+@77.0
+At last, the decisive battle with Wei. My lord, please prepare to march.
+
+@78.0
+Brother, at last the decisive battle with Wei. The wish of us brothers will soon come true, only a little longer.
+
+@79.0
+Big Brother, I'm ready! Our dream is almost within reach!
+
+@80.0
+Let us crush Wei as soon as possible.
+
+@81.0
+I will avenge my late father with my own hands, without fail.
+
+@82.0
+I intend to show you my final effort, my lord.
+
+@83.0
+Come, let us march quickly.
+
+@84.0
+At last, the decisive battle with Wei.
+
+@86.0
+Then let us stop at Luoyang, where the separate force is, and organize our units afterward.
+
+@87.0
+Well done on your great task, separate force. I know you are all tired, but success is within our grasp. We march on Xuchang just as we are!
+
+@88.0
+Then let us head for Xuchang!
+
+@90.0
+Then let us go to Xuchang!
+
+@92.0
+Then let us go to Luoyang!
+
+@93
+Annihilate "Cao Zhen"
+
+@94.0
+The fate of Wei hangs on this battle! We cannot lose! Is that clear?
+
+@94.1
+My lord, I hear Cao Zhen is defending Luoyang.
+
+@94.2
+Yes. But with the strength of our army, it should not be too hard.
+
+@94.3
+Do not be careless. Let us attack carefully.
+
+@94.4
+Lord Liu Bei's army, once so small, has grown this much... My eyes were not wrong after all.
+
+@95
+You got 2000 gold!
+
+@96.0
+Wait! Do not attack! I, Xu Shu, defect to the Shu army from this moment!
+
+@97
+Xu Shu joined us!
+
+@98.0
+That must be Zhang He!
+
+@98.1
+Zhang Fei. It's been a long time, but what do you want? Surely you haven't come to urge surrender. That would be a joke.
+
+@98.2
+... Zhang He, give up and surrender. Wei is finished.
+
+@98.3
+Don't make me laugh. I betrayed Yuan Shao and came to Lord Cao Cao, but I have no intention of betraying him.
+
+@98.4
+...Then it can't be helped. Let's fight, Zhang He.
+
+@99.0
+... Well fought. Zhang He...
+
+@100
+Zhang Fei leveled up!
+
+@101.0
+So this is the power of Liu Bei's army...! Ugh!
+
+@102
+Cao Zhen was slain. Liu Bei's army captured Luoyang.
+
+@103
+You got 1600 gold!
+
+@104.0
+Then, after reorganizing our units, we head for Xuchang!
+
+@105.0
+All troops, head for Xuchang!
+
+@106
+Drive off Sima Yi
+
+@107.0
+Shu army, don't get arrogant! I, Sima Yi, will make you fully realize the strength of Wei!
+
+@107.1
+My lord, the enemy commander Sima Yi is an opponent not to be taken lightly. Please be most careful.
+
+@108.0
+I am Guan Xing, son of Guan Yu! Is there no one who will fight me in single combat?
+
+@108.1
+Oh, Guan Yu's son? Then you should be a worthy match. Good! I, Xu Chu, will take you on!
+
+@108.2
+Just what I wanted! Here I come!
+
+@109.0
+...Huff, huff... A young man's stamina is more than I can match, it seems. No help for it, I will withdraw.
+
+@109.1
+Wait! Are you running away? Leave your head here!
+
+@109.2
+Guan Xing! If the chance comes, we shall meet again!
+
+@110
+Guan Xing leveled up!
+
+@111.0
+It seems we made it in time. Let's rush in now!
+
+@111.1
+What? Enemy reinforcements?
+
+@111.2
+Oh, my lord! It seems the separate force has made it in time.
+
+@111.3
+Oh, is that so! Good! All troops, general attack!
+
+@112.0
+Tch... Well done, Shu army! All troops, retreat into the castle! We will wipe out the enemy inside!
+
+@113
+Sima Yi's Wei army retreated into the city.
+
+@114
+You got 1600 gold!
+
+@115.0
+It seems the Wei army intends to hole up in the castle. What shall we do?
+
+@115.1
+Yes. We attack all at once here... Hm? Kongming, what is that?
+
+@116.0
+Oh, my lord! It seems the separate force has arrived.
+
+@116.1
+Is that so! Good! All troops, charge Xuchang Castle!
+
+@117.0
+It seems the Wei army intends to hole up in the castle. What shall we do?
+
+@117.1
+Good. All troops, charge Xuchang Castle!
+
+@118.0
+It seems the Wei army intends to hole up in the castle. What shall we do?
+
+@118.1
+Good! All troops, charge Xuchang Castle!
+
+@119.0
+My lord, please take me along. Let me show you the last strength of this old frame.
+
+@119.1
+Huang Zhong, I will go with you too. My lord, leave it to us.
+
+@119.2
+Yes, very well.
+
+@119.4
+What is it, Kongming?
+
+@119.5
+They are a little too eager. If anything goes wrong, it will affect the morale of the whole army.
+
+@119.7
+Strategist, what are you saying? For my lord's sake, I, Huang Zhong, do not fear even death.
+
+@119.8
+Please, take us along on this battle.
+
+@119.9
+...No, Kongming is right. I am glad of your spirit, you two, but this time you will rest.
+
+@119.10
+My lord! ... Understood. I will do as you command.
+
+@121
+Our unit reached the inner castle gate
+
+@122.0
+To treat Us, the Emperor of Wei, in this manner... Liu Bei, I will not forgive you!
+
+@122.1
+...Your Majesty, Xuchang Castle is ill suited for defense. Please withdraw to Ye.
+
+@122.2
+Sima Yi, this is your doing! That We should come to such a plight!
+
+@122.3
+... I am deeply sorry. But this is no time to question your servant's faults. I beg you...
+
+@122.4
+Understood! We go to Ye! Sima Yi, you will command the rear guard! Keep the Shu army out of Our sight!
+
+@122.5
+Yes, Your Majesty...
+
+@122.6
+Xuchang Castle is spacious and easy to attack. Let us head straight for its center!
+
+@123.0
+Zhang Liao, we meet again.
+
+@123.1
+...Guan Yu, it seems I am not fated to have good lords. Dong Zhuo, Lu Bu, and now Cao Pi... Is Cao Pi truly Cao Cao's son? Abandoning his retainers is just like Lu Bu...
+
+@123.2
+If you think it was a mistake, will you not surrender to us?
+
+@123.3
+What...?
+
+@123.4
+At Xiapi, I was surrounded by Cao Cao's army and had resolved to die. You told me then, did you not, that dying is easy but solves nothing, and that it was a shallow thought?
+
+@123.6
+Moved by those words, I swallowed my shame and surrendered to Cao Cao. Now it is my turn to say them to you.
+
+@123.8
+Zhang Liao... What say you?
+
+@123.9
+... Very well. I will surrender.
+
+@124
+Zhang Liao joined as a retainer!
+
+@125.0
+But could you wait a little while? I need time to calm my heart.
+
+@125.1
+Very well. Retreat if you wish.
+
+@125.2
+My thanks.
+
+@126
+Guan Yu leveled up!
+
+@127.0
+Hmph! Liu Bei, remember this!
+
+@128.0
+What? The castle gate won't open? Hmm, what are we to do...
+
+@129.0
+General Huang Zhong, it seems we got inside the castle nicely.
+
+@129.1
+Yes. It's a shame we couldn't capture the enemy commander.
+
+@129.2
+It cannot be helped. More importantly, let us open the gate quickly and bring in our lord.
+
+@129.3
+Yes. Opening the gate will be the foremost merit. The strategist will think better of us.
+
+@129.4
+Then let us go!
+
+@129.5
+Yes!
+
+@130.0
+We did it! The gate is open!
+
+@130.1
+Now, my lord, come in quickly!
+
+@130.2
+Huang Zhong! Yan Yan! Why are you two here?
+
+@130.3
+We saw the enemy fleeing from this castle, and entered through the same place.
+
+@130.4
+Now, the gate is open. Please pass through.
+
+@130.5
+Huang Zhong! Yan Yan! Well done!
+
+@130.6
+Wahahaha! Old as I am, I still won't lose to the young... Gah!!
+
+@131.0
+We did it! We've killed an enemy general!
+
+@131.1
+...Ugh, careless of me! Enemy soldiers... were hiding...
+
+@131.2
+Huang Zhong! Yan Yan! Are you all right?
+
+@131.3
+I am... all... right, my lord... More importantly... quickly, the enemy... pay us no mind...
+
+@131.4
+Don't worry! Hold on! Huang Zhong! Yan Yan! Someone... someone help these two!
+
+@132
+Drive off Sima Yi
+
+@133
+Victory Condition Changed
+
+@134
+This Hex victory is for debugging. If you reach this in normal play, it is a bug.
+
+@135
+Sima Yi retreated. Liu Bei's army captured Xuchang.
+
+@136.0
+My lord, we have done it!
+
+@136.1
+Yes! ... Wait, Huang Zhong, Yan Yan! What of Huang Zhong? And Yan Yan?
+
+@136.2
+They are still alive, but...
+
+@136.3
+What! Where are they? Take me to them! Quickly!
+
+@137.0
+Zhang Liao, we meet again.
+
+@137.1
+...Guan Yu, it seems I am not fated to have good lords. Dong Zhuo, Lu Bu, and now... Cao Pi. Is Cao Pi truly Cao Cao's son? Abandoning his retainers is just like Lu Bu...
+
+@137.2
+If you think it was a mistake, will you not surrender to us?
+
+@137.3
+What...?
+
+@137.4
+At Xiapi, I was surrounded by Cao Cao's army and had resolved to die. You told me then, did you not, that dying is easy but solves nothing, and that it was a shallow thought?
+
+@137.6
+Moved by those words, I swallowed my shame and surrendered to Cao Cao. Now it is my turn to say them to you.
+
+@137.8
+Zhang Liao... What say you?
+
+@137.9
+... Very well. I will surrender.
+
+@138
+Zhang Liao joined as a retainer!
+
+@139.0
+But could you let me wait a little while? I need time to calm my heart.
+
+@139.1
+Very well. Retreat if you wish.
+
+@139.2
+My thanks.
+
+@140
+Guan Yu leveled up!
+
+@141.0
+Liu Bei, remember this!
+
+@142.0
+Wh-what! I never imagined the Shu army would be this strong... No help for it. Retreat to Ye!
+
+@143
+Sima Yi retreated. Liu Bei's army captured Xuchang.
+
+@144
+You got 1600 gold!
+
+@145.0
+Huang Zhong! Yan Yan! We have taken Xuchang! It is thanks to you!
+
+@145.1
+Oh... my lord. Congratulations...
+
+@145.2
+My lord, Cao Pi... Was Cao Pi slain...?
+
+@145.3
+... Yes. ... He is dead... I killed him with my own hands, I am certain!
+
+@145.5
+Oh, that is good to hear. ... Now I can go to the next world at ease...
+
+@145.6
+What are you saying! We still have the work of restoring the Han dynasty ahead of us! Cheer up!
+
+@145.7
+...My lord. Thank you for employing such old soldiers. We are glad to have been of use to you to the end.
+
+@145.8
+Please, my lord... a peaceful... world... without war...
+
+@145.9
+... Huang Zhong! Yan Yan! Can you not hear my voice? Answer me! Huang Zhong! Yan Yan!
+
+@146
+Liu Bei's army finally took Xuchang. But the sacrifice paid for victory was great...\n\nMeanwhile in Wei, Cao Pi and Sima Yi steadily made preparations for the final battle with Shu.
+

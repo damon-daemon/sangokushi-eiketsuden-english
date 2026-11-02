@@ -1,0 +1,513 @@
+@0
+Ch. 4: Final Battle with Wei
+
+@1
+Chapter 4: Final Battle of Shu and Wei
+
+@2
+With Xuchang lost, Cao Pi gathered all his forces at Ye, Wei's last stronghold, to settle matters with Shu. Liu Bei, for his part, reorganized his troops at Xuchang. The last battle between Shu and Wei was about to begin.
+
+@3.0
+The decisive battle! We meet Liu Bei at Ye! Gather the whole army at Ye! We will not hand Wei over to the likes of Liu Bei!
+
+@5.0
+My lord, Cao Pi has gathered all his forces in Ye Castle. He means to challenge us to a decisive battle.
+
+@5.1
+Yes. So the time has finally come.
+
+@6.0
+Having come this far, there is nothing left to think about. We attack, and that is all!
+
+@7.0
+That's right! Let us restore the dignity of the Han dynasty!
+
+@8.0
+For the restoration of the Han! We will end the strife in this land!
+
+@9.0
+Big Brother, our long-held dream is almost within reach!
+
+@10.0
+Zhang Fei is right. Brother, the dream of us three is about to become reality!
+
+@11.0
+Now, my lord! Give the order to march!
+
+@12.0
+My lord, with everyone's spirits so high, now is the best chance we will ever have to sortie.
+
+@12.1
+...Looking back, it was a hard journey. Since I rose with Guan Yu and Zhang Fei to save the world in the Yellow Turban Rebellion, we have crossed countless battlefields. And now, at last, the time has come to end this age of chaos. At last, at last, will my wish come true?
+
+@12.2
+But, my lord, we cannot let our guard down yet. One last task remains for the restoration of the Han.
+
+@12.3
+Yes... ... Good! Everyone, prepare to march!
+
+@13
+Yeah!
+
+@14.0
+My lord, just one last push. Let us slay Cao Pi and restore the Han dynasty!
+
+@15.0
+I cannot thank you enough for employing a newcomer like me. I, Wei Yan, ask for your favor from now on as well!
+
+@16.0
+I intend to slay Cao Pi, the enemy of my late father and of all the people, and offer his head to my father's spirit. Now, I take my leave!
+
+@17.0
+I have no words to thank you for your kindness until now. I will keep following you, my lord. Let us give it our all in the final battle!
+
+@18.0
+Big Brother, here it comes at last... Ha ha... Damn... my body has started shaking!
+
+@18.1
+What is it, are you afraid?
+
+@18.2
+What are you saying, Big Brother! It's a warrior's tremor! Anyway, I'm off too!
+
+@19.0
+Brother, at last our wish will come true.
+
+@19.1
+Guan Yu, I am truly glad you are alive. When I heard the news of the defeat in Jing Province...
+
+@19.2
+What are you saying? We swore to die the same day, did we not? I, Guan Yu, will never break that oath. Now, Brother, I go ahead of you!
+
+@20.0
+Then, my lord, I shall go too.
+
+@21.0
+Pang Tong, without you we could not have reached this day. I, Liu Bei, thank you deeply.
+
+@21.1
+No, no, no thanks needed. I have enjoyed myself quite a bit as well. Now, I go on ahead.
+
+@22.0
+Now, my lord, let us go.
+
+@23.0
+Good. Then I shall march too...?
+
+@24.0
+My lord, do your best.
+
+@24.1
+We will be cheering you on too.
+
+@24.2
+Huang Zhong! Yan Yan!
+
+@25.0
+... ? My lord, what is the matter?
+
+@25.1
+No... It is nothing...
+
+@25.2
+... My lord, prepare to march.
+
+@29.0
+Then let us march on Ye!
+
+@30
+Annihilate "Cao Pi"
+
+@31.0
+Ravaging Our territory! This land my father bequeathed to Us! We will hand it to no one!
+
+@31.1
+Cao Pi has challenged us to fight outside the castle. Let us attack at once!
+
+@32.0
+That must be Cao Zhang! Hey! You yellow-bearded oaf! Fight me!
+
+@32.1
+Tch... Of all the things to say! Don't take Cao Zhang lightly!
+
+@32.2
+Heh! Prepare yourself!
+
+@33.0
+Got him! I killed Cao Zhang!
+
+@34
+Zhang Bao leveled up!
+
+@35.0
+The Cao brothers have shown up. Good, Guan Xing will take your head!!
+
+@35.1
+Grr... If it comes to this, I will cut you down!
+
+@35.2
+Prepare yourself, Cao Zhi!
+
+@36.0
+I, Guan Xing, have slain Cao Zhi!
+
+@37
+Guan Xing leveled up!
+
+@38.0
+E-eek! Y-you! We are the Emperor of Wei! How dare you do this to Us!
+
+@38.1
+I will defeat you and save this world of war! Prepare yourself!
+
+@38.2
+I-I understand! We do not want to die yet! We surrender... that will do, will it not?
+
+@38.3
+...Is this really Cao Cao's son...? How pitiful...
+
+@39.0
+Oh, Sima Yi! Where have you been all this time? Now, quickly kill these men!
+
+@39.1
+... Yes, as you wish. I will kill them for you...
+
+@39.2
+Hm? S-Sima Yi! Have you gone mad? The enemy is over there! Wh-why do you turn your sword on Us?
+
+@39.3
+What? What is happening?
+
+@39.4
+You miscreant, defiling Lord Cao Cao's glory! I, Sima Yi, will execute you!
+
+@39.5
+H-hey! Sima Yi! Stop it! ...Waaah!!
+
+@40
+Sima Yi slew Cao Pi!
+
+@41.0
+Liu Bei! Cao Pi is dead, but Wei is not! I will carry on Lord Cao Cao's will! I await you inside the castle!
+
+@42.0
+What on earth is this?
+
+@42.1
+I do not know. All I can say is that the battle is not over yet. Let us attack into the castle!
+
+@43
+Annihilate "Sima Yi"
+
+@44.0
+Ha ha ha! Shu army! Wei will not perish! Take this!
+
+@45
+HP reduced!
+
+@46.0
+Oh, no! He has set fire to his own castle!
+
+@46.1
+The enemy has staked everything on a gamble. Total victory, or annihilation together...
+
+@46.2
+What? Do you mean he is prepared to have his own army burned too?
+
+@46.3
+Yes. Moreover, this castle will not hold much longer. We must retreat... Hm! The gate!
+
+@47.0
+Damn! Our escape route is gone too!
+
+@47.1
+Ha ha ha! Burn to death! Kneel before Lord Cao Cao in the next world!
+
+@47.2
+My lord, we have no choice but to push forward. Sima Yi is a master of strategy. He must have prepared a way out.
+
+@47.3
+Right! All troops, advance! Capture Sima Yi!
+
+@48.0
+My lord, it is dangerous! Please hurry!
+
+@49.0
+My lord, the fire is closing in! Quickly!
+
+@50.0
+My lord, please hurry!
+
+@51.0
+My lord, please hurry! The castle walls are growing brittle! It is dangerous!
+
+@52.0
+It is about time. ... Liu Bei, farewell! Perish together with this Ye Castle!
+
+@52.1
+My lord, the castle is collapsing!
+
+@52.2
+What! Ugh! Waaah!
+
+@53
+Ye Castle burned and collapsed. Liu Bei's army was wiped out by Sima Yi's fire attack.
+
+@54.0
+Damn... Even with my power, I could not stop the Shu army's momentum...
+
+@54.1
+Sima Yi, prepare yourself!
+
+@54.2
+Grr!!
+
+@55
+Sima Yi, do not give up yet...
+
+@56.0
+Hm? What is this voice?
+
+@56.1
+This voice is...! No, but surely not...
+
+@57
+Sima Yi, do not give up. As long as I am here...
+
+@58.0
+Sima Yi. It is not over yet!
+
+@58.1
+Oh... oh...! Lord Cao Cao!
+
+@58.2
+What! Cao Cao?! Why is Cao Cao here?
+
+@58.3
+Liu Bei, you have done well to torment this Wei of mine this far. But it ends here! I wait deeper within. If you wish to defeat me, come. If you can make it that far, that is... Heh heh, ha ha ha ha!
+
+@59.0
+Lord Cao Cao! Please wait!
+
+@59.1
+What does this mean? Was Cao Cao not dead?
+
+@59.2
+I do not understand it either. Only...
+
+@59.3
+Only?
+
+@59.4
+What we just saw was no dream.
+
+@59.5
+Yes... Cao Cao said to come deeper in... Let us go. There is no other way.
+
+@60.0
+Yes. Then let us go deeper.
+
+@61
+Annihilate "Cao Cao"
+
+@62.0
+Cao Cao, what is the meaning of this! Were you not dead?
+
+@62.1
+Even Cao Pi and Sima Yi were fooled. You could hardly be expected to see through it. Very well, I will explain.
+
+@62.2
+The powers of Wei, Shu and Wu were in balance, each watching the other two, and none could move. If this continued, there would be no hope of unifying the realm. So I decided to feign my death.
+
+@62.3
+Feign your death?
+
+@62.4
+Yes. If I were gone, the balance of the three kingdoms would collapse. I had already sown the seed. First, Guan Yu would be killed and the blame laid on Wu... Then Shu would surely turn its murderous intent on Wu. And that is just what happened.
+
+@63.0
+What! Then the strife between Shu and Wu was all your calculation?
+
+@63.1
+Exactly! With me out of the picture, Wu would fight Shu without worry! Shu and Wu would wound each other, one perishing and the other left wounded. Conquering what remained would be easy.
+
+@63.2
+And then Wei would unify the realm. That was my plan. ...But my calculations went wrong. I never imagined that Shu and Wu would form an alliance. Liu Bei, I did not think you could forgive Wu.
+
+@63.4
+Furthermore, entrusting this country to the likes of Cao Pi was a mistake. That fool destroyed this country, the one I built, all too easily. This once beautiful capital is in ruins as well.
+
+@63.5
+...
+
+@63.6
+But it is not over yet! I will defeat you! Unite Wei and Shu! And unify the realm! Liu Bei, do not stand in my way!
+
+@63.7
+... Cao Cao, it is that very thinking of yours that created this age of war and is the source of the people's suffering. Dong Zhuo, Lu Bu, Yuan Shao, Yuan Shu... all of them thought only of themselves. ... And Cao Cao! You are the same kind!
+
+@63.8
+What! Do you say I am the same as a wretch like Dong Zhuo?
+
+@63.9
+Cao Cao! I will not forgive you! Atone with your death for the crime of throwing this land into chaos and harming the Emperor!
+
+@64.0
+Xu Chu! I, Zhang Fei, will send you to your grave!
+
+@64.1
+... Zhang Fei! Very well, come at me!
+
+@64.2
+Heh! Prepare yourself!!
+
+@65.0
+... Phew... That was a bit nerve-racking, Xu Chu.
+
+@66
+Zhang Fei leveled up!
+
+@67.0
+Zhang Liao...
+
+@67.1
+Guan Yu...
+
+@67.2
+Zhang Liao... I cannot fight you...
+
+@67.3
+Say nothing. Now, raise your weapon!
+
+@68.0
+... Zhang Liao...
+
+@68.1
+... Do not look so sad. I feel refreshed now. To die for the lord I believed in, what a wonderful thing. I have dreamed of this all along, though I never thought it would come true.
+
+@68.2
+But I... Zhang Liao, I... never imagined it would come to this...
+
+@68.3
+... Guan Yu. If you had not helped me at Xiapi, I could never have known this feeling. I thank... you. Than... k... you...
+
+@68.4
+Zhang Liao... Why... Why must I suffer such sorrow! Waaaah!!
+
+@69
+Guan Yu leveled up!
+
+@70.0
+Li Dian! Fight me!
+
+@70.1
+... If it has come to this, it cannot be helped. I will be your opponent, Zhao Yun!
+
+@71.0
+... Guh... So Wei too... is finished...
+
+@72
+Zhao Yun leveled up!
+
+@73.0
+Yue Jin! You gave me trouble at the Wei River! Now is the time to settle that grudge!
+
+@73.1
+Tch... Ma Chao...!
+
+@73.2
+Yue Jin! Prepare yourself!
+
+@74.0
+Good! I have slain Yue Jin!
+
+@75
+Ma Chao leveled up!
+
+@76.0
+It is about time...
+
+@77
+Fire has broken out in the castle!
+
+@78.0
+Heh heh heh... Liu Bei. You surely never thought I had rigged this castle. Now! Burn, flames! Split Liu Bei's army apart!
+
+@79.0
+Oh! My lord! The road!
+
+@79.1
+How terrible...
+
+@79.2
+Ha ha ha! Burn, burn!
+
+@80.0
+Tch! More fire!
+
+@80.1
+Never mind the castle! If we only defeat them, the realm is Lord Cao Cao's! Liu Bei! Kongming! For Lord Cao Cao, I will defeat you without fail!!
+
+@80.2
+Just so. Sima Yi, this is the last battle. We cannot lose here!
+
+@81.0
+Liu Bei... Do you remember the talk we had, just the two of us, in the garden at Xuchang? In the end, the heroes left were you and I, just as I said. My eyes were right after all.
+
+@81.1
+If you had not betrayed me and had stood by me as my ally, would I have walked a different road? Or... ...No! Such thoughts are useless...
+
+@81.2
+... Liu Bei! You and I were fated to fight after all! Today we settle that fate! Come to Cao Cao!
+
+@82.0
+Guh...! L-Liu Bei...! You block me at every turn...! My... dream...! Aaargh!!
+
+@83
+Cao Cao was slain. Liu Bei's army captured Ye Castle.
+
+@84.0
+We did it! At last, we have defeated Cao Cao!
+
+@84.1
+My lord, we have done it!
+
+@85.0
+Brother, congratulations. At last, at last our wish has come true.
+
+@85.1
+Ugh... It was a long road, Big Brother... but... at last, our dream...
+
+@86.0
+It was long, Big Brother... Our dream has finally come true. Guan Yu will be glad too...
+
+@87.0
+Now, my lord, let us go and welcome the Emperor!
+
+@87.1
+Yes! Then we go to Luoyang!
+
+@88
+Cao Cao's ambition came to naught. Here, the age of the Three Kingdoms of Wei, Wu and Shu came to its end. Together with Cao Cao's downfall...
+
+@90
+After the victory at Ye, Liu Bei and his men went to Luoyang and welcomed back Emperor Xian, who had been driven from the capital.
+
+@91.0
+I never thought I would live to return to this place. It is all thanks to you, Imperial Uncle.
+
+@91.1
+You honor me too much... This was our long-held wish...
+
+@92.0
+Imperial Uncle.
+
+@93.0
+Continue working even harder for all the people of the realm!
+
+@93.1
+Yes, Your Majesty!!
+
+@94
+Liu Bei achieved the restoration of the Han dynasty, his long-cherished wish.\n\nThe year was 224, a full 34 years after the coalition against Dong Zhuo had been formed.
+

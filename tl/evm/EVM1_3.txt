@@ -1,0 +1,615 @@
+@0
+Ch. 1: Campaign Against Lu Bu
+
+@1
+Chapter 1: Campaign Against Lu Bu
+
+@2
+However, no one gained more from Liu Bei's arrival in Xuchang than Cao Cao himself, who had feared that Liu Bei and Lu Bu would join forces.
+
+@3
+Now Lu Bu stood alone. Liu Bei at once joined Cao Cao in raising the banner of counterattack, and Xiaopei fell in a lightning strike.
+
+@5
+Driven from Xiaopei, Lu Bu planned his next move in Xuzhou.
+
+@6.0
+Grr... Not only Cao Cao, but Liu Bei comes to attack me too...
+
+@7.0
+My lord, I have a plan. First, send troops out along the roads leading to Xuzhou.
+
+@7.1
+Hm, to Xiaqiu and Pengcheng?
+
+@7.2
+Exactly. They hold the enemy there and buy us time. Meanwhile, we move our base to Xiapi, south of Xuzhou.
+
+@7.3
+Xiapi?
+
+@7.4
+Yes. Xiapi is a strong fortress ringed by a deep moat. There we will face the Cao Cao army.
+
+@7.5
+Understood. Then we move to Xiapi. And now, Zhang Liao! Gao Shun!
+
+@8.0
+Zhang Liao, go to Xiaqiu. As Chen Gong planned, hold Cao Cao back.
+
+@8.1
+...Yes, my lord.
+
+@8.2
+Gao Shun, go to Pengcheng. I am counting on you.
+
+@9.0
+My lord, let us move to Xiapi.
+
+@9.1
+Yes, but what about their reinforcements?
+
+@9.2
+They need none.
+
+@9.3
+What?
+
+@9.4
+They are expendable. They buy time while we move to Xiapi. Without that, we cannot elude the Cao Cao army.
+
+@9.5
+B-but...
+
+@9.6
+It is all for the sake of pacifying the realm. They should be glad to be of use to you.
+
+@9.7
+Y-yes...
+
+@10.0
+...(What a man... To think I have served him all this time...)
+
+@11.0
+We will hold the Cao Cao army at Xiaqiu! Follow me!
+
+@11.1
+We hold Pengcheng! Protect our lord! Hold out until help comes!
+
+@11.2
+...Then we head for Xiapi.
+
+@13.0
+So you have retaken Xiaopei. Let me start by offering my congratulations.
+
+@14
+Speak with Cao Cao and the others
+
+@15.0
+Please speak with Lord Cao Cao.
+
+@16.0
+Man, this takes me back, Big Brother. It feels like we've finally come home.
+
+@17.0
+Magnificent fighting.
+
+@18.0
+Let us finish off Lu Bu in one stroke.
+
+@19.0
+Liu Bei, Xuzhou is next. This time you and I will split up and advance separately.
+
+@19.1
+By way of Xiaqiu and Pengcheng?
+
+@19.2
+Right. The enemy seems to be waiting for us at both Xiaqiu and Pengcheng. I will send you reinforcements: Xun Yu for Xiaqiu, Guo Jia for Pengcheng. Both are reliable. Speak with them.
+
+@20.0
+Which way to go is up to you, Brother. But I hear Zhang Liao guards Xiaqiu. Zhang Liao, of all men...
+
+@21.0
+Either one's fine with me, Big Brother. Let's take Xuzhou back quick.
+
+@22.0
+Take Xun Yu if you go by Xiaqiu, and Guo Jia if you go by Pengcheng.
+
+@23.0
+Shall we attack Xiaqiu?
+
+@25.1
+Then we go to Pengcheng. Liu Bei, I count on you for Xiaqiu.
+
+@26.0
+Shall we attack Pengcheng?
+
+@28.1
+Then we go to Xiaqiu. Liu Bei, I count on you for Pengcheng.
+
+@29
+Zhang Liao retreats
+
+@30.0
+Good! We have the enemy in a pincer!
+
+@30.1
+All that remains is to strike them down.
+
+@30.2
+So the enemy commander is Zhang Liao. I had hoped not to fight him...
+
+@30.3
+Hmm... Was joining Lu Bu a mistake after all...
+
+@31.0
+Brother! Behind you!
+
+@32
+An enemy detachment appears!
+
+@33.0
+Zhang Liao even sent troops around behind us...
+
+@33.1
+As expected of Zhang Liao.
+
+@33.2
+Good! All forces, full assault!!
+
+@34.0
+That must be Zhang Liao. Do you have no regrets about serving a man like Lu Bu?
+
+@34.1
+Ugh...
+
+@34.2
+Lu Bu is a traitor. He is no hero. Can you not see that?
+
+@34.3
+Hmm...
+
+@35.0
+...All forces, retreat! Retreat!
+
+@36
+Zhang Liao retreated. The Liu Bei-Cao Cao alliance defeated Lu Bu's army.
+
+@38.0
+Lord Liu Bei, a messenger has just arrived. Lord Cao Cao has already taken Xuzhou. Let us head for Xuzhou.
+
+@39
+Gao Shun retreats
+
+@40.0
+Why do no reinforcements come! Grr... Lu Bu, you planned this from the start.
+
+@40.1
+Gao Shun defends Pengcheng. We must not lose to the Cao Cao army.
+
+@41.0
+Come out, commander! I'll pay you back for Xuzhou right now!
+
+@41.1
+Grr... If it comes to this, we settle it in single combat! Let's go, Zhang Fei!
+
+@42.0
+Anyone who sides with Lu Bu dies by my blade!
+
+@44.0
+Damn...! Retreat!
+
+@45.0
+Damn...! Retreat!
+
+@46
+Gao Shun retreated. The Liu Bei-Cao Cao alliance defeated Lu Bu's army.
+
+@48.0
+A messenger says Lord Cao Cao has already entered Xuzhou. Let us head for Xuzhou.
+
+@50.0
+Liu Bei, well done. It seems Lu Bu has fled to Xiapi.
+
+@50.1
+Xiapi, is it?
+
+@50.2
+Yes, and as you know, that fortress is impregnable. Is there no good plan?
+
+@51
+Speak with Cao Cao and the others
+
+@52.0
+Brother, first report to Lord Cao Cao.
+
+@53.0
+Ah, Big Brother, Xuzhou really is nice. It feels like home.
+
+@54.0
+Xiapi's fortress is hard to attack. With Lu Bu inside, it will not fall easily.
+
+@55.0
+Lu Bu has fled into Xiapi. We will catch him soon.
+
+@56.0
+Only Xiapi remains. This is the end for Lu Bu.
+
+@57.0
+Lu Bu in the fortress of Xiapi... This will be hard to attack.
+
+@58.0
+Liu Bei, what shall we do? ...Hm? Who is there?
+
+@59.0
+Lord Liu Bei, I am Chen Deng, of a wealthy family of Xuzhou.
+
+@59.1
+We met once before, at the council hall in Xuzhou.
+
+@59.2
+Yes. When Lu Bu appeared in Xuzhou, I had no choice but to follow him. I have something to tell you about the Lu Bu army.
+
+@59.3
+Right. Chen Deng has something he wants to tell you.
+
+@60.0
+Brother, please hear what Chen Deng has to say.
+
+@61.0
+Ah, Big Brother, Xuzhou really is nice. It feels like home.
+
+@62.0
+Lord Liu Bei, please hear Chen Deng out.
+
+@63.0
+Lu Bu has fled into Xiapi. We will catch him soon.
+
+@64.0
+Only Xiapi remains. This is the end for Lu Bu.
+
+@65.0
+Lu Bu in the fortress of Xiapi... This may be hard to attack.
+
+@66.0
+Liu Bei, listen to Chen Deng.
+
+@67.0
+In truth, Lu Bu's officers Hou Cheng, Wei Xu and Song Qian may switch sides if persuaded.
+
+@67.1
+At Xiapi, all three will likely come out of the fortress.\n\nIf you win them over, even the fortress of Xiapi will fall with ease.
+
+@68.0
+Brother, let us win over all three.
+
+@69.0
+I'm no good at talking. I'll leave the persuading to you, Big Brother.
+
+@70.0
+I see. What Chen Deng says is very important.
+
+@71.0
+Lu Bu has fled into Xiapi. We will catch him soon.
+
+@72.0
+Lord Liu Bei, please bring Hou Cheng, Wei Xu and Song Qian over to our side.
+
+@73.0
+Only Xiapi remains. This is the end for Lu Bu.
+
+@74.0
+Lu Bu in the fortress of Xiapi... This may be hard to attack.
+
+@75.0
+Liu Bei, we will make use of what was just said. We march on Xiapi now. I want you to bring Hou Cheng, Wei Xu and Song Qian over to our side.\n\nIf you succeed, even the fortress of Xiapi will fall easily. Liu Bei, I count on you.
+
+@76
+March on Xiapi, where Lu Bu waits
+
+@77.0
+I'm no good at talking. I'll leave the persuading to you, Big Brother.
+
+@78.0
+What Chen Deng says is very important.
+
+@79.0
+The fortress of Xiapi is ringed by a moat and is very hard to attack. If only we could lower the drawbridge at the gate...
+
+@80.0
+Please bring Hou Cheng, Wei Xu and Song Qian over to our side. Then we will surely win.
+
+@81.0
+Only Xiapi remains. This is the end for Lu Bu.
+
+@82.0
+Lu Bu in the fortress of Xiapi... This may be hard to attack.
+
+@83.0
+Liu Bei, I leave it to you.
+
+@84.0
+Shall we march out?
+
+@85.0
+Let us form our units.
+
+@86.1
+Good, the time has come. We end Lu Bu at Xiapi!
+
+@87.0
+Liu Bei, I count on you. We will keep our troops hidden and launch a full assault when the moment comes!
+
+@88
+Lower the drawbridge
+
+@89.0
+Hmph, no matter how hard Cao Cao or Liu Bei attack, this fortress will not budge!
+
+@89.1
+Brother, listen. We must win over Hou Cheng, Wei Xu and Song Qian and have them lower the drawbridge.
+
+@89.2
+Lu Bu has us fight out here while he stays inside the fortress. Our men cannot die in peace like this.
+
+@89.3
+If we lose here, we lose our heads... Well, so be it...
+
+@89.4
+General Lu Bu is kind to women and children, but he thinks nothing of us. He was not a man worth serving.
+
+@90
+The drawbridge is down!
+
+@91.0
+What happened? The drawbridge is down?
+
+@92
+Cao Cao's army appeared as reinforcements!
+
+@93.0
+My lord, the drawbridge seems to be down.
+
+@93.1
+Hm... Liu Bei has let me down. I was right to send Chen Deng into the fortress ahead of time. Good, now capture Lu Bu!!
+
+@94
+Destroy Lu Bu
+
+@96.0
+Hm, Liu Bei? Very well, I will face you!
+
+@96.1
+Hou Cheng, hear me out.
+
+@97.0
+Hou Cheng, Lu Bu is isolated now, and his men's hearts have left him. ...Yours included.
+
+@97.1
+W-what are you saying! I would never...
+
+@97.2
+Do not lie to yourself. Will you die here for nothing?
+
+@97.3
+Hmm...
+
+@97.4
+If you cannot even see that, then perish here.
+
+@97.5
+...No. I cannot die yet.
+
+@97.6
+Then lend us your strength. Will you lower the drawbridge of Xiapi for us?
+
+@97.7
+Very well. Once you reach the drawbridge, I will do so. I will go and make ready.
+
+@99.0
+Wei Xu, Lu Bu's fate is sealed. There is no sense in useless fighting.
+
+@99.1
+We have followed Lord Lu Bu all this time. But only his own kin are treated well. We retainers get no reward. ...I understand. From now on I am on your side. I will go lower the drawbridge.
+
+@101.0
+Why have we served such a man until now?
+
+@101.1
+It is not too late. Fight with me. Song Qian!
+
+@101.2
+Yes. ...Right! From this moment I turn to the Liu Bei-Cao Cao alliance! Liu Bei, I will go back to the fortress now and lower the drawbridge.
+
+@103.0
+Damn it! What are the troops outside dawdling for! Advance!!
+
+@103.1
+Dawdling... is it...
+
+@103.2
+...Right. Front line, charge!
+
+@103.3
+Advance... General Lu Bu! Cao Cao's army is coming too! Are we... expendable?
+
+@104
+The drawbridge is down!
+
+@105.0
+Lord Liu Bei! Come in!
+
+@105.1
+That is Hou Cheng's voice.
+
+@105.2
+What!? Hou Cheng, Wei Xu and Song Qian betrayed me and lowered the drawbridge!? What ingrates! I will not forgive them!
+
+@106
+Cao Cao's army appeared as reinforcements!
+
+@107.0
+My lord, the drawbridge seems to be down.
+
+@107.1
+Liu Bei's scheme seems to have worked. Good, all forces charge! Capture Lu Bu without fail!
+
+@108
+Destroy Lu Bu
+
+@110.0
+Hmm, this is the only way into the fortress... We must lower that bridge somehow.
+
+@111
+This Hex victory is for debugging. If you reach it in normal play, it is a bug.
+
+@112.0
+Then let us enter Xiapi Castle.
+
+@113
+Go to the council hall in Xiapi
+
+@114.0
+Zhang Liao, that is enough. Lu Bu's fate is sealed. You have served him well enough.
+
+@114.1
+...Say no more now. Guan Yu, come at me!
+
+@115.0
+With this wound he will not die. Zhang Liao... Do not throw your life away.
+
+@117.0
+...H-how bitter...
+
+@118
+Lu Bu was captured. The Liu Bei-Cao Cao alliance defeated Lu Bu's army.
+
+@120.0
+Then let us enter Xiapi Castle.
+
+@121
+Go to the council hall in Xiapi
+
+@122
+Xiapi Council Hall
+
+@123.0
+Now, Liu Bei, we must decide what to do with Lu Bu.
+
+@124
+Decide Lu Bu's fate
+
+@125.0
+He deserves no sympathy. He should be executed.
+
+@126.0
+Just cut off his head already. I'll kill him myself if you like.
+
+@127.0
+If Lu Bu is left alive, he will bring disaster later.
+
+@128.0
+Still, that one man gave us so much trouble. He is truly frightening.
+
+@129.0
+Liu Bei, I have never yet lost on the battlefield. Won't you buy my sword arm?
+
+@130.0
+Liu Bei, what shall we do?
+
+@131.0
+He deserves no sympathy.
+
+@132.0
+He's a man who climbed up by cutting down from behind the very people who helped him.
+
+@133.0
+If Lu Bu is left alive, he will bring disaster later.
+
+@134.0
+Lu Bu is certainly strong. But whether he would serve my lord well...
+
+@135.0
+Liu Bei, what shall we do?
+
+@136.0
+Lord Liu Bei, did we not once live together in Xuzhou? Let us from now on carve a path through this age of chaos together.
+
+@136.1
+...What would you do, Liu Bei? Tell me what you think.
+
+@137
+Spare Lu Bu\nDo not spare Lu Bu
+
+@138.0
+Lu Bu did betray me. But I do feel some sympathy for his circumstances.
+
+@138.1
+Y-yes, exactly! Liu Bei, what happened before could not be helped.
+
+@138.2
+Hm... So that is your view, Liu Bei. But mine differs. This man is beyond saving. He killed his adoptive father to serve Dong Zhuo, and then killed Dong Zhuo himself for his own ambition.\n\nThat trick will not work on me! Lu Bu, you will be executed.
+
+@138.3
+Wait!
+
+@139.0
+Everyone who showed Lu Bu mercy was betrayed in the end. It is not only me. Ding Yuan, once his adoptive father, died at his hands, and Dong Zhuo met his death in the same way.
+
+@139.1
+Yes, this man cannot be forgiven. Lu Bu, you are sentenced to death.
+
+@139.2
+Wait!
+
+@140.0
+I was deceived! Otherwise why would I need to fight you? Besides, don't you think it a waste to lose a man like me?
+
+@140.1
+He just won't give up. I'll finish him off instead. Prepare yourself!
+
+@141.0
+Gah... So... it cannot be helped...
+
+@142
+Lu Bu was executed
+
+@143.0
+He gave us a lot of trouble.
+
+@144.0
+With this, the root of disaster is cut. The world will be quiet for a while. Who is next?
+
+@145.0
+Zhang Liao. A man of your caliber would have made a name for himself, had you not served that wretch. How about it? Serve me from now on and make amends for your past errors.
+
+@145.1
+Hmph. My only past error was failing to kill you. Enough beating around the bush. Kill me now.
+
+@145.2
+Grr... You dare say that! Then I will kill you, as you wish!
+
+@146.0
+Please, do not kill this man.
+
+@146.1
+Guan Yu...
+
+@146.2
+This man is one of deep honor. He may lack tact in speech, but it would be a waste to kill him. Please, spare him, and take my own life, Guan Yu's, in exchange.
+
+@146.3
+...Heh, fear not, it was a jest. Do you think I would fail to see that? Zhang Liao, you are free to do as you please.
+
+@146.4
+What, you set me free...? ...Is this a true general's stature? Lord Cao Cao, I wished to serve one like you. Make me your retainer.
+
+@146.5
+You wish to serve me? Zhang Liao, I am fortunate to have a man like you under me.
+
+@147.0
+Now, Liu Bei, shall we return to Xuchang?
+
+@148.0
+Then, Brother, let us go to Xuchang.
+

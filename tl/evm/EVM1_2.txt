@@ -1,0 +1,849 @@
+@0
+Ch. 1: The Wolf Lu Bu Arrives
+
+@1
+Chapter 1: Arrival of the Wolf Lu Bu
+
+@2
+Meanwhile, at Chenliu, Lu Bu and Cao Cao were at war. Mighty Lu Bu advanced with unstoppable force and surrounded Chenliu in no time. But the strategist Cao Cao shrugged it off with his stratagems and finally drove Lu Bu's army back.
+
+@3
+Xiaopei Council Hall
+
+@4.0
+Brother, it seems Cao Cao has returned to Chenliu and driven Lu Bu away.
+
+@4.1
+Hmph, that traitor Lu Bu. Heaven's judgment.
+
+@4.2
+Still, a man with no land and a life of wandering must have troops who suffer.
+
+@5.0
+My lord, I have seen how things stand in the city.
+
+@6
+Hear Jian Yong's report
+
+@7.0
+Brother, please hear Jian Yong's report.
+
+@8.0
+Brother, let's hear Jian Yong's report.
+
+@9.0
+My lord, Jian Yong's report, please.
+
+@10.0
+The townsfolk say this land of Xiaopei is often raided by bandits.
+
+@10.1
+Yes, that is so. We tried several times to wipe them out, but...
+
+@10.2
+My lord, this is a good chance to let the people of Xiaopei know their new lord. Why not suppress the bandits?
+
+@10.3
+You are right, let us march. Where are the bandits? Sun Qian, do you know anything?
+
+@11.0
+The bandits live in three places: Taishan, Xiaqiu, and Pengcheng.
+
+@11.1
+Then, Brother, please prepare to march.
+
+@12
+Suppress the bandits
+
+@13.0
+Come on, Brother, let's march! Bandits are nothing to me. I'll flatten them in a snap!
+
+@14.0
+Even bandits must not be taken lightly. If we lose, that is the end.
+
+@15.0
+We cannot let the bandits run free like this. The sooner the better.
+
+@16.0
+Are you ready?
+
+@17.0
+Brother, where shall we go?
+
+@18
+Return to Xiaopei Castle\nGo to Taishan\nGo to Xiaqiu\nGo to Pengcheng
+
+@19.0
+Leave the suffering people and return to the castle?! Have you forgotten our ideals?
+
+@20.0
+Brother, the bandits still seem to be lurking. Is this all right?
+
+@21.0
+Then, where shall we go?
+
+@22.0
+Understood. Let us go to Taishan.
+
+@23.0
+We have already put down the bandits of Taishan. Let us go elsewhere.
+
+@24.0
+Understood. Let us go to Xiaqiu.
+
+@25.0
+We have already put down the bandits of Xiaqiu. Let us go elsewhere.
+
+@26.0
+Understood. Let us go to Pengcheng.
+
+@27.0
+We have already put down the bandits of Pengcheng. Let us go elsewhere.
+
+@28.0
+Please organize your units.
+
+@29
+Annihilate the enemy
+
+@30.0
+I never thought I'd fight Lord Liu Bei. This is a disaster. What do I do...
+
+@30.1
+Come on, bandits, give me a good time. I've gone soft lately.
+
+@31.0
+My lord, they say a woman leads the bandits here.
+
+@31.1
+Brother, talk her into joining us somehow. Come on, Brother. Please, Big Brother!
+
+@31.2
+Honestly, you...
+
+@31.3
+Damn it, even if it's Lord Liu Bei, as boss I have no choice but to fight. Boys, get them!
+
+@32.0
+Ugh... I can't do it! I can't raise my blade against Lord Liu Bei!
+
+@33
+Li Ming joined as a retainer!
+
+@34
+Liu Bei leveled up!
+
+@35
+Liu Bei's army put down the bandits of Taishan
+
+@36
+You got 500 gold!
+
+@37.0
+Good, now the people of Taishan can live in peace.
+
+@38.0
+Brother, we have put down all the bandits. Let us return to Xiaopei Castle.
+
+@39.0
+Brother, where shall we go?
+
+@40
+Suppress the bandits
+
+@41.0
+Please organize your units.
+
+@42
+Annihilate the enemy
+
+@43.0
+Liu Bei was strong even back in the Yellow Turban Rebellion. I may as well submit...
+
+@43.1
+Brother, bandits are still human. If we talk to them properly, they may give up their cruel ways.
+
+@43.2
+Understood, I'll try.
+
+@44.0
+Lord Liu Bei, forgive my many discourtesies. I have changed my heart and will serve you.
+
+@45
+Zhao He joined as a retainer!
+
+@46
+Liu Bei leveled up!
+
+@47
+Liu Bei's army put down the bandits of Pengcheng
+
+@48
+You got 500 gold!
+
+@49.0
+Good, Pengcheng is settled.
+
+@50.0
+Brother, we have put down all the bandits. Let us return to Xiaopei Castle.
+
+@51.0
+Brother, where shall we go?
+
+@52
+Suppress the bandits
+
+@53.0
+Please organize your units.
+
+@54
+Annihilate the enemy
+
+@55.0
+This is bad. Tao Qian's army would be one thing, but Liu Bei's army? We have no chance. Surrender...
+
+@55.1
+Lord Liu Bei, do not forget that military merit alone cannot win the hearts of the people.
+
+@56.0
+Damn, Liu Bei's army is the real thing. We're no match. ...Lord Liu Bei, I surrender.
+
+@57
+Dong Liang joined as a retainer!
+
+@58
+Liu Bei leveled up!
+
+@59
+Liu Bei's army put down the bandits of Xiaqiu
+
+@60
+You got 500 gold!
+
+@61.0
+Now Xiaqiu too will be quiet.
+
+@62.0
+Brother, we have put down all the bandits. Let us return to Xiaopei Castle.
+
+@63.0
+Brother, where shall we go?
+
+@64
+Suppress the bandits
+
+@65
+Xiaopei Council Hall
+
+@66.0
+The people of Xiaopei wish to thank you.
+
+@67.0
+Lord Liu Bei, thank you for putting down the bandits. This is a token of our gratitude.
+
+@68
+You got 500 gold!
+
+@69.0
+Lord Liu Bei, please protect Xiaopei always. Now, if you will excuse me.
+
+@70
+Talk with Guan Yu and the others
+
+@71.0
+With the bandits put down, Xiaopei can rest easy now.
+
+@72.0
+Just as I thought, bandits are no match for the great Zhang Fei.
+
+@73.0
+Do not let your guard down.
+
+@74.0
+Hm? My lord, it looks like an envoy.
+
+@75.0
+Lord Liu Bei, Lord Tao Qian's condition has worsened. Please come to Xuzhou Castle at once.
+
+@75.1
+What?! Lord Tao Qian!
+
+@75.2
+Yes, Lord Tao Qian is now at his residence in Xuzhou Castle. Please hurry.
+
+@75.3
+Then, Brother, let us go at once.
+
+@76
+Visit the sick Tao Qian\nat his residence in Xuzhou
+
+@77.0
+Lord Liu Bei, please go to the residence in Xuzhou Castle at once. Every moment counts.
+
+@78
+Tao Qian's Residence, Xuzhou
+
+@79.0
+Oh, Lord Liu Bei! Thank you for coming. Please see my lord at once.
+
+@80.0
+Lord Tao Qian! Are you all right?!
+
+@81.0
+Ohh, I am glad you made it... Lord Liu Bei, hear me. As you see, I do not have long. So I have a request...
+
+@81.1
+What is it?
+
+@81.2
+Would you become Governor of Xuzhou?
+
+@81.3
+What?! What are you saying so suddenly?
+
+@82.0
+It may seem sudden, but we all talked it over and decided.
+
+@82.1
+Lord Liu Bei is the right man to be our master. Please protect Xuzhou.
+
+@83.0
+Brother, why hesitate? You can have a domain of your own!
+
+@84.0
+Brother, Lord Tao Qian himself is urging you. Make up your mind quick.
+
+@85.0
+If you grant my wish, I will have no regrets. Lord Liu Bei, I beg you.
+
+@85.1
+...I understand. I am far from Lord Tao Qian's equal, but I will accept.
+
+@85.2
+Oh, you accept... ...Thank you. Now I have no regrets. Mi Zhu... Mi... Fang... Fare... well...
+
+@85.3
+My lord!
+
+@85.4
+My lord!!
+
+@86
+Tao Qian breathed his last
+
+@87.0
+Sob... Lord Liu Bei, thank you.\n\nNow Lord Tao Qian will surely rest in peace.
+
+@87.1
+From now on, Lord Liu Bei is our new lord. As Lord Tao Qian said, we will serve you with all our hearts.
+
+@88
+Mi Zhu and Mi Fang joined as retainers
+
+@89.0
+We cannot only grieve. Lord Liu Bei, we will go ahead to the council hall. Please come as well.
+
+@90.0
+Then... my lord, if you will excuse us.
+
+@91.0
+Then let us go to the council hall too.
+
+@92
+Meanwhile, the remnants of Dong Zhuo's forces fought over Emperor Xian, each seeking the right to rule the realm.
+
+@93
+The pursued Emperor Xian begged Cao Cao for help, and the capital was moved to Xuchang. Having the emperor in hand, Cao Cao rose like the morning sun.
+
+@94
+Xuzhou Council Hall
+
+@95
+Plan countermeasures at the council hall
+
+@96.0
+We have lost a great man.
+
+@97.0
+For Lord Tao Qian's sake too, we must defend Xuzhou. Right, Brother?
+
+@98.0
+Xuzhou is surrounded by enemies on all sides, and is easy land to attack.
+
+@99.0
+M-my lord, Lu Bu has arrived.
+
+@100.0
+It has been a while, Lord Liu Bei. I have a favor to ask of you today.
+
+@101.0
+That Lu Bu... What could he want?
+
+@102.0
+Brother, it's Lu Bu, you know.
+
+@103.0
+My lord, you know Lu Bu too. I think it is best for Xuzhou not to get involved with him.
+
+@104.0
+I feel for Lu Bu's situation, but can Lu Bu be trusted...
+
+@105.0
+Lord Liu Bei, please help us.
+
+@106.0
+Lord Liu Bei is the only one we can rely on.
+
+@107.0
+Since our defeat by Cao Cao, we have wandered from place to place.\n\nWe heard of Lord Liu Bei of Xuzhou and stopped by. Will you not take us in? I beg you.
+
+@108.0
+I do not intend to go against your wishes, Brother, but I oppose this.
+
+@109.0
+Brother, no need to think about it.
+
+@110.0
+My lord, you know Lu Bu too. I think it is best for Xuzhou not to get involved with him.
+
+@111.0
+I feel for Lu Bu now, but can Lu Bu be trusted...
+
+@112.0
+Lord Liu Bei, please help us.
+
+@113.0
+Lord Liu Bei, a favorable reply, please.
+
+@114.0
+Lord Liu Bei, a favorable reply, please!
+
+@114.1
+Very well. I permit you to enter Xiaopei Castle. Make yourselves at home there.
+
+@114.2
+Th-thank you! I never expected such a fine answer. Why, you owe your present standing to me, you know. When Cao Cao attacked this land, I was the one who attacked Chenliu.\n\nYou never know where fate will tie us together, do you? Ha ha ha!
+
+@114.3
+What?!
+
+@115.0
+Oh, Lord Zhang Fei.
+
+@115.1
+A bond between my brother and you?! Don't be absurd! You beast! Lu Bu, take up your spear! I'll shut that mouth of yours for good!!
+
+@116.0
+Zhang Fei, stop!
+
+@116.1
+Don't stop me, Guan Yu! I'm thinking of our brother!
+
+@116.2
+Enough, come outside!
+
+@117.0
+I am sorry. My brother is on edge right now. Please go on to Xiaopei Castle.
+
+@117.1
+...Y-yes. Then I will accept your kindness.
+
+@117.2
+Thank you.
+
+@118.0
+Aren't you Zhang Liao?
+
+@119.0
+...Guan Yu. What is it?
+
+@119.1
+Your fighting at Hulao Pass was superb, enemy though you were...\n\nWhy do you follow Lu Bu?
+
+@119.2
+...It just turned out that way. I have served Lu Bu as my master. I cannot change now.
+
+@119.3
+But a warrior like you, why cling so to a beast like Lu Bu?
+
+@119.4
+...I want to do something about Lu Bu. That is all for now.
+
+@119.5
+I see. Then I will say no more.
+
+@120
+Xuzhou Council Hall
+
+@121
+Plan countermeasures
+
+@122.0
+Brother, I cannot trust Lu Bu.
+
+@123.0
+Why, Brother? Why keep a guy like that in Xuzhou?
+
+@124.0
+Lu Bu is a man who kills even his father. He cannot be trusted.
+
+@125.0
+Oh? My lord, Sun Qian is here.
+
+@126.0
+I wonder if something happened.
+
+@127.0
+Lending a hand to a guy like Lu Bu will come to no good.
+
+@128.0
+Sun Qian is here. Let us hear him.
+
+@129.0
+For now, let us hear Sun Qian.
+
+@130.0
+My lord, an imperial envoy has come from the court.
+
+@130.1
+An imperial envoy? Brother, what could it be?
+
+@130.2
+Hm, show him in.
+
+@130.3
+Yes, sir.
+
+@131.0
+Brother, you are before the envoy.
+
+@132.0
+That Lu Bu... Next time I see him, he's dead.
+
+@133.0
+My lord, the envoy's words.
+
+@134.0
+My lord, first please speak with the envoy.
+
+@135.0
+Never mind me, first the envoy.
+
+@136.0
+Are you Lord Liu Bei? I come from the imperial court.
+
+@136.1
+Thank you for the long journey.
+
+@136.2
+I bring the Emperor's command. "Strike down Yuan Shu of Huainan." Understood?
+
+@136.3
+I humbly accept.
+
+@136.4
+Then I take my leave.
+
+@137.0
+As you think best, Brother.
+
+@138.0
+Yuan Shu is a pushover. Brother, if it's decided, let's march.
+
+@139.0
+This will be our first battle too. Watch us.
+
+@140.0
+But why would the Emperor give an order like "Strike down Yuan Shu" at this time?
+
+@141.0
+My lord, is there not a hidden motive behind this order?
+
+@141.1
+The Emperor is with Cao Cao now. So this is probably Cao Cao's doing. But it is an imperial edict, so we must go.
+
+@141.2
+...I see. Let us march.
+
+@142
+Go to Huainan to subdue Yuan Shu
+
+@143.0
+Yuan Shu is a pushover. Brother, if it's decided, let's march right now.
+
+@144.0
+Since the march is decided, we will simply follow.
+
+@145.0
+Let us prepare to march.
+
+@146.0
+This will be our first battle too. Watch us.
+
+@147.0
+Are you ready?
+
+@148.0
+Please organize your units.
+
+@149.0
+Let us march.
+
+@150.0
+All right! March to Huainan, where Yuan Shu is! I'm itching for a fight!
+
+@151
+Huainan Council Hall
+
+@152
+Yuan Shu declared himself emperor. He had obtained the Imperial Seal, the mark of an emperor.\n\nThe court and the Emperor looked bitterly on Yuan Shu, who played at being emperor in Huainan.
+
+@153.0
+Liu Bei's army is approaching. My lord, what shall we do?
+
+@153.1
+Hmph, I am the Emperor! For Liu Bei to defy me is the height of arrogance!
+
+@154.0
+Your Majesty, leave this to your humble servant.
+
+@154.1
+H-hm, what is it? Speak quickly.
+
+@154.2
+Yes, Lu Bu is with Liu Bei now. Have him do it.
+
+@154.3
+What, move Lu Bu? But he is in Liu Bei's army.
+
+@154.4
+But he is Lu Bu, after all. If persuaded well, he will surely move.
+
+@155.0
+I see, he betrayed even Dong Zhuo, to whom he owed so much.
+
+@155.1
+Good, arrange it at once. Send an envoy immediately.
+
+@155.2
+Yes, sir.
+
+@156
+Xiaopei Council Hall
+
+@157.0
+So, what does Yuan Shu say?
+
+@157.1
+Hm.
+
+@158
+"Lately, Liu Bei, a mere commoner, has had the gall to try to seize my realm. Will you stand by and watch? You should retake Xuzhou and teach this arrogant man how deep his crime runs.\n- Yuan Shu"
+
+@159.0
+What a haughty letter.
+
+@159.1
+But, my lord, I think this deserves consideration.
+
+@159.2
+What? What do you mean?
+
+@160.0
+Xuzhou is empty now. Seize it while we can and build the strongest army there.
+
+@160.1
+But... Liu Bei took me in, you know.
+
+@160.2
+These are times of war. My lord, this is a rare chance to take the realm.
+
+@160.3
+...Understood. Gather the troops.
+
+@161.0
+My lord, do you intend to betray Liu Bei, who helped you?
+
+@162.0
+Then are you telling our lord to spend his life under Liu Bei?!
+
+@163.0
+Right, we take the realm with our lord.
+
+@163.1
+...
+
+@163.2
+Say no more. All units, march to Xuzhou at once.
+
+@164.0
+...Zhang Liao, I understand your feelings. But these are times of war. It cannot be helped.
+
+@165.0
+Times of war...
+
+@166
+Annihilate the enemy
+
+@167.0
+Turning your blade on Emperor Yuan Shu, your crime is beyond measure. Atone with your death.
+
+@167.1
+Brother, Yuan Shu does not seem to be here, but be careful. I sense something ominous.
+
+@168.0
+M-my lord! Lu Bu has taken Xuzhou!
+
+@168.1
+What?! Damn Lu Bu! Forgetting our brother's kindness!\n\nBrother, let me deal with Lu Bu! I can't forgive that one!!
+
+@168.2
+Brother, Lu Bu's army has appeared!
+
+@169
+Lu Bu's army appeared!
+
+@170.0
+Lu Bu's fate hangs on this battle. All units, advance!
+
+@170.1
+...
+
+@170.2
+Ha ha ha, this is the end, Liu Bei.
+
+@170.3
+Brother, we will be wiped out like this. Let us fall back for now.
+
+@170.4
+I think it best to rely on Cao Cao and go to Xuchang.
+
+@170.5
+If we reach the road to Xuchang, the enemy cannot touch us. Let us head for the fort to the northwest.
+
+@171
+Annihilate the enemy\nLiu Bei reaches the fort to the northwest
+
+@172
+Victory condition changed
+
+@173
+Liu Bei's army defeated Yuan Shu's army led by Ji Ling
+
+@174
+You got 500 gold!
+
+@175.0
+Is that the fort Jian Yong mentioned? We're almost there. Can we manage to escape?
+
+@176
+Liu Bei's army left the battlefield
+
+@177.0
+Zhang Liao! Will you follow Lu Bu even to this length?!
+
+@177.1
+...No more talk. Guan Yu, here I come!
+
+@177.2
+It cannot be helped. A shame to kill such a man...
+
+@178.0
+Ah! Zhang Liao, you run?! Wait!
+
+@179
+Guan Yu leveled up!
+
+@180.0
+Retreat! I do not want to fight that man...
+
+@181.0
+Damn Lu Bu! Brother, Guan Yu, let's go back to Xuzhou right now and take Lu Bu down!
+
+@181.1
+No, fighting Lu Bu on top of this is a disadvantage for our weary army.\n\nBrother, let us rely on Cao Cao and go to Xuchang.
+
+@181.2
+Yes, that seems the only way. Let us go to Xuchang.
+
+@182
+Xuchang Council Hall
+
+@183.0
+Ah, Lord Liu Bei. What a misfortune you have suffered.
+
+@184
+Talk with Cao Cao about the future
+
+@185.0
+My condolences.
+
+@186.0
+The people of Xuzhou are to be pitied with Lu Bu as their master.
+
+@187.0
+It must have been a painful battle.
+
+@188.0
+I hear Lu Bu betrayed you.
+
+@189.0
+Not even Lu Bu or Yuan Shu can attack this place.
+
+@190.0
+I hear Lu Bu betrayed you. I pity you for losing Xuzhou too. What of your usual brothers?
+
+@190.1
+Guan Yu and Zhang Fei wait outside the city for Lord Cao Cao's answer. We have no place to live and have come swallowing our shame. Please, I ask your help.
+
+@190.2
+Hm. Rest easy; you may live in Xuchang. Take your rest at your residence.
+
+@191
+Rest at the residence
+
+@192.0
+Do not stand on ceremony. Take your rest at the residence.
+
+@193.0
+My condolences.
+
+@194.0
+Losing Xuzhou must have been very hard on you.
+
+@195.0
+The residence is inside the castle.
+
+@196.0
+I hear Lu Bu betrayed you.
+
+@197.0
+Not even Lu Bu or Yuan Shu can attack this place.
+
+@198.0
+My lord, Liu Bei is every bit the man the rumors say.
+
+@198.1
+I think it best to take this opportunity to remove Liu Bei.
+
+@198.2
+Yes, those two, Guan Yu and Zhang Fei, are opponents no less than Lu Bu. They may become a calamity.
+
+@198.3
+...
+
+@198.4
+No, I oppose it. If Liu Bei were assassinated now, what would the world say of my lord?
+
+@198.5
+True. To kill one who came for refuge would stain my lord's name.
+
+@198.6
+Hm, well said. Rather we should welcome Liu Bei warmly in his adversity.
+
+@198.7
+But, my lord, Liu Bei is undoubtedly a dangerous man.
+
+@198.8
+I know. The one who fears Liu Bei most is me.
+

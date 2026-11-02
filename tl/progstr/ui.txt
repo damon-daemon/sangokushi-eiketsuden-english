@@ -1,0 +1,785 @@
+# English UI strings of SLPS_003.09; "-" keeps the original (developer output, data that is not text)
+PROG:80010058	-
+PROG:800100cc	-
+PROG:80010190	           Yes            No
+PROG:800101ec	Sorcerers
+PROG:800101f8	Martial Artists
+PROG:80010204	Beast Tamers
+PROG:80010284	Gave up %s
+PROG:80010298	Obtained %s!
+PROG:800102ac	You cannot carry any more items
+PROG:800102cc	To get "%s",\ndiscard another item?
+PROG:800102fc	%s reached level %2d!
+PROG:80010314	Learned %s!
+PROG:80010324	This item cannot be equipped
+PROG:80010340	Remove this equipment?
+PROG:80010354	Removed %s
+PROG:80010364	Equip %s?
+PROG:80010378	This item's class differs,\nso its effect is halved
+PROG:80010cfc	Restores Strategy (large)
+PROG:80010d14	Restores Strategy (small)
+PROG:80010d2c	Raises attack greatly\nbut lowers defense
+PROG:80010d54	Drains the target's HP
+PROG:80010d6c	Raises attack somewhat, but the\nunit stops taking orders
+PROG:80010d9c	Lets a unit that has acted act again
+PROG:80010db8	Cures confusion, frenzy and such
+PROG:80010dd4	Confuses the target
+PROG:80010de8	Raises defense\nSame as Fortify
+PROG:80010e08	Raises attack slightly\nSame as Rally
+PROG:80010e2c	Turns HP into Strategy\nSame as Wind Force (Wind)
+PROG:80010e5c	Hits several units\nSame as Great Whirlwind (Wind)
+PROG:80010e88	Doubles the next Exp gained\nSame as White Drake (Wind)
+PROG:80010ebc	Hits one unit\nSame as Whirlwind (Wind)
+PROG:80010ee4	Seals the target's strategies\nSame as Windless (Wind)
+PROG:80010f10	Hits several units (medium)\nSame as Earthsplit (Earth)
+PROG:80010f40	Hits several units (small)\nSame as Landslide (Earth)
+PROG:80010f70	Hits one unit (large)\nSame as Blue Drake (Earth)
+PROG:80010fa0	Hits one unit (medium)\nSame as Pitfall (Earth)
+PROG:80010fd0	Hits one unit (small)\nSame as Rockfall (Earth)
+PROG:80011000	Hits several units (medium)\nSame as Great Water Blade (Water)
+PROG:80011030	Hits several units (small)\nSame as Great Whirlpool (Water)
+PROG:80011060	Hits one unit (large)\nSame as Black Drake (Water)
+PROG:80011090	Hits one unit (medium)\nSame as Water Blade (Water)
+PROG:800110c0	Hits one unit (small)\nSame as Whirlpool (Water)
+PROG:800110f0	Hits several units (medium)\nSame as Great Hellfire (Fire)
+PROG:80011120	Hits several units (small)\nSame as Great Scorch (Fire)
+PROG:80011150	Hits one unit (large)\nSame as Red Drake (Fire)
+PROG:80011180	Hits one unit (medium)\nSame as Hellfire (Fire)
+PROG:800111b0	Hits one unit (small)\nSame as Scorch (Fire)
+PROG:800111e0	Makes a unit Beast Tamers\nAnyone but Liu Bei
+PROG:8001120c	Makes a unit Tribesmen\nAnyone but Liu Bei
+PROG:80011234	Makes a unit Martial Artists\nAnyone but Liu Bei
+PROG:80011260	Makes a unit Bandits\nAnyone but Liu Bei
+PROG:8001154c	Int +5\nWorks just by being carried
+PROG:80011598	Recovers HP each turn\nWorks just by being carried
+PROG:800115c4	Recovers Strategy each turn\nWorks just by being carried
+PROG:800115f0	Restores much HP\nto several units
+PROG:80011614	Restores some HP\nto several units
+PROG:8001163c	Restores a little HP\nto several units
+PROG:80011660	Damages an enemy\nUsable by every unit
+PROG:80011688	Restores much HP\nto one unit
+PROG:800116ac	Restores some HP\nto one unit
+PROG:800116d4	Restores a little HP\nto one unit
+PROG:800116f8	Makes Brigands into Outlaws\nLevel 40 or higher
+PROG:80011724	Makes Bandits into Brigands\nLevel 20 or higher
+PROG:80011750	Makes Heavy Cavalry into Guards\nLevel 40 or higher
+PROG:80011780	Makes Light into Heavy Cavalry\nLevel 20 or higher
+PROG:800117b0	Makes Crossbows into Catapults\nLevel 40 or higher
+PROG:800117e0	Makes Archers into Crossbows\nLevel 20 or higher
+PROG:80011810	Makes Lancers into Chariots\nLevel 40 or higher
+PROG:8001183c	Makes Swords into Lancers\nLevel 20 or higher
+PROG:80011868	Makes a unit Swords\nAnyone but Liu Bei
+PROG:80011890	Makes a unit Light Cavalry\nAnyone but Liu Bei
+PROG:800118b8	Makes a unit Archers\nAnyone but Liu Bei
+PROG:80011958	Recovers HP and Strategy\nWorks just by being carried
+PROG:800119d8	Int +6\nWorks just by being carried
+PROG:800119fc	Int +7\nWorks just by being carried
+PROG:80011a20	Makes a unit a Band\nAnyone but Liu Bei
+PROG:80011a48	Makes a unit Supply Units\nAnyone but Liu Bei
+PROG:80011a70	Makes a unit Sorcerers\nAnyone but Liu Bei
+PROG:80011a9c	Sound
+PROG:80011aa8	Stereo                Mono
+PROG:80011abc	Full             Short          Off
+PROG:80011ad4	Battle Info
+PROG:80011ae0	Show                  Hide
+PROG:80011af8	View
+PROG:80011b04	Side                    Top
+PROG:80011fb8	------
+PROG:80011fc8	Continue without saving?
+PROG:80011fe8	Save here?
+PROG:80012000	Duel
+PROG:8001200c	Epilogue
+PROG:80012018	Victory
+PROG:80012024	New Ally
+PROG:80012030	Solo Move
+PROG:8001203c	Defeat
+PROG:80012048	March
+PROG:80012054	Fallen
+PROG:80012060	Prologue
+PROG:8001206c	Dragon
+PROG:80012078	Bridge
+PROG:80012084	Water
+PROG:80012090	Arrow Hit
+PROG:8001209c	Wood Ox
+PROG:800120a8	Item Get
+PROG:800120b4	Stone Hit
+PROG:800120c0	Fire
+PROG:800120cc	Class Change
+PROG:800120dc	Level Up
+PROG:800120ec	Cancel
+PROG:800120f8	Ending
+PROG:80012104	Ending
+PROG:80012114	Opening
+PROG:80012124	Sound Effects
+PROG:80012134	Music
+PROG:80012140	Items held %u
+PROG:80012150	%s+%-2u
+PROG:8001215c	Left/Right: change page
+PROG:8001217c	L1/R1: change item
+PROG:80012198	%s which item?\n      Item description
+PROG:800121cc	Changing class may halve the\neffect of equipped items
+PROG:80012208	Change class to %s?
+PROG:80012220	%s became %s
+PROG:80012230	Cannot change within the same line
+PROG:80012250	Cannot change to the same class
+PROG:80012270	Liu Bei cannot change class
+PROG:8001228c	Promotion lowers\nthe level by 5
+PROG:800122b4	Promote this unit?
+PROG:800122cc	%s became %s!
+PROG:800122e0	Level too low!
+PROG:800122f8	Not usable by this class!
+PROG:80012314	Discard this?
+PROG:80012324	      Item description                                                 End
+PROG:80012348	The full map can only be\nviewed on the field map
+PROG:80012378	Enter %s %s?
+PROG:8001238c	Leave here?
+PROG:800123a0	...Is no one here?
+PROG:800124b0	I sell items.\nHow may I help you?
+PROG:800124d4	I sell arms.\nHow may I help you?
+PROG:800124f8	Thank you!\nPlease come again.
+PROG:80012520	Finish forming the army?
+PROG:80012540	No more can join the battle
+PROG:80012558	That officer cannot be removed
+PROG:80012574	Choose the officers to sortie
+PROG:80012594	This is the maximum allowed
+PROG:800125b4	Left/Right: change page %2d/%2d
+PROG:800125dc	Officers in battle %2d/%2d                                             End
+PROG:800126a8	-
+PROG:800126e0	Items
+PROG:800126ec	Ldr%s%2d
+PROG:800126f8	War%s%2d
+PROG:80012704	Int%s%2d
+PROG:80012710	Mov%s%s
+PROG:8001271c	Left/Right: change page %2d/%2d
+PROG:80012744	      Each officer's items
+PROG:80012768	      List of items
+PROG:8001278c	Is that all right?
+PROG:800127a0	I'm afraid you can't afford that.
+PROG:800127c8	That person can carry no more.
+PROG:800127ec	Shall someone else take it?
+PROG:8001280c	 will receive it. All right?
+PROG:8001282c	That person is carrying nothing.
+PROG:8001284c	C6 gold. How does that sound?
+PROG:80012864	It is equipped. Is that all right?
+PROG:800128a0	.\nWhat can I do for you?
+PROG:800128b8	What can I do for you?
+PROG:8001294c	-
+PROG:800129b0	-
+PROG:800129c8	-
+PROG:80012a08	-
+PROG:80012a40	-
+PROG:80012a60	Out of movement range
+PROG:80012a78	This unit cannot be commanded
+PROG:80012a90	Confused units will not obey!
+PROG:80012aac	Commands finished
+PROG:80012b60	-
+PROG:80012b6c	-
+PROG:80012b78	-
+PROG:80012b84	-
+PROG:80012b94	-
+PROG:80012ba0	-
+PROG:80012bac	-
+PROG:80012be4	-
+PROG:80012d50	Enemy Phase
+PROG:80012d5c	-
+PROG:80012d74	-
+PROG:80012d84	-
+PROG:80012d90	-
+PROG:80012db0	-
+PROG:80012dd0	-
+PROG:80012e00	-
+PROG:80012e14	-
+PROG:80012e24	%4s  %s
+PROG:80012e30	Turn %2d/%2d
+PROG:80012e44	 Limit %2d
+PROG:80012e54	Retreat?\n                                                   Yes            No
+PROG:80012e84	End all units' commands?\n                                                   Yes            No
+PROG:80012ec8	Liu Bei's Phase
+PROG:80012ed8	Dasha!
+PROG:80012ee4	Love-love flash!
+PROG:80012efc	What a hard worker!
+PROG:80012f10	So glad you played with me!
+PROG:80012f2c	Each surviving unit\ngains %2d bonus Exp
+PROG:80012f68	End turn %2d
+PROG:80012f78	The battle dragged on: retreat\n
+PROG:80012f98	Turn %2d  %s
+PROG:80012fa8	-
+PROG:80012fc0	Jiameng 2
+PROG:80012fcc	Jiameng 1
+PROG:80012fd8	Wakou 2
+PROG:80012fe4	Wakou 1
+PROG:80012ff0	Changban 2
+PROG:80012ffc	Changban 1
+PROG:8001303c	No ally in range
+PROG:80013054	No enemy in attack range
+PROG:80013070	That is an enemy
+PROG:8001307c	Cannot attack allies
+PROG:80013094	Not in range
+PROG:800130ac	Not in attack range
+PROG:800130c8	-
+PROG:800130ec	-
+PROG:80013108	-Withdrew-
+PROG:80013114	Left/Right: change page %2u/%2u
+PROG:8001313c	      Allies/enemies
+PROG:80013168	Must my dream end here...?
+PROG:80013184	%s: Windless cured
+PROG:800131a0	%s's Rally wore off
+PROG:800131bc	%s's Fortify wore off
+PROG:800131d8	%s's Frenzy stopped
+PROG:800131f0	%s: Double Edge ended
+PROG:8001320c	%s: confusion over
+PROG:80013224	Liu Bei lost the battle,\nand with him died his dream\nof restoring the Han...
+PROG:80013260	%s confused!
+PROG:80013270	%s is more confused!
+PROG:80013288	%s's unit lost its will and fled!
+PROG:800132b0	The strategy failed
+PROG:800132c0	Camera
+PROG:800132cc	Win Terms
+PROG:800132d8	End Turn
+PROG:800132e4	Strategies are sealed
+PROG:80013314	No strategies available!
+PROG:80013330	No items held!
+PROG:80013348	Discarded %s
+PROG:80013358	Handed over %s
+PROG:80013368	The inventory is full,\nso it could not be given
+PROG:8001338c	Changing class may halve the\neffect of equipped items
+PROG:800133c8	Change class to %s?
+PROG:800133e0	%s became %s!
+PROG:800133f4	The new class cannot move on\nthis terrain: cannot change!
+PROG:8001343c	Cannot change within the same line!
+PROG:80013460	Cannot change to the same class!
+PROG:80013484	Liu Bei cannot change class
+PROG:800134a4	Promotion lowers\nthe level by 5
+PROG:800134cc	Promote this unit?
+PROG:800134e4	Level too low!
+PROG:800134fc	Not usable by this class!
+PROG:80013518	Attacks an enemy with a bomb
+PROG:80013530	This item cannot be used
+PROG:80013550	Not enough Strategy points
+PROG:80013564	That is not your unit
+PROG:80013580	Only for units that have acted
+PROG:800135a0	Cannot use it on oneself
+PROG:800136d4	Sealed %s's strategies
+PROG:800136e8	The next Exp will be doubled
+PROG:80013704	Attack rose
+PROG:80013718	Defense rose
+PROG:8001372c	Confused %s
+PROG:8001373c	Condition returned to normal
+PROG:80013754	Can act once more
+PROG:8001376c	%s ignores orders
+PROG:80013788	Attack rose,\ndefense fell
+PROG:80013850	-
+PROG:80013860	-
+PROG:80013888	-
+PROG:80013898	-
+PROG:800138ac	-
+PROG:800138c8	-
+PROG:800138dc	-
+PROG:800138e8	-
+PROG:80013920	-
+PROG:80013930	-
+PROG:8001394c	-
+PROG:80013988	-
+PROG:800139ac	-
+PROG:800139c0	-
+PROG:800139d8	-
+PROG:800139f4	-
+PROG:80013a1c	-
+PROG:80013a3c	-
+PROG:80013a4c	-
+PROG:80013a58	-
+PROG:80013a74	-
+PROG:80013a88	-
+PROG:80013a98	-
+PROG:80013aac	-
+PROG:80013abc	-
+PROG:80013acc	-
+PROG:80013ad8	-
+PROG:80013ae4	-
+PROG:80013af0	-
+PROG:80013afc	-
+PROG:80013b10	-
+PROG:80013b2c	-
+PROG:80013b3c	-
+PROG:80013b60	-
+PROG:80013b70	-
+PROG:80013b98	-
+PROG:80013ba8	-
+PROG:80013bd4	-
+PROG:80013be8	-
+PROG:80013bfc	-
+PROG:80013c18	-
+PROG:8001449c	-
+PROG:800144c4	-
+PROG:800144d8	 Turn  Time
+PROG:800144f8	-
+PROG:80014508	-
+PROG:8001452c	%d.Unusable
+PROG:80014538	%d.Empty
+PROG:80014550	The memory card\nwas removed
+PROG:80014570	Card %s is out of space
+PROG:8001458c	Memory Card %d
+PROG:800145a0	-
+PROG:800145c4	No save data
+PROG:800145e0	No card inserted
+PROG:80014614	Leave here?\n                                                   Yes            No
+PROG:80014648	Story
+PROG:800146ec	Halves HP, Strategy
+PROG:800146fc	Fully heals several
+PROG:80014710	Atk up, Def down
+PROG:80014724	Drains target's HP
+PROG:80014738	Atk up, out of control
+PROG:8001474c	Unit may act again
+PROG:80014760	Cures conditions
+PROG:80014774	Confuses target
+PROG:80014788	Raises defense
+PROG:80014798	Raises attack
+PROG:800147a8	Heals several, large
+PROG:800147bc	Heals several, medium
+PROG:800147d0	Heals several, small
+PROG:800147e4	Heals one, large
+PROG:800147f4	Heals one, medium
+PROG:80014804	Heals one, small
+PROG:80014814	Makes target retreat
+PROG:80014828	HP into Strategy
+PROG:8001483c	Doubles Exp gained
+PROG:80014850	Seals strategies
+PROG:80014864	Several, strong
+PROG:80014878	Several, medium
+PROG:8001488c	Several, weak
+PROG:800148a0	One unit, strong
+PROG:800148b0	One unit, medium
+PROG:800148c0	One unit, weak
+PROG:800148ec	-
+PROG:80014d7c	At death's door, Liu Bei's mind\nturned to fierce battles, the Han\nand its people, but above all to\nthe oath in the peach garden.\nThough his dream was unfinished,\nhe died strangely at peace.
+PROG:80014e54	And what became of the fate\nof Shu after that?
+PROG:80014e88	After Liu Bei's death, Kongming,\nZhao Yun and the others fought\nWei again and again to keep their\npromise, but never won. War sapped\nShu, and when Kongming died,\nLiu Shan surrendered to Wei.
+PROG:80014f5c	After Liu Bei's death, Zhang Fei\nignored Kongming and invaded Wu\nalone, only to die before Lu Xun.\nWith Wu now an enemy, Shu could\nonly submit to Wei. The Han\nrevival remained a dream.
+PROG:8001501c	After Liu Bei's death, Kongming,\nZhang Fei and the returned Guan Yu\nraised Shu to rival Wei and Wu.\nBut Guan Yu and Zhang Fei soon\ndied of illness, and Shu fell\nbefore Wei's invasion.
+PROG:800150d4	His great wish fulfilled, Liu Bei\nthought of battles, the people,\nand above all the peach garden.\n"How I would love to share a\n cup there once more."\nPicturing the scene,\nhe smiled quietly.
+PROG:800151ac	And what fate awaited\nLiu Bei after that?
+PROG:800151dc	With Emperor Xian restored, and\nGuan Yu and Zhang Fei gone,\nLiu Bei left affairs to Kongming\nand retired to quiet Pingyuan.\nThe realm prospered, but after\nKongming died, war returned.
+PROG:800152a4	Unable to forgive Wu for Guan Yu,\nZhang Fei forced an invasion of\nWu over Liu Bei's objections. Shu\nhad the numbers, but Lu Xun held\nfirm, and Liu Bei died of illness\nbefore the war was decided.
+PROG:80015364	His great wish fulfilled, Liu Bei\nfell ill, his spirit spent. Wei,\nrebuilt by the Sima clan, allied\nwith Wu and challenged Shu Han.\nWar went on, and Liu Bei's dream\nfaded away.
+PROG:80015428	Liu Bei restored the Han under\nEmperor Xian, but %s,\nentrusted with the Imperial Seal,\ntook it and claimed the throne.\nWithout the Seal the Han lost\nthe people's trust and declined.
+PROG:800154e0	As Emperor Xian's powerful\nbacker, Liu Bei came to favor\n%s, hero of the war\nagainst Wei. Resentful officers\nrevolted, driving Liu Bei from\nhis post into obscurity.
+PROG:800155a0	The Han was restored by many\nofficers, but %s,\nbitter over meager rewards,\nturned on Liu Bei and sent an\nassassin one moonless night.\nLong at peace, he could not escape.
+PROG:80015660	Liu Bei had put the people first,\nbut the long wars broke that\nfaith. Bribes ran rampant,\nofficials lined their pockets,\nand the fattened Liu Bei came\nto look like Dong Zhuo of old.
+PROG:80015718	Careless of money, Liu Bei\nstopped taxing the people.\nEmperor Xian grew unhappy with\nhis poor court, and Sun Quan lured\nhim away with promises of ease.\nLiu Bei lost emperor and power.
+PROG:800157d0	The majesty of the Han rang\nthrough the land once more.\nAs the emperor's uncle, Liu Bei\nworked with him to reform the\nlaws so that such wars would not\nreturn. A long peace followed.
+PROG:8009a348	-
+PROG:800ab9c8	-
+PROG:800acb10	-
+PROG:800acb24	-
+PROG:800acf94	-
+PROG:800ad168	No data
+PROG:800ad188	     Card 1                      Card 2
+PROG:800ad1a0	Which memory card\nwill you use?
+PROG:800ad1c8	Choose where to save
+PROG:800ad1e4	Save?
+PROG:800ad1f8	Could not write the data
+PROG:800ad218	Saved
+PROG:800ad228	Saving...
+PROG:800ad23c	Checking the memory card...
+PROG:800ad260	Which memory card\nwill you use?
+PROG:800ad288	Which save will you load?
+PROG:800ad2ac	Load?
+PROG:800ad2c0	Could not read the data
+PROG:800ad2e0	Loaded
+PROG:800ad2f0	The save data is corrupted
+PROG:800ad30c	Loading...
+PROG:800ad320	Checking the memory card...
+PROG:800ad344	No memory card inserted.\nYou cannot save like this.
+PROG:800ad388	No memory card inserted
+PROG:800ad3b0	The memory card is too full.\nIt cannot be used like this.
+PROG:800ad3f0	The memory card is not formatted.\nIt cannot be used like this.
+PROG:800ad430	The data on card %s is corrupted.\nFormat card %s?
+PROG:800ad47c	Formatting card %s.
+PROG:800ad4a0	Card %s is not formatted.\nFormat card %s?
+PROG:800ad4e8	Finished formatting card %s.
+PROG:800ad50c	Could not format card %s.
+PROG:800ad85c	-
+PROG:800ada30	-
+PROG:800ada44	-
+PROG:800ae29c	-
+PROG:800aec68	-
+PROG:800aec6c	-
+PROG:800aec70	-
+PROG:800aecc8	-
+PROG:800aeccc	-
+PROG:800aecd0	-
+PROG:800aecd4	-
+PROG:800afdf8	-
+PROG:800c9880	Supply
+PROG:800c9888	Villager
+PROG:800c9890	Tribes
+PROG:800c9898	Band
+PROG:800c98a0	Outlaws
+PROG:800c98a8	Brigand
+PROG:800c98b0	Bandits
+PROG:800c98b8	Guards
+PROG:800c98c0	Hvy Cav
+PROG:800c98c8	Lt Cav
+PROG:800c98d0	Catapult
+PROG:800c98d8	Xbows
+PROG:800c98e0	Archers
+PROG:800c98e8	Chariot
+PROG:800c98f0	Lancers
+PROG:800c98f8	Swords
+PROG:800c9900	9
+PROG:800c9904	8
+PROG:800c9908	7
+PROG:800c990c	6
+PROG:800c9910	5
+PROG:800c9914	4
+PROG:800c9918	3
+PROG:800c991c	2
+PROG:800c9920	1
+PROG:800c9924	0
+PROG:800c9948	Discard
+PROG:800c9960	 Anim
+PROG:800c9998	Bandits
+PROG:800c999c	General
+PROG:800c99a4	Lu Bu
+PROG:800c99ac	Shop
+PROG:800c99b4	Sun Quan
+PROG:800c99bc	Yuan Shao
+PROG:800c99c4	Sortie
+PROG:800c99cc	Raid
+PROG:800c99d4	Cao Pi
+PROG:800c99dc	Cao Cao
+PROG:800c99e4	Village
+PROG:800c99ec	Band
+PROG:800c99f4	Water
+PROG:800c99fc	Arrow
+PROG:800c9a04	Wind
+PROG:800c9a08	Thunder
+PROG:800c9a0c	Retreat
+PROG:800c9a14	Sword
+PROG:800c9a18	Spear
+PROG:800c9a1c	Fan
+PROG:800c9a20	Whip
+PROG:800c9a24	Confuse
+PROG:800c9a2c	Dodge
+PROG:800c9a34	Heal 2
+PROG:800c9a3c	Heal 1
+PROG:800c9a44	Stone
+PROG:800c9a4c	Ice
+PROG:800c9a54	Gate
+PROG:800c9a58	Relief
+PROG:800c9a60	Earth
+PROG:800c9a64	Fighter
+PROG:800c9a6c	Fire
+PROG:800c9a70	Bomb
+PROG:800c9a78	Warning
+PROG:800c9a80	Select
+PROG:800c9a8c	Logo
+PROG:800c9af4	None
+PROG:800c9b28	Use
+PROG:800c9b30	Equip
+PROG:800c9b38	Discard
+PROG:800c9d1c	Castle
+PROG:800c9d2c	Exit
+PROG:800c9d34	Gate
+PROG:800c9d3c	Manor
+PROG:800c9d44	Garden
+PROG:800c9d4c	Items
+PROG:800c9d54	Academy
+PROG:800c9d5c	Hall
+PROG:800c9d64	Doctor
+PROG:800c9d6c	Tavern
+PROG:800c9d74	Gov't
+PROG:800c9d7c	Arms
+PROG:800c9d84	Palace
+PROG:800c9dc0	Arms Shop
+PROG:800c9dc8	Item Shop
+PROG:800c9de0	Mov
+PROG:800c9de8	Int
+PROG:800c9df0	Atk
+PROG:800c9df8	Def
+PROG:800c9e08	+
+PROG:800c9e0c	\-
+PROG:800c9e1c	: 
+PROG:800c9e30	This is the 
+PROG:800c9e84	Rain
+PROG:800c9e88	Cloud
+PROG:800c9e8c	Sun
+PROG:800c9e98	Off
+PROG:800c9ea0	On
+PROG:800c9eb0	Ch.4
+PROG:800c9eb8	Ch.3
+PROG:800c9ec0	Ch.2
+PROG:800c9ec8	Ch.1
+PROG:800c9ed0	Intro
+PROG:800c9ed8	Sky %s
+PROG:800c9f10	Luoyang
+PROG:800c9f18	Chang'an
+PROG:800c9f20	Chencang
+PROG:800c9f28	Xuchang 2
+PROG:800c9f30	Xuchang 1
+PROG:800c9f48	Xinye 2
+PROG:800c9f50	Nansi
+PROG:800c9f58	Mai
+PROG:800c9f5c	Yiling
+PROG:800c9f64	Xiling
+PROG:800c9f6c	Yangping
+PROG:800c9f74	Hanshui
+PROG:800c9f7c	Tiandang
+PROG:800c9f84	Dingjun
+PROG:800c9f8c	Chengdu
+PROG:800c9f98	Changsha
+PROG:800c9fa0	Lingling
+PROG:800c9fa8	Wuling
+PROG:800c9fb0	Guiyang
+PROG:800c9fb8	Gongan
+PROG:800c9fc0	Jiangling
+PROG:800c9fc8	Xiangyang
+PROG:800c9fd0	Xinye 1
+PROG:800c9fd8	Bowang
+PROG:800c9fe0	Nanyang
+PROG:800c9fe8	Jiangxia
+PROG:800c9ff0	Runan
+PROG:800ca000	Gucheng
+PROG:800ca010	Guangling
+PROG:800ca020	Huainan
+PROG:800ca028	Pengcheng
+PROG:800ca030	Xiaqiu
+PROG:800ca038	Taishan
+PROG:800ca040	Xiaopei
+PROG:800ca048	Xuzhou
+PROG:800ca050	Beihai
+PROG:800ca058	Jieqiao
+PROG:800ca060	Qinghe
+PROG:800ca068	Julu
+PROG:800ca070	Xindu
+PROG:800ca078	Guangchuan
+PROG:800ca080	Hulao Pass
+PROG:800ca090	 Battle
+PROG:800ca098	Torrent
+PROG:800ca0a0	Fire
+PROG:800ca0a4	House
+PROG:800ca0a8	Vault
+PROG:800ca0b0	Granary
+PROG:800ca0b8	Barrack
+PROG:800ca0c0	Fort
+PROG:800ca0c4	Fence
+PROG:800ca0c8	Waste
+PROG:800ca0d0	Gate
+PROG:800ca0d4	Cliff
+PROG:800ca0d8	Village
+PROG:800ca0dc	Meadow
+PROG:800ca0e4	Castle
+PROG:800ca0e8	Wall
+PROG:800ca0f0	Bridge
+PROG:800ca0f4	River
+PROG:800ca0f8	Hills
+PROG:800ca100	Woods
+PROG:800ca104	Plain
+PROG:800ca124	\-
+PROG:800ca130	Heal
+PROG:800ca138	--
+PROG:800ca15c	%dx!
+PROG:800ca18c	Units
+PROG:800ca194	Officer
+PROG:800ca19c	Info
+PROG:800ca1a4	Config
+PROG:800ca1ac	Retreat
+PROG:800ca1b4	Use
+PROG:800ca1bc	Give
+PROG:800ca1c4	Discard
+PROG:800ca1cc	Equip
+PROG:800ca1d4	Attack
+PROG:800ca1dc	Wait
+PROG:800ca1e4	Item
+PROG:800ca1ec	Strategy
+PROG:800ca20c	Sky
+PROG:800ca260	0
+PROG:800ca264	1
+PROG:800ca268	2
+PROG:800ca26c	3
+PROG:800ca270	4
+PROG:800ca274	5
+PROG:800ca278	6
+PROG:800ca27c	7
+PROG:800ca280	8
+PROG:800ca284	9
+PROG:800ca288	 
+PROG:800ca28c	:
+PROG:800ca298	Save
+PROG:800ca2a0	Load
+PROG:800ca2d0	1
+PROG:800ca2d4	2
+PROG:800ca2d8	   
+PROG:800ca2e0	Use
+PROG:800ca2e8	Trade
+PROG:800ca2f0	Discard
+PROG:800ca2f8	Equip
+PROG:800ca300	Sell
+PROG:800ca308	Buy
+PROG:800ca310	Officer
+PROG:800ca31c	Config
+PROG:800ca324	Load
+PROG:800ca32c	Save
+PROG:800ca334	Info
+PROG:800ca33c	System
+PROG:800ca344	Item
+PROG:800ca34c	Map
+PROG:800ca3ac	Sea
+PROG:800ca3b0	Vir
+PROG:80010404	Weapon: Ldr +3\nSupply Units
+PROG:8001041c	Weapon: Ldr +2\nSupply Units
+PROG:80010434	Weapon: Ldr +2  Mov +1\nSupply Units
+PROG:80010458	Weapon: Ldr +1  Mov +1\nSupply Units
+PROG:8001047c	Weapon: Int +3\nSorcerers
+PROG:80010498	Weapon: Int +1\nSorcerers
+PROG:800104b4	Weapon: War +3\nSorcerers
+PROG:800104d0	Weapon: Int +4\nBands
+PROG:800104e8	Weapon: Int +3\nBands
+PROG:80010500	Weapon: Int +2\nBands
+PROG:80010518	Weapon: Int +1\nBands
+PROG:80010530	Weapon: War +2  Int +1\nBands
+PROG:80010554	Weapon: War +3\nBands
+PROG:8001056c	Weapon: War +6\nBeast Tamers
+PROG:80010588	Weapon: War +4\nBeast Tamers
+PROG:800105a4	Weapon: War +2\nBeast Tamers
+PROG:800105c0	Weapon: War +4  Mov +1\nMartial Artists
+PROG:800105e8	Weapon: War +2  Mov +1\nMartial Artists
+PROG:80010610	Weapon: War +5  Ldr +3\nMartial Artists
+PROG:80010634	Weapon: War +3  Ldr +3\nMartial Artists
+PROG:80010658	Weapon: War +1  Ldr +2\nMartial Artists
+PROG:8001067c	Weapon: War +6\nMartial Artists
+PROG:80010698	Weapon: War +4\nMartial Artists
+PROG:800106b4	Weapon: War +2\nMartial Artists
+PROG:800106d0	Weapon: War +4  Mov +1\nCatapults
+PROG:800106f4	Weapon: War +3  Mov +1\nCatapults
+PROG:80010718	Weapon: War +2  Mov +1\nCatapults
+PROG:8001073c	Weapon: War +6\nCatapults
+PROG:80010754	Weapon: War +5\nCatapults
+PROG:8001076c	Weapon: War +4\nCatapults
+PROG:80010784	Weapon: War +3\nCatapults
+PROG:8001079c	Weapon: War +2\nCatapults
+PROG:800107b4	Weapon: War +5\nCrossbows
+PROG:800107cc	Weapon: War +4\nCrossbows
+PROG:800107e4	Weapon: War +3\nCrossbows
+PROG:800107fc	Weapon: War +2\nCrossbows
+PROG:80010814	Weapon: War +5\nArchers
+PROG:8001082c	Weapon: War +4\nArchers
+PROG:80010844	Weapon: War +3\nArchers
+PROG:8001085c	Weapon: War +2\nArchers
+PROG:80010874	Weapon: War +1\nArchers
+PROG:8001088c	Weapon: War +6  Ldr -3\nCavalry, Lancers, Chariots
+PROG:800108bc	Weapon: War +5  Ldr -3\nCavalry, Lancers, Chariots
+PROG:800108ec	Weapon: War +3  Ldr -2\nCavalry, Lancers, Chariots
+PROG:8001091c	Weapon: War +2  Ldr -2\nCavalry, Lancers, Chariots
+PROG:8001094c	Weapon: War +6\nCavalry, Lancers, Chariots
+PROG:80010974	Weapon: War +5\nCavalry, Lancers, Chariots
+PROG:8001099c	Weapon: War +4\nCavalry, Lancers, Chariots
+PROG:800109c4	Weapon: War +3\nCavalry, Lancers, Chariots
+PROG:800109ec	Weapon: War +2\nCavalry, Lancers, Chariots
+PROG:80010a14	Weapon: War +1\nCavalry, Lancers, Chariots
+PROG:80010a3c	Armor: Ldr +6  War -3\nAny unit can equip
+PROG:80010a6c	Armor: Ldr +5  War -3\nAny unit can equip
+PROG:80010a9c	Armor: Ldr +4  War -2\nAny unit can equip
+PROG:80010acc	Armor: Ldr +3  War -2\nAny unit can equip
+PROG:80010afc	Armor: Ldr +2  War -1\nAny unit can equip
+PROG:80010b2c	Armor: Ldr +8  Int -3\nAny unit can equip
+PROG:80010b5c	Armor: Ldr +6  Int -2\nAny unit can equip
+PROG:80010b8c	Armor: Ldr +4  Int -2\nAny unit can equip
+PROG:80010bbc	Armor: Ldr +7\nAny unit can equip
+PROG:80010be4	Armor: Ldr +6\nAny unit can equip
+PROG:80010c0c	Armor: Ldr +5\nAny unit can equip
+PROG:80010c34	Armor: Ldr +4\nAny unit can equip
+PROG:80010c5c	Armor: Ldr +3\nAny unit can equip
+PROG:80010c84	Armor: Ldr +2\nAny unit can equip
+PROG:80010cac	Armor: Ldr +1\nAny unit can equip
+PROG:80010cd4	Horse: Mov +1\nAny unit can equip
+PROG:80011288	Weapon: War +4  Ldr +2\nBandits, Swords, Tribesmen
+PROG:800112bc	Weapon: War +3  Ldr +2\nBandits, Swords, Tribesmen
+PROG:800112f0	Weapon: War +2  Ldr +2\nBandits, Swords, Tribesmen
+PROG:80011324	Weapon: War +1  Ldr +2\nBandits, Swords, Tribesmen
+PROG:80011358	Weapon: War +6\nBandits, Swords, Tribesmen
+PROG:80011380	Weapon: War +5\nBandits, Swords, Tribesmen
+PROG:800113a8	Weapon: War +4\nBandits, Swords, Tribesmen
+PROG:800113d0	Weapon: War +3\nBandits, Swords, Tribesmen
+PROG:800113f8	Weapon: War +2\nBandits, Swords, Tribesmen
+PROG:80011420	Weapon: War +1\nBandits, Swords, Tribesmen
+PROG:80011448	Weapon: War +6  Ldr -3\nBandits, Swords, Tribesmen
+PROG:8001147c	Weapon: War +5  Ldr -2\nBandits, Swords, Tribesmen
+PROG:800114b0	Weapon: War +4  Ldr -2\nBandits, Swords, Tribesmen
+PROG:800114e4	Weapon: War +3  Ldr -1\nBandits, Swords, Tribesmen
+PROG:80011518	Weapon: War +2  Ldr -1\nBandits, Swords, Tribesmen
+PROG:80011570	Weapon: War +10\nAny unit can equip
+PROG:800118e0	Weapon: War +7\nAny unit can equip
+PROG:80011908	Weapon: War +9\nAny unit can equip
+PROG:80011930	Weapon: War +8\nAny unit can equip
+PROG:80011988	Horse: Mov +3\nAny unit can equip
+PROG:800119b0	Horse: Mov +2\nAny unit can equip
+PROG:800c9b44	Hall N
+PROG:800c9b4c	Hall M
+PROG:800c9b54	Hall L
+PROG:800c9b5c	Hall K
+PROG:800c9b64	Hall J
+PROG:800c9b6c	Hall I
+PROG:800c9b74	Hall H
+PROG:800c9b7c	Hall G
+PROG:800c9b84	Manor K
+PROG:800c9b8c	Manor J
+PROG:800c9b94	Manor I
+PROG:800c9b9c	Manor H
+PROG:800c9ba4	Manor G
+PROG:800c9bac	Council M
+PROG:800c9bb4	Council L
+PROG:800c9bbc	Council K
+PROG:800c9bc4	Council J
+PROG:800c9bcc	Council I
+PROG:800c9bd4	Arms D
+PROG:800c9bdc	Arms C
+PROG:800c9be4	Arms B
+PROG:800c9bec	Items E
+PROG:800c9bf4	Items D
+PROG:800c9bfc	Items C
+PROG:800c9c04	Tavern E
+PROG:800c9c0c	Tavern D
+PROG:800c9c14	Tavern C
+PROG:800c9c1c	Arms A
+PROG:800c9c24	Hall F
+PROG:800c9c2c	Hall E
+PROG:800c9c34	Hall D
+PROG:800c9c3c	Hall C
+PROG:800c9c44	Council H
+PROG:800c9c4c	Council G
+PROG:800c9c54	Council F
+PROG:800c9c5c	Manor F
+PROG:800c9c64	Manor E
+PROG:800c9c6c	Manor D
+PROG:800c9c74	Manor C
+PROG:800c9c7c	Manor B
+PROG:800c9c84	Council E
+PROG:800c9c8c	Tent C
+PROG:800c9c94	Tent B
+PROG:800c9c9c	Tent A
+PROG:800c9ca4	Manor
+PROG:800c9cac	Garden
+PROG:800c9cb0	Items B
+PROG:800c9cb8	Items A
+PROG:800c9cc0	Hall B
+PROG:800c9cc8	Hall A
+PROG:800c9cd0	Tavern B
+PROG:800c9cd8	Tavern A
+PROG:800c9ce0	Council D
+PROG:800c9ce8	Council C
+PROG:800c9cf0	Council B
+PROG:800c9cf8	Council A
+PROG:800c9d00	Palace B
+PROG:800c9d08	Palace A
+PROG:80010170	\n                                              Yes             No
+PROG:800c9ef8	Ye 3
+PROG:800c9f00	Ye 2
+PROG:800c9f08	Ye 1
+PROG:800c9f38	Wan 2
+PROG:800c9f40	Wan 1
+PROG:800c9f94	Luo
+PROG:800c9ff8	Yingchuan
+PROG:800ca008	Yan Province
+PROG:800ca018	Xiapi
+PROG:800ca088	Sishui Pass

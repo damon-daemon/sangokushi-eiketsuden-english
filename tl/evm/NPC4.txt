@@ -1,0 +1,276 @@
+@0
+Weapons these days are amazing.
+
+@1
+How do you even use this weapon? It's too hard for me.
+
+@2
+This Chengdu is the largest city in Yi Province.
+
+@3
+Thank you for forming an alliance with Wu. Strife should be avoided.
+
+@4
+In Wei, a man called Sima Yi is rising. They say he is quite capable.
+
+@5
+Bandits have high HP, so they are hard to defeat.
+
+@6
+You can use Supply Units too. Make sure you raise their level.
+
+@7
+They had "Rice" at the shop.
+
+@8
+War, war. Well, business, business.
+
+@9
+Aaargh! How long will this world go on like this?
+
+@10
+Where is my dad? Isn't he here? Isn't he coming back?
+
+@11
+Let us not give up hope. Someday, surely, we will all live in happiness.
+
+@12
+Ahh, delicious. What a relief.
+
+@13
+What? How many people died from the weapons I sold? It depends on how the person uses the weapon.
+
+@14
+I see, so Lord Liu Bei had hard times in the past too.
+
+@15
+It's so hard... so hard...
+
+@16
+Oh, something funny happened the other day... Uh, what was it?
+
+@17
+With all the fighting, doesn't a person's life start to seem lighter than before?
+
+@18
+You should buy "Rice". Attack with "Rice" in hand! ... Sorry, I went too far.
+
+@19
+Oh, are you perhaps Lord Liu Bei?
+
+@20
+I hope peace comes soon.
+
+@21
+From here to Luoyang, go to Xiangyang, pass through Xinye or Nanxiang, and head for Wan Castle.
+
+@22
+From here on, battles against the Wei army await.
+
+@23
+Crush the Wei army for us!
+
+@24
+I hear Cao Ren is in Xiangyang.
+
+@25
+They say there is a "Conqueror's Sword". I'd like to see it once.
+
+@26
+A decisive battle with Wei this time? Lord Liu Bei has no time to rest.
+
+@27
+I'm relieved that Lord Liu Bei came back to Jiangling. When Lord Guan Yu lost, I wondered what would become of us...
+
+@28
+They have all the items that strengthen units here.
+
+@29
+Welcome.
+
+@30
+What became of Lord Guan Yu?
+
+@31
+Maybe it's about time I lived an honest life.
+
+@32
+"Herbal Medicine" is supposed to be good. Take it just in case.
+
+@33
+From here on it's a clash of great powers, so good items are probably lying around on the battlefield too.
+
+@34
+You formed an alliance with Wu? That's amazing.
+
+@35
+Are your preparations to march done?
+
+@36
+I never thought we would end up allied with Wu.
+
+@37
+They sell "Life Elixir" at the shop. What does it do?
+
+@38
+Are you checking the treasuries? You can get things the shop doesn't sell.
+
+@39
+I heard a rumor about the "Conqueror's Sword".
+
+@40
+When I grow up, I'm going to fight.
+
+@41
+Nanxiang is in a lowland with a river running through it. It has mountains too, so bring bandits and the like.
+
+@42
+Welcome back, Lord Liu Bei. We were worried.
+
+@43
+I heard Xu Huang is in Nanxiang and Yu Jin is in Xinye.
+
+@44
+Have you been to the arms dealer? I'd never seen weapons like those.
+
+@45
+Buy a variety of items for when the time comes.
+
+@46
+Oh, Lord Liu Bei, you've come back!
+
+@47
+Lord Liu Bei, can't we live together in peace without fighting?
+
+@48
+For a long life, good wine is the thing. But don't drink too much.
+
+@49
+Come, right now we have "Life Elixir"! Buy, buy!
+
+@50
+"Life Elixir" restores the HP of many units at once!
+
+@51
+They say there is a thing called the "Imperial Seal" in this world.
+
+@52
+The "Imperial Seal" is an item carried by whoever becomes emperor, and they say it has special effects.
+
+@53
+The Wei soldiers have all run away.
+
+@54
+The shop has all sorts of books.
+
+@55
+I hear Cao Pi is gathering his whole army.
+
+@56
+Please defeat Cao Pi and bring peace to the world.
+
+@57
+There was a general called Zhang Liao. Doesn't he regret being with Cao Pi now?
+
+@58
+If Cao Pi is defeated, this age of chaos will probably end.
+
+@59
+I hear Cao Pi is gathering his whole army.
+
+@60
+Once you get this far, there aren't many places to save. That's a problem, isn't it?
+
+@61
+I wish a peaceful age where I can drink all I want would come soon.
+
+@62
+Just coming this far is admirable. Life has become easier than before.
+
+@63
+Is Lord Guan Yu well? ... I see. It makes a world of difference whether Lord Guan Yu is here or not.
+
+@64
+Is Lord Pang Tong well?
+
+@65
+Is Lord Zhang Fei well?
+
+@66
+This place has some rather expensive goods.
+
+@67
+How about one?
+
+@68
+I was in Ye until now, and Ye was in an uproar.
+
+@69
+At last, the final battle.
+
+@70
+If Cao Pi is defeated, will this age of war end?
+
+@71
+The fighting will be over soon, won't it?
+
+@72
+They say Sima Yi doesn't like Cao Pi. Is that true?
+
+@73
+Cao Pi, Cao Zhang, and Cao Zhi are all Cao Cao's sons, I hear, but none of them matches their father.
+
+@74
+Ye is said to be a large castle. It will take time to occupy all of it.
+
+@75
+Lord Liu Bei is an important person, right? My dad told me.
+
+@76
+Only Ye remains now.
+
+@77
+Have you found the "Imperial Seal"?
+
+@78
+When I grow up, I'm going to be like Lord Liu Bei!
+
+@79
+Lord Liu Bei, do your best!
+
+@80
+Sima Shi and Sima Zhao are Sima Yi's sons. Father and sons are all Sorcerers, they say.
+
+@81
+Once you march out now, you can't come back. Leave no regrets behind.
+
+@82
+There are probably shops in other towns too. You should visit them as well.
+
+@83
+Thinking that a peaceful age is nearly here, even the wine tastes better.
+
+@84
+Precisely because of times like these, I now go around selling flowers in every region.
+
+@85
+Even when the fighting ends, that child will never come back.
+
+@86
+Lord Liu Bei, please stay safe.
+
+@87
+I'd like to spend the rest of my days quietly in a peaceful world.
+
+@88
+You must be tired from all the fighting.
+
+@89
+Strife has gone on for so long that I don't really know what a peaceful world is like.
+
+@90
+Lord Liu Bei, do your best.
+
+@91
+My job is to guard this house.
+

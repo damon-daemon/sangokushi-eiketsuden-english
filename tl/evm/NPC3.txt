@@ -1,0 +1,417 @@
+@0
+Chengdu, the capital of Yi Province, is farther south of here.
+
+@1
+Yi Province has no contact with its neighbors. Because of that, I can't even go out to play.
+
+@2
+I've lived in Yi Province all my life. The soil here is rich. It's a good place.
+
+@3
+This is about the middle of Yi Province. North of it is Hanzhong, east is Jing Province.
+
+@4
+Tribesmen live south of Yi Province. We call them barbarians.
+
+@5
+The local wine here is delicious. Come to think of it, they had "Aged Wine" in Chengdu.
+
+@6
+Between you and me, Lord Liu Zhang is no good. He doesn't have what it takes to be a ruler.
+
+@7
+Have you raised your class enough?
+
+@8
+North of here is Hanzhong. Farther north of Hanzhong is a region called Guanzhong.
+
+@9
+Have you ever seen a catapult? I'd like to see one once.
+
+@10
+They say there is something called the "Hero's Sword".
+
+@11
+When I grow up, I'm going to fight.
+
+@12
+The other day a strange man called Jiang Wan spoke to me.
+
+@13
+Liu Biao has died, but Lord Liu Bei is here. I'm glad it isn't Cao Cao.
+
+@14
+Lately there are more people here too. They say famous scholars are gathering here.
+
+@15
+Have you been to the shop? Cao Cao's army left some stuff behind, and they have some pretty good things in.
+
+@16
+This castle is hard to attack.
+
+@17
+I hear the Guards are quite strong.
+
+@18
+Catapult carts look hard to move. But if one hits you, you're done for in one shot.
+
+@19
+Lord Liu Bei cares for the people. He is a good man. A truly good man.
+
+@20
+Come, right now they sell the "Wind Force Book", "Sorcery Potion", and even "Immortal Potion"!
+
+@21
+A "Fine Steed" is great! After all, it lets you move fast on the battlefield!
+
+@22
+They say Cao Cao wrote a book called "Mengde's New Book". Do you know what it is like?
+
+@23
+I heard "Mengde's New Book" is where Cao Cao wrote down his own art of war.
+
+@24
+The arms dealer here sells more kinds of goods than other places.
+
+@25
+Does Sun Quan of Wu still want this land? Well, I do think it's a good place.
+
+@26
+Do you know a man called Fei Yi? No, I just heard the name.
+
+@27
+There's a person I've often seen in the tavern lately. He looked clever.
+
+@28
+Wu is right to the east of here.
+
+@29
+What will we do if Wu attacks?
+
+@30
+Is Wu as prosperous as Jing Province? I see, you wouldn't know.
+
+@31
+A man called Fei Yi has been showing up here a lot lately.
+
+@32
+Jiangxia has all sorts of books.
+
+@33
+Wu... I'd like to go there once.
+
+@34
+Wine is best for a long life. I should know.
+
+@35
+I've been to Wu once. It was very prosperous.
+
+@36
+The "Blue Drake Book", huh? I don't need that item.
+
+@37
+They don't sell "Wheat" here? Where can I find it? Do you know?
+
+@38
+Well, time to work.
+
+@39
+Yes, may I help you?
+
+@40
+They say Wu has a famous doctor. I'd like to meet him once.
+
+@41
+Now it's the Shu soldiers. Welcome to Xiling.
+
+@42
+I heard Wu soldiers are gathering at Jiangling.
+
+@43
+Have you got the "Hero's Sword"? They say there's also a "Conqueror's Sword". It must cut well.
+
+@44
+Everyone from Wu has run away.
+
+@45
+Have you ever drunk "Aged Wine"? They say it's very strong. I'd like to try it.
+
+@46
+I hear Wu has a good book of strategy, called "Sunzi's Art of War".
+
+@47
+The shop here has plenty of healing items. Drop by.
+
+@48
+I can't believe Wu will just keep losing without doing anything.
+
+@49
+Between here and Jiangling is a place called Yiling. It lies between cliffs.
+
+@50
+Wu or Shu, I don't care. Just buy something.
+
+@51
+Have you got a Manual? There are fewer of them than weapons, so they're valuable.
+
+@52
+Is the new official actually working? I've never seen him at work.
+
+@53
+I don't understand difficult things, but everybody is angry.
+
+@54
+I'll do the work in place of the official.
+
+@55
+Beyond Jiameng Pass is a region called Hanzhong.
+
+@56
+This place and Luo Castle to the south are the big towns of Shu. Then there's the provincial capital Chengdu.
+
+@57
+This country has never been attacked. If someone attacked, could we win?
+
+@58
+What is happening in the capital? Aren't you curious?
+
+@59
+Cao Cao keeps getting stronger. Will Cao Cao win after all?
+
+@60
+My dad says the enemy can't attack Shu because mountains surround it.
+
+@61
+Did you visit the shop? They had all kinds of things.
+
+@62
+There's a thing called "Aid Report". They say if you carry it, HP recovers by itself.
+
+@63
+How are things? ... Hmm. I see, I see.
+
+@64
+We don't get along with Zhang Lu of Hanzhong. Each of us eyes the other's land.
+
+@65
+This is Fu Castle. Go north from here and you reach Jiameng Pass.
+
+@66
+Yi Province used to be governed by a man named Liu Yan. Liu Zhang succeeded him.
+
+@67
+South of Yi Province there used to be tribesmen called barbarians.
+
+@68
+Welcome.
+
+@69
+I came to buy "Life Elixir". Do you have any?
+
+@70
+Will Cao Cao attack here too? I'm scared.
+
+@71
+If Cao Cao attacks, I'll fight too. I'll have to learn to use weapons.
+
+@72
+This Chengdu is the largest city in Yi Province.
+
+@73
+They say Beast Tamers have the highest attack, and Tribesmen have the highest defense.
+
+@74
+Cao Cao has completely taken the north. Only Wu in the south and Shu remain.
+
+@75
+There's a palace here too. When no one is in the council hall, go to the palace.
+
+@76
+You can use Supply Units too. Make sure you raise their level.
+
+@77
+I don't know much about units, but I want to be a Sorcerer.
+
+@78
+They sell "Aged Wine" at the shop. Why not try it once?
+
+@79
+Winning on might alone only works for now. If you don't work out how to fight, you won't get far.
+
+@80
+I'd like to try "Aged Wine" too. No, huh?
+
+@81
+Have you ever paid attention to terrain effects? Piling up such things leads to victory.
+
+@82
+It isn't just "Aged Wine". "Fine Wine" gives strength too, and it's cheaper than "Aged Wine".
+
+@83
+Still, drinking wine on the battlefield is improper.
+
+@84
+Do you have gold to spare? ... No, I meant to say, spend it if you do.
+
+@85
+Catapult carts have attack but no movement. They may be hard to use.
+
+@86
+You should definitely make a unit a Chariot. Movement goes up, and above all defense is high, so it's an advantage in battle.
+
+@87
+Where is the "Aged Wine"?
+
+@88
+I'd like to ride a chariot across the battlefield myself. Ho ho ho.
+
+@89
+Have you been to the shop?
+
+@90
+The others are in the council hall or the palace.
+
+@91
+Have you given weapons to everyone? There's no point hogging them.
+
+@92
+I went to Wuling once. But the governor there was frightening.
+
+@93
+There was a man called Gong Zhi in Wuling. He praised Lord Liu Bei very highly.
+
+@94
+They say the governors of Lingling and Guiyang are timid.
+
+@95
+Do you know Changsha? A castle on a plain among mountains. They say there's a strong guy there.
+
+@96
+Lingling is south of here.
+
+@97
+Han Xuan of Changsha is notorious for his tyranny.
+
+@98
+Have you been to Xiangyang? I think you can go.
+
+@99
+Welcome.
+
+@100
+Back then enemies were all around. I thought, this is bad. And then... Hey, are you listening?
+
+@101
+You probably won't use "Wine" much, but take it just in case.
+
+@102
+I fled from Han Xuan's place in Changsha. It was terrible there.
+
+@103
+Cao Cao and Zhou Yu are both gone. Good, good.
+
+@104
+I'd like to go to Wu once.
+
+@105
+Are your preparations to march done?
+
+@106
+Is Wu still after Jing Province?
+
+@107
+Everyone seems cheerful. Did something good happen?
+
+@108
+Yay, everybody is happy!
+
+@109
+I wonder how Lord Huang Zhong is. I haven't seen him lately.
+
+@110
+Lord Huang Zhong is kind to us children too.
+
+@111
+I want to be like Lord Huang Zhong.
+
+@112
+It's a relief that Han Xuan is gone.
+
+@113
+Han Xuan is gone? That's good news.
+
+@114
+Han Xuan made everyone suffer. Thank you for getting rid of him.
+
+@115
+Changsha has some rather rare items.
+
+@116
+Hic, hic! Hm? Oh... L-Lord Liu Bei. Need something?
+
+@117
+So this is how good it feels when the bad guy is gone. The wine tastes great!
+
+@118
+When you live long, all sorts of things happen.
+
+@119
+I heard they have "Rice" here. It's a rare item.
+
+@120
+You should buy "Rice".
+
+@121
+Welcome back, Lord Liu Bei.
+
+@122
+Lord Liu Bei, Lord Liu Bei.
+
+@123
+Lord Liu Bei, Lord Liu Bei. Is Lord Liu Bei important?
+
+@124
+We can live our lives thanks to Lord Liu Bei.
+
+@125
+I'll bring you some good vegetables next time, so please eat them.
+
+@126
+Are you going to buy something?
+
+@127
+I'm Guan Yu!
+
+@128
+I'm Zhang Fei!
+
+@129
+Hearing the children's voices here soothes my heart.
+
+@130
+Lately even getting here is a chore. I can't beat age.
+
+@131
+Listening to people where they gather, there are those who teach useful things. It helps.
+
+@132
+Hic, hmm, need something?
+
+@133
+If I don't have a drink now and then, I don't feel right.
+
+@134
+This isn't wine, mind you. It's my medicine.
+
+@135
+Well, well, do you need something?
+
+@136
+Leave it to me and there's nothing I can't make.
+
+@137
+Welcome back. May I help you?
+
+@138
+Welcome back. Is something the matter?
+

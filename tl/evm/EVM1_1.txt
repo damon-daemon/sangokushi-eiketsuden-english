@@ -1,0 +1,753 @@
+@0
+Ch. 1: Beihai and Xuzhou
+
+@1
+Chapter 1: Relief of Beihai and Xuzhou
+
+@2
+Gongsun Zan's army won at Jieqiao. But the long war wore both armies out, and with their will to fight gone, they finally made peace.
+
+@3
+The peace did not last. Once more, war began in the capital. Lu Bu assassinated Dong Zhuo, the commander of the army and his foster father. For his own ambition, he would kill his father and his master alike. But he was not the only man walking a bloodstained road in these troubled times.
+
+@4
+Chenliu Council Hall
+
+@5.0
+My lord, terrible news!
+
+@6.0
+What is this uproar? Can there be news worse than Dong Zhuo's death?
+
+@6.1
+Y-yes, my lord. Your father, Lord Cao Song, has been killed by Tao Qian's men.
+
+@6.2
+What?! Is it true?!
+
+@7.0
+Why must my father be killed by Tao Qian? Why?!
+
+@7.1
+According to the report, Tao Qian invited your father as he traveled here, and even sent an escort with him. The escort then turned on him...
+
+@7.2
+Tao Qian... You will not get away with this! Yu Jin!
+
+@7.3
+Sir!
+
+@8.0
+Lead an army to Xuzhou at once and take the vanguard! I will follow as far as Xiaopei!
+
+@8.1
+Sir, it is an honor beyond my worth. I will march to Xuzhou at once and bring back Tao Qian's head!
+
+@9.0
+Off to Xuzhou at once! We fight to avenge our lord's father!
+
+@10.0
+Curse you, Tao Qian! March on Xiaopei!
+
+@11
+Pingyuan Council Hall
+
+@12.0
+Brother, a man named Mi Zhu, one of Lord Tao Qian's retainers of Xuzhou, has come. He wishes to speak with you.
+
+@13
+Speak with Mi Zhu
+
+@14.0
+Seems like important business. You'd better hear him out soon.
+
+@15.0
+Brother, please speak with Lord Mi Zhu first.
+
+@16.0
+Lord Liu Bei, we meet at last. I am Mi Zhu, a retainer of Tao Qian.
+
+@16.1
+I met Lord Tao Qian during the campaign against Dong Zhuo. But what brings you here?
+
+@16.2
+In truth, I have a favor to ask of you.
+
+@16.3
+What is it?
+
+@17.0
+Recently, Cao Cao's father passed through Xuzhou, and my lord invited him to stay.
+
+@17.1
+That sounds like a kind thing to do.
+
+@17.2
+We even sent an escort to see him off. But the escort rebelled, killed Cao Cao's father, and fled with his treasure. When Cao Cao heard, he was furious and marched on Xuzhou with a great army.
+
+@17.3
+How dreadful! A welcome meant in kindness has only done harm.
+
+@18.0
+Lord Liu Bei, please save Xuzhou! Whatever becomes of us, if this goes on, many people will be caught in the war.
+
+@18.1
+...I understand. If I am of any use, I will help.
+
+@18.2
+Oh! Thank you! I will never forget this kindness.
+
+@18.3
+Not at all. More importantly, you must be tired from the journey. Please rest well today.
+
+@18.4
+Thank you. Then, if you will excuse me.
+
+@19
+Confer with Guan Yu and Zhang Fei
+
+@20.0
+Brother, even if we send aid, Cao Cao's army is too strong for us. What do we do?
+
+@21.0
+Brother, even if we send aid, our army today has not the strength to stand against Cao Cao.
+
+@21.1
+Hm. Then let us borrow troops from Lord Gongsun Zan.
+
+@21.2
+A fine idea. Let us go at once to Lord Gongsun Zan at Beiping Castle.
+
+@22
+Go to Beiping to ask Gongsun Zan for aid
+
+@23.0
+Let us go to Beiping Castle at once. Beiping lies to the northeast of here.
+
+@24.0
+Brother, let's get to Beiping fast.
+
+@25
+Beiping Council Hall
+
+@26.0
+Ah, Lord Liu Bei.
+
+@27.0
+You helped me greatly at Jieqiao. Now then, what brings you today?
+
+@28.0
+Brother, first greet Lord Gongsun Zan.
+
+@29.0
+Never mind us. You'd better talk to Lord Gongsun Zan.
+
+@30.0
+Lord Liu Bei, what is it?
+
+@30.1
+Lord Tao Qian of Xuzhou has asked me for help.\n\nBut my own troops are far too few. So, Lord Gongsun Zan, I have come to ask for your help.
+
+@30.2
+I see. I owe you for your help at Jieqiao. I gladly accept.
+
+@30.3
+Thank you.
+
+@30.4
+Then take him with you.
+
+@31.0
+You called for me?
+
+@31.1
+Zhao Yun, will you go to Xuzhou with Lord Liu Bei as reinforcements? I want you to be of help to him.
+
+@31.2
+To fight beside Lord Liu Bei is a joy beyond words. I will gladly go.
+
+@32
+Zhao Yun joined Liu Bei's army!
+
+@33.0
+Then, Zhao Yun, I leave it to you. Lord Liu Bei, good fortune in battle!
+
+@33.1
+Thank you.
+
+@34
+Return to Pingyuan and prepare to march
+
+@35.0
+Good fortune in battle!
+
+@36
+Pingyuan Council Hall
+
+@37.0
+Lord Liu Bei, I have been waiting. Please prepare to march.
+
+@38.0
+Brother, Lord Mi Zhu is waiting.
+
+@39.0
+Brother, Lord Mi Zhu is tired of waiting.
+
+@40.0
+Lord Liu Bei, I look forward to serving with you.
+
+@41.0
+Are you ready?
+
+@42.0
+Then let us hurry to Xuzhou.
+
+@43.0
+Xuzhou lies south of Pingyuan. Please hurry.
+
+@44.0
+Hm? Something looks wrong. What is going on?
+
+@45.0
+Ha ha ha, attack, attack! We'll be inside the walls soon!
+
+@45.1
+Damn... At this rate Beihai will fall. Lord Kong Rong, please flee!
+
+@45.2
+No, I cannot. I hate to watch the city fall, but I hate to abandon it even more.
+
+@45.3
+...
+
+@45.4
+Charge, charge! The treasure is right before us!
+
+@46.0
+It looks like they are surrounded by bandits.
+
+@46.1
+This is Beihai, I believe. Lord Kong Rong governs this land.
+
+@46.2
+Lord Kong Rong? He joined the coalition, if I recall.
+
+@46.3
+My lord, what shall we do? Do we press on?
+
+@46.4
+No, we cannot ignore this. Lord Mi Zhu, I am sorry, but we will make a detour.
+
+@46.5
+It cannot be helped. As you see fit, Lord Liu Bei.
+
+@46.6
+As expected of Lord Liu Bei. You are exactly the man I took you to be.
+
+@47
+Destroy Guan Hai
+
+@48.0
+Ha ha ha, this city is as good as ours! Boys, are you ready to haul out the loot?
+
+@48.1
+So this is the end for me...
+
+@48.2
+Damn... Bandits taking my city... Hm? Are more coming?
+
+@48.3
+Brother, we must hurry, or the gate will be broken.
+
+@48.4
+Stealing a whole city, eh? Gutsy. But push your luck and you'll get hurt.
+
+@48.5
+All right, let's wipe out these bandits right now!
+
+@48.6
+Hm? Who are those guys? They want to fight us? Ha ha ha, how amusing! Boys, turn around! Strip them bare while you're at it!
+
+@49.0
+That must be the bandit leader.
+
+@49.1
+Well now? What a fool, strolling out here like that. Fine, I'll take you on!
+
+@49.2
+Lord Liu Bei, leave this to me.
+
+@50
+Zhao Yun leveled up!
+
+@51
+Zhao Yun killed Guan Hai. Liu Bei's army defeated the bandits.
+
+@52.0
+Damn it... It was my castle...
+
+@53
+Liu Bei's army defeated the bandits
+
+@54.0
+My lord, I do not know who they are, but let us fight alongside them.
+
+@54.1
+Yes. Open the gate! We sally out too!
+
+@54.2
+Yes, sir!
+
+@55
+The gate opened!
+
+@56
+You got 500 gold!
+
+@57.0
+I do not know who you are, but thank you. May I ask your name?
+
+@57.1
+I am Liu Bei.
+
+@57.2
+Oh, you are Lord Liu Bei of Pingyuan! Thank you for saving us in our hour of need. My lord is waiting for you. Please come to Beihai Castle.
+
+@58
+Meet Kong Rong at Beihai Castle
+
+@59
+Beihai Council Hall
+
+@60.0
+My lord, I have brought Lord Liu Bei.
+
+@60.1
+Ah, Lord Liu Bei. Thank you for saving Beihai.
+
+@61.0
+I, Kong Rong, offer my thanks. You came to our aid so quickly.
+
+@61.1
+There is no need for thanks. We were on our way to Xuzhou at Lord Mi Zhu's request.
+
+@61.2
+Taking an army to Xuzhou... Then the timing is perfect.\n\nThis is my thanks to you. Please put it to good use.
+
+@62
+You got 500 gold!
+
+@63.0
+Brother, I worry about Lord Tao Qian.
+
+@63.1
+You are right. Lord Kong Rong, we must hurry, so if you will excuse us.
+
+@63.2
+Please, take care.
+
+@63.3
+Truly, thank you very much.
+
+@63.4
+Please prepare to march.
+
+@64
+March to Xuzhou to relieve Tao Qian
+
+@65.0
+Please, take care.
+
+@66.0
+Thank you. With Lord Liu Bei there, Xuzhou will be fine.
+
+@67.0
+Are you ready?
+
+@68.0
+Lord Liu Bei, Xuzhou Castle lies south of Beihai. Let us hurry.
+
+@69
+Annihilate the enemy\nLiu Bei reaches Xuzhou Castle
+
+@70.0
+What? Liu Bei is attacking? ...This is bad. Hold on somehow until Xiahou Yuan arrives!
+
+@70.1
+Everyone, hurry! We must help Yu Jin!
+
+@70.2
+Enemy reinforcements are close. Let us not overreach and enter Xuzhou Castle.
+
+@71.0
+Lord Liu Bei! At Lord Kong Rong's command, Taishi Ci lends you his sword!
+
+@72
+Taishi Ci appeared as reinforcements!
+
+@73.0
+Good, we are in Xuzhou Castle.
+
+@74
+Liu Bei's army entered Xuzhou Castle
+
+@75.0
+Let us get inside the walls before fresh troops arrive.
+
+@76
+Liu Bei's army defeated Cao Cao's army and entered Xuzhou Castle
+
+@77
+You got 500 gold!
+
+@78.0
+I am Guan Yu of Liu Bei's army! If you have any warriors, come and fight!
+
+@78.1
+How dare a mere soldier! Here I come!
+
+@78.2
+Gladly!
+
+@79
+Guan Yu leveled up!
+
+@80.0
+Lord Liu Bei! At Lord Kong Rong's command, Taishi Ci lends you his sword!
+
+@81
+Taishi Ci appeared as reinforcements!
+
+@82.0
+Good, we made it into Xuzhou Castle.
+
+@83
+Liu Bei's army reached Xuzhou Castle
+
+@84.0
+Let us get inside the walls before fresh troops arrive.
+
+@85
+Liu Bei's army defeated Cao Cao's army and reached Xuzhou Castle
+
+@86
+You got 500 gold!
+
+@87
+Cao Cao's Camp
+
+@88.0
+I am sorry. After you gave me the vanguard...
+
+@88.1
+Why did you fail to kill him? How can my army be stalled by the likes of Tao Qian...
+
+@88.2
+Sir, Liu Bei's army came to reinforce Tao Qian. Because of that, we could not finish Tao Qian.
+
+@88.3
+What! That Liu Bei?! How dare he cut into my war of vengeance! Tao Qian, Liu Bei, you wait! I will pile a mountain of corpses in Xuzhou!
+
+@89
+Xuzhou Council Hall
+
+@90.0
+I have returned.
+
+@90.1
+Ah, Mi Zhu. You did well to persuade Lord Liu Bei. Lord Liu Bei, it has been a while.
+
+@90.2
+I am glad we arrived in time.
+
+@90.3
+I offer my thanks, as you see.
+
+@91
+Discuss next steps with Tao Qian and the others
+
+@92.0
+I am glad the reinforcements arrived in time.
+
+@93.0
+Phew, that was close, Brother. A little later and we'd have been in trouble.
+
+@94.0
+Thank you. You are the only ones who came to our aid.
+
+@95.0
+If Lord Liu Bei had not come, we would all have been slaughtered.
+
+@96.0
+Still, we may have won the first battle, but the enemy has a great army. At this rate...
+
+@97.0
+Cao Cao's army will be back soon. What should we do?
+
+@97.1
+Cao Cao is sharp and reasonable.\n\nLet us try asking Cao Cao for a truce.
+
+@97.2
+Right. Leave that job to me.
+
+@97.3
+No, I choose to fight. A warrior's place is in battle.
+
+@98.0
+Huh? Guan Yu, how unusual. You want to fight more than I do?
+
+@98.1
+A warrior proves himself against strong foes. And with Cao Cao's army as the enemy, that is all I could wish. Brother, shall we send Zhang Fei as envoy, or fight? When you decide, please speak to Zhang Fei or to me.
+
+@99
+Decide whether to fight Cao Cao\nor send Zhang Fei as envoy
+
+@100.0
+Cao Cao's army is huge. We cannot win by fighting head-on.
+
+@101.0
+I choose to fight. Even against a great army, we do not lose in morale.
+
+@102.0
+The enemy has a great army. As things are... Let us send Lord Zhang Fei as envoy.
+
+@103.0
+If my head alone can save everyone, then I would rather...
+
+@104.0
+Oh, Brother. Have you decided to march?
+
+@105.0
+Let us prepare to march.
+
+@106.0
+Shall we go?
+
+@106.1
+Since it is decided, we will march as well. I hear the enemy is at Xiaopei now.
+
+@107.0
+West of here is a place called Xiaopei. Cao Cao's army is camped there.
+
+@107.1
+Who fears Cao Cao's army?! Brother, let us attack Xiaopei.
+
+@108.0
+Brother, are you sending me to Cao Cao's army as envoy?
+
+@109.0
+If it's decided, that's quick. All right, I'll go right away.
+
+@110
+Cao Cao Retreats
+
+@111.0
+Curse you, Liu Bei! Siding with my enemy! I won't allow it! Kill them all!
+
+@111.1
+Brother, Cao Cao's army is large, but our morale is no less.
+
+@112.0
+If it's a fight, that's different. I'll cut loose as much as I like! Anyone, come out and face me!
+
+@112.1
+Quite the spirit. Then I will be your opponent.
+
+@112.2
+Here I come!
+
+@113
+Zhang Fei leveled up!
+
+@114.0
+Liu Bei, you fool... What can you do with so few troops? Your fate ends here.
+
+@115.0
+Finish this soon. All units, begin the general assault!!
+
+@115.1
+Ugh... Cao Cao's army is formidable...
+
+@116.0
+Lord Cao Cao, terrible news! Lu Bu has attacked Chenliu!
+
+@116.1
+What?! Lu Bu, that cunning dog... Hmm, it cannot be helped. All units, retreat! Tao Qian, Liu Bei, I leave you your lives for now!
+
+@117
+Cao Cao's army retreated
+
+@118.0
+Damn... I underestimated them... ...What?! Lu Bu is attacking Chenliu?! ...Hmm, it cannot be helped. All units, retreat! Tao Qian, Liu Bei, I leave you your lives for now!
+
+@119
+Cao Cao's army retreated
+
+@120
+You got 500 gold!
+
+@121.0
+All units, turn around at once and defend Chenliu!
+
+@122.0
+Huh? Why are they running off all of a sudden?
+
+@122.1
+I don't know. But Xuzhou is saved. For now, let us return to Xuzhou.
+
+@123
+Cao Cao's Camp
+
+@124.0
+My lord, terrible news! Lu Bu has attacked Chenliu!
+
+@124.1
+What?! Is it true?! Hmm... what a disaster. Lu Bu, that cunning dog...
+
+@125.0
+My lord, a man named Zhang Fei has come seeking a ceasefire. What shall we do?
+
+@125.1
+Zhang Fei? ...I see. So Liu Bei seeks a ceasefire. Liu Bei... lucky devil. Tell Zhang Fei we accept the ceasefire. All right, all units back to Chenliu!
+
+@126.0
+Drive Lu Bu out of Chenliu! We return!
+
+@127.0
+They left awfully quietly. Did something happen...
+
+@127.1
+I don't know, but one thing is sure, Xuzhou is saved. Anyway, let us go back inside.
+
+@128
+Xuzhou Council Hall
+
+@129.0
+Lord Liu Bei, we are truly in your debt.
+
+@130.0
+No, we did nothing. Cao Cao simply went home.
+
+@130.1
+No, no, you were the only ones who came to our aid. I thank you from my heart.
+
+@131
+Talk with Tao Qian and the others
+
+@132.0
+Thank you. Xuzhou is saved.
+
+@133.0
+Lord Liu Bei, thank you.
+
+@134.0
+That we can be here like this is thanks to Lord Liu Bei.
+
+@135.0
+I am glad Xuzhou was saved.
+
+@136.0
+It sure feels good to help people out.
+
+@137.0
+Lord Liu Bei, this is a small token from me. Please accept it.
+
+@138.0
+This is...?
+
+@138.1
+This is the "Twin Swords," long handed down in my Xuzhou.
+
+@138.2
+You would give such a thing to me?
+
+@138.3
+I want it used by someone who will give it true meaning. Please accept it.
+
+@139.0
+Lord Liu Bei, in truth... I have a favor to ask.
+
+@139.1
+If it is within my power, please tell me anything.
+
+@139.2
+Thank you. I would like you to take over the governing of Xiaopei.
+
+@139.3
+What?! A man like me could never fill such a great office.
+
+@139.4
+No. Think of it as helping the people of Xuzhou. Please accept.
+
+@139.5
+...All right. If you think I am fit, I will accept.
+
+@139.6
+Oh, you accept! Wonderful! Lord Liu Bei, the people of Xiaopei will all be glad! And for Xiaopei, Sun Qian will be useful. Please make use of him.
+
+@140.0
+Please take good care of the land of Xiaopei.
+
+@141.0
+Lord Liu Bei, thank you.
+
+@142.0
+Take Sun Qian with you and go to Xiaopei.
+
+@143.0
+Brother, let us go to Xiaopei.
+
+@144.0
+Brother, ask Sun Qian where Xiaopei is.
+
+@145.0
+Lord Liu Bei, no, my lord, I look forward to serving you.
+
+@146
+Sun Qian joined as a retainer!
+
+@147.0
+Xiaopei is west of here. Shall we go?
+
+@148.0
+Then I will guide you to Xiaopei.
+
+@149
+Xiaopei Council Hall
+
+@150.0
+My lord, this way please.
+
+@151.0
+So this is my castle...
+
+@152
+Discuss the future with Zhao Yun and the others
+
+@153.0
+Good thing you took the post of castle lord, Brother. Now we've got a castle too.
+
+@154.0
+Brother, I am delighted. At last we have a castle of our own.
+
+@155.0
+My lord, I look forward to serving you.
+
+@156.0
+Lord Liu Bei, Xuzhou has finally calmed down, so I will return to Lord Gongsun Zan.
+
+@156.1
+I see. I am in your debt.
+
+@157.0
+Until we meet again, Zhao Yun.
+
+@157.1
+Not as good as me, but you were pretty tough too. See you again!
+
+@157.2
+I look forward to the day I ride the fields with you all again, for the sake of the realm.
+
+@157.3
+Tonight we throw Zhao Yun a farewell party! Let's drink!
+
