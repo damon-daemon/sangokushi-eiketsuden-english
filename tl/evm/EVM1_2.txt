@@ -422,7 +422,7 @@ Lord Liu Bei, a favorable reply, please!
 Very well. I permit you to enter Xiaopei Castle. Make yourselves at home there.
 
 @114.2
-Th-thank you! I never expected such a fine answer. Why, you owe your present standing to me, you know. When Cao Cao attacked this land, I was the one who attacked Chenliu.\n\nYou never know where fate will tie us together, do you? Ha ha ha!
+Th-thank you! I never expected such a fine answer. Why, you owe your present standing to me, you know. When Cao Cao attacked this land, I was the one who attacked Chenliu. You never know where fate will tie us together, do you? Ha ha ha!
 
 @114.3
 What?!
@@ -638,7 +638,7 @@ So, what does Yuan Shu say?
 Hm.
 
 @158
-"Lately, Liu Bei, a mere commoner, has had the gall to try to seize my realm. Will you stand by and watch? You should retake Xuzhou and teach this arrogant man how deep his crime runs.\n- Yuan Shu"
+"Liu Bei, a mere commoner, now dares to seize my realm. Will you stand by and watch? Retake Xuzhou and punish this arrogant man.\n- Yuan Shu"
 
 @159.0
 What a haughty letter.

@@ -11,14 +11,25 @@ between. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta.** All of the game's text is in English, but only the prologue and the story up to
-> the Xuzhou council have been played in order. The opening scenes of the later sections, the start
-> of one chapter 4 battle and one ending were only checked by jumping to them. Expect some text that is squeezed, cut short or wrapped oddly
-> later on.
+> **This is a beta.** All of the game's text is in English, but only the prologue, chapter 1 and the
+> first section of chapter 2 (up to the arrival in Xiangyang) have been played in order. The opening
+> scenes of the later sections, a few later battles and one ending were only checked by jumping to
+> them. Expect some text that is squeezed, cut short or wrapped oddly later on.
 
 This repository contains the English text and the tools that build the patch.
 It does **not** contain the game, any of its data, or the Japanese script — you need
 your own copy of the game.
+
+## Screenshots
+
+| | | |
+|:-:|:-:|:-:|
+| ![Dialogue](docs/screenshots/01_dialogue.png) | ![Narration](docs/screenshots/02_narration.png) | ![Council](docs/screenshots/03_council.png) |
+| Event dialogue | Chapter narration | Council |
+| ![Battle](docs/screenshots/04_battle.png) | ![Formation](docs/screenshots/05_formation.png) | ![Shop](docs/screenshots/06_shop.png) |
+| Battle objectives | Formation and officer stats | Item shop |
+| ![World map](docs/screenshots/07_world_map.png) | ![Town](docs/screenshots/08_town.png) | ![Battle dialogue](docs/screenshots/09_battle_dialogue.png) |
+| World map | Town | Battle dialogue |
 
 ## What's translated
 
@@ -90,6 +101,7 @@ No disc data is ever packaged.
 | `tools/gfx.py` | Redrawn label graphics |
 | `tools/package.py` | Makes the release zip |
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, DuckStation automation) |
+| `docs/screenshots/` | README screenshots |
 
 ## Known issues
 
@@ -97,8 +109,8 @@ No disc data is ever packaged.
   Japanese captions.
 - The Armor and Weapon plates read "Arm" and "Wpn" because the plates are too small.
 - The widest names touch the level icon in the unit panel.
-- Most of the game after the Xuzhou council has not been seen in play, including most later battles, and the other endings have
-  only been checked by a length test. Their text may overflow in places.
+- Most of the game after the first section of chapter 2 has not been seen in play, including most later battles, and the other
+  endings have only been checked by a length test. Their text may overflow in places.
 
 Tested in DuckStation only. Bug reports with a screenshot and where it happened are welcome.
 

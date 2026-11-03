@@ -19,7 +19,9 @@ FIXED = (iso.EXE_NAME,)                  # must keep its place
 # the custom glyphs). All of it is free once no Japanese is left.
 POOL, POOL_END = 0x800a4000, 0x800a9594
 STRINGS = 0x8009f000                     # moved strings (progstr), up to POOL
-EVM_LOAD_OLD, EVM_LOAD = 0x800fa4e4, 0x800face4
+# EVM load address: the original buffer 0x800fa4e4 is followed by the shared NPC/scene buffer at 0x80100a04 (23,840 B of room
+# from 0x800face4, less than six of the English files); 0x800ea000-0x800f7000 is never written in any state (session 24).
+EVM_LOAD_OLD, EVM_LOAD = 0x800fa4e4, 0x800ea000
 
 
 def poke(exe, va, words):
@@ -84,7 +86,7 @@ def patch_exe(exe):
     poke(exe, 0x8005cef4, [0x2c620080, 0x1040002c, 0])
     expect(exe, 0x8005cf08, [0x2463827f, 0x00031202, 0xa0a20000, 0x24a50001])
     poke(exe, 0x8005cf08, [0, 0, 0, 0])
-    # text loader 0x8005ce20: file loaded higher, leaving 0xc00 B for the block copy at 0x800fa0e4
+    # text loader 0x8005ce20: file loaded at EVM_LOAD (the block copy stays at 0x800fa0e4, 0xc00 B, raised from 0x400)
     expect(exe, 0x8005ce6c, [0x3c058010, 0x24a5a4e4])
     put(exe, 0x8005ce6c, asm.assemble(0x8005ce6c, [('lui', 'a1', asm.hi(EVM_LOAD)), ('addiu', 'a1', 'a1', asm.lo(EVM_LOAD))]))
     code = remap_code(POOL, EVM_LOAD)

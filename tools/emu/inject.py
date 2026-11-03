@@ -9,7 +9,7 @@ import os, sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import build, iso, setup
+import build, iso, progstr, setup
 from gdbmem import G
 
 
@@ -19,6 +19,10 @@ def main():
     a, b = old.file(iso.EXE_NAME, old.records()), new.file(iso.EXE_NAME, new.records())
     g = G()
     g.cmd('?')
+    # the whole code range too: a word now equal to the clean EXE may differ from the older build in the state
+    code = range(progstr.CODE_START - build.EXE_BASE, progstr.CODE_END - build.EXE_BASE, 0x200)
+    for o in code:
+        g.cmd('M%x,200:%s' % (o + build.EXE_BASE, b[o:o + 0x200].hex()))
     n, o = 0, 0x800
     while o < len(b):                     # runs of changed words (gaps < 16 B), <= 0x200 B a packet
         if b[o:o + 4] == a[o:o + 4]:

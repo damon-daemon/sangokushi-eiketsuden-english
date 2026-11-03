@@ -9,8 +9,8 @@
 {"id": 7, "sjis": "934091ee", "en": "Manor"},
 {"id": 8, "sjis": "8b7b9361", "en": "Palace"},
 {"id": 9, "sjis": "8f6f8cfb", "en": "Exit"},
-{"id": 10, "sjis": "97ab94f59340", "en": "Liu Bei's Home"},
-{"id": 11, "sjis": "93a98caa9340", "en": "Tao Qian's Home"},
-{"id": 12, "sjis": "918291809340", "en": "Cao Cao's Home"},
-{"id": 13, "sjis": "8d4596be88c1", "en": "Kongming's Hut"}
+{"id": 10, "sjis": "97ab94f59340", "en": "Liu Bei's"},
+{"id": 11, "sjis": "93a98caa9340", "en": "Tao Qian's"},
+{"id": 12, "sjis": "918291809340", "en": "Cao Cao's"},
+{"id": 13, "sjis": "8d4596be88c1", "en": "Kongming's"}
 ]

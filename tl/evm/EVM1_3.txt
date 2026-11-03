@@ -548,7 +548,7 @@ Lu Bu did betray me. But I do feel some sympathy for his circumstances.
 Y-yes, exactly! Liu Bei, what happened before could not be helped.
 
 @138.2
-Hm... So that is your view, Liu Bei. But mine differs. This man is beyond saving. He killed his adoptive father to serve Dong Zhuo, and then killed Dong Zhuo himself for his own ambition.\n\nThat trick will not work on me! Lu Bu, you will be executed.
+Hm... So that is your view, Liu Bei. But mine differs. This man is beyond saving. He killed his adoptive father to serve Dong Zhuo, and then killed Dong Zhuo himself for his own ambition. That trick will not work on me! Lu Bu, you will be executed.
 
 @138.3
 Wait!
