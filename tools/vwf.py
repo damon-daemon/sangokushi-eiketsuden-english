@@ -19,6 +19,11 @@ import asm, pixfont
 
 ASCII_FONT = 0x8009c054           # 96 glyphs x 16 B, 8x16 1bpp
 FONT_TOP = 1                      # blank rows above the 12-row pixfont cell
+FONT_LEFT = 1                     # blank columns left of it (see font)
+# Outline pass 0x80039854 (only caller: the 8-px glyph path 0x8003a0a8) runs its vertical pass on 8-px rows but
+# its horizontal pass on 16-px rows (8 rows x 15 pairs), so column 7 of a row and column 0 of the next were
+# treated as neighbours: stray outline dots at the right edge of glyphs (issue #1). Now 16 rows x 7 pairs.
+OUTLINE_FIX = [(0x80039920, 0x2c42000f, 0x2c420007), (0x80039934, 0x2c420008, 0x2c420010)]
 DRAW1, DRAW2 = 0x8003a10c, 0x8003a2e0
 SETPOS = 0x80023038
 LINE_MAX = 0x50                   # buffer 88 B
@@ -29,9 +34,13 @@ WIDTHS = bytes(_G[chr(c)][1] if chr(c) in _G else 8 for c in range(0x20, 0x80))
 
 
 def font():
+    """Glyphs one column in from the left (FONT_LEFT): the outline pass gives each ink pixel a dark border
+    pixel on every side, and column 0 has none to its left."""
     out = bytearray()
     for c in range(0x20, 0x80):
         rows = _G[chr(c)][0] if chr(c) in _G else bytes(12)
+        assert not any(r & ((1 << FONT_LEFT) - 1) for r in rows), 'glyph %r too wide for the cell' % chr(c)
+        rows = bytes(r >> FONT_LEFT for r in rows)
         out += bytes(FONT_TOP) + rows + bytes(16 - FONT_TOP - len(rows))
     return bytes(out)
 
@@ -489,6 +498,10 @@ def code(at, name_px, name_offs):
             c = b''.join(struct.pack('<I', n[1]) if n[0] == 'raw' else asm.assemble(va + 4 * i, [n]) for i, n in enumerate(new))
             assert len(c) == 4 * len(old), hex(va)
             exe[o:o + len(c)] = c
+        for va, old, new in OUTLINE_FIX:
+            o = va - exe_base
+            assert struct.unpack_from('<I', exe, o)[0] == old, 'unexpected code at %#x' % va
+            struct.pack_into('<I', exe, o, new)
         f = font()
         exe[ASCII_FONT - exe_base:ASCII_FONT - exe_base + len(f)] = f
     return data, patch

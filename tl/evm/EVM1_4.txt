@@ -344,7 +344,7 @@ Myself\nCao Cao\nYuan Shao\nYuan Shu\nGongsun Zan\nI don't know
 Heh heh... Yes. One day you will be called a hero, Liu Bei. That is why I cannot let my guard down. When will you bare your fangs...
 
 @88.0
-Ha ha ha, you think so? So do I. ...But in truth, I see the same in you, Liu Bei. You are a hero like me!
+Hahaha, you think so? So do I. ...But in truth, I see the same in you, Liu Bei. You are a hero like me!
 
 @88.1
 W-what are you saying so suddenly? I am no such...
@@ -368,7 +368,7 @@ You say there are no heroes in the world today? I think otherwise. The heroes of
 Surely you jest...
 
 @92.2
-Ha ha ha, a jest, is it? But whether it is a jest or not, this age of chaos will surely show us.
+Hahaha, a jest, is it? But whether it is a jest or not, this age of chaos will surely show us.
 
 @94.0
 Well, I enjoyed today. Let us drink the night away again sometime.
@@ -704,7 +704,7 @@ Listen. Do not let that false emperor live. Charge the Yuan Shu army!
 You traitors to the realm! Doing whatever you please! I'll punish you myself, come on!
 
 @163.1
-Ha ha ha, you noisy one over there. I shall put you to sleep forever with my own hand.
+Hahaha, you noisy one over there. I shall put you to sleep forever with my own hand.
 
 @164.0
 Hah, all talk... Hm! What a weapon! A man like Ji Ling doesn't deserve it.
@@ -722,16 +722,16 @@ Obtained 600 gold!
 That was easy. Yuan Shu was nothing.
 
 @168.1
-Then let us go to Xiapi Castle. At Xiapi we can hold out even if Cao Cao learns of this.
+Then let us go to Xiapi. At Xiapi we can hold out even if Cao Cao learns of this.
 
 @168.2
-Yes. Besides, I hear Cao Cao's confidant Che Zhou is in Xuzhou Castle now.
+Yes. Besides, I hear Cao Cao's confidant Che Zhou is in Xuzhou now.
 
 @168.3
 Understood. Then we head for Xiapi and prepare for Cao Cao there.
 
 @169
-Plan our next steps in the Xiapi Castle Council Hall
+Plan our next steps in the Xiapi Council Hall
 
 @171.0
 M-my lord! Terrible news!
@@ -806,7 +806,7 @@ Our army alone can never hold off the Cao Cao army.
 Hmm...
 
 @191.0
-My lord, Che Zhou in Xuzhou Castle has begun preparing to march on us.
+My lord, Che Zhou in Xuzhou has begun preparing to march on us.
 
 @191.1
 My lord, rather than sit still here, we should attack, take Xuzhou, and meet the Cao Cao army there. If we fight from three castles, Xiaopei, Xuzhou and Xiapi, Cao Cao's army will have to divide its forces.
@@ -878,7 +878,7 @@ My lord! We are completely surrounded!
 M-my lord!! I hear Xiaopei has fallen!
 
 @208.3
-My lord! I hear Xiapi Castle is under attack by Cao Cao and surrounded!
+My lord! I hear Xiapi is under attack by Cao Cao and surrounded!
 
 @208.4
 Grr... Cao Cao indeed. He acts fast!

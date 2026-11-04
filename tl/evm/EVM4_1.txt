@@ -497,19 +497,19 @@ Yes. We attack all at once here... Hm? Kongming, what is that?
 Oh, my lord! It seems the separate force has arrived.
 
 @116.1
-Is that so! Good! All troops, charge Xuchang Castle!
+Is that so! Good! All troops, charge Xuchang!
 
 @117.0
 It seems the Wei army intends to hole up in the castle. What shall we do?
 
 @117.1
-Good. All troops, charge Xuchang Castle!
+Good. All troops, charge Xuchang!
 
 @118.0
 It seems the Wei army intends to hole up in the castle. What shall we do?
 
 @118.1
-Good! All troops, charge Xuchang Castle!
+Good! All troops, charge Xuchang!
 
 @119.0
 My lord, please take me along. Let me show you what these old bones have left.
@@ -545,7 +545,7 @@ Our unit reached the inner castle gate
 To treat Us, the Emperor of Wei, in this manner... Liu Bei, I will not forgive you!
 
 @122.1
-...Your Majesty, Xuchang Castle is ill suited for defense. Please withdraw to Ye.
+...Your Majesty, Xuchang is ill suited for defense. Please withdraw to Ye.
 
 @122.2
 Sima Yi, this is your doing! That We should come to such a plight!
@@ -560,7 +560,7 @@ Understood! We go to Ye! Sima Yi, you will command the rear guard! Keep the Shu 
 Yes, Your Majesty...
 
 @122.6
-Xuchang Castle is spacious and easy to attack. Let us head straight for its center!
+Xuchang is spacious and easy to attack. Let us head straight for its center!
 
 @123.0
 Zhang Liao, we meet again.

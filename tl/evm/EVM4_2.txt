@@ -11,7 +11,7 @@ With Xuchang lost, Cao Pi gathered all his forces at Ye, Wei's last stronghold, 
 The decisive battle! We meet Liu Bei at Ye! Gather the whole army at Ye! We will not hand Wei over to the likes of Liu Bei!
 
 @5.0
-My lord, Cao Pi has gathered all his forces in Ye Castle. He means to challenge us to a decisive battle.
+My lord, Cao Pi has gathered all his forces in Ye. He means to challenge us to a decisive battle.
 
 @5.1
 Yes. So the time has finally come.
@@ -62,7 +62,7 @@ I intend to slay Cao Pi, the enemy of my late father and of all the people, and 
 I have no words to thank you for your kindness until now. I will keep following you, my lord. Let us give it our all in the final battle!
 
 @18.0
-Big Brother, here it comes at last... Ha ha... Damn... my body has started shaking!
+Big Brother, here it comes at last... Haha... Damn... my body has started shaking!
 
 @18.1
 What is it, are you afraid?
@@ -200,7 +200,7 @@ I do not know. All I can say is that the battle is not over yet. Let us attack i
 Annihilate "Sima Yi"
 
 @44.0
-Ha ha ha! Shu army! Wei will not perish! Take this!
+Hahaha! Shu army! Wei will not perish! Take this!
 
 @45
 HP reduced!
@@ -221,7 +221,7 @@ Yes. Moreover, this castle will not hold much longer. We must retreat... Hm! The
 Damn! Our escape route is gone too!
 
 @47.1
-Ha ha ha! Burn to death! Kneel before Lord Cao Cao in the next world!
+Hahaha! Burn to death! Kneel before Lord Cao Cao in the next world!
 
 @47.2
 My lord, we have no choice but to push forward. Sima Yi is a master of strategy. He must have prepared a way out.
@@ -242,7 +242,7 @@ My lord, please hurry!
 My lord, please hurry! The castle walls are growing brittle! It is dangerous!
 
 @52.0
-It is about time. ... Liu Bei, farewell! Perish together with this Ye Castle!
+It is about time. ... Liu Bei, farewell! Perish together with Ye!
 
 @52.1
 My lord, the castle is collapsing!
@@ -251,7 +251,7 @@ My lord, the castle is collapsing!
 What! Ugh! Waaah!
 
 @53
-Ye Castle burned and collapsed. Liu Bei's army was wiped out by Sima Yi's fire attack.
+Ye burned and collapsed. Liu Bei's army was wiped out by Sima Yi's fire attack.
 
 @54.0
 Damn... Even with my power, I could not stop the Shu army's momentum...
@@ -284,7 +284,7 @@ Oh... oh...! Lord Cao Cao!
 What! Cao Cao?! Why is Cao Cao here?
 
 @58.3
-Liu Bei, you have done well to torment this Wei of mine this far. But it ends here! I wait deeper within. If you wish to defeat me, come. If you can make it that far, that is... Heh heh, ha ha ha ha!
+Liu Bei, you have done well to torment this Wei of mine this far. But it ends here! I wait deeper within. If you wish to defeat me, come. If you can make it that far, that is... Heh heh, hahahaha!
 
 @59.0
 Lord Cao Cao! Please wait!
@@ -440,7 +440,7 @@ Oh! My lord! The road!
 How terrible...
 
 @79.2
-Ha ha ha! Burn, burn!
+Hahaha! Burn, burn!
 
 @80.0
 Tch! More fire!
@@ -464,7 +464,7 @@ If you had not betrayed me and had stood by me as my ally, would I have walked a
 Guh...! L-Liu Bei...! You block me at every turn...! My... dream...! Aaargh!!
 
 @83
-Cao Cao was slain. Liu Bei's army captured Ye Castle.
+Cao Cao was slain. Liu Bei's army captured Ye.
 
 @84.0
 We did it! At last, we have defeated Cao Cao!

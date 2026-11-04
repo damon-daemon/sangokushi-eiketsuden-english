@@ -107,7 +107,7 @@ Thank you. Then, if you will excuse me.
 Confer with Guan Yu and Zhang Fei
 
 @20.0
-Brother, even if we send aid, Cao Cao's army is too strong for us. What do we do?
+Big Brother, even if we send aid, Cao Cao's army is too strong for us. What do we do?
 
 @21.0
 Brother, even if we send aid, our army today lacks the strength to stand against Cao Cao.
@@ -116,16 +116,16 @@ Brother, even if we send aid, our army today lacks the strength to stand against
 Hm. Then let us borrow troops from Lord Gongsun Zan.
 
 @21.2
-A fine idea. Let us go at once to Lord Gongsun Zan at Beiping Castle.
+A fine idea. Let us go at once to Lord Gongsun Zan at Beiping.
 
 @22
 Go to Beiping to ask Gongsun Zan for aid
 
 @23.0
-Let us go to Beiping Castle at once. Beiping lies to the northeast of here.
+Let us go to Beiping at once. Beiping lies to the northeast of here.
 
 @24.0
-Brother, let's get to Beiping fast.
+Big Brother, let's get to Beiping fast.
 
 @25
 Beiping Council Hall
@@ -191,7 +191,7 @@ Lord Liu Bei, I have been waiting. Please prepare to march.
 Brother, Lord Mi Zhu is waiting.
 
 @39.0
-Brother, Lord Mi Zhu is tired of waiting.
+Big Brother, Lord Mi Zhu is tired of waiting.
 
 @40.0
 Lord Liu Bei, I look forward to serving with you.
@@ -209,7 +209,7 @@ Xuzhou lies south of Pingyuan. Please hurry.
 Hm? Something looks wrong. What is going on?
 
 @45.0
-Ha ha ha, attack, attack! We'll be inside the walls soon!
+Hahaha, attack, attack! We'll be inside the walls soon!
 
 @45.1
 Damn... At this rate Beihai will fall. Lord Kong Rong, please flee!
@@ -248,7 +248,7 @@ As expected of Lord Liu Bei. You are exactly the man I took you to be.
 Destroy Guan Hai
 
 @48.0
-Ha ha ha, this city is as good as ours! Boys, are you ready to haul out the loot?
+Hahaha, this city is as good as ours! Boys, are you ready to haul out the loot?
 
 @48.1
 So this is the end for me...
@@ -266,7 +266,7 @@ Stealing a whole city, eh? Gutsy. But push your luck and you'll get hurt.
 All right, let's wipe out these bandits right now!
 
 @48.6
-Hm? Who are those guys? They want to fight us? Ha ha ha, how amusing! Boys, turn around! Strip them bare while you're at it!
+Hm? Who are those guys? They want to fight us? Hahaha, how amusing! Boys, turn around! Strip them bare while you're at it!
 
 @49.0
 That must be the bandit leader.
@@ -311,10 +311,10 @@ I do not know who you are, but thank you. May I ask your name?
 I am Liu Bei.
 
 @57.2
-Oh, you are Lord Liu Bei of Pingyuan! Thank you for saving us in our hour of need. My lord is waiting for you. Please come to Beihai Castle.
+Oh, you are Lord Liu Bei of Pingyuan! Thank you for saving us in our hour of need. My lord is waiting for you. Please come to Beihai.
 
 @58
-Meet Kong Rong at Beihai Castle
+Meet Kong Rong at Beihai
 
 @59
 Beihai Council Hall
@@ -365,10 +365,10 @@ Thank you. With Lord Liu Bei there, Xuzhou will be fine.
 Are you ready?
 
 @68.0
-Lord Liu Bei, Xuzhou Castle lies south of Beihai. Let us hurry.
+Lord Liu Bei, Xuzhou lies south of Beihai. Let us hurry.
 
 @69
-Annihilate the enemy\nLiu Bei reaches Xuzhou Castle
+Annihilate the enemy\nLiu Bei reaches Xuzhou
 
 @70.0
 What? Liu Bei is attacking? ...This is bad. Hold on somehow until Xiahou Yuan arrives!
@@ -377,7 +377,7 @@ What? Liu Bei is attacking? ...This is bad. Hold on somehow until Xiahou Yuan ar
 Everyone, hurry! We must help Yu Jin!
 
 @70.2
-Enemy reinforcements are close. Let us not overreach and enter Xuzhou Castle.
+Enemy reinforcements are close. Let us not overreach and enter Xuzhou.
 
 @71.0
 Lord Liu Bei! At Lord Kong Rong's command, Taishi Ci lends you his sword!
@@ -386,16 +386,16 @@ Lord Liu Bei! At Lord Kong Rong's command, Taishi Ci lends you his sword!
 Taishi Ci appeared as reinforcements!
 
 @73.0
-Good, we are in Xuzhou Castle.
+Good, we are in Xuzhou.
 
 @74
-Liu Bei's army entered Xuzhou Castle
+Liu Bei's army entered Xuzhou
 
 @75.0
 Let us get inside the walls before fresh troops arrive.
 
 @76
-Liu Bei's army defeated Cao Cao's army and entered Xuzhou Castle
+Liu Bei's army defeated Cao Cao's army and entered Xuzhou
 
 @77
 You got 500 gold!
@@ -419,16 +419,16 @@ Lord Liu Bei! At Lord Kong Rong's command, Taishi Ci lends you his sword!
 Taishi Ci appeared as reinforcements!
 
 @82.0
-Good, we made it into Xuzhou Castle.
+Good, we made it into Xuzhou.
 
 @83
-Liu Bei's army reached Xuzhou Castle
+Liu Bei's army reached Xuzhou
 
 @84.0
 Let us get inside the walls before fresh troops arrive.
 
 @85
-Liu Bei's army defeated Cao Cao's army and reached Xuzhou Castle
+Liu Bei's army defeated Cao Cao's army and reached Xuzhou
 
 @86
 You got 500 gold!
@@ -470,7 +470,7 @@ Discuss next steps with Tao Qian and the others
 I am glad the reinforcements arrived in time.
 
 @93.0
-Phew, that was close, Brother. A little later and we'd have been in trouble.
+Phew, that was close, Big Brother. A little later and we'd have been in trouble.
 
 @94.0
 Thank you. You are the only ones who came to our aid.
@@ -533,7 +533,7 @@ West of here is a place called Xiaopei. Cao Cao's army is camped there.
 Who fears Cao Cao's army?! Brother, let us attack Xiaopei.
 
 @108.0
-Brother, are you sending me to Cao Cao's army as envoy?
+Big Brother, are you sending me to Cao Cao's army as envoy?
 
 @109.0
 If it's decided, that's quick. All right, I'll go right away.
@@ -698,7 +698,7 @@ Take Sun Qian with you and go to Xiaopei.
 Brother, let us go to Xiaopei.
 
 @144.0
-Brother, ask Sun Qian where Xiaopei is.
+Big Brother, ask Sun Qian where Xiaopei is.
 
 @145.0
 Lord Liu Bei, no, my lord, I look forward to serving you.
@@ -725,7 +725,7 @@ So this is my castle...
 Discuss the future with Zhao Yun and the others
 
 @153.0
-Good thing you took the post of castle lord, Brother. Now we've got a castle too.
+Good thing you took the post of castle lord, Big Brother. Now we've got a castle too.
 
 @154.0
 Brother, I am delighted. At last we have a castle of our own.

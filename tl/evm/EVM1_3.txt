@@ -464,7 +464,7 @@ Hmm, this is the only way into the fortress... We must lower that bridge somehow
 This Hex victory is for debugging. If you reach it in normal play, it is a bug.
 
 @112.0
-Then let us enter Xiapi Castle.
+Then let us enter Xiapi.
 
 @113
 Go to the council hall in Xiapi
@@ -485,7 +485,7 @@ With this wound he will not die. Zhang Liao... Do not throw your life away.
 Lu Bu was captured. The Liu Bei-Cao Cao alliance defeated Lu Bu's army.
 
 @120.0
-Then let us enter Xiapi Castle.
+Then let us enter Xiapi.
 
 @121
 Go to the council hall in Xiapi

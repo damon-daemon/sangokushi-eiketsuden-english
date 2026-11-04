@@ -53,7 +53,7 @@ Hold on, you two. You cannot tell how the world is moving by sitting still.
 Brother, why not go out and see what is happening?
 
 @7.6
-Yeah, Brother. We two will mind the place, so go on out.
+Yeah, Big Brother. We two will mind the place, so go on out.
 
 @8
 Gather information
@@ -71,7 +71,7 @@ Brother, a guest has arrived.
 Brother, please speak with him.
 
 @13.0
-I'm no good at this. Brother, you should do the talking.
+I'm no good at this. Big Brother, you should do the talking.
 
 @14.0
 I am Jian Yong. I heard of your exploits, Lord Liu Bei, and have come. Please take me in as your retainer.
@@ -107,16 +107,16 @@ Yes. Envoy, tell Lord Gongsun Zan that we will come to his aid at once.
 Oh! Thank you!
 
 @21.4
-My lord, to reach Jieqiao we must pass through either Guangchuan or Xindu Castle.
+My lord, to reach Jieqiao we must pass through either Guangchuan or Xindu.
 
 @21.5
-I see. Guangchuan... or Xindu Castle. Which should we take?
+I see. Guangchuan... or Xindu. Which should we take?
 
 @21.6
-Xindu Castle is the longer way, but considering supplies, it is safer.
+Xindu is the longer way, but considering supplies, it is safer.
 
 @21.7
-What are you saying? We're in danger if we don't hurry! Brother, let's take the shortcut.
+What are you saying? We're in danger if we don't hurry! Big Brother, let's take the shortcut.
 
 @21.8
 My lord, be most careful in battle. When you are fully prepared, speak to me.
@@ -137,16 +137,16 @@ Then let us march.
 Let's go, quick!
 
 @26.0
-To get to Jieqiao from here, we must pass through either Guangchuan or Xindu Castle.
+To get to Jieqiao from here, we must pass through either Guangchuan or Xindu.
 
 @27.0
 Lord Liu Bei, please hurry as much as you can.
 
 @28.0
-Brother, which way will you take, Guangchuan or Xindu Castle?
+Brother, which way will you take, Guangchuan or Xindu?
 
 @29
-Take Xindu Castle\nTake Guangchuan
+Take Xindu\nTake Guangchuan
 
 @30.0
 Then we go through Guangchuan. Please form your units.
@@ -167,22 +167,22 @@ What! Yuan Shao's army is behind us? Damn! Then we advance and hit their main ca
 Let us march for Guangchuan.
 
 @34.0
-Then we go through Xindu Castle. Please form your units.
+Then we go through Xindu. Please form your units.
 
 @35.0
-Chunyu Qiong, head for Xindu Castle. Strike Gongsun Zan from behind.
+Chunyu Qiong, head for Xindu. Strike Gongsun Zan from behind.
 
 @35.1
 Yes, sir.
 
 @35.2
-Men, we head for Xindu Castle to attack Gongsun Zan's rear! Follow me!
+Men, we head for Xindu to attack Gongsun Zan's rear! Follow me!
 
 @36.0
 What! Yuan Shao's army is behind us? Damn! Then we advance and attack Yuan Shao's main camp at Jieqiao!
 
 @37.0
-Let us march for Xindu Castle.
+Let us march for Xindu.
 
 @38
 Destroy Pang Ji
@@ -203,7 +203,7 @@ If Yuan Shao's army has come this far, Gongsun Zan's army must be in trouble.
 Hm, what is that? Could it be Liu Bei's army from Pingyuan? I see, they mean to reinforce Gongsun Zan. Listen, we strike before the enemy joins up. Gongsun Zan can wait. Deal with Liu Bei's army first. All troops, meet them!
 
 @40.4
-Brother, Yuan Shao's army has shown up.
+Big Brother, Yuan Shao's army has shown up.
 
 @41.0
 I take it you are the commander. Let us fight!
@@ -248,13 +248,13 @@ Yes, but for Yuan Shao's army to have come this far, the war does not seem to be
 So it seems. ...Hm? My lord, someone is coming.
 
 @50.0
-Lord Liu Bei, forgive our sudden visit. We are officers of Xindu Castle. I am Han Ying, and...
+Lord Liu Bei, forgive our sudden visit. We are officers of Xindu. I am Han Ying, and...
 
 @50.1
 Guo Shi. Pleased to meet you.
 
 @50.2
-Why have you officers of Xindu Castle come to our camp?
+Why have you officers of Xindu come to our camp?
 
 @50.3
 Yuan Shao's army attacked our castle, Xindu...
@@ -263,7 +263,7 @@ Yuan Shao's army attacked our castle, Xindu...
 Chunyu Qiong, one of Yuan Shao's men, overran it.
 
 @50.5
-What! Has Yuan Shao come as far as Xindu Castle?
+What! Has Yuan Shao come as far as Xindu?
 
 @50.6
 Yes. Afterward we heard of your reinforcements, Lord Liu Bei, and came to rely on you.
@@ -275,7 +275,7 @@ It is too galling to let Yuan Shao have his way. Please take us both into your a
 We will not be satisfied until we have struck back at Yuan Shao. Please, we beg you!
 
 @50.9
-...Brother, let's take them in. They were driven from their castle. They've got nowhere to go.
+...Big Brother, let's take them in. They were driven from their castle. They've got nowhere to go.
 
 @50.10
 If you two join us, our army will be stronger. I gladly accept.
@@ -284,7 +284,7 @@ If you two join us, our army will be stronger. I gladly accept.
 Oh! Thank you!
 
 @50.12
-Now we can avenge Xindu Castle.
+Now we can avenge Xindu.
 
 @51
 Han Ying and Guo Shi joined as retainers!
@@ -314,7 +314,7 @@ Thanks for your patronage. If you want anything, just speak to me.
 March to aid Gongsun Zan
 
 @55.0
-Brother, hurry up. I'm itching to go.
+Big Brother, hurry up. I'm itching to go.
 
 @56.0
 Before marching, you can prepare in two ways: saving your game and buying items.
@@ -332,7 +332,7 @@ Are you ready?
 Then let us set out.
 
 @61.0
-Brother, which way are you going, Qinghe or Julu? Decide quickly!
+Big Brother, which way are you going, Qinghe or Julu? Decide quickly!
 
 @62
 Chunyu Qiong retreats\nLiu Bei reaches the castle gate
@@ -341,10 +341,10 @@ Chunyu Qiong retreats\nLiu Bei reaches the castle gate
 I cannot hold out any longer... Who would have thought Yuan Shao's army would come here...
 
 @63.1
-Good! Xindu Castle will fall any moment now!
+Good! Xindu will fall any moment now!
 
 @63.2
-Brother, Xindu Castle is under attack by Yuan Shao's army.
+Brother, Xindu is under attack by Yuan Shao's army.
 
 @63.3
 Yuan Shao's army has come this far? What happened to Lord Gongsun Zan?
@@ -353,7 +353,7 @@ Yuan Shao's army has come this far? What happened to Lord Gongsun Zan?
 Hm, whose army is that? ...Is that not Liu Bei's army from Pingyuan? Why is Liu Bei's army here? ...Never mind. I will take Liu Bei's head right here. All troops, turn around and face Liu Bei's army!
 
 @63.5
-Brother, let us save Xindu Castle! If we hold Xindu Castle, Yuan Shao's army will run out of strength.
+Brother, let us save Xindu! If we hold Xindu, Yuan Shao's army will run out of strength.
 
 @64.0
 That must be their commander. Hey, you! I'm Zhang Fei! You there, fight me one on one!
@@ -386,10 +386,10 @@ Brother, Yuan Shao's army has retreated.
 Yes, but for Yuan Shao's army to have come this far, the war does not seem to be going well.
 
 @70.2
-So it seems. For now, let us enter Xindu Castle.
+So it seems. For now, let us enter Xindu.
 
 @71
-Enter Xindu Castle
+Enter Xindu
 
 @72
 Xindu Council Hall
@@ -404,7 +404,7 @@ No thanks are needed. It was lucky we came through Xindu.
 ...?
 
 @73.3
-We were on our way to Jieqiao to reinforce Gongsun Zan's army. Anyway, I am glad Xindu Castle is safe.
+We were on our way to Jieqiao to reinforce Gongsun Zan's army. Anyway, I am glad Xindu is safe.
 
 @73.4
 I see. Then I will go with you. I want to repay this kindness.
@@ -425,7 +425,7 @@ Are you ready?
 My lord, is the army's equipment in perfect order?
 
 @79.0
-Brother, if we don't march soon, we might not make it in time.
+Big Brother, if we don't march soon, we might not make it in time.
 
 @80.0
 I will go with the reinforcements too.
@@ -443,7 +443,7 @@ No. To reach Jieqiao we must pass through either Qinghe or Julu.
 But Yuan Shao already has this many troops here. The road ahead will be harder still.
 
 @81.4
-I'll deal with it. So, Brother, which way, Qinghe or Julu?
+I'll deal with it. So, Big Brother, which way, Qinghe or Julu?
 
 @82
 Take Julu\nTake Qinghe
@@ -659,7 +659,7 @@ Guan Chun and Geng Wu joined as retainers!
 Now, beyond this lies Jieqiao, where Yuan Shao's main army is.
 
 @122.1
-Brother, let's hurry to Jieqiao.
+Big Brother, let's hurry to Jieqiao.
 
 @123
 Go to Gongsun Zan's rescue at Jieqiao
@@ -689,7 +689,7 @@ Tch. Out of my way, small fry!
 Here I come, Wen Chou!
 
 @127.0
-Ha ha ha! With skill like that, you cannot beat me.
+Hahaha! With skill like that, you cannot beat me.
 
 @128.0
 You won't escape, Gongsun Zan! Die!
@@ -791,7 +791,7 @@ We did it! We seized Yuan Shao's supply depot!
 Your huge army has turned against you, Yuan Shao!
 
 @140.2
-Brother, we did it!
+Big Brother, we did it!
 
 @140.3
 This battle is ours!
