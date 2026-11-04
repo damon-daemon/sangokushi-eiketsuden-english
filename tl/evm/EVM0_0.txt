@@ -26,7 +26,7 @@ Your Majesty, do not trouble yourself. Leave all affairs of state to me.
 Now, if you will excuse me.
 
 @8.0
-Hmph, some emperor! Without me, the Han court would have fallen long ago. But no matter. The true ruler now is Dong Zhuo. Emperor or not, no one can defy me.
+Hmph, some emperor! Without me, the Han court would have fallen long ago. But no matter. I, Dong Zhuo, am the true ruler now. Emperor or not, no one can defy me.
 
 @9.0
 Your Majesty, it would be wise not to cross Lord Dong Zhuo, for your own sake.
@@ -206,7 +206,7 @@ Do not forget to equip your weapons. Just carrying them is of no use. I will joi
 My army will join as well. Let us strike the enemy together.
 
 @49.0
-Brother, let's march! Tell Guan Yu when you're ready.
+Big Brother, let's march! Tell Guan Yu when you're ready.
 
 @50.0
 Are you ready?
@@ -260,7 +260,7 @@ You will regret in the next world that you took me for a common soldier.
 Guan Yu leveled up!
 
 @57.0
-Oh, Brother, looks like Guan Yu beat Hua Xiong.
+Oh, Big Brother, looks like Guan Yu beat Hua Xiong.
 
 @57.1
 Yes, our army has won!
@@ -281,7 +281,7 @@ You got 100 gold!
 The enemy seems to have fled to Hulao Pass ahead. Brother, what shall we do?
 
 @62.1
-We pursue, of course. Brother, I'm going ahead!
+We pursue, of course. Big Brother, I'm going ahead!
 
 @62.2
 Hey, Zhang Fei! Don't act on your own!
@@ -335,7 +335,7 @@ Oh ho, so there was still someone who would come at me. What is your name?
 I am Liu Bei's sworn brother, Zhang Fei! Lu Bu, I'll kill you! Prepare yourself!
 
 @69.3
-Ha ha ha! You have nerve for a common soldier. I, Lu Bu, will take you on. Come!
+Hahaha! You have nerve for a common soldier. I, Lu Bu, will take you on. Come!
 
 @69.4
 Don't mock me! I'll make you regret it!
@@ -404,7 +404,7 @@ There is no reason to hand this city's treasures over to the rebels. Confiscate 
 Yes, sir.
 
 @82.0
-Emperors of old, forgive my failure to defend this land. Will the Han end in my reign?
+Emperors of old, forgive my failure to defend this land. Will the Han end during my reign?
 
 @82.1
 Your Majesty...
@@ -440,7 +440,7 @@ True, the troops are tired.
 There are no comrades for me here. I am going home. Farewell.
 
 @88.0
-Comrades, indeed! He is not even of a noble family, yet he puts on airs.
+Comrades, indeed! A country bumpkin of no noble family, putting on airs!
 
 @88.1
 Still, Cao Cao, the heart of the army, is gone, and the troops are tired. Very well. This coalition is disbanded today.
@@ -449,7 +449,7 @@ Still, Cao Cao, the heart of the army, is gone, and the troops are tired. Very w
 Lord Liu Bei, if the chance comes, let us meet again.
 
 @90.0
-Lord Liu Bei will surely accomplish great things someday. ...Ha ha, an old man's idle talk. Please pay it no mind. Now, farewell.
+Lord Liu Bei will surely accomplish great things someday. ...Haha, just an old man's idle talk. Please pay it no mind. Now, farewell.
 
 @91.0
 Then we shall withdraw too.

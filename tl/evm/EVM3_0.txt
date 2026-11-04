@@ -572,7 +572,7 @@ My lord, the enemy may have lost the will to fight. It may be wise to try persua
 Cao Cao has already left Jing Province. Surrender at once and your life will be spared.
 
 @129.1
-Ha ha ha! If you want this land, take it by force. Or are you afraid of me?
+Hahaha! If you want this land, take it by force. Or are you afraid of me?
 
 @129.2
 What?! Remember those words!
@@ -893,13 +893,13 @@ Damn you... Han Xuan... Gah...
 To catch even his own soldiers in it...
 
 @209.1
-Ha ha ha! Do you see now, Liu Bei?!
+Hahaha! Do you see now, Liu Bei?!
 
 @209.2
 Lord Han Xuan, what is this? To drag in your own men!
 
 @209.3
-Why, they were of use to me. They should be glad of it. Ha ha ha!
+Why, they were of use to me. They should be glad of it. Hahaha!
 
 @210.0
 As expected of Liu Bei's army. Strong...

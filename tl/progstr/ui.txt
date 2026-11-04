@@ -480,7 +480,7 @@ PROG:800c9af4	None
 PROG:800c9b28	Use
 PROG:800c9b30	Equip
 PROG:800c9b38	Discard
-PROG:800c9d1c	 Castle
+PROG:800c9d1c	 City
 PROG:800c9d2c	Exit
 PROG:800c9d34	Gate
 PROG:800c9d3c	Manor

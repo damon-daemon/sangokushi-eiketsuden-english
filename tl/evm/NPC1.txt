@@ -17,13 +17,13 @@ Mind your units' HP. You never know when they will be struck down on the battlef
 Using items that suit you is very important. Use them well and you will grow even stronger.
 
 @6
-South of here lies the castle of Beihai. They say a man called Kong Rong governs it.
+South of here lies the city of Beihai. They say a man called Kong Rong governs it.
 
 @7
 There is a shopkeeper here too, but Beiping sells better goods.
 
 @8
-War with Yuan Shao? You must be joking. Fight a country that big?
+War with Yuan Shao? You must be joking. Fight a domain that big?
 
 @9
 I recall there is a general named Fan Gong in Xindu. I think he led a Martial Artists unit.
@@ -95,7 +95,7 @@ Infantry beat archers, archers beat cavalry, and cavalry beat infantry, they say
 They say HP recovers when you stay in a village or a fort.
 
 @33
-This is the town of Beiping.
+This is the city of Beiping.
 
 @34
 They call it Swords because the soldiers use short weapons like swords.

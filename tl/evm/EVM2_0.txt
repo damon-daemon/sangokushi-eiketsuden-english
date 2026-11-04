@@ -23,7 +23,7 @@ Talk over the future with Sun Qian and the others
 My lord, do not worry so. Guan Yu and Zhang Fei are surely alive somewhere.
 
 @8.0
-My lord, an urgent messenger has come from Yuan Shao. He says you are to come to Baima Castle at once.
+My lord, an urgent messenger has come from Yuan Shao. He says you are to come to Baima at once.
 
 @8.1
 But Guan Yu and Zhang Fei have still not been found, and I am in no state for...
@@ -41,7 +41,7 @@ Ah, please do. Take care on the road.
 I will go at once.
 
 @10
-Go to Baima Castle and meet Yuan Shao
+Go to Baima and meet Yuan Shao
 
 @11.0
 But what could Yuan Shao want, summoning you so suddenly? In any case, my lord, off to Baima at once.

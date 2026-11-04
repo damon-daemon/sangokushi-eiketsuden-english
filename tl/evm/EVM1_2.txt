@@ -29,7 +29,7 @@ Hear Jian Yong's report
 Brother, please hear Jian Yong's report.
 
 @8.0
-Brother, let's hear Jian Yong's report.
+Big Brother, let's hear Jian Yong's report.
 
 @9.0
 My lord, Jian Yong's report, please.
@@ -56,7 +56,7 @@ Then, Brother, please prepare to march.
 Suppress the bandits
 
 @13.0
-Come on, Brother, let's march! Bandits are nothing to me. I'll flatten them in a snap!
+Come on, Big Brother, let's march! Bandits are nothing to me. I'll flatten them in a snap!
 
 @14.0
 Even bandits must not be taken lightly. If we lose, that is the end.
@@ -71,7 +71,7 @@ Are you ready?
 Brother, where shall we go?
 
 @18
-Return to Xiaopei Castle\nGo to Taishan\nGo to Xiaqiu\nGo to Pengcheng
+Return to Xiaopei\nGo to Taishan\nGo to Xiaqiu\nGo to Pengcheng
 
 @19.0
 Leave the suffering people and return to the castle?! Have you forgotten our ideals?
@@ -116,7 +116,7 @@ Come on, bandits, give me a good time. I've gone soft lately.
 My lord, they say a woman leads the bandits here.
 
 @31.1
-Brother, talk her into joining us somehow. Come on, Brother. Please, Big Brother!
+Big Brother, talk her into joining us somehow. Come on. Pleeease, Big Brother!
 
 @31.2
 Honestly, you...
@@ -143,7 +143,7 @@ You got 500 gold!
 Good, now the people of Taishan can live in peace.
 
 @38.0
-Brother, we have put down all the bandits. Let us return to Xiaopei Castle.
+Brother, we have put down all the bandits. Let us return to Xiaopei.
 
 @39.0
 Brother, where shall we go?
@@ -185,7 +185,7 @@ You got 500 gold!
 Good, Pengcheng is settled.
 
 @50.0
-Brother, we have put down all the bandits. Let us return to Xiaopei Castle.
+Brother, we have put down all the bandits. Let us return to Xiaopei.
 
 @51.0
 Brother, where shall we go?
@@ -224,7 +224,7 @@ You got 500 gold!
 Now Xiaqiu too will be quiet.
 
 @62.0
-Brother, we have put down all the bandits. Let us return to Xiaopei Castle.
+Brother, we have put down all the bandits. Let us return to Xiaopei.
 
 @63.0
 Brother, where shall we go?
@@ -263,13 +263,13 @@ Do not let your guard down.
 Hm? My lord, it looks like an envoy.
 
 @75.0
-Lord Liu Bei, Lord Tao Qian's condition has worsened. Please come to Xuzhou Castle at once.
+Lord Liu Bei, Lord Tao Qian's condition has worsened. Please come to Xuzhou at once.
 
 @75.1
 What?! Lord Tao Qian!
 
 @75.2
-Yes, Lord Tao Qian is now at his residence in Xuzhou Castle. Please hurry.
+Yes, Lord Tao Qian is now at his residence in Xuzhou. Please hurry.
 
 @75.3
 Then, Brother, let us go at once.
@@ -278,7 +278,7 @@ Then, Brother, let us go at once.
 Visit the sick Tao Qian\nat his residence in Xuzhou
 
 @77.0
-Lord Liu Bei, please go to the residence in Xuzhou Castle at once. Every moment counts.
+Lord Liu Bei, please go to the residence in Xuzhou at once. Every moment counts.
 
 @78
 Tao Qian's Residence, Xuzhou
@@ -311,7 +311,7 @@ Lord Liu Bei is the right man to be our master. Please protect Xuzhou.
 Brother, why hesitate? You can have a domain of your own!
 
 @84.0
-Brother, Lord Tao Qian himself is urging you. Make up your mind quick.
+Big Brother, Lord Tao Qian himself is urging you. Make up your mind quick.
 
 @85.0
 If you grant my wish, I will have no regrets. Lord Liu Bei, I beg you.
@@ -365,7 +365,7 @@ Plan countermeasures at the council hall
 We have lost a great man.
 
 @97.0
-For Lord Tao Qian's sake too, we must defend Xuzhou. Right, Brother?
+For Lord Tao Qian's sake too, we must defend Xuzhou. Right, Big Brother?
 
 @98.0
 Xuzhou is surrounded by enemies on all sides, and easy to attack.
@@ -380,7 +380,7 @@ It has been a while, Lord Liu Bei. I have a favor to ask of you today.
 That Lu Bu... What could he want?
 
 @102.0
-Brother, it's Lu Bu, you know.
+Big Brother, it's Lu Bu, you know.
 
 @103.0
 My lord, you know Lu Bu too. I think it is best for Xuzhou not to get involved with him.
@@ -401,7 +401,7 @@ Since our defeat by Cao Cao, we have wandered from place to place.\n\nWe heard o
 I do not intend to go against your wishes, Brother, but I oppose this.
 
 @109.0
-Brother, no need to think about it.
+Big Brother, no need to think about it.
 
 @110.0
 My lord, you know Lu Bu too. I think it is best for Xuzhou not to get involved with him.
@@ -419,10 +419,10 @@ Lord Liu Bei, a favorable reply, please.
 Lord Liu Bei, a favorable reply, please!
 
 @114.1
-Very well. I permit you to enter Xiaopei Castle. Make yourselves at home there.
+Very well. I permit you to enter Xiaopei. Make yourselves at home there.
 
 @114.2
-Th-thank you! I never expected such a fine answer. Why, you owe your present standing to me, you know. When Cao Cao attacked this land, I was the one who attacked Chenliu. You never know where fate will tie us together, do you? Ha ha ha!
+Th-thank you! I never expected such a fine answer. Why, you owe your present standing to me, you know. When Cao Cao attacked this land, I was the one who attacked Chenliu. You never know where fate will tie us together, do you? Hahaha!
 
 @114.3
 What?!
@@ -443,7 +443,7 @@ Don't stop me, Guan Yu! I'm thinking of our brother!
 Enough, come outside!
 
 @117.0
-I am sorry. My brother is on edge right now. Please go on to Xiaopei Castle.
+I am sorry. My brother is on edge right now. Please go on to Xiaopei.
 
 @117.1
 ...Y-yes. Then I will accept your kindness.
@@ -482,7 +482,7 @@ Plan countermeasures
 Brother, I cannot trust Lu Bu.
 
 @123.0
-Why, Brother? Why keep a guy like that in Xuzhou?
+Why, Big Brother? Why keep a guy like that in Xuzhou?
 
 @124.0
 Lu Bu is a man who kills even his father. He cannot be trusted.
@@ -548,7 +548,7 @@ Then I take my leave.
 As you think best, Brother.
 
 @138.0
-Yuan Shu is a pushover. Brother, if it's decided, let's march.
+Yuan Shu is a pushover. Big Brother, if it's decided, let's march.
 
 @139.0
 This will be our first battle too. Watch us.
@@ -569,7 +569,7 @@ The Emperor is with Cao Cao now. So this is probably Cao Cao's doing. But it is 
 Go to Huainan to subdue Yuan Shu
 
 @143.0
-Yuan Shu is a pushover. Brother, if it's decided, let's march right now.
+Yuan Shu is a pushover. Big Brother, if it's decided, let's march right now.
 
 @144.0
 Since the march is decided, we will simply follow.
@@ -695,7 +695,7 @@ Brother, Yuan Shu does not seem to be here, but be careful. I sense something om
 M-my lord! Lu Bu has taken Xuzhou!
 
 @168.1
-What?! Damn Lu Bu! Forgetting our brother's kindness!\n\nBrother, let me deal with Lu Bu! I can't forgive that one!!
+What?! Damn Lu Bu! Forgetting Big Brother's kindness!\n\nBig Brother, let me deal with Lu Bu! I can't forgive that one!!
 
 @168.2
 Brother, Lu Bu's army has appeared!
@@ -710,7 +710,7 @@ Lu Bu's fate hangs on this battle. All units, advance!
 ...
 
 @170.2
-Ha ha ha, this is the end, Liu Bei.
+Hahaha, this is the end, Liu Bei.
 
 @170.3
 Brother, we will be wiped out like this. Let us fall back for now.
@@ -758,7 +758,7 @@ Guan Yu leveled up!
 Retreat! I do not want to fight that man...
 
 @181.0
-Damn Lu Bu! Brother, Guan Yu, let's go back to Xuzhou right now and take Lu Bu down!
+Damn Lu Bu! Big Brother, Guan Yu, let's go back to Xuzhou right now and take Lu Bu down!
 
 @181.1
 No, fighting Lu Bu now would disadvantage our weary army.\n\nBrother, let us rely on Cao Cao and go to Xuchang.

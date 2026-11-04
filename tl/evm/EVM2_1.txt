@@ -38,10 +38,10 @@ How do you do. I am Liu Qi. Your name is Liu as well, my lord. My father and you
 Pleased to meet you. I am Liu Cong. I hope we will get along.
 
 @13.0
-Liu Bei, please look after my sons. Now then... would you guard Xinye Castle for me?
+Liu Bei, please look after my sons. Now then... would you guard Xinye for me?
 
 @13.1
-Xinye Castle...?
+Xinye...?
 
 @13.2
 It is not a large castle. It lies in the north of Jing Province. I would like you to stay there and watch Cao Cao's movements.
@@ -50,7 +50,7 @@ It is not a large castle. It lies in the north of Jing Province. I would like yo
 Very well. Thank you for everything.
 
 @14
-Go to Xinye Castle
+Go to Xinye
 
 @15.0
 Xinye lies north of Xiangyang. I am counting on you.

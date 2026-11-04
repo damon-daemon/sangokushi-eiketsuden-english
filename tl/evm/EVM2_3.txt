@@ -302,7 +302,7 @@ Still, that Kongming. The fire attack did not work, but his scheming was quite s
 I am ashamed...
 
 @69.4
-Ha ha ha! Don't worry about it! But I was sure Kongming would just be a burden.
+Hahaha! Don't worry about it! But I was sure Kongming would just be a burden.
 
 @69.5
 Zhang Fei, is something the matter?
@@ -335,7 +335,7 @@ I see... More importantly, my lord, after Xiahou Dun, Cao Cao will surely come. 
 Xiahou Dun retreats\nZhuge Liang seizes the supply depot
 
 @72.0
-Ha ha ha! Liu Bei means to fight in the city? He should have just run. Fine. Either way, you cannot escape this Xiahou Dun.
+Hahaha! Liu Bei means to fight in the city? He should have just run. Fine. Either way, you cannot escape this Xiahou Dun.
 
 @72.1
 Lord Xiahou Dun, our army is large, yet our provisions are nearly gone. We should devise a plan...
@@ -443,7 +443,7 @@ State your business quickly.
 Y-yes. Jing Province has not the slightest wish to fight Lord Cao Cao.
 
 @89.4
-Jing Province surrenders to Lord Cao Cao. Xiangyang Castle will be handed over.
+Jing Province surrenders to Lord Cao Cao. Xiangyang will be handed over.
 
 @89.5
 Heh... I see. Well, well, Envoy, you have worked hard. Tell them that Cao Cao gratefully accepts whatever is offered.
@@ -716,7 +716,7 @@ Cai Mao was slain. The Liu Bei army defeated Cai Mao's army.
 Obtained 900 gold!
 
 @147.0
-My lord, Cai Mao is slain, but Xiangyang Castle is burned and useless. This castle cannot stop Cao Cao's army. Let us head for Jiangxia.
+My lord, Cai Mao is slain, but Xiangyang is burned and useless. This castle cannot stop Cao Cao's army. Let us head for Jiangxia.
 
 @147.1
 Understood. All forces, head for Jiangxia!
