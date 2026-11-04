@@ -12,7 +12,7 @@ between. The game was only released in Japan.
 > phrasing and inconsistent terms. Corrections are welcome.
 
 > **This is a beta.** All of the game's text is in English, but only the prologue, chapter 1 and the
-> first section of chapter 2 (up to the arrival in Xiangyang) have been played in order. The opening
+> first two sections of chapter 2 (through the Nanyang battle) have been played in order. The opening
 > scenes of the later sections, a few later battles and one ending were only checked by jumping to
 > them. Expect some text that is squeezed, cut short or wrapped oddly later on.
 
@@ -109,7 +109,7 @@ No disc data is ever packaged.
   Japanese captions.
 - The Armor and Weapon plates read "Arm" and "Wpn" because the plates are too small.
 - The widest names touch the level icon in the unit panel.
-- Most of the game after the first section of chapter 2 has not been seen in play, including most later battles, and the other
+- Most of the game after the second section of chapter 2 has not been seen in play, including most later battles, and the other
   endings have only been checked by a length test. Their text may overflow in places.
 
 Tested in DuckStation only. Bug reports with a screenshot and where it happened are welcome.
