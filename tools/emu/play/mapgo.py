@@ -14,5 +14,6 @@ for n in range(120):
     x, y = cur()
     if (x, y) == (tx, ty): break
     k = ('Right' if tx > x else 'Left') if abs(tx - x) >= abs(ty - y) else ('Down' if ty > y else 'Up')
-    subprocess.run([PY, 'tools/emu/vpad.py', 'hold', k, '40'], stdout=subprocess.DEVNULL); time.sleep(0.35)
+    ms = '40' if abs(tx - x) + abs(ty - y) > 3 else '20'   # near the map edge a 40 ms tap moves 2-3 cells: finish with 20 ms single steps
+    subprocess.run([PY, 'tools/emu/vpad.py', 'hold', k, ms], stdout=subprocess.DEVNULL); time.sleep(0.5)
 print('cursor', cur(), 'taps', n)

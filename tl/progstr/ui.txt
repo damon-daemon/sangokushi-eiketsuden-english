@@ -131,7 +131,7 @@ PROG:800122f8	Not usable by this class!
 PROG:80012314	Discard this?
 PROG:80012324	      Item description                                                 End
 PROG:80012348	The full map can only be\nviewed on the field map
-PROG:80012378	Enter %s %s?
+PROG:80012378	Enter %s%s?
 PROG:8001238c	Leave here?
 PROG:800123a0	...Is no one here?
 PROG:800124b0	I sell items.\nHow may I help you?
@@ -480,7 +480,7 @@ PROG:800c9af4	None
 PROG:800c9b28	Use
 PROG:800c9b30	Equip
 PROG:800c9b38	Discard
-PROG:800c9d1c	Castle
+PROG:800c9d1c	 Castle
 PROG:800c9d2c	Exit
 PROG:800c9d34	Gate
 PROG:800c9d3c	Manor
