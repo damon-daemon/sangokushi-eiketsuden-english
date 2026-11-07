@@ -17,7 +17,7 @@ Chenliu Council Hall
 My lord, terrible news!
 
 @6.0
-What is this uproar? Can there be news worse than Dong Zhuo's death?
+What is this uproar? Can there be news graver than Dong Zhuo's death?
 
 @6.1
 Y-yes, my lord. Your father, Lord Cao Song, has been killed by Tao Qian's men.
@@ -41,7 +41,7 @@ Sir!
 Lead an army to Xuzhou at once and take the vanguard! I will follow as far as Xiaopei!
 
 @8.1
-Sir, I am unworthy of such an honor. I will march to Xuzhou at once and bring back Tao Qian's head!
+Sir, though I am unworthy of such an honor, I will march to Xuzhou at once and bring back Tao Qian's head!
 
 @9.0
 Off to Xuzhou at once! We fight to avenge our lord's father!
@@ -92,7 +92,7 @@ How dreadful! A welcome meant in kindness has only done harm.
 Lord Liu Bei, please save Xuzhou! Whatever becomes of us, if this goes on, many people will be caught in the war.
 
 @18.1
-...I understand. If I am of any use, I will help.
+...I understand. If I can be of any use, I will help.
 
 @18.2
 Oh! Thank you! I will never forget this kindness.
@@ -110,7 +110,7 @@ Confer with Guan Yu and Zhang Fei
 Big Brother, even if we send aid, Cao Cao's army is too strong for us. What do we do?
 
 @21.0
-Brother, even if we send aid, our army today lacks the strength to stand against Cao Cao.
+Brother, even if we send aid, our army currently lacks the strength to stand against Cao Cao.
 
 @21.1
 Hm. Then let us borrow troops from Lord Gongsun Zan.

@@ -11,7 +11,7 @@ between. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.1).** All of the game's text is in English, but only the prologue, chapter 1 and the
+> **This is a beta (v0.9.2).** All of the game's text is in English, but only the prologue, chapter 1 and the
 > first two sections of chapter 2 (through the Nanyang battle) have been played in order. The opening
 > scenes of the later sections, a few later battles and one ending were only checked by jumping to
 > them. Expect some text that is squeezed, cut short or wrapped oddly later on.
@@ -117,6 +117,7 @@ Tested in DuckStation only. Bug reports with a screenshot and where it happened 
 ## Credits
 
 - Translation and hacking: [damon-daemon](https://github.com/damon-daemon)
+- Playtesting and bug reports: [Rumi495](https://github.com/Rumi495)
 - Sangokushi Eiketsuden © Koei Tecmo. This is an unofficial fan project, not affiliated with
   or endorsed by Koei Tecmo. Please support the official releases.
 

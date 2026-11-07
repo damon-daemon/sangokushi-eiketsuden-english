@@ -8,7 +8,7 @@ Chapter 1: Battle of Jieqiao
 After the anti-Dong Zhuo coalition disbanded, Yuan Shao was the first to move. He took Ji Province by stratagem, made Ye his base, and built a great power. To march farther north, Yuan Shao massed a huge force at Jieqiao, on the border with Beiping.
 
 @3.0
-Behold, men! Beiping is calling us! Defeat Gongsun Zan and the north of the continent is ours! We attack Beiping in two prongs. Zhang He, advance from Julu. Qu Yi, advance from Qinghe. The realm is as good as mine!
+Behold, men! Beiping is calling us! Defeat Gongsun Zan and the northern lands are ours! We attack Beiping in two prongs. Zhang He, advance from Julu. Qu Yi, advance from Qinghe. The realm is as good as mine!
 
 @3.1
 I will head for Julu at once.
@@ -464,7 +464,7 @@ Destroy Qu Yi
 Qu Yi! I, Yan Gang, demand a duel!
 
 @87.1
-You have nerve. But what bad luck to face Qu Yi!
+You have nerve. But what bad luck to face me, Qu Yi!
 
 @87.2
 Shut up! Here I come!
@@ -485,13 +485,13 @@ Hm? Is that not Liu Bei's army? I see, you mean to reinforce Gongsun Zan? Not if
 You there, commander! Fight me one on one!
 
 @89.1
-What? Another one? Very well, I will take you on. You will end up like Yan Gang just now.
+What? Another one? Very well, I will take you on. You will end up just like Yan Gang did.
 
 @89.2
 We shall see about that.
 
 @90.0
-I still have much to learn. And such trouble with a foe like this!
+To have such trouble with a foe like this! I still have much to learn.
 
 @91
 Guan Yu leveled up!
@@ -599,10 +599,10 @@ I see. So they seek revenge.
 Whatever, they're not enemies, right? Then they're allies!
 
 @112
-Geng Wu and Guan Chun appeared as reinforcements!
+Geng Wu and Guan Chun came to reinforce us!
 
 @113.0
-...Damn. Losing to Liu Bei... Retreat.
+...Damn. To lose to Liu Bei... Retreat.
 
 @113.1
 All right! Our army has won!
@@ -641,7 +641,7 @@ Lord Liu Bei, I am Guan Chun, once a retainer of Han Fu.
 I am Geng Wu.
 
 @120.2
-Yes.
+Yes, I know of you.
 
 @120.3
 Our lord, Han Fu, lost Ji Province to Yuan Shao and lives quietly in the countryside. We have yet to repay our grudge against Yuan Shao. Please let us fight as well.
@@ -713,7 +713,7 @@ Whew, I am in your debt. My thanks. What is your name?
 I am Zhao Yun.
 
 @131.2
-I served Yuan Shao until now, but I realized he fights only for his own interests, so I decided to return home.
+I served Yuan Shao until now, but I realized he fights only for his own gain, so I decided to return home.
 
 @131.3
 How foolish of Yuan Shao... Tell me, will you lend me your strength?
@@ -797,7 +797,7 @@ Big Brother, we did it!
 This battle is ours!
 
 @141.0
-Damn that Liu Bei...! I had my hand on Gongsun Zan's head... Gongsun Zan! One day I will repay this grudge and make the northern continent mine! All troops, fall back!
+Damn that Liu Bei...! I had Gongsun Zan's head within reach... Gongsun Zan! One day I will repay this grudge and make the northern lands mine! All troops, fall back!
 
 @142
 Gongsun Zan's army won the Battle of Jieqiao
@@ -806,7 +806,7 @@ Gongsun Zan's army won the Battle of Jieqiao
 You got 400 gold!
 
 @144.0
-Gongsun Zan, remember this!
+Gongsun Zan, you will pay for this!
 
 @145.0
 Lord Liu Bei, thank you for coming. You have saved my life.
@@ -815,7 +815,7 @@ Lord Liu Bei, thank you for coming. You have saved my life.
 Not at all. I am just glad you are safe.
 
 @145.2
-Oh yes, there is one more benefactor who saved me. Let me introduce him to you, Lord Liu Bei. This is Lord Zhao Yun.
+Oh yes, there is one more benefactor who saved me. Let me introduce him to you, Lord Liu Bei. This is Sir Zhao Yun.
 
 @145.3
 I am Liu Bei, style name Xuande.
