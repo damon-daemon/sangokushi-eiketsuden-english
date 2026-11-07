@@ -26,6 +26,10 @@ FONT_LEFT = 1                     # blank columns left of it (see font)
 OUTLINE_FIX = [(0x80039920, 0x2c42000f, 0x2c420007), (0x80039934, 0x2c420008, 0x2c420010)]
 DRAW1, DRAW2 = 0x8003a10c, 0x8003a2e0
 SETPOS = 0x80023038
+# unit panel 0x8003518c: name at col 32 after the class icon (x 240), room to the frame ~x 306; the panel
+# interior is ~x 234-306 = cols 29 + 9 (text x = col * 8 + 1)
+PRINTF, CLASS_ICON = 0x80024b40, 0x8004aa14
+PANEL_ROOM, PANEL_COL, PANEL_COLS = 50, 29, 9
 LINE_MAX = 0x50                   # buffer 88 B
 GLYPH_LIMIT = 192                 # sprite pool 0x80125ce4, DR_MOVE pool 0x800ceeb0
 
@@ -350,7 +354,43 @@ def _code(st, widths, name_px, name_offs):
         ('sh', 't1', S(INDENT), 't0'),
         'none:',
         ('jr', 't7'),
-        ('sra', 'v0', 't6', 3)]
+        ('sra', 'v0', 't6', 3),
+
+        'panel:',                         # unit panel 0x8003518c, s3 = unit record: name line (row 9) and class
+        ('addiu', 'sp', 'sp', -0x18),     # icon; a name too wide for the room after the icon is centred
+        ('sw', 'ra', 0x14, 'sp'),         # (callees may spill a0-a3 into 0-0xf: printf is varargs)            # across the panel without the icon (issue #7). Out: s1 = "%s",
+        ('jal', 'pixw'),                  # s0 = class
+        ('addiu', 'a0', 's3', 6),
+        ('sltiu', 't0', 'v0', PANEL_ROOM + 1),
+        ('bnez', 't0', 'pshort'),
+        ('addiu', 'a1', 'zero', PANEL_COLS),
+        ('jal', 'centre'),
+        ('addiu', 'a0', 's3', 6),
+        ('addiu', 'a0', 'v0', PANEL_COL),
+        ('b', 'pset'),
+        ('addu', 's0', 'zero', 'zero'),
+        'pshort:',
+        ('addiu', 'a0', 'zero', 0x20),
+        ('addiu', 's0', 'zero', 1),
+        'pset:',
+        ('jal', SETPOS),
+        ('ori', 'a1', 'zero', 9),
+        ('lui', 's1', 0x800d),
+        ('addiu', 's1', 's1', -0x6258),
+        ('addu', 'a0', 's1', 'zero'),
+        ('jal', PRINTF),
+        ('addiu', 'a1', 's3', 6),
+        ('beqz', 's0', 'pdone'),
+        ('lbu', 's0', 0x1f, 's3'),
+        ('ori', 'a0', 'zero', 0xf0),
+        ('ori', 'a1', 'zero', 0x48),
+        ('jal', CLASS_ICON),
+        ('addu', 'a2', 's0', 'zero'),
+        'pdone:',
+        ('lw', 'ra', 0x14, 'sp'),
+        ('nop',),
+        ('jr', 'ra'),
+        ('addiu', 'sp', 'sp', 0x18)]
 
 
 def _big_loop(lab):
@@ -461,10 +501,22 @@ def _sites(lab):
             ('addu', 'a0', 'v1', 'zero'),
             ('addu', 's0', 'v0', 'zero')] + [('nop',)] * 9),
         # centring / box width by strlen: now columns of 8 px (a token counted 2, English 8 px a byte)
-        *[(va, [0x0c0226d8], [('jal', lab['listw'])]) for va in (0x80025b08, 0x80028758, 0x80035254, 0x80036838, 0x80036bb8, 0x80054c20, 0x80059718, 0x800597ec, 0x80059b5c, 0x80068798, 0x80069e9c)],
+        *[(va, [0x0c0226d8], [('jal', lab['listw'])]) for va in (0x80025b08, 0x80028758, 0x80036838, 0x80036bb8, 0x80054c20, 0x80059718, 0x800597ec, 0x80059b5c, 0x80068798, 0x80069e9c)],
         (0x800168b8, [0x0c0226d8, 0x02002021, 0x92040000, 0x00000000, 0x1080001f, 0x0040b821, 0x00111100, 0x24510100, 0x2482ff80, 0x304200ff, 0x2c420020, 0x14400006, 0x34050140, 0x24820020, 0x304200ff, 0x2c42001d, 0x1040000e, 0x00000000, 0x26100001, 0x00003021, 0x3247ffff, 0x26520001, 0x92030000, 0x34020080, 0xafa20010, 0x3222ffff, 0x00042200, 0xafb30014, 0xafa20018, 0x0c00e76a, 0x00642025, 0x26100001, 0x92040000, 0x00000000, 0x1480ffe6, 0x2482ff80], _big_loop(lab)),
         (0x8003a558, [0x92040000, 0x00000000, 0x1080002e, 0x00008821, 0x00051400, 0x0002a403, 0x34130080, 0x34120300, 0x2482ff80, 0x304200ff, 0x2c420020, 0x14400005, 0x24820020, 0x304200ff, 0x2c42001d, 0x1040001c, 0x00000000, 0x26100001, 0x92030000, 0x00041200, 0x1280000e, 0x00622025, 0x3227ffff, 0x00071080, 0x02421023, 0x00071900, 0x24630100, 0x34050140, 0x00003021, 0x3042ffff, 0x3063ffff, 0xafb30010, 0xafa20014, 0x0800e980, 0xafa30018, 0x34050140, 0x00003021, 0x3227ffff, 0x34020100, 0xafb30010, 0xafb20014, 0xafa20018, 0x0c00e76a, 0x26310001, 0x26100001, 0x92040000, 0x00000000, 0x1480ffd9, 0x2482ff80], _card_loop(lab)),
         *[(va, [0x0c0226d8], [('jal', lab['boxlen'])]) for va in (0x8001c868, 0x8004d0b4)],      # message box, enemy-phase caption
+        # unit panel: name line by `panel`; class line centred by pixels (was strlen / 2 from col 0x22)
+        (0x8003520c, [0x34040020, 0x0c008c0e, 0x34050009, 0x3c11800d, 0x26319da8, 0x02202021, 0x0c0092d0,
+                      0x26650006, 0x340400f0, 0x9270001f, 0x34050048, 0x0c012a85, 0x02003021], [
+            ('jal', lab['panel']), ('nop',)] + [('nop',)] * 11),
+        (0x80035254, [0x0c0226d8, 0x02002021, 0x00021fc2, 0x00621821, 0x00031843, 0x34040022, 0x00832023,
+                      0x00042400, 0x00042403, 0x0c008c0e, 0x3405000b], [
+            ('ori', 'a1', 'zero', PANEL_COLS),
+            ('jal', lab['centre']),
+            ('addu', 'a0', 's0', 'zero'),
+            ('addiu', 'a0', 'v0', PANEL_COL),
+            ('jal', SETPOS),
+            ('ori', 'a1', 'zero', 0xb)] + [('nop',)] * 5),
         (0x800307a8, [0x0c0226d8], [('jal', lab['biglen'])]),
         (0x800685fc, [0x0c0226d8], [('jal', lab['biglen'])]),
         (0x80068efc, [0x0c0226d8], [('jal', lab['biglen'])]),

@@ -818,7 +818,7 @@ My lord, we've been hit! Zhang Liao's army from Hefei is ambushing us!
 Grr... All forces, meet Zhang Liao head on! Throw him back!
 
 @197
-Reinforcements appeared for Zhang Liao's army!
+Zhang Liao's army got reinforcements!
 
 @198.0
 Zhang Liao! Hang in there! Yue Jin has arrived!
@@ -827,7 +827,7 @@ Zhang Liao! Hang in there! Yue Jin has arrived!
 Ah, Yue Jin has come! Rejoice! Reinforcements are here!
 
 @199
-Reinforcements appeared for Zhang Liao's army!
+Zhang Liao's army got reinforcements!
 
 @200.0
 Sorry I'm late, Zhang Liao!

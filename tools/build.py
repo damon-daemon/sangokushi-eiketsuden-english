@@ -14,6 +14,7 @@ import asm, evm, gfx, iso, lztext, names, progstr, setup, tl, vwf
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'build', 'sangokushi_eiketsuden_en_track1.bin')
 EXE_BASE = 0x80010000 - 0x800            # file offset of an address = va - EXE_BASE
+LIST_LV = 10                              # battle unit list: text column of the level (was 9; HP is at 13)
 FIXED = (iso.EXE_NAME,)                  # must keep its place
 # Free space: tail of the 16x16 font 0x8009c654-0x800a9594 (glyphs in SJIS order: rare kanji and
 # the custom glyphs). All of it is free once no Japanese is left.
@@ -143,21 +144,48 @@ def patch_exe(exe):
     exe[0x800ac166 - EXE_BASE] = 9
     expect(exe, 0x8004fbb8, [0x26840009])
     poke(exe, 0x8004fbb8, [0x2684000b])
+    # battle unit list 0x8004ba70 (issue #7): name at col 2, "%2u" level at col 9 = 56 px for the name
+    # ("Gongsun Za|11"); level and -Withdrew- to col LIST_LV, its header icon (x 0x48 = col 9) with it
+    expect(exe, 0x8004bbec, [0x34040009])
+    expect(exe, 0x8004bc04, [0x34040009])
+    expect(exe, 0x8004baa4, [0x34040048])
+    poke(exe, 0x8004bbec, [0x34040000 | LIST_LV])
+    poke(exe, 0x8004bc04, [0x34040000 | LIST_LV])
+    poke(exe, 0x8004baa4, [0x34040000 | LIST_LV * 8])
+    # formation list 0x800347ec: name at col 2, then one run from col 9 = "%3u   %4u ..." (level first);
+    # now from col 10 with "%2u" (tl/progstr/ui.txt PROG:80012604/18): the other columns move 2 px, names get 64 px
+    expect(exe, 0x80034870, [0x26640007])
+    poke(exe, 0x80034870, [0x26640008])
     # battle title 0x80047ce0: the copy of the map name stopped at the first ASCII byte and kept a
-    # Roman numeral for after " Battle"; now the whole name is copied ("Xuchang 1 Battle")
+    # Roman numeral for after " Battle"; now "Battle of " + the whole name ("Battle of Xuchang 1", issue #7).
+    # The buffer is battle struct 0x800cee88 +6 .. +0x23 (30 B; +0x24 is the next field); longest title
+    # "Battle of Yan Province" = 23 B, 109 px (card: 12 tiles, 184 px; its rule follows the text)
     expect(exe, 0x80047d08, [2422472704, 0, 746717312, 339738654, 637861894, 872808583, 344326158, 0, 2422341633, 0, 608370604, 742522883, 272629768, 0, 2422341632, 610467841, 2745303056, 2422341632, 610467841, 134291295, 2745303057, 2422341632, 610467841, 2694971392, 614793217, 2422341632, 610467841, 2694971392, 614793217, 2422472704, 0, 746717312, 272695269, 0, 2694840320])
+    words = 16                             # code words; the prefix follows them
+    pre_at = 0x80047d08 + 4 * words
     line = [
         ('addiu', 'a1', 's0', 6),
-        ('sb', 'zero', 0x10, 'sp'),
+        ('lui', 't0', asm.hi(pre_at)),
+        ('addiu', 't0', 't0', asm.lo(pre_at)),
+        'pre:',
+        ('lbu', 'a0', 0, 't0'),
+        ('addiu', 't0', 't0', 1),
+        ('sb', 'a0', 0, 'a1'),
+        ('bnez', 'a0', 'pre'),
+        ('addiu', 'a1', 'a1', 1),
+        ('addiu', 'a1', 'a1', -1),         # back onto the NUL: the name goes there
         'copy:',
         ('lbu', 'a0', 0, 'v1'),
         ('addiu', 'v1', 'v1', 1),
         ('sb', 'a0', 0, 'a1'),
         ('bnez', 'a0', 'copy'),
         ('addiu', 'a1', 'a1', 1),
-        ('b', 0x80047d94),
-        ('nop',)]
-    put(exe, 0x80047d08, asm.assemble(0x80047d08, line))
+        ('b', 0x80047da8),                 # skip the " Battle" strcat; strcat(s0 + 6, sp + 0x10 = "") stays
+        ('addiu', 's0', 's0', 6)]
+    code = asm.assemble(0x80047d08, line)
+    assert len(code) == 4 * words
+    put(exe, 0x80047d08, code + b'Battle of \0\0')
+    assert pre_at + 12 <= 0x80047d94
     # shop plate: town name in col 2, shop name from col 9 (was 8)
     expect(exe, 0x80037ae0, [0x34040008])
     poke(exe, 0x80037ae0, [0x34040009])

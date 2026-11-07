@@ -144,8 +144,8 @@ PROG:80012574	Choose the officers to sortie
 PROG:80012594	This is the maximum allowed
 PROG:800125b4	Left/Right: change page %2d/%2d
 PROG:800125dc	Officers in battle %2d/%2d                                             End
-PROG:80012604	%3u   %4u   %3u   %3u  %3u
-PROG:80012618	%3u    %3u   %3u   %3u  %3u
+PROG:80012604	%2u   %4u   %3u   %3u  %3u
+PROG:80012618	%2u    %3u   %3u   %3u  %3u
 PROG:800126a8	-
 PROG:800126e0	Items
 PROG:800126ec	Ldr%s%2d
