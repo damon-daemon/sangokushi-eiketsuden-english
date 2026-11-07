@@ -357,9 +357,9 @@ def _code(st, widths, name_px, name_offs):
         ('sra', 'v0', 't6', 3),
 
         'panel:',                         # unit panel 0x8003518c, s3 = unit record: name line (row 9) and class
-        ('addiu', 'sp', 'sp', -0x18),     # icon; a name too wide for the room after the icon is centred
-        ('sw', 'ra', 0x14, 'sp'),         # (callees may spill a0-a3 into 0-0xf: printf is varargs)            # across the panel without the icon (issue #7). Out: s1 = "%s",
-        ('jal', 'pixw'),                  # s0 = class
+        ('addiu', 'sp', 'sp', -0x18),     # icon; a name too wide for the room after the icon is centred across
+        ('sw', 'ra', 0x14, 'sp'),         # the panel without the icon (issue #7). Out: s1 = "%s", s0 = class.
+        ('jal', 'pixw'),                  # Frame 0x18: callees may spill a0-a3 into 0-0xf (printf is varargs)
         ('addiu', 'a0', 's3', 6),
         ('sltiu', 't0', 'v0', PANEL_ROOM + 1),
         ('bnez', 't0', 'pshort'),

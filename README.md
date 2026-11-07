@@ -11,7 +11,7 @@ between. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.1).** All of the game's text is in English, but only the prologue, chapter 1 and the
+> **This is a beta (v0.9.2).** All of the game's text is in English, but only the prologue, chapter 1 and the
 > first two sections of chapter 2 (through the Nanyang battle) have been played in order. The opening
 > scenes of the later sections, a few later battles and one ending were only checked by jumping to
 > them. Expect some text that is squeezed, cut short or wrapped oddly later on.
